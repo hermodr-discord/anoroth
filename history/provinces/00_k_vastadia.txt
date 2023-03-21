@@ -1,0 +1,150 @@
+##d_gogaku ###################################
+###c_gogaku
+13 = {	# Gogaku
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+500 = {	# Baknesbak
+	holding = none
+}
+
+
+
+##d_hafsos ###################################
+###c_hafsos
+42 = {	# Hofnavolar
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+105 = {	# Karlgaras
+	holding = none
+}
+
+450 = {	# Bosostad
+	holding = none
+}
+
+522 = {	# Bugarholt
+	holding = none
+}
+
+614 = {	# Hafsos
+	holding = none
+}
+
+627 = {	# Haudalur
+	holding = none
+}
+
+
+
+##d_kordavikia ###################################
+###c_kordavikia
+56 = {	# Karlla
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+64 = {	# Bjorvik
+	holding = none
+}
+
+154 = {	# Soroya
+	holding = none
+}
+
+166 = {	# Silmoen
+	holding = none
+}
+
+303 = {	# Vikvik
+	holding = none
+}
+
+
+
+##d_mosfelsia ###################################
+###c_mosfelsia
+70 = {	# Enesvisaf
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+121 = {	# Ogarastad
+	holding = none
+}
+
+501 = {	# Laurey
+	holding = none
+}
+
+
+
+##d_thorstad ###################################
+###c_thorstad
+89 = {	# Presosbak
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+634 = {	# Bostrond
+	holding = none
+}
+
+
+
+##d_baldugia ###################################
+###c_baldugia
+94 = {	# Seldal
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+
+
+##d_mosland ###################################
+###c_mosland
+247 = {	# Straufar
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+626 = {	# Sofjordipo
+	holding = none
+}
+
+
+
+##d_olafsfjord ###################################
+###c_olafsfjord
+315 = {	# Sornestad
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+354 = {	# Olafsfjord
+	holding = none
+}
+
+
+
+##d_sudarkken ###################################
+###c_sudarkken
+453 = {	# Sudarkken
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+
+

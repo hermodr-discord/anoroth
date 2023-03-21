@@ -1,0 +1,482 @@
+##d_feloy ###################################
+###c_feloy
+9 = {	# Feloy
+	culture = Norse
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+27 = {	# Kjelheipo
+	holding = none
+}
+
+462 = {	# Vopeid
+	holding = none
+}
+
+
+
+##d_tjarviria ###################################
+###c_tjarviria
+23 = {	# Bygloy
+	culture = Norse
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+95 = {	# Nonaquen
+	holding = none
+}
+
+226 = {	# Caldlyndor
+	holding = none
+}
+
+465 = {	# Felsalen
+	holding = none
+}
+
+564 = {	# Shaiodolaghe
+	holding = none
+}
+
+643 = {	# Chaghym
+	holding = none
+}
+
+
+
+##d_dineru ###################################
+###c_dineru
+25 = {	# Ginezdus
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+230 = {	# Gavatan
+	holding = none
+}
+
+410 = {	# Brerstoch
+	holding = none
+}
+
+513 = {	# Kinbage
+	holding = none
+}
+
+
+
+##d_raupinland ###################################
+###c_raupinland
+30 = {	# Holundra
+	culture = Norse
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+187 = {	# Krystadre
+	holding = none
+}
+
+399 = {	# Lautarnes
+	holding = none
+}
+
+416 = {	# Kagerdur
+	holding = none
+}
+
+561 = {	# Orsverdal
+	holding = none
+}
+
+616 = {	# Aiz'tar
+	holding = none
+}
+
+
+
+##d_shan ###################################
+###c_shan
+40 = {	# Jhachmyvanen
+	culture = Trow
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+155 = {	# Ulloragh
+	holding = none
+}
+
+530 = {	# Mathindrauth
+	holding = none
+}
+
+
+
+##d_marb ###################################
+###c_marb
+73 = {	# Garatan
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+208 = {	# Rirgarth
+	holding = none
+}
+
+214 = {	# Froth
+	holding = none
+}
+
+485 = {	# Garagzda
+	holding = none
+}
+
+504 = {	# Goshundgor
+	holding = none
+}
+
+553 = {	# Djudarstad
+	holding = none
+}
+
+585 = {	# Norneldung
+	holding = none
+}
+
+
+
+##d_chethlindil ###################################
+###c_chethlindil
+75 = {	# Cyrang
+	culture = Trow
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+375 = {	# Jarkjahver
+	holding = none
+}
+
+391 = {	# Donamor
+	holding = none
+}
+
+405 = {	# Belmethei
+	holding = none
+}
+
+464 = {	# Eloyrika
+	holding = none
+}
+
+546 = {	# Meland
+	holding = none
+}
+
+608 = {	# Szithmorrvhei
+	holding = none
+}
+
+635 = {	# Tydahashafet
+	holding = none
+}
+
+
+
+##d_nurilwed ###################################
+###c_nurilwed
+85 = {	# Narkelba
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+640 = {	# Nurilwed
+	holding = none
+}
+
+
+
+##d_chethmyuethin ###################################
+###c_chethmyuethin
+90 = {	# Mithrogroth
+	culture = Trow
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+302 = {	# Naneazin
+	holding = none
+}
+
+417 = {	# Olarondhemben
+	holding = none
+}
+
+442 = {	# Meriussienlean
+	holding = none
+}
+
+514 = {	# Chethmyuethin
+	holding = none
+}
+
+
+
+##d_tolfod ###################################
+###c_tolfod
+92 = {	# Gahourg
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+390 = {	# Tolfod
+	holding = none
+}
+
+499 = {	# Guddamvat
+	holding = none
+}
+
+529 = {	# Galgrimfa
+	holding = none
+}
+
+
+
+##d_batal ###################################
+###c_batal
+106 = {	# Shuledrol
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+117 = {	# Margatha
+	holding = none
+}
+
+176 = {	# Kharb
+	holding = none
+}
+
+336 = {	# Solka
+	holding = none
+}
+
+446 = {	# Grizengord
+	holding = none
+}
+
+590 = {	# Narkoc
+	holding = none
+}
+
+
+
+##d_rantagere ###################################
+###c_rantagere
+108 = {	# Fyndush
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+165 = {	# Rantagere
+	holding = none
+}
+
+579 = {	# Elveset
+	holding = none
+}
+
+
+
+##d_cloiburthmy ###################################
+###c_cloiburthmy
+114 = {	# O'lakayvarith
+	culture = Trow
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+134 = {	# Monama
+	holding = none
+}
+
+286 = {	# Ven'aloradar
+	holding = none
+}
+
+494 = {	# Chagroth
+	holding = none
+}
+
+644 = {	# Nurrahalad
+	holding = none
+}
+
+
+
+##d_gualkis ###################################
+###c_gualkis
+138 = {	# Shaulmerius
+	culture = Trow
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+209 = {	# Gualkis
+	holding = none
+}
+
+502 = {	# Sirdhell-Nihau
+	holding = none
+}
+
+515 = {	# Chaggarlorkald
+	holding = none
+}
+
+
+
+##d_tolamunz ###################################
+###c_tolamunz
+157 = {	# Nagaldlaug
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+274 = {	# Tolamunz
+	holding = none
+}
+
+353 = {	# Irgath
+	holding = none
+}
+
+
+
+##d_gale ###################################
+###c_gale
+172 = {	# Jarginwyn
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+182 = {	# Shati
+	holding = none
+}
+
+
+
+##d_slehamnia ###################################
+###c_slehamnia
+308 = {	# Sornavet
+	culture = Norse
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+545 = {	# Utstad
+	holding = none
+}
+
+
+
+##d_nunul ###################################
+###c_nunul
+317 = {	# Rurwarga
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+404 = {	# Nunul
+	holding = none
+}
+
+411 = {	# Jaldzig
+	holding = none
+}
+
+541 = {	# Yudgach
+	holding = none
+}
+
+554 = {	# Vartec
+	holding = none
+}
+
+562 = {	# Fyngira
+	holding = none
+}
+
+
+
+##d_noragh ###################################
+###c_noragh
+419 = {	# Noragh
+	culture = Trow
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+
+
+##d_naggarrarondra ###################################
+###c_naggarrarondra
+454 = {	# Naggarrarondra
+	culture = Trow
+	religion = giragzism
+	holding = castle_holding
+}
+
+
+
+##d_sordur ###################################
+###c_sordur
+505 = {	# Lauroyken
+	culture = Norse
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+586 = {	# Eloyda
+	holding = none
+}
+
+641 = {	# Sordur
+	holding = none
+}
+
+
+
+##d_karland ###################################
+###c_karland
+570 = {	# Lonsos
+	culture = Norse
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+
+
+##d_gake ###################################
+###c_gake
+633 = {	# Gultoch
+	culture = Yotunn
+	religion = irgathpantheon
+	holding = castle_holding
+}
+
+
+

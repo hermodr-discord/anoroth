@@ -1,0 +1,105 @@
+k_hrafjoria = {
+	800.1.1={
+		liege=e_hrafjoria
+	}
+}
+d_leikavikia = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_leikavikia = {
+	800.1.1={
+		liege=d_leikavikia
+	}
+}
+d_buzanbaram = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_buzanbaram = {
+	800.1.1={
+		liege=d_buzanbaram
+	}
+}
+d_hvamia = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_hvamia = {
+	800.1.1={
+		liege=d_hvamia
+	}
+}
+d_helsoyria = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_helsoyria = {
+	800.1.1={
+		liege=d_helsoyria
+	}
+}
+d_adum = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_adum = {
+	800.1.1={
+		liege=d_adum
+	}
+}
+d_uktharb = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_uktharb = {
+	800.1.1={
+		liege=d_uktharb
+	}
+}
+d_shunzadzir = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_shunzadzir = {
+	800.1.1={
+		liege=d_shunzadzir
+	}
+}
+d_stamstia = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_stamstia = {
+	800.1.1={
+		liege=d_stamstia
+	}
+}
+d_fjelmia = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_fjelmia = {
+	800.1.1={
+		liege=d_fjelmia
+	}
+}
+d_nulbabar = {
+	800.1.1={
+		liege=k_hrafjoria
+	}
+}
+c_nulbabar = {
+	800.1.1={
+		liege=d_nulbabar
+	}
+}

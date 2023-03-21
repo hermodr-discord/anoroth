@@ -1,0 +1,112 @@
+##d_chiching ###################################
+###c_chiching
+1 = {	# Chiching
+	culture = Mercian
+	religion = giragzism
+	holding = castle_holding
+}
+
+160 = {	# Quatbuton
+	holding = none
+}
+
+334 = {	# Sidmin
+	holding = none
+}
+
+
+
+##d_redcham ###################################
+###c_redcham
+20 = {	# Tutham
+	culture = Mercian
+	religion = giragzism
+	holding = castle_holding
+}
+
+
+
+##d_birne ###################################
+###c_birne
+22 = {	# Presham
+	culture = Mercian
+	religion = giragzism
+	holding = castle_holding
+}
+
+174 = {	# Sealeton
+	holding = none
+}
+
+179 = {	# Rockingham
+	holding = none
+}
+
+191 = {	# Thaxning
+	holding = none
+}
+
+227 = {	# Bertony
+	holding = none
+}
+
+378 = {	# Grantfordcester
+	holding = none
+}
+
+393 = {	# Knazion
+	holding = none
+}
+
+491 = {	# Frampleton
+	holding = none
+}
+
+492 = {	# Saltondover
+	holding = none
+}
+
+
+
+##d_caling ###################################
+###c_caling
+33 = {	# Cambrid
+	culture = Nortumbic
+	religion = giragzism
+	holding = castle_holding
+}
+
+170 = {	# Brambe
+	holding = none
+}
+
+350 = {	# Caling
+	holding = none
+}
+
+
+
+##d_presmouthia ###################################
+###c_presmouthia
+216 = {	# Hertleley
+	culture = Mercian
+	religion = giragzism
+	holding = castle_holding
+}
+
+270 = {	# Cantefract
+	holding = none
+}
+
+
+
+##d_kilkley ###################################
+###c_kilkley
+573 = {	# Kilkley
+	culture = Nortumbic
+	religion = giragzism
+	holding = castle_holding
+}
+
+
+

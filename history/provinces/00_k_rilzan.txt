@@ -1,0 +1,58 @@
+##d_mazuri ###################################
+###c_mazuri
+11 = {	# Rilzan
+	culture = Aj'Snaga
+	religion = bracquaniancoven
+	holding = castle_holding
+}
+
+211 = {	# Carleigh
+	holding = none
+}
+
+440 = {	# Paz'jan
+	holding = none
+}
+
+519 = {	# Kraj'kinta
+	holding = none
+}
+
+604 = {	# Srash
+	holding = none
+}
+
+
+
+##d_ithhanek ###################################
+###c_ithhanek
+220 = {	# Ith'hanek
+	culture = Aj'Snaga
+	religion = halisdonism
+	holding = castle_holding
+}
+
+305 = {	# Rrazrash
+	holding = none
+}
+
+
+
+##d_wickburgh ###################################
+###c_wickburgh
+311 = {	# Birham
+	culture = Westen
+	religion = halisdonism
+	holding = castle_holding
+}
+
+327 = {	# Wickburgh
+	holding = none
+}
+
+392 = {	# Watham
+	holding = none
+}
+
+
+

@@ -1,0 +1,24 @@
+Uruk = {
+        color = { 0.18 0.75 0.01 }
+        ethos = ethos_stoic
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_male_only
+        traditions = {
+            tradition_faith_bound
+            tradition_warrior_monks
+            tradition_polygamous
+            tradition_mystical_ancestors
+        }
+        name_list = name_list_kru
+        coa_gfx = {english_coa_gfx}
+        building_gfx = {iberian_building_gfx}
+        clothing_gfx = {byzantine_clothing_gfx}
+        unit_gfx = {norse_unit_gfx}
+        ethnicities = {
+            10 = asian
+            10 = arab
+            
+
+        }
+    }

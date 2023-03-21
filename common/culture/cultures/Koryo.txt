@@ -1,0 +1,24 @@
+Koryo = {
+        color = { 0.26 0.87 0.76 }
+        ethos = ethos_bureaucratic
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_male_only
+        traditions = {
+            tradition_sacred_mountains
+            tradition_highland_warriors
+            tradition_welcoming
+            tradition_hereditary_hierarchy
+        }
+        name_list = name_list_french
+        coa_gfx = {arabic_group_coa_gfx}
+        building_gfx = {berber_group_building_gfx}
+        clothing_gfx = {dde_abbasid_clothing_gfx}
+        unit_gfx = {mena_unit_gfx}
+        ethnicities = {
+            10 = mediterranean
+            10 = byzantine
+            
+
+        }
+    }

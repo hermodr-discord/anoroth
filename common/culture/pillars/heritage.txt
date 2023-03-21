@@ -1,0 +1,51 @@
+heritage_Durinn = {
+	type = heritage
+}
+heritage_Kobblin = {
+	type = heritage
+}
+heritage_Trow = {
+	type = heritage
+}
+heritage_Drake = {
+	type = heritage
+}
+heritage_Aj'Snaga = {
+	type = heritage
+}
+heritage_Mercian = {
+	type = heritage
+}
+heritage_Norse = {
+	type = heritage
+}
+heritage_Nortumbic = {
+	type = heritage
+}
+heritage_Kentian = {
+	type = heritage
+}
+heritage_Uruk = {
+	type = heritage
+}
+heritage_Yotunn = {
+	type = heritage
+}
+heritage_Hetallian = {
+	type = heritage
+}
+heritage_Yoruba = {
+	type = heritage
+}
+heritage_Koryo = {
+	type = heritage
+}
+heritage_Angshire = {
+	type = heritage
+}
+heritage_Rakhnid = {
+	type = heritage
+}
+heritage_Westen = {
+	type = heritage
+}

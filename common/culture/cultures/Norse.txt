@@ -1,0 +1,24 @@
+Norse = {
+        color = { 0.53 0.02 0.30 }
+        ethos = ethos_communal
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_male_only
+        traditions = {
+            tradition_legalistic
+            tradition_concubines
+            tradition_parochialism
+            tradition_longbow_competitions
+        }
+        name_list = name_list_french
+        coa_gfx = {english_coa_gfx}
+        building_gfx = {western_building_gfx}
+        clothing_gfx = {mongol_clothing_gfx}
+        unit_gfx = {indian_unit_gfx}
+        ethnicities = {
+            10 = south_indian
+            10 = arab
+            
+
+        }
+    }

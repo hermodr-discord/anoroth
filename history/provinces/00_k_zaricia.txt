@@ -1,0 +1,36 @@
+##d_conti ###################################
+###c_conti
+19 = {	# Rocanoli
+	culture = Hetallian
+	religion = dinelizdusism
+	holding = castle_holding
+}
+
+148 = {	# Rivignanone
+	holding = none
+}
+
+307 = {	# Giumola
+	holding = none
+}
+
+
+
+##d_srokzar ###################################
+###c_srokzar
+439 = {	# Cherkangi
+	culture = Yotunn
+	religion = dinelizdusism
+	holding = castle_holding
+}
+
+527 = {	# Antrellebuo
+	holding = none
+}
+
+528 = {	# Srokzar
+	holding = none
+}
+
+
+

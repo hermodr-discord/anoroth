@@ -1,0 +1,135 @@
+k_dulduch = {
+	800.1.1={
+		liege=e_dulduch
+	}
+}
+d_nunar = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_nunar = {
+	800.1.1={
+		liege=d_nunar
+	}
+}
+d_harthug = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_harthug = {
+	800.1.1={
+		liege=d_harthug
+	}
+}
+d_ibage = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_ibage = {
+	800.1.1={
+		liege=d_ibage
+	}
+}
+d_morndush = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_morndush = {
+	800.1.1={
+		liege=d_morndush
+	}
+}
+d_vylbaram = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_vylbaram = {
+	800.1.1={
+		liege=d_vylbaram
+	}
+}
+d_zugke = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_zugke = {
+	800.1.1={
+		liege=d_zugke
+	}
+}
+d_sharag = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_sharag = {
+	800.1.1={
+		liege=d_sharag
+	}
+}
+d_nozigka = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_nozigka = {
+	800.1.1={
+		liege=d_nozigka
+	}
+}
+d_nulukk = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_nulukk = {
+	800.1.1={
+		liege=d_nulukk
+	}
+}
+d_gurkan = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_gurkan = {
+	800.1.1={
+		liege=d_gurkan
+	}
+}
+d_varbilncastle = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_varbilncastle = {
+	800.1.1={
+		liege=d_varbilncastle
+	}
+}
+d_izen = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_izen = {
+	800.1.1={
+		liege=d_izen
+	}
+}
+d_borg = {
+	800.1.1={
+		liege=k_dulduch
+	}
+}
+c_borg = {
+	800.1.1={
+		liege=d_borg
+	}
+}

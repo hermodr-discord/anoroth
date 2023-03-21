@@ -1,0 +1,78 @@
+##d_sandre ###################################
+###c_sandre
+4 = {	# Sandre
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+159 = {	# Narith
+	holding = none
+}
+
+225 = {	# Orardurdi
+	holding = none
+}
+
+
+
+##d_vopenia ###################################
+###c_vopenia
+140 = {	# Valdurey
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+316 = {	# Bolkeskar
+	holding = none
+}
+
+433 = {	# Odoresmar
+	holding = none
+}
+
+601 = {	# Higdaklaus
+	holding = none
+}
+
+
+
+##d_laudia ###################################
+###c_laudia
+167 = {	# Bifrostbo
+	culture = Norse
+	religion = giragzism
+	holding = castle_holding
+}
+
+177 = {	# Grimseynes
+	holding = none
+}
+
+197 = {	# Raugarasvi
+	holding = none
+}
+
+294 = {	# Salmoen
+	holding = none
+}
+
+357 = {	# Osendurdi
+	holding = none
+}
+
+609 = {	# Sosengi
+	holding = none
+}
+
+610 = {	# Karlkesan
+	holding = none
+}
+
+642 = {	# Beisfjord
+	holding = none
+}
+
+
+

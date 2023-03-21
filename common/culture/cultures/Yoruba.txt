@@ -1,0 +1,24 @@
+Yoruba = {
+        color = { 0.85 0.54 0.78 }
+        ethos = ethos_spiritual
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_female_only
+        traditions = {
+            tradition_battlefield_looters
+            tradition_stalwart_defenders
+            tradition_ancient_miners
+            tradition_runestones
+        }
+        name_list = name_list_french
+        coa_gfx = {english_coa_gfx}
+        building_gfx = {iberian_building_gfx}
+        clothing_gfx = {indian_clothing_gfx}
+        unit_gfx = {indian_unit_gfx}
+        ethnicities = {
+            10 = slavic
+            10 = asian
+            
+
+        }
+    }

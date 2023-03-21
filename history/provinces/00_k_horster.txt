@@ -1,0 +1,76 @@
+##d_galia ###################################
+###c_galia
+15 = {	# Skiple
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+57 = {	# Buckingford
+	holding = none
+}
+
+400 = {	# Hatherster
+	holding = none
+}
+
+488 = {	# Pilingham
+	holding = none
+}
+
+489 = {	# Holbowey
+	holding = none
+}
+
+
+
+##d_wigham ###################################
+###c_wigham
+83 = {	# Shifracton
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+260 = {	# Wigham
+	holding = none
+}
+
+651 = {	# Gramberham
+	holding = none
+}
+
+
+
+##d_holing ###################################
+###c_holing
+135 = {	# Dunsterlis
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+142 = {	# Holing
+	holding = none
+}
+
+255 = {	# Skipseave
+	holding = none
+}
+
+531 = {	# Gathomer
+	holding = none
+}
+
+
+
+##d_bodbutonor ###################################
+###c_bodbutonor
+168 = {	# Bodbutonor
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+
+

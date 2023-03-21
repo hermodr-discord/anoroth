@@ -1,0 +1,24 @@
+Durinn = {
+        color = { 0.80 0.36 0.48 }
+        ethos = ethos_courtly
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_female_only
+        traditions = {
+            tradition_sorcerous_metallurgy
+            tradition_horse_breeder
+            tradition_fishermen
+            tradition_monogamous
+        }
+        name_list = name_list_prussian
+        coa_gfx = {arabic_group_coa_gfx}
+        building_gfx = {iberian_building_gfx}
+        clothing_gfx = {indian_clothing_gfx}
+        unit_gfx = {mongol_unit_gfx}
+        ethnicities = {
+            10 = caucasian
+            10 = african
+            
+
+        }
+    }

@@ -1,0 +1,57 @@
+﻿westenspirits_religion = {
+	family = rf_westenspirits
+	doctrine = abrahamic_hostility_doctrine
+	pagan_roots = no
+
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_all
+	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_accepted
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_spiritual_appointment
+
+	traits = {
+		virtues ={brave just compassionate}
+		sins ={	craven arbitrary callous}
+	}
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8
+	}
+	holy_order_names = {}
+
+	faiths = {
+		westenspirits = {
+
+		color = { 0.74 0.50 0.45 }
+
+		icon = celtic_04
+
+		doctrine = tenet_hedonistic
+
+		doctrine = tenet_literalism
+
+		doctrine = tenet_reincarnation
+		}
+
+		halisdonism = { 
+		color = { 0.96 0.70 0.46 }
+		icon = celtic_03
+		doctrine = tenet_aniconism
+		doctrine = tenet_communal_identity
+		doctrine = tenet_ritual_celebrations
+		}
+}
+ 
+}

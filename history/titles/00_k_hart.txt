@@ -1,0 +1,95 @@
+k_hart = {
+	800.1.1={
+		liege=e_hart
+	}
+}
+d_hart = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_hart = {
+	800.1.1={
+		liege=d_hart
+	}
+}
+d_cher = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_cher = {
+	800.1.1={
+		liege=d_cher
+	}
+}
+d_bahourgka = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_bahourgka = {
+	800.1.1={
+		liege=d_bahourgka
+	}
+}
+d_new_cher = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_new_cher = {
+	800.1.1={
+		liege=d_new_cher
+	}
+}
+d_bagunul = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_bagunul = {
+	800.1.1={
+		liege=d_bagunul
+	}
+}
+d_sgandzig = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_sgandzig = {
+	800.1.1={
+		liege=d_sgandzig
+	}
+}
+d_untazin = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_untazin = {
+	800.1.1={
+		liege=d_untazin
+	}
+}
+d_glumrol = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_glumrol = {
+	800.1.1={
+		liege=d_glumrol
+	}
+}
+d_ushund = {
+	800.1.1={
+		liege=k_hart
+	}
+}
+c_ushund = {
+	800.1.1={
+		liege=d_ushund
+	}
+}

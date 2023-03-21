@@ -1,0 +1,35 @@
+k_rilzan = {
+	800.1.1={
+		liege=e_rilzan
+	}
+}
+d_mazuri = {
+	800.1.1={
+		liege=k_rilzan
+	}
+}
+c_mazuri = {
+	800.1.1={
+		liege=d_mazuri
+	}
+}
+d_ithhanek = {
+	800.1.1={
+		liege=k_rilzan
+	}
+}
+c_ithhanek = {
+	800.1.1={
+		liege=d_ithhanek
+	}
+}
+d_wickburgh = {
+	800.1.1={
+		liege=k_rilzan
+	}
+}
+c_wickburgh = {
+	800.1.1={
+		liege=d_wickburgh
+	}
+}

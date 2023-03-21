@@ -1,0 +1,175 @@
+k_baland = {
+	800.1.1={
+		liege=e_baland
+	}
+}
+d_merbotia = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_merbotia = {
+	800.1.1={
+		liege=d_merbotia
+	}
+}
+d_atescom = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_atescom = {
+	800.1.1={
+		liege=d_atescom
+	}
+}
+d_comyard = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_comyard = {
+	800.1.1={
+		liege=d_comyard
+	}
+}
+d_thaxtedge = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_thaxtedge = {
+	800.1.1={
+		liege=d_thaxtedge
+	}
+}
+d_duns = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_duns = {
+	800.1.1={
+		liege=d_duns
+	}
+}
+d_redcking = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_redcking = {
+	800.1.1={
+		liege=d_redcking
+	}
+}
+d_watesia = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_watesia = {
+	800.1.1={
+		liege=d_watesia
+	}
+}
+d_cleovilia = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_cleovilia = {
+	800.1.1={
+		liege=d_cleovilia
+	}
+}
+d_garester = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_garester = {
+	800.1.1={
+		liege=d_garester
+	}
+}
+d_feningthe = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_feningthe = {
+	800.1.1={
+		liege=d_feningthe
+	}
+}
+d_laundalia = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_laundalia = {
+	800.1.1={
+		liege=d_laundalia
+	}
+}
+d_searalisham = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_searalisham = {
+	800.1.1={
+		liege=d_searalisham
+	}
+}
+d_manch = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_manch = {
+	800.1.1={
+		liege=d_manch
+	}
+}
+d_thatcking = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_thatcking = {
+	800.1.1={
+		liege=d_thatcking
+	}
+}
+d_harwickham = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_harwickham = {
+	800.1.1={
+		liege=d_harwickham
+	}
+}
+d_saforland = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_saforland = {
+	800.1.1={
+		liege=d_saforland
+	}
+}
+d_aleby = {
+	800.1.1={
+		liege=k_baland
+	}
+}
+c_aleby = {
+	800.1.1={
+		liege=d_aleby
+	}
+}

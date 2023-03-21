@@ -1,0 +1,24 @@
+Westen = {
+        color = { 0.83 0.57 0.71 }
+        ethos = ethos_bureaucratic
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_female_only
+        traditions = {
+            tradition_forbearing
+            tradition_pastoralists
+            tradition_talent_acquisition
+            tradition_welcoming
+        }
+        name_list = name_list_occitan
+        coa_gfx = {arabic_group_coa_gfx}
+        building_gfx = {arabic_group_building_gfx}
+        clothing_gfx = {indian_clothing_gfx}
+        unit_gfx = {mongol_unit_gfx}
+        ethnicities = {
+            10 = caucasian_blond
+            10 = asian
+            
+
+        }
+    }

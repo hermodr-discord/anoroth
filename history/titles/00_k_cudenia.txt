@@ -1,0 +1,135 @@
+k_cudenia = {
+	800.1.1={
+		liege=e_cudenia
+	}
+}
+d_towbigmo = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_towbigmo = {
+	800.1.1={
+		liege=d_towbigmo
+	}
+}
+d_horstonsey = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_horstonsey = {
+	800.1.1={
+		liege=d_horstonsey
+	}
+}
+d_stansdon = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_stansdon = {
+	800.1.1={
+		liege=d_stansdon
+	}
+}
+d_mamerstoney = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_mamerstoney = {
+	800.1.1={
+		liege=d_mamerstoney
+	}
+}
+d_perster = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_perster = {
+	800.1.1={
+		liege=d_perster
+	}
+}
+d_padstab = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_padstab = {
+	800.1.1={
+		liege=d_padstab
+	}
+}
+d_zad = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_zad = {
+	800.1.1={
+		liege=d_zad
+	}
+}
+d_rothetford = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_rothetford = {
+	800.1.1={
+		liege=d_rothetford
+	}
+}
+d_galargizin = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_galargizin = {
+	800.1.1={
+		liege=d_galargizin
+	}
+}
+d_axblevenia = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_axblevenia = {
+	800.1.1={
+		liege=d_axblevenia
+	}
+}
+d_aptonland = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_aptonland = {
+	800.1.1={
+		liege=d_aptonland
+	}
+}
+d_pichamia = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_pichamia = {
+	800.1.1={
+		liege=d_pichamia
+	}
+}
+d_hatford = {
+	800.1.1={
+		liege=k_cudenia
+	}
+}
+c_hatford = {
+	800.1.1={
+		liege=d_hatford
+	}
+}

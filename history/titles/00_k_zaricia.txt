@@ -1,0 +1,25 @@
+k_zaricia = {
+	800.1.1={
+		liege=e_zaricia
+	}
+}
+d_conti = {
+	800.1.1={
+		liege=k_zaricia
+	}
+}
+c_conti = {
+	800.1.1={
+		liege=d_conti
+	}
+}
+d_srokzar = {
+	800.1.1={
+		liege=k_zaricia
+	}
+}
+c_srokzar = {
+	800.1.1={
+		liege=d_srokzar
+	}
+}

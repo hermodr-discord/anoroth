@@ -1,0 +1,65 @@
+k_haria = {
+	800.1.1={
+		liege=e_haria
+	}
+}
+d_chiching = {
+	800.1.1={
+		liege=k_haria
+	}
+}
+c_chiching = {
+	800.1.1={
+		liege=d_chiching
+	}
+}
+d_redcham = {
+	800.1.1={
+		liege=k_haria
+	}
+}
+c_redcham = {
+	800.1.1={
+		liege=d_redcham
+	}
+}
+d_birne = {
+	800.1.1={
+		liege=k_haria
+	}
+}
+c_birne = {
+	800.1.1={
+		liege=d_birne
+	}
+}
+d_caling = {
+	800.1.1={
+		liege=k_haria
+	}
+}
+c_caling = {
+	800.1.1={
+		liege=d_caling
+	}
+}
+d_presmouthia = {
+	800.1.1={
+		liege=k_haria
+	}
+}
+c_presmouthia = {
+	800.1.1={
+		liege=d_presmouthia
+	}
+}
+d_kilkley = {
+	800.1.1={
+		liege=k_haria
+	}
+}
+c_kilkley = {
+	800.1.1={
+		liege=d_kilkley
+	}
+}

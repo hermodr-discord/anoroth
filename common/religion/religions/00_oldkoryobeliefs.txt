@@ -1,0 +1,57 @@
+﻿oldkoryobeliefs_religion = {
+	family = rf_oldkoryobeliefs
+	doctrine = pagan_hostility_doctrine
+	pagan_roots = no
+
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_fundamentalist
+	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_disallowed
+	doctrine = doctrine_bastardry_all
+	doctrine = doctrine_consanguinity_unrestricted
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_accepted
+	doctrine = doctrine_adultery_women_accepted
+	doctrine = doctrine_kinslaying_shunned
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_accepted
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_disallowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+
+	traits = {
+		virtues ={brave just compassionate}
+		sins ={	craven arbitrary callous}
+	}
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8
+	}
+	holy_order_names = {}
+
+	faiths = {
+		oldkoryobeliefs = {
+
+		color = { 0.14 0.55 0.22 }
+
+		icon = viking_03
+
+		doctrine = tenet_tax_nonbelievers
+
+		doctrine = tenet_ritual_cannibalism
+
+		doctrine = tenet_sacred_shadows
+		}
+
+		koryochurch = { 
+		color = { 0.13 0.97 0.26 }
+		icon = viking_02
+		doctrine = tenet_sun_worship
+		doctrine = tenet_sacred_childbirth
+		doctrine = tenet_monasticism
+		}
+}
+ 
+}

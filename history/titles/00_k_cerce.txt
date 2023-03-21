@@ -1,0 +1,55 @@
+k_cerce = {
+	800.1.1={
+		liege=e_cerce
+	}
+}
+d_cerce = {
+	800.1.1={
+		liege=k_cerce
+	}
+}
+c_cerce = {
+	800.1.1={
+		liege=d_cerce
+	}
+}
+d_belenia = {
+	800.1.1={
+		liege=k_cerce
+	}
+}
+c_belenia = {
+	800.1.1={
+		liege=d_belenia
+	}
+}
+d_pozaglia = {
+	800.1.1={
+		liege=k_cerce
+	}
+}
+c_pozaglia = {
+	800.1.1={
+		liege=d_pozaglia
+	}
+}
+d_tusano = {
+	800.1.1={
+		liege=k_cerce
+	}
+}
+c_tusano = {
+	800.1.1={
+		liege=d_tusano
+	}
+}
+d_sergabicia = {
+	800.1.1={
+		liege=k_cerce
+	}
+}
+c_sergabicia = {
+	800.1.1={
+		liege=d_sergabicia
+	}
+}

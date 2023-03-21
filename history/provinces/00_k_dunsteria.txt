@@ -1,0 +1,248 @@
+##d_berton ###################################
+###c_berton
+10 = {	# Berton
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+638 = {	# Grantfordy
+	holding = none
+}
+
+
+
+##d_tetfordia ###################################
+###c_tetfordia
+31 = {	# Birling
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+37 = {	# Knabingford
+	holding = none
+}
+
+213 = {	# Letonzan
+	holding = none
+}
+
+331 = {	# Modbury
+	holding = none
+}
+
+
+
+##d_axbridle ###################################
+###c_axbridle
+67 = {	# Mitbury
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+80 = {	# Botfordbu
+	holding = none
+}
+
+204 = {	# Barley
+	holding = none
+}
+
+288 = {	# Baraton
+	holding = none
+}
+
+312 = {	# Louthbury
+	holding = none
+}
+
+394 = {	# Osbury
+	holding = none
+}
+
+581 = {	# Witford
+	holding = none
+}
+
+593 = {	# Helsfordbu
+	holding = none
+}
+
+602 = {	# Tetfordtoft
+	holding = none
+}
+
+
+
+##d_brampingia ###################################
+###c_brampingia
+93 = {	# Wicksey
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+340 = {	# Thatckingleigh
+	holding = none
+}
+
+
+
+##d_dunscom ###################################
+###c_dunscom
+124 = {	# Chisted
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+146 = {	# Dunscom
+	holding = none
+}
+
+238 = {	# Portsted
+	holding = none
+}
+
+436 = {	# Chawcester
+	holding = none
+}
+
+
+
+##d_towbury ###################################
+###c_towbury
+173 = {	# Ashtonbury
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+256 = {	# Modmoutham
+	holding = none
+}
+
+318 = {	# Wargrasal
+	holding = none
+}
+
+555 = {	# Towbury
+	holding = none
+}
+
+
+
+##d_oldontaren ###################################
+###c_oldontaren
+198 = {	# Oldontaren
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+
+
+##d_mackedi ###################################
+###c_mackedi
+215 = {	# Mackedi
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+516 = {	# Chiptonton
+	holding = none
+}
+
+
+
+##d_pilcescom ###################################
+###c_pilcescom
+239 = {	# Boslenil
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+
+
+##d_merton ###################################
+###c_merton
+263 = {	# Merton
+	culture = Westen
+	religion = halisdonism
+	holding = castle_holding
+}
+
+295 = {	# Caustonton
+	holding = none
+}
+
+385 = {	# Chawbury
+	holding = none
+}
+
+
+
+##d_ashton ###################################
+###c_ashton
+358 = {	# Ashtoncastle
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+
+
+##d_bridfordia ###################################
+###c_bridfordia
+407 = {	# Thethambere
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+603 = {	# Cudbury
+	holding = none
+}
+
+
+
+##d_cockingin ###################################
+###c_cockingin
+409 = {	# Hatlewesdon
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+460 = {	# Grantleso
+	holding = none
+}
+
+509 = {	# Chisterton
+	holding = none
+}
+
+548 = {	# Cockingin
+	holding = none
+}
+
+631 = {	# Redckerton
+	holding = none
+}
+
+
+
+##d_chichwelia ###################################
+###c_chichwelia
+467 = {	# Castrinchel
+	culture = Nortumbic
+	religion = halisdonism
+	holding = castle_holding
+}
+
+
+

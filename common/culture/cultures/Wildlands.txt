@@ -1,0 +1,24 @@
+Wildlands = {
+        color = { 0.17 0.58 0.55 }
+        ethos = ethos_bureaucratic
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_male_only
+        traditions = {
+            tradition_warriors_of_the_dry
+            tradition_maritime_mercantilism
+            tradition_life_is_just_a_joke
+            tradition_culture_blending
+        }
+        name_list = name_list_bedouin
+        coa_gfx = {west_african_group_coa_gfx}
+        building_gfx = {indian_building_gfx}
+        clothing_gfx = {mena_clothing_gfx}
+        unit_gfx = {norse_unit_gfx}
+        ethnicities = {
+            10 = circumpolar
+            10 = asian
+            
+
+        }
+    }

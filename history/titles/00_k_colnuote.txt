@@ -1,0 +1,175 @@
+k_colnuote = {
+	800.1.1={
+		liege=e_colnuote
+	}
+}
+d_tativignia = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_tativignia = {
+	800.1.1={
+		liege=d_tativignia
+	}
+}
+d_rontefia = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_rontefia = {
+	800.1.1={
+		liege=d_rontefia
+	}
+}
+d_andenticia = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_andenticia = {
+	800.1.1={
+		liege=d_andenticia
+	}
+}
+d_ponguilci = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_ponguilci = {
+	800.1.1={
+		liege=d_ponguilci
+	}
+}
+d_brocano = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_brocano = {
+	800.1.1={
+		liege=d_brocano
+	}
+}
+d_vale = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_vale = {
+	800.1.1={
+		liege=d_vale
+	}
+}
+d_pignivodo = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_pignivodo = {
+	800.1.1={
+		liege=d_pignivodo
+	}
+}
+d_colnuo = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_colnuo = {
+	800.1.1={
+		liege=d_colnuo
+	}
+}
+d_torga = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_torga = {
+	800.1.1={
+		liege=d_torga
+	}
+}
+d_bolacoli = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_bolacoli = {
+	800.1.1={
+		liege=d_bolacoli
+	}
+}
+d_albronland = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_albronland = {
+	800.1.1={
+		liege=d_albronland
+	}
+}
+d_monticitermo = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_monticitermo = {
+	800.1.1={
+		liege=d_monticitermo
+	}
+}
+d_finoneno = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_finoneno = {
+	800.1.1={
+		liege=d_finoneno
+	}
+}
+d_campinistel = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_campinistel = {
+	800.1.1={
+		liege=d_campinistel
+	}
+}
+d_livignatata = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_livignatata = {
+	800.1.1={
+		liege=d_livignatata
+	}
+}
+d_esananori = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_esananori = {
+	800.1.1={
+		liege=d_esananori
+	}
+}
+d_valmonte = {
+	800.1.1={
+		liege=k_colnuote
+	}
+}
+c_valmonte = {
+	800.1.1={
+		liege=d_valmonte
+	}
+}

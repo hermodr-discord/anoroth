@@ -1,0 +1,85 @@
+k_brildung = {
+	800.1.1={
+		liege=e_brildung
+	}
+}
+d_shava = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_shava = {
+	800.1.1={
+		liege=d_shava
+	}
+}
+d_kharb = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_kharb = {
+	800.1.1={
+		liege=d_kharb
+	}
+}
+d_drard = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_drard = {
+	800.1.1={
+		liege=d_drard
+	}
+}
+d_brotale = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_brotale = {
+	800.1.1={
+		liege=d_brotale
+	}
+}
+d_kilazargun = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_kilazargun = {
+	800.1.1={
+		liege=d_kilazargun
+	}
+}
+d_vald = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_vald = {
+	800.1.1={
+		liege=d_vald
+	}
+}
+d_jorn = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_jorn = {
+	800.1.1={
+		liege=d_jorn
+	}
+}
+d_shiz = {
+	800.1.1={
+		liege=k_brildung
+	}
+}
+c_shiz = {
+	800.1.1={
+		liege=d_shiz
+	}
+}

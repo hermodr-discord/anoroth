@@ -1,0 +1,195 @@
+k_chirwon = {
+	800.1.1={
+		liege=e_chirwon
+	}
+}
+d_suncguk = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_suncguk = {
+	800.1.1={
+		liege=d_suncguk
+	}
+}
+d_soroughia = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_soroughia = {
+	800.1.1={
+		liege=d_soroughia
+	}
+}
+d_chuncheon = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_chuncheon = {
+	800.1.1={
+		liege=d_chuncheon
+	}
+}
+d_chuncheonguk = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_chuncheonguk = {
+	800.1.1={
+		liege=d_chuncheonguk
+	}
+}
+d_jeongyanguk = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_jeongyanguk = {
+	800.1.1={
+		liege=d_jeongyanguk
+	}
+}
+d_bilazizin = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_bilazizin = {
+	800.1.1={
+		liege=d_bilazizin
+	}
+}
+d_new_berwick = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_new_berwick = {
+	800.1.1={
+		liege=d_new_berwick
+	}
+}
+d_dudlinglia = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_dudlinglia = {
+	800.1.1={
+		liege=d_dudlinglia
+	}
+}
+d_berwick = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_berwick = {
+	800.1.1={
+		liege=d_berwick
+	}
+}
+d_yeong = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_yeong = {
+	800.1.1={
+		liege=d_yeong
+	}
+}
+d_stansin = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_stansin = {
+	800.1.1={
+		liege=d_stansin
+	}
+}
+d_jincheonguk = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_jincheonguk = {
+	800.1.1={
+		liege=d_jincheonguk
+	}
+}
+d_yeongjuri = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_yeongjuri = {
+	800.1.1={
+		liege=d_yeongjuri
+	}
+}
+d_pyeondong = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_pyeondong = {
+	800.1.1={
+		liege=d_pyeondong
+	}
+}
+d_binargil = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_binargil = {
+	800.1.1={
+		liege=d_binargil
+	}
+}
+d_nar = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_nar = {
+	800.1.1={
+		liege=d_nar
+	}
+}
+d_hertley = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_hertley = {
+	800.1.1={
+		liege=d_hertley
+	}
+}
+d_yeonsan = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_yeonsan = {
+	800.1.1={
+		liege=d_yeonsan
+	}
+}
+d_ateshowenia = {
+	800.1.1={
+		liege=k_chirwon
+	}
+}
+c_ateshowenia = {
+	800.1.1={
+		liege=d_ateshowenia
+	}
+}

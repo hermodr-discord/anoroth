@@ -1,0 +1,3469 @@
+﻿##################
+# TABLE OF CONTENT
+# ****************
+# NORMAL PROVINCES
+# SEA ZONES
+# MAJOR RIVERS
+# LAKES
+# IMPASSABLE TERRAIN
+# WASTELAND
+# IMPASSABLE SEA ZONES
+# UNUSED PROVINCES
+# ****************
+# Normal provinces arranged based on landed_titles
+# Ctrl+F to jump to appropriate sections
+# Seas & rivers should stay at 0.0 severity bias
+# Unused provs are provs not set in the game yet, so 0.0
+# Unused provs based on data in mapdata\default.map
+# Some provinces use override modifiers, which makes them use the override values instead of default WINTER_EFFECTS_FACTOR_XXX as set in 00_defines.txt
+# These are:
+# mild_winter_factor_override
+# normal_winter_factor_override
+# harsh_winter_factor_override
+##################
+
+##################
+# NORMAL PROVINCES
+##################
+
+##### e_haria
+#### k_haria
+### d_chiching
+## c_chiching
+# b_chiching
+1 = {
+	winter_severity_bias = 0.45
+}
+# b_quatbuton
+160 = {
+	winter_severity_bias = 0.45
+}
+# b_sidmin
+334 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_redcham
+## c_redcham
+# b_tutham
+20 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_birne
+## c_birne
+# b_presham
+22 = {
+	winter_severity_bias = 0.45
+}
+# b_sealeton
+174 = {
+	winter_severity_bias = 0.45
+}
+# b_rockingham
+179 = {
+	winter_severity_bias = 0.45
+}
+# b_thaxning
+191 = {
+	winter_severity_bias = 0.45
+}
+# b_bertony
+227 = {
+	winter_severity_bias = 0.45
+}
+# b_grantfordcester
+378 = {
+	winter_severity_bias = 0.45
+}
+# b_knazion
+393 = {
+	winter_severity_bias = 0.45
+}
+# b_frampleton
+491 = {
+	winter_severity_bias = 0.45
+}
+# b_saltondover
+492 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_caling
+## c_caling
+# b_cambrid
+33 = {
+	winter_severity_bias = 0.45
+}
+# b_brambe
+170 = {
+	winter_severity_bias = 0.45
+}
+# b_caling
+350 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_presmouthia
+## c_presmouthia
+# b_hertleley
+216 = {
+	winter_severity_bias = 0.45
+}
+# b_cantefract
+270 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_kilkley
+## c_kilkley
+# b_kilkley
+573 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_colnuote
+#### k_colnuote
+### d_tativignia
+## c_tativignia
+# b_tusca
+2 = {
+	winter_severity_bias = 0.45
+}
+# b_aucinio
+44 = {
+	winter_severity_bias = 0.45
+}
+# b_bracquano
+45 = {
+	winter_severity_bias = 0.45
+}
+# b_bellenonesta
+125 = {
+	winter_severity_bias = 0.45
+}
+# b_caprici
+252 = {
+	winter_severity_bias = 0.45
+}
+# b_castrocester
+261 = {
+	winter_severity_bias = 0.45
+}
+# b_visovonero
+323 = {
+	winter_severity_bias = 0.45
+}
+# b_torracino
+381 = {
+	winter_severity_bias = 0.45
+}
+# b_conti
+437 = {
+	winter_severity_bias = 0.45
+}
+# b_cerbogliara
+525 = {
+	winter_severity_bias = 0.45
+}
+# b_roccalialom
+647 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_rontefia
+## c_rontefia
+# b_rigno
+36 = {
+	winter_severity_bias = 0.45
+}
+# b_aucaranicig
+328 = {
+	winter_severity_bias = 0.45
+}
+# b_callegi
+386 = {
+	winter_severity_bias = 0.45
+}
+# b_serbo
+520 = {
+	winter_severity_bias = 0.45
+}
+# b_sgurpicanori
+646 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_andenticia
+## c_andenticia
+# b_castro
+50 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_ponguilci
+## c_ponguilci
+# b_aniva
+52 = {
+	winter_severity_bias = 0.45
+}
+# b_condentanone
+387 = {
+	winter_severity_bias = 0.45
+}
+# b_seze
+495 = {
+	winter_severity_bias = 0.45
+}
+# b_wargton
+587 = {
+	winter_severity_bias = 0.45
+}
+# b_anttafonti
+620 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_brocano
+## c_brocano
+# b_citrella
+68 = {
+	winter_severity_bias = 0.45
+}
+# b_ventero
+313 = {
+	winter_severity_bias = 0.45
+}
+# b_tinia
+413 = {
+	winter_severity_bias = 0.45
+}
+# b_monzaticelo
+583 = {
+	winter_severity_bias = 0.45
+}
+# b_ponsaniama
+605 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_vale
+## c_vale
+# b_sosevanosi
+82 = {
+	winter_severity_bias = 0.45
+}
+# b_rigliocole
+122 = {
+	winter_severity_bias = 0.45
+}
+# b_tabilianoli
+217 = {
+	winter_severity_bias = 0.45
+}
+# b_alcinoneria
+455 = {
+	winter_severity_bias = 0.45
+}
+# b_terrelicoli
+456 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_pignivodo
+## c_pignivodo
+# b_patroneta
+145 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_colnuo
+## c_colnuo
+# b_conterellaro
+156 = {
+	winter_severity_bias = 0.45
+}
+# b_trebuola
+258 = {
+	winter_severity_bias = 0.45
+}
+# b_canonia
+335 = {
+	winter_severity_bias = 0.45
+}
+# b_sgurce
+532 = {
+	winter_severity_bias = 0.45
+}
+# b_colnuo
+533 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_torga
+## c_torga
+# b_nejara
+180 = {
+	winter_severity_bias = 0.45
+}
+# b_accupi
+228 = {
+	winter_severity_bias = 0.45
+}
+# b_capricaferpi
+289 = {
+	winter_severity_bias = 0.45
+}
+# b_torga
+444 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_bolacoli
+## c_bolacoli
+# b_roccia
+183 = {
+	winter_severity_bias = 0.45
+}
+# b_bolacoli
+575 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_albronland
+## c_albronland
+# b_brample
+250 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_monticitermo
+## c_monticitermo
+# b_colfe
+251 = {
+	winter_severity_bias = 0.45
+}
+# b_monticitermo
+276 = {
+	winter_severity_bias = 0.45
+}
+# b_casca
+277 = {
+	winter_severity_bias = 0.45
+}
+# b_cinosi
+372 = {
+	winter_severity_bias = 0.45
+}
+# b_camatri
+452 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_finoneno
+## c_finoneno
+# b_allegnarea
+290 = {
+	winter_severity_bias = 0.45
+}
+# b_finoneno
+612 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_campinistel
+## c_campinistel
+# b_campinistel
+298 = {
+	winter_severity_bias = 0.45
+}
+# b_posperegiola
+363 = {
+	winter_severity_bias = 0.45
+}
+# b_nerico
+549 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_livignatata
+## c_livignatata
+# b_livignatata
+429 = {
+	winter_severity_bias = 0.45
+}
+# b_roccanguilvi
+430 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_esananori
+## c_esananori
+# b_esananori
+443 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_valmonte
+## c_valmonte
+# b_valmonte
+493 = {
+	winter_severity_bias = 0.45
+}
+# b_arritoro
+524 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_dagd
+#### k_dagd
+### d_chazdus
+## c_chazdus
+# b_guguk
+3 = {
+	winter_severity_bias = 0.45
+}
+# b_mistoch
+292 = {
+	winter_severity_bias = 0.45
+}
+# b_ganerera
+299 = {
+	winter_severity_bias = 0.45
+}
+# b_vargin
+330 = {
+	winter_severity_bias = 0.45
+}
+# b_fynzaddud
+544 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_tolfond
+## c_tolfond
+# b_nagurunar
+24 = {
+	winter_severity_bias = 0.45
+}
+# b_tolfond
+364 = {
+	winter_severity_bias = 0.45
+}
+# b_gaghebuch
+365 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_gatalkug
+## c_gatalkug
+# b_galgrim
+26 = {
+	winter_severity_bias = 0.45
+}
+# b_vigbert
+55 = {
+	winter_severity_bias = 0.45
+}
+# b_eranar
+291 = {
+	winter_severity_bias = 0.45
+}
+# b_narakharb
+300 = {
+	winter_severity_bias = 0.45
+}
+# b_ustinzarga
+483 = {
+	winter_severity_bias = 0.45
+}
+# b_gatalkug
+496 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_rarar
+## c_rarar
+# b_elfirth
+32 = {
+	winter_severity_bias = 0.45
+}
+# b_rarar
+253 = {
+	winter_severity_bias = 0.45
+}
+# b_natal
+314 = {
+	winter_severity_bias = 0.45
+}
+# b_vorgazigez
+383 = {
+	winter_severity_bias = 0.45
+}
+# b_khunbuguk
+498 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_glum
+## c_glum
+# b_bunnyle
+38 = {
+	winter_severity_bias = 0.45
+}
+# b_rirkin
+279 = {
+	winter_severity_bias = 0.45
+}
+# b_theodzirga
+458 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_hildzirgun
+## c_hildzirgun
+# b_mishelkun
+69 = {
+	winter_severity_bias = 0.45
+}
+# b_yudzig
+72 = {
+	winter_severity_bias = 0.45
+}
+# b_adzigfast
+185 = {
+	winter_severity_bias = 0.45
+}
+# b_frothy
+397 = {
+	winter_severity_bias = 0.45
+}
+# b_hildzirgun
+551 = {
+	winter_severity_bias = 0.45
+}
+# b_gluthchester
+552 = {
+	winter_severity_bias = 0.45
+}
+# b_guled
+559 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_burthiz
+## c_burthiz
+# b_burthiz
+133 = {
+	winter_severity_bias = 0.45
+}
+# b_brilkundus
+186 = {
+	winter_severity_bias = 0.45
+}
+# b_narkud
+278 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_yirake
+## c_yirake
+# b_yirake
+149 = {
+	winter_severity_bias = 0.45
+}
+# b_morndus
+272 = {
+	winter_severity_bias = 0.45
+}
+# b_iozig
+473 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_new_dagd
+## c_new_dagd
+# b_nelkunzad
+194 = {
+	winter_severity_bias = 0.45
+}
+# b_nargathake
+537 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_varguny
+## c_varguny
+# b_oldshelkug
+254 = {
+	winter_severity_bias = 0.45
+}
+# b_nulukkbury
+324 = {
+	winter_severity_bias = 0.45
+}
+# b_koshel
+457 = {
+	winter_severity_bias = 0.45
+}
+# b_nulworilhe
+497 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_gluth
+## c_gluth
+# b_erazindush
+344 = {
+	winter_severity_bias = 0.45
+}
+# b_gluth
+351 = {
+	winter_severity_bias = 0.45
+}
+# b_rurkiled
+396 = {
+	winter_severity_bias = 0.45
+}
+# b_gudrol
+543 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_ormshambe
+## c_ormshambe
+# b_bingfordle
+550 = {
+	winter_severity_bias = 0.45
+}
+# b_ormshambe
+588 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_alfrostia
+#### k_alfrostia
+### d_sandre
+## c_sandre
+# b_sandre
+4 = {
+	winter_severity_bias = 0.45
+}
+# b_narith
+159 = {
+	winter_severity_bias = 0.45
+}
+# b_orardurdi
+225 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_vopenia
+## c_vopenia
+# b_valdurey
+140 = {
+	winter_severity_bias = 0.45
+}
+# b_bolkeskar
+316 = {
+	winter_severity_bias = 0.45
+}
+# b_odoresmar
+433 = {
+	winter_severity_bias = 0.45
+}
+# b_higdaklaus
+601 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_laudia
+## c_laudia
+# b_bifrostbo
+167 = {
+	winter_severity_bias = 0.45
+}
+# b_grimseynes
+177 = {
+	winter_severity_bias = 0.45
+}
+# b_raugarasvi
+197 = {
+	winter_severity_bias = 0.45
+}
+# b_salmoen
+294 = {
+	winter_severity_bias = 0.45
+}
+# b_osendurdi
+357 = {
+	winter_severity_bias = 0.45
+}
+# b_sosengi
+609 = {
+	winter_severity_bias = 0.45
+}
+# b_karlkesan
+610 = {
+	winter_severity_bias = 0.45
+}
+# b_beisfjord
+642 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_chirwon
+#### k_chirwon
+### d_suncguk
+## c_suncguk
+# b_yeonseong
+5 = {
+	winter_severity_bias = 0.45
+}
+# b_gwansang
+237 = {
+	winter_severity_bias = 0.45
+}
+# b_seongdong
+507 = {
+	winter_severity_bias = 0.45
+}
+# b_buyeo
+617 = {
+	winter_severity_bias = 0.45
+}
+# b_gwang
+650 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_soroughia
+## c_soroughia
+# b_tacury
+28 = {
+	winter_severity_bias = 0.45
+}
+# b_jeongjurye
+78 = {
+	winter_severity_bias = 0.45
+}
+# b_reamerstone
+98 = {
+	winter_severity_bias = 0.45
+}
+# b_rothelworth
+421 = {
+	winter_severity_bias = 0.45
+}
+# b_chilme
+645 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_chuncheon
+## c_chuncheon
+# b_malseamer
+47 = {
+	winter_severity_bias = 0.45
+}
+# b_iwang
+136 = {
+	winter_severity_bias = 0.45
+}
+# b_jocheon
+248 = {
+	winter_severity_bias = 0.45
+}
+# b_cheon
+434 = {
+	winter_severity_bias = 0.45
+}
+# b_ungchangsan
+591 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_chuncheonguk
+## c_chuncheonguk
+# b_yeongsan
+58 = {
+	winter_severity_bias = 0.45
+}
+# b_yeongwol
+264 = {
+	winter_severity_bias = 0.45
+}
+# b_seongseong
+348 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_jeongyanguk
+## c_jeongyanguk
+# b_stapsea
+79 = {
+	winter_severity_bias = 0.45
+}
+# b_tutford
+131 = {
+	winter_severity_bias = 0.45
+}
+# b_uxbrigh
+169 = {
+	winter_severity_bias = 0.45
+}
+# b_hwangwol
+369 = {
+	winter_severity_bias = 0.45
+}
+# b_taresmouthtoft
+459 = {
+	winter_severity_bias = 0.45
+}
+# b_caustole
+468 = {
+	winter_severity_bias = 0.45
+}
+# b_yongyangju
+557 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_bilazizin
+## c_bilazizin
+# b_bilazizin
+81 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_new_berwick
+## c_new_berwick
+# b_perstedling
+84 = {
+	winter_severity_bias = 0.45
+}
+# b_northwark
+210 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_dudlinglia
+## c_dudlinglia
+# b_bermouth
+96 = {
+	winter_severity_bias = 0.45
+}
+# b_whither
+342 = {
+	winter_severity_bias = 0.45
+}
+# b_albrid
+379 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_berwick
+## c_berwick
+# b_berwick
+115 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_yeong
+## c_yeong
+# b_geumhoponan
+143 = {
+	winter_severity_bias = 0.45
+}
+# b_hwacheon
+309 = {
+	winter_severity_bias = 0.45
+}
+# b_chang
+326 = {
+	winter_severity_bias = 0.45
+}
+# b_yeong
+332 = {
+	winter_severity_bias = 0.45
+}
+# b_peng
+427 = {
+	winter_severity_bias = 0.45
+}
+# b_goniljin
+637 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_stansin
+## c_stansin
+# b_stansin
+206 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_jincheonguk
+## c_jincheonguk
+# b_sokcheon
+304 = {
+	winter_severity_bias = 0.45
+}
+# b_samyang
+422 = {
+	winter_severity_bias = 0.45
+}
+# b_braster
+447 = {
+	winter_severity_bias = 0.45
+}
+# b_cheondong
+556 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_yeongjuri
+## c_yeongjuri
+# b_yeongjuri
+320 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_pyeondong
+## c_pyeondong
+# b_pyeondong
+368 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_binargil
+## c_binargil
+# b_kizindush
+472 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_nar
+## c_nar
+# b_bundindukk
+510 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_hertley
+## c_hertley
+# b_hertley
+517 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_yeonsan
+## c_yeonsan
+# b_seungwang
+547 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_ateshowenia
+## c_ateshowenia
+# b_stapingham
+628 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_dulduch
+#### k_dulduch
+### d_nunar
+## c_nunar
+# b_nunar
+6 = {
+	winter_severity_bias = 0.45
+}
+# b_khunhe
+212 = {
+	winter_severity_bias = 0.45
+}
+# b_kinezdus
+275 = {
+	winter_severity_bias = 0.45
+}
+# b_naramron
+280 = {
+	winter_severity_bias = 0.45
+}
+# b_nuzakinb
+325 = {
+	winter_severity_bias = 0.45
+}
+# b_kilkan
+352 = {
+	winter_severity_bias = 0.45
+}
+# b_gazararang
+425 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_harthug
+## c_harthug
+# b_mishundga
+46 = {
+	winter_severity_bias = 0.45
+}
+# b_gurluch
+123 = {
+	winter_severity_bias = 0.45
+}
+# b_gulbil
+151 = {
+	winter_severity_bias = 0.45
+}
+# b_bereraraga
+301 = {
+	winter_severity_bias = 0.45
+}
+# b_srokharb
+403 = {
+	winter_severity_bias = 0.45
+}
+# b_druril
+415 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_ibage
+## c_ibage
+# b_bahourghe
+62 = {
+	winter_severity_bias = 0.45
+}
+# b_raguge
+110 = {
+	winter_severity_bias = 0.45
+}
+# b_vorbiln
+119 = {
+	winter_severity_bias = 0.45
+}
+# b_naragzdin
+259 = {
+	winter_severity_bias = 0.45
+}
+# b_ibage
+293 = {
+	winter_severity_bias = 0.45
+}
+# b_rurgath
+506 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_morndush
+## c_morndush
+# b_galgbiled
+74 = {
+	winter_severity_bias = 0.45
+}
+# b_narka
+615 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_vylbaram
+## c_vylbaram
+# b_ustin
+104 = {
+	winter_severity_bias = 0.45
+}
+# b_gunarnel
+139 = {
+	winter_severity_bias = 0.45
+}
+# b_yocirarag
+195 = {
+	winter_severity_bias = 0.45
+}
+# b_vylbaram
+229 = {
+	winter_severity_bias = 0.45
+}
+# b_korararam
+648 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_zugke
+## c_zugke
+# b_shorilduch
+137 = {
+	winter_severity_bias = 0.45
+}
+# b_dilinanar
+366 = {
+	winter_severity_bias = 0.45
+}
+# b_zugke
+426 = {
+	winter_severity_bias = 0.45
+}
+# b_gosharb
+463 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_sharag
+## c_sharag
+# b_gunny
+158 = {
+	winter_severity_bias = 0.45
+}
+# b_churgun
+355 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_nozigka
+## c_nozigka
+# b_nurkizen
+164 = {
+	winter_severity_bias = 0.45
+}
+# b_guldeyara
+207 = {
+	winter_severity_bias = 0.45
+}
+# b_gabuguk
+569 = {
+	winter_severity_bias = 0.45
+}
+# b_eruzandus
+599 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_nulukk
+## c_nulukk
+# b_nulukk
+171 = {
+	winter_severity_bias = 0.45
+}
+# b_grigezruc
+384 = {
+	winter_severity_bias = 0.45
+}
+# b_naric
+539 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_gurkan
+## c_gurkan
+# b_sgand
+202 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_varbilncastle
+## c_varbilncastle
+# b_duzarbar
+273 = {
+	winter_severity_bias = 0.45
+}
+# b_rurkunkuc
+432 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_izen
+## c_izen
+# b_minarg
+362 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_borg
+## c_borg
+# b_baramey
+600 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_hart
+#### k_hart
+### d_hart
+## c_hart
+# b_hart
+7 = {
+	winter_severity_bias = 0.45
+}
+# b_shabar
+21 = {
+	winter_severity_bias = 0.45
+}
+# b_yotarag
+231 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_cher
+## c_cher
+# b_gugukhil
+71 = {
+	winter_severity_bias = 0.45
+}
+# b_kinargke
+347 = {
+	winter_severity_bias = 0.45
+}
+# b_kiltoch
+367 = {
+	winter_severity_bias = 0.45
+}
+# b_morndusy
+418 = {
+	winter_severity_bias = 0.45
+}
+# b_lingarth
+636 = {
+	winter_severity_bias = 0.45
+}
+# b_tulfirth
+649 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_bahourgka
+## c_bahourgka
+# b_rabunulwed
+111 = {
+	winter_severity_bias = 0.45
+}
+# b_tolaric
+152 = {
+	winter_severity_bias = 0.45
+}
+# b_tolweddund
+196 = {
+	winter_severity_bias = 0.45
+}
+# b_yudhor
+466 = {
+	winter_severity_bias = 0.45
+}
+# b_bahourgka
+486 = {
+	winter_severity_bias = 0.45
+}
+# b_orwarka
+571 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_new_cher
+## c_new_cher
+# b_nargaza
+141 = {
+	winter_severity_bias = 0.45
+}
+# b_sigkan
+282 = {
+	winter_severity_bias = 0.45
+}
+# b_nurulukk
+337 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_bagunul
+## c_bagunul
+# b_kilkun
+232 = {
+	winter_severity_bias = 0.45
+}
+# b_morntaram
+233 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_sgandzig
+## c_sgandzig
+# b_valdgorna
+236 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_untazin
+## c_untazin
+# b_baram
+281 = {
+	winter_severity_bias = 0.45
+}
+# b_untazin
+540 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_glumrol
+## c_glumrol
+# b_tulkugbiba
+283 = {
+	winter_severity_bias = 0.45
+}
+# b_gulukk
+480 = {
+	winter_severity_bias = 0.45
+}
+# b_glumrolchester
+563 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_ushund
+## c_ushund
+# b_ushund
+338 = {
+	winter_severity_bias = 0.45
+}
+# b_glumrol
+356 = {
+	winter_severity_bias = 0.45
+}
+# b_dinararak
+376 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_baland
+#### k_baland
+### d_merbotia
+## c_merbotia
+# b_balne
+8 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_atescom
+## c_atescom
+# b_atescom
+41 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_comyard
+## c_comyard
+# b_linsey
+43 = {
+	winter_severity_bias = 0.45
+}
+# b_nosbury
+116 = {
+	winter_severity_bias = 0.45
+}
+# b_walterton
+132 = {
+	winter_severity_bias = 0.45
+}
+# b_comyard
+333 = {
+	winter_severity_bias = 0.45
+}
+# b_seaziongay
+349 = {
+	winter_severity_bias = 0.45
+}
+# b_chawborough
+412 = {
+	winter_severity_bias = 0.45
+}
+# b_romney
+469 = {
+	winter_severity_bias = 0.45
+}
+# b_cleovil
+490 = {
+	winter_severity_bias = 0.45
+}
+# b_bramplefield
+508 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_thaxtedge
+## c_thaxtedge
+# b_thaxtedge
+49 = {
+	winter_severity_bias = 0.45
+}
+# b_barlowces
+221 = {
+	winter_severity_bias = 0.45
+}
+# b_horntontef
+321 = {
+	winter_severity_bias = 0.45
+}
+# b_walton
+580 = {
+	winter_severity_bias = 0.45
+}
+# b_besobury
+619 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_duns
+## c_duns
+# b_birton
+53 = {
+	winter_severity_bias = 0.45
+}
+# b_berlistonta
+77 = {
+	winter_severity_bias = 0.45
+}
+# b_heydondore
+144 = {
+	winter_severity_bias = 0.45
+}
+# b_padstedbury
+240 = {
+	winter_severity_bias = 0.45
+}
+# b_bramplelis
+267 = {
+	winter_severity_bias = 0.45
+}
+# b_kivesey
+284 = {
+	winter_severity_bias = 0.45
+}
+# b_perstow
+322 = {
+	winter_severity_bias = 0.45
+}
+# b_grantford
+343 = {
+	winter_severity_bias = 0.45
+}
+# b_chilney
+408 = {
+	winter_severity_bias = 0.45
+}
+# b_brastow
+576 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_redcking
+## c_redcking
+# b_cliteston
+60 = {
+	winter_severity_bias = 0.45
+}
+# b_northetford
+188 = {
+	winter_severity_bias = 0.45
+}
+# b_stothambe
+244 = {
+	winter_severity_bias = 0.45
+}
+# b_knafordge
+566 = {
+	winter_severity_bias = 0.45
+}
+# b_seaford
+611 = {
+	winter_severity_bias = 0.45
+}
+# b_oakley
+618 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_watesia
+## c_watesia
+# b_searen
+61 = {
+	winter_severity_bias = 0.45
+}
+# b_poney
+205 = {
+	winter_severity_bias = 0.45
+}
+# b_thatckingle
+266 = {
+	winter_severity_bias = 0.45
+}
+# b_chisbury
+306 = {
+	winter_severity_bias = 0.45
+}
+# b_berbotbury
+310 = {
+	winter_severity_bias = 0.45
+}
+# b_holingley
+377 = {
+	winter_severity_bias = 0.45
+}
+# b_kesomer
+574 = {
+	winter_severity_bias = 0.45
+}
+# b_newbury
+629 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_cleovilia
+## c_cleovilia
+# b_lympswestle
+76 = {
+	winter_severity_bias = 0.45
+}
+# b_macker
+101 = {
+	winter_severity_bias = 0.45
+}
+# b_bampoundbu
+219 = {
+	winter_severity_bias = 0.45
+}
+# b_osfield
+435 = {
+	winter_severity_bias = 0.45
+}
+# b_cambridmin
+474 = {
+	winter_severity_bias = 0.45
+}
+# b_cliford
+565 = {
+	winter_severity_bias = 0.45
+}
+# b_shiford
+592 = {
+	winter_severity_bias = 0.45
+}
+# b_clifordy
+597 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_garester
+## c_garester
+# b_garester
+87 = {
+	winter_severity_bias = 0.45
+}
+# b_botbuton
+242 = {
+	winter_severity_bias = 0.45
+}
+# b_foretown
+249 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_feningthe
+## c_feningthe
+# b_padstontale
+91 = {
+	winter_severity_bias = 0.45
+}
+# b_maclif
+178 = {
+	winter_severity_bias = 0.45
+}
+# b_penkleigh
+296 = {
+	winter_severity_bias = 0.45
+}
+# b_feningthe
+359 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_laundalia
+## c_laundalia
+# b_clitford
+99 = {
+	winter_severity_bias = 0.45
+}
+# b_ostoverham
+190 = {
+	winter_severity_bias = 0.45
+}
+# b_rothbury
+245 = {
+	winter_severity_bias = 0.45
+}
+# b_stansbone
+451 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_searalisham
+## c_searalisham
+# b_searalisham
+161 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_manch
+## c_manch
+# b_harmington
+246 = {
+	winter_severity_bias = 0.45
+}
+# b_stanbeckwar
+470 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_thatcking
+## c_thatcking
+# b_thatcking
+268 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_harwickham
+## c_harwickham
+# b_baring
+319 = {
+	winter_severity_bias = 0.45
+}
+# b_harwickham
+401 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_saforland
+## c_saforland
+# b_preshomer
+339 = {
+	winter_severity_bias = 0.45
+}
+# b_draxtedge
+428 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_aleby
+## c_aleby
+# b_louthetford
+370 = {
+	winter_severity_bias = 0.45
+}
+# b_chiscastham
+380 = {
+	winter_severity_bias = 0.45
+}
+# b_calton
+582 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_soldupia
+#### k_soldupia
+### d_feloy
+## c_feloy
+# b_feloy
+9 = {
+	winter_severity_bias = 0.45
+}
+# b_kjelheipo
+27 = {
+	winter_severity_bias = 0.45
+}
+# b_vopeid
+462 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_tjarviria
+## c_tjarviria
+# b_bygloy
+23 = {
+	winter_severity_bias = 0.45
+}
+# b_nonaquen
+95 = {
+	winter_severity_bias = 0.45
+}
+# b_caldlyndor
+226 = {
+	winter_severity_bias = 0.45
+}
+# b_felsalen
+465 = {
+	winter_severity_bias = 0.45
+}
+# b_shaiodolaghe
+564 = {
+	winter_severity_bias = 0.45
+}
+# b_chaghym
+643 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_dineru
+## c_dineru
+# b_ginezdus
+25 = {
+	winter_severity_bias = 0.45
+}
+# b_gavatan
+230 = {
+	winter_severity_bias = 0.45
+}
+# b_brerstoch
+410 = {
+	winter_severity_bias = 0.45
+}
+# b_kinbage
+513 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_raupinland
+## c_raupinland
+# b_holundra
+30 = {
+	winter_severity_bias = 0.45
+}
+# b_krystadre
+187 = {
+	winter_severity_bias = 0.45
+}
+# b_lautarnes
+399 = {
+	winter_severity_bias = 0.45
+}
+# b_kagerdur
+416 = {
+	winter_severity_bias = 0.45
+}
+# b_orsverdal
+561 = {
+	winter_severity_bias = 0.45
+}
+# b_aiztar
+616 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_shan
+## c_shan
+# b_jhachmyvanen
+40 = {
+	winter_severity_bias = 0.45
+}
+# b_ulloragh
+155 = {
+	winter_severity_bias = 0.45
+}
+# b_mathindrauth
+530 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_marb
+## c_marb
+# b_garatan
+73 = {
+	winter_severity_bias = 0.45
+}
+# b_rirgarth
+208 = {
+	winter_severity_bias = 0.45
+}
+# b_froth
+214 = {
+	winter_severity_bias = 0.45
+}
+# b_garagzda
+485 = {
+	winter_severity_bias = 0.45
+}
+# b_goshundgor
+504 = {
+	winter_severity_bias = 0.45
+}
+# b_djudarstad
+553 = {
+	winter_severity_bias = 0.45
+}
+# b_norneldung
+585 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_chethlindil
+## c_chethlindil
+# b_cyrang
+75 = {
+	winter_severity_bias = 0.45
+}
+# b_jarkjahver
+375 = {
+	winter_severity_bias = 0.45
+}
+# b_donamor
+391 = {
+	winter_severity_bias = 0.45
+}
+# b_belmethei
+405 = {
+	winter_severity_bias = 0.45
+}
+# b_eloyrika
+464 = {
+	winter_severity_bias = 0.45
+}
+# b_meland
+546 = {
+	winter_severity_bias = 0.45
+}
+# b_szithmorrvhei
+608 = {
+	winter_severity_bias = 0.45
+}
+# b_tydahashafet
+635 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_nurilwed
+## c_nurilwed
+# b_narkelba
+85 = {
+	winter_severity_bias = 0.45
+}
+# b_nurilwed
+640 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_chethmyuethin
+## c_chethmyuethin
+# b_mithrogroth
+90 = {
+	winter_severity_bias = 0.45
+}
+# b_naneazin
+302 = {
+	winter_severity_bias = 0.45
+}
+# b_olarondhemben
+417 = {
+	winter_severity_bias = 0.45
+}
+# b_meriussienlean
+442 = {
+	winter_severity_bias = 0.45
+}
+# b_chethmyuethin
+514 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_tolfod
+## c_tolfod
+# b_gahourg
+92 = {
+	winter_severity_bias = 0.45
+}
+# b_tolfod
+390 = {
+	winter_severity_bias = 0.45
+}
+# b_guddamvat
+499 = {
+	winter_severity_bias = 0.45
+}
+# b_galgrimfa
+529 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_batal
+## c_batal
+# b_shuledrol
+106 = {
+	winter_severity_bias = 0.45
+}
+# b_margatha
+117 = {
+	winter_severity_bias = 0.45
+}
+# b_kharb
+176 = {
+	winter_severity_bias = 0.45
+}
+# b_solka
+336 = {
+	winter_severity_bias = 0.45
+}
+# b_grizengord
+446 = {
+	winter_severity_bias = 0.45
+}
+# b_narkoc
+590 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_rantagere
+## c_rantagere
+# b_fyndush
+108 = {
+	winter_severity_bias = 0.45
+}
+# b_rantagere
+165 = {
+	winter_severity_bias = 0.45
+}
+# b_elveset
+579 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_cloiburthmy
+## c_cloiburthmy
+# b_olakayvarith
+114 = {
+	winter_severity_bias = 0.45
+}
+# b_monama
+134 = {
+	winter_severity_bias = 0.45
+}
+# b_venaloradar
+286 = {
+	winter_severity_bias = 0.45
+}
+# b_chagroth
+494 = {
+	winter_severity_bias = 0.45
+}
+# b_nurrahalad
+644 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_gualkis
+## c_gualkis
+# b_shaulmerius
+138 = {
+	winter_severity_bias = 0.45
+}
+# b_gualkis
+209 = {
+	winter_severity_bias = 0.45
+}
+# b_sirdhell_nihau
+502 = {
+	winter_severity_bias = 0.45
+}
+# b_chaggarlorkald
+515 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_tolamunz
+## c_tolamunz
+# b_nagaldlaug
+157 = {
+	winter_severity_bias = 0.45
+}
+# b_tolamunz
+274 = {
+	winter_severity_bias = 0.45
+}
+# b_irgath
+353 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_gale
+## c_gale
+# b_jarginwyn
+172 = {
+	winter_severity_bias = 0.45
+}
+# b_shati
+182 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_slehamnia
+## c_slehamnia
+# b_sornavet
+308 = {
+	winter_severity_bias = 0.45
+}
+# b_utstad
+545 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_nunul
+## c_nunul
+# b_rurwarga
+317 = {
+	winter_severity_bias = 0.45
+}
+# b_nunul
+404 = {
+	winter_severity_bias = 0.45
+}
+# b_jaldzig
+411 = {
+	winter_severity_bias = 0.45
+}
+# b_yudgach
+541 = {
+	winter_severity_bias = 0.45
+}
+# b_vartec
+554 = {
+	winter_severity_bias = 0.45
+}
+# b_fyngira
+562 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_noragh
+## c_noragh
+# b_noragh
+419 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_naggarrarondra
+## c_naggarrarondra
+# b_naggarrarondra
+454 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_sordur
+## c_sordur
+# b_lauroyken
+505 = {
+	winter_severity_bias = 0.45
+}
+# b_eloyda
+586 = {
+	winter_severity_bias = 0.45
+}
+# b_sordur
+641 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_karland
+## c_karland
+# b_lonsos
+570 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_gake
+## c_gake
+# b_gultoch
+633 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_dunsteria
+#### k_dunsteria
+### d_berton
+## c_berton
+# b_berton
+10 = {
+	winter_severity_bias = 0.45
+}
+# b_grantfordy
+638 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_tetfordia
+## c_tetfordia
+# b_birling
+31 = {
+	winter_severity_bias = 0.45
+}
+# b_knabingford
+37 = {
+	winter_severity_bias = 0.45
+}
+# b_letonzan
+213 = {
+	winter_severity_bias = 0.45
+}
+# b_modbury
+331 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_axbridle
+## c_axbridle
+# b_mitbury
+67 = {
+	winter_severity_bias = 0.45
+}
+# b_botfordbu
+80 = {
+	winter_severity_bias = 0.45
+}
+# b_barley
+204 = {
+	winter_severity_bias = 0.45
+}
+# b_baraton
+288 = {
+	winter_severity_bias = 0.45
+}
+# b_louthbury
+312 = {
+	winter_severity_bias = 0.45
+}
+# b_osbury
+394 = {
+	winter_severity_bias = 0.45
+}
+# b_witford
+581 = {
+	winter_severity_bias = 0.45
+}
+# b_helsfordbu
+593 = {
+	winter_severity_bias = 0.45
+}
+# b_tetfordtoft
+602 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_brampingia
+## c_brampingia
+# b_wicksey
+93 = {
+	winter_severity_bias = 0.45
+}
+# b_thatckingleigh
+340 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_dunscom
+## c_dunscom
+# b_chisted
+124 = {
+	winter_severity_bias = 0.45
+}
+# b_dunscom
+146 = {
+	winter_severity_bias = 0.45
+}
+# b_portsted
+238 = {
+	winter_severity_bias = 0.45
+}
+# b_chawcester
+436 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_towbury
+## c_towbury
+# b_ashtonbury
+173 = {
+	winter_severity_bias = 0.45
+}
+# b_modmoutham
+256 = {
+	winter_severity_bias = 0.45
+}
+# b_wargrasal
+318 = {
+	winter_severity_bias = 0.45
+}
+# b_towbury
+555 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_oldontaren
+## c_oldontaren
+# b_oldontaren
+198 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_mackedi
+## c_mackedi
+# b_mackedi
+215 = {
+	winter_severity_bias = 0.45
+}
+# b_chiptonton
+516 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_pilcescom
+## c_pilcescom
+# b_boslenil
+239 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_merton
+## c_merton
+# b_merton
+263 = {
+	winter_severity_bias = 0.45
+}
+# b_caustonton
+295 = {
+	winter_severity_bias = 0.45
+}
+# b_chawbury
+385 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_ashton
+## c_ashton
+# b_ashtoncastle
+358 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_bridfordia
+## c_bridfordia
+# b_thethambere
+407 = {
+	winter_severity_bias = 0.45
+}
+# b_cudbury
+603 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_cockingin
+## c_cockingin
+# b_hatlewesdon
+409 = {
+	winter_severity_bias = 0.45
+}
+# b_grantleso
+460 = {
+	winter_severity_bias = 0.45
+}
+# b_chisterton
+509 = {
+	winter_severity_bias = 0.45
+}
+# b_cockingin
+548 = {
+	winter_severity_bias = 0.45
+}
+# b_redckerton
+631 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_chichwelia
+## c_chichwelia
+# b_castrinchel
+467 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_rilzan
+#### k_rilzan
+### d_mazuri
+## c_mazuri
+# b_rilzan
+11 = {
+	winter_severity_bias = 0.45
+}
+# b_carleigh
+211 = {
+	winter_severity_bias = 0.45
+}
+# b_pazjan
+440 = {
+	winter_severity_bias = 0.45
+}
+# b_krajkinta
+519 = {
+	winter_severity_bias = 0.45
+}
+# b_srash
+604 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_ithhanek
+## c_ithhanek
+# b_ithhanek
+220 = {
+	winter_severity_bias = 0.45
+}
+# b_rrazrash
+305 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_wickburgh
+## c_wickburgh
+# b_birham
+311 = {
+	winter_severity_bias = 0.45
+}
+# b_wickburgh
+327 = {
+	winter_severity_bias = 0.45
+}
+# b_watham
+392 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_brildung
+#### k_brildung
+### d_shava
+## c_shava
+# b_shava
+12 = {
+	winter_severity_bias = 0.45
+}
+# b_sulkug
+129 = {
+	winter_severity_bias = 0.45
+}
+# b_dulwed
+538 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_kharb
+## c_kharb
+# b_solderabi
+35 = {
+	winter_severity_bias = 0.45
+}
+# b_nuled
+66 = {
+	winter_severity_bias = 0.45
+}
+# b_gomfakege
+373 = {
+	winter_severity_bias = 0.45
+}
+# b_kakkek
+389 = {
+	winter_severity_bias = 0.45
+}
+# b_abale
+589 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_drard
+## c_drard
+# b_dulduch
+65 = {
+	winter_severity_bias = 0.45
+}
+# b_nargatal
+199 = {
+	winter_severity_bias = 0.45
+}
+# b_drard
+461 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_brotale
+## c_brotale
+# b_goshazin
+86 = {
+	winter_severity_bias = 0.45
+}
+# b_hartreora
+88 = {
+	winter_severity_bias = 0.45
+}
+# b_bremrolba
+224 = {
+	winter_severity_bias = 0.45
+}
+# b_ginenuz
+398 = {
+	winter_severity_bias = 0.45
+}
+# b_velnarg
+431 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_kilazargun
+## c_kilazargun
+# b_kilazargun
+118 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_vald
+## c_vald
+# b_gostoch
+201 = {
+	winter_severity_bias = 0.45
+}
+# b_valdhelmfa
+235 = {
+	winter_severity_bias = 0.45
+}
+# b_kilfald
+269 = {
+	winter_severity_bias = 0.45
+}
+# b_yolukkhaz
+374 = {
+	winter_severity_bias = 0.45
+}
+# b_fynhe
+595 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_jorn
+## c_jorn
+# b_frothmark
+218 = {
+	winter_severity_bias = 0.45
+}
+# b_kilake
+445 = {
+	winter_severity_bias = 0.45
+}
+# b_nuledgrim
+478 = {
+	winter_severity_bias = 0.45
+}
+# b_tugukzund
+484 = {
+	winter_severity_bias = 0.45
+}
+# b_rurkeyaric
+511 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_shiz
+## c_shiz
+# b_vylduch
+345 = {
+	winter_severity_bias = 0.45
+}
+# b_mornnerg
+512 = {
+	winter_severity_bias = 0.45
+}
+# b_benuz
+625 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_vastadia
+#### k_vastadia
+### d_gogaku
+## c_gogaku
+# b_gogaku
+13 = {
+	winter_severity_bias = 0.45
+}
+# b_baknesbak
+500 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_hafsos
+## c_hafsos
+# b_hofnavolar
+42 = {
+	winter_severity_bias = 0.45
+}
+# b_karlgaras
+105 = {
+	winter_severity_bias = 0.45
+}
+# b_bosostad
+450 = {
+	winter_severity_bias = 0.45
+}
+# b_bugarholt
+522 = {
+	winter_severity_bias = 0.45
+}
+# b_hafsos
+614 = {
+	winter_severity_bias = 0.45
+}
+# b_haudalur
+627 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_kordavikia
+## c_kordavikia
+# b_karlla
+56 = {
+	winter_severity_bias = 0.45
+}
+# b_bjorvik
+64 = {
+	winter_severity_bias = 0.45
+}
+# b_soroya
+154 = {
+	winter_severity_bias = 0.45
+}
+# b_silmoen
+166 = {
+	winter_severity_bias = 0.45
+}
+# b_vikvik
+303 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_mosfelsia
+## c_mosfelsia
+# b_enesvisaf
+70 = {
+	winter_severity_bias = 0.45
+}
+# b_ogarastad
+121 = {
+	winter_severity_bias = 0.45
+}
+# b_laurey
+501 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_thorstad
+## c_thorstad
+# b_presosbak
+89 = {
+	winter_severity_bias = 0.45
+}
+# b_bostrond
+634 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_baldugia
+## c_baldugia
+# b_seldal
+94 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_mosland
+## c_mosland
+# b_straufar
+247 = {
+	winter_severity_bias = 0.45
+}
+# b_sofjordipo
+626 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_olafsfjord
+## c_olafsfjord
+# b_sornestad
+315 = {
+	winter_severity_bias = 0.45
+}
+# b_olafsfjord
+354 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_sudarkken
+## c_sudarkken
+# b_sudarkken
+453 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_grambewesia
+#### k_grambewesia
+### d_mareswestia
+## c_mareswestia
+# b_gacuseley
+14 = {
+	winter_severity_bias = 0.45
+}
+# b_wabing
+113 = {
+	winter_severity_bias = 0.45
+}
+# b_ashton
+127 = {
+	winter_severity_bias = 0.45
+}
+# b_carton
+341 = {
+	winter_severity_bias = 0.45
+}
+# b_aldock
+487 = {
+	winter_severity_bias = 0.45
+}
+# b_hatherid
+503 = {
+	winter_severity_bias = 0.45
+}
+# b_asingsbowey
+596 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_whithambia
+## c_whithambia
+# b_milton
+34 = {
+	winter_severity_bias = 0.45
+}
+# b_apton
+63 = {
+	winter_severity_bias = 0.45
+}
+# b_hageldon
+262 = {
+	winter_severity_bias = 0.45
+}
+# b_clitham
+287 = {
+	winter_severity_bias = 0.45
+}
+# b_dodbridbute
+572 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_hornceter
+## c_hornceter
+# b_haretersbu
+39 = {
+	winter_severity_bias = 0.45
+}
+# b_hornceter
+120 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_atford
+## c_atford
+# b_westbuton
+420 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_horster
+#### k_horster
+### d_galia
+## c_galia
+# b_skiple
+15 = {
+	winter_severity_bias = 0.45
+}
+# b_buckingford
+57 = {
+	winter_severity_bias = 0.45
+}
+# b_hatherster
+400 = {
+	winter_severity_bias = 0.45
+}
+# b_pilingham
+488 = {
+	winter_severity_bias = 0.45
+}
+# b_holbowey
+489 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_wigham
+## c_wigham
+# b_shifracton
+83 = {
+	winter_severity_bias = 0.45
+}
+# b_wigham
+260 = {
+	winter_severity_bias = 0.45
+}
+# b_gramberham
+651 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_holing
+## c_holing
+# b_dunsterlis
+135 = {
+	winter_severity_bias = 0.45
+}
+# b_holing
+142 = {
+	winter_severity_bias = 0.45
+}
+# b_skipseave
+255 = {
+	winter_severity_bias = 0.45
+}
+# b_gathomer
+531 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_bodbutonor
+## c_bodbutonor
+# b_bodbutonor
+168 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_hrafjoria
+#### k_hrafjoria
+### d_leikavikia
+## c_leikavikia
+# b_hnifstad
+16 = {
+	winter_severity_bias = 0.45
+}
+# b_ogsos
+97 = {
+	winter_severity_bias = 0.45
+}
+# b_garfina
+126 = {
+	winter_severity_bias = 0.45
+}
+# b_imarda
+243 = {
+	winter_severity_bias = 0.45
+}
+# b_laupstad
+479 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_buzanbaram
+## c_buzanbaram
+# b_shuled
+59 = {
+	winter_severity_bias = 0.45
+}
+# b_kinar
+150 = {
+	winter_severity_bias = 0.45
+}
+# b_buzanbaram
+560 = {
+	winter_severity_bias = 0.45
+}
+# b_shatharbh
+568 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_hvamia
+## c_hvamia
+# b_lolardur
+109 = {
+	winter_severity_bias = 0.45
+}
+# b_hvolskor
+441 = {
+	winter_severity_bias = 0.45
+}
+# b_eldudirnes
+584 = {
+	winter_severity_bias = 0.45
+}
+# b_fallanha
+613 = {
+	winter_severity_bias = 0.45
+}
+# b_sallandved
+623 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_helsoyria
+## c_helsoyria
+# b_lopstad
+130 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_adum
+## c_adum
+# b_girazdus
+162 = {
+	winter_severity_bias = 0.45
+}
+# b_numundindus
+181 = {
+	winter_severity_bias = 0.45
+}
+# b_shanuzara
+223 = {
+	winter_severity_bias = 0.45
+}
+# b_sholukkzir
+607 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_uktharb
+## c_uktharb
+# b_shuzah
+163 = {
+	winter_severity_bias = 0.45
+}
+# b_ulgizad
+535 = {
+	winter_severity_bias = 0.45
+}
+# b_arabilndus
+536 = {
+	winter_severity_bias = 0.45
+}
+# b_undum
+622 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_shunzadzir
+## c_shunzadzir
+# b_shunzadzir
+184 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_stamstia
+## c_stamstia
+# b_saldervo
+200 = {
+	winter_severity_bias = 0.45
+}
+# b_hovden
+632 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_fjelmia
+## c_fjelmia
+# b_valgavik
+234 = {
+	winter_severity_bias = 0.45
+}
+# b_bilmengen
+346 = {
+	winter_severity_bias = 0.45
+}
+# b_leivik
+388 = {
+	winter_severity_bias = 0.45
+}
+# b_strende
+624 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_nulbabar
+## c_nulbabar
+# b_khathunzat
+382 = {
+	winter_severity_bias = 0.45
+}
+# b_nulbabar
+424 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_cerce
+#### k_cerce
+### d_cerce
+## c_cerce
+# b_cerce
+17 = {
+	winter_severity_bias = 0.45
+}
+# b_antricino
+438 = {
+	winter_severity_bias = 0.45
+}
+# b_geziamatro
+521 = {
+	winter_severity_bias = 0.45
+}
+# b_sperzolo
+558 = {
+	winter_severity_bias = 0.45
+}
+# b_sanico
+567 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_belenia
+## c_belenia
+# b_guardo
+54 = {
+	winter_severity_bias = 0.45
+}
+# b_mamatta
+175 = {
+	winter_severity_bias = 0.45
+}
+# b_anori
+402 = {
+	winter_severity_bias = 0.45
+}
+# b_cerboglia
+577 = {
+	winter_severity_bias = 0.45
+}
+# b_pesta
+594 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_pozaglia
+## c_pozaglia
+# b_callero
+193 = {
+	winter_severity_bias = 0.45
+}
+# b_lonza
+297 = {
+	winter_severity_bias = 0.45
+}
+# b_montechiana
+361 = {
+	winter_severity_bias = 0.45
+}
+# b_guilia
+526 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_tusano
+## c_tusano
+# b_pontalvi
+542 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_sergabicia
+## c_sergabicia
+# b_gedivo
+639 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_cudenia
+#### k_cudenia
+### d_towbigmo
+## c_towbigmo
+# b_towbigmo
+18 = {
+	winter_severity_bias = 0.45
+}
+# b_persbury
+257 = {
+	winter_severity_bias = 0.45
+}
+# b_tetfordge
+448 = {
+	winter_severity_bias = 0.45
+}
+# b_warburytes
+518 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_horstonsey
+## c_horstonsey
+# b_newboleham
+29 = {
+	winter_severity_bias = 0.45
+}
+# b_horstonsey
+285 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_stansdon
+## c_stansdon
+# b_kering
+48 = {
+	winter_severity_bias = 0.45
+}
+# b_hasalboles
+128 = {
+	winter_severity_bias = 0.45
+}
+# b_kingraresto
+241 = {
+	winter_severity_bias = 0.45
+}
+# b_tiverke
+360 = {
+	winter_severity_bias = 0.45
+}
+# b_altash
+475 = {
+	winter_severity_bias = 0.45
+}
+# b_bington
+481 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_mamerstoney
+## c_mamerstoney
+# b_mamerstoney
+51 = {
+	winter_severity_bias = 0.45
+}
+# b_wenton
+271 = {
+	winter_severity_bias = 0.45
+}
+# b_uxbroverne
+329 = {
+	winter_severity_bias = 0.45
+}
+# b_tetford
+406 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_perster
+## c_perster
+# b_perster
+100 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_padstab
+## c_padstab
+# b_dodbrigh
+102 = {
+	winter_severity_bias = 0.45
+}
+# b_wathovil
+189 = {
+	winter_severity_bias = 0.45
+}
+# b_birhampound
+203 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_zad
+## c_zad
+# b_nulgabhar
+103 = {
+	winter_severity_bias = 0.45
+}
+# b_kindushund
+414 = {
+	winter_severity_bias = 0.45
+}
+# b_shazir
+423 = {
+	winter_severity_bias = 0.45
+}
+# b_nulgatha
+471 = {
+	winter_severity_bias = 0.45
+}
+# b_barazizad
+476 = {
+	winter_severity_bias = 0.45
+}
+# b_khumundun
+477 = {
+	winter_severity_bias = 0.45
+}
+# b_kizaragzig
+482 = {
+	winter_severity_bias = 0.45
+}
+# b_gundushur
+534 = {
+	winter_severity_bias = 0.45
+}
+# b_nazinarg
+578 = {
+	winter_severity_bias = 0.45
+}
+# b_khunzinbhat
+606 = {
+	winter_severity_bias = 0.45
+}
+# b_gunbadushel
+621 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_rothetford
+## c_rothetford
+# b_rothetford
+107 = {
+	winter_severity_bias = 0.45
+}
+# b_manden
+371 = {
+	winter_severity_bias = 0.45
+}
+# b_taresmouth
+395 = {
+	winter_severity_bias = 0.45
+}
+# b_bovery
+523 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_galargizin
+## c_galargizin
+# b_galargizin
+112 = {
+	winter_severity_bias = 0.45
+}
+# b_shundushabu
+147 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_axblevenia
+## c_axblevenia
+# b_knutstedge
+153 = {
+	winter_severity_bias = 0.45
+}
+# b_harlington
+630 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_aptonland
+## c_aptonland
+# b_westhers
+192 = {
+	winter_severity_bias = 0.45
+}
+# b_knarington
+598 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_pichamia
+## c_pichamia
+# b_maford
+222 = {
+	winter_severity_bias = 0.45
+}
+# b_baldonwich
+449 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_hatford
+## c_hatford
+# b_hatford
+265 = {
+	winter_severity_bias = 0.45
+}
+
+
+##### e_zaricia
+#### k_zaricia
+### d_conti
+## c_conti
+# b_rocanoli
+19 = {
+	winter_severity_bias = 0.45
+}
+# b_rivignanone
+148 = {
+	winter_severity_bias = 0.45
+}
+# b_giumola
+307 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_srokzar
+## c_srokzar
+# b_cherkangi
+439 = {
+	winter_severity_bias = 0.45
+}
+# b_antrellebuo
+527 = {
+	winter_severity_bias = 0.45
+}
+# b_srokzar
+528 = {
+	winter_severity_bias = 0.45
+}
+
+
+
+##################
+# SEA ZONES
+##################
+
+
+##################
+# MAJOR RIVERS
+##################
+
+
+##################
+# LAKES
+##################
+
+
+##################
+# IMPASSABLE TERRAIN
+##################
+
+
+##################
+# WASTELAND
+##################
+
+
+##################
+# IMPASSABLE SEA ZONES
+##################
+
+
+##################
+# UNUSED PROVINCES
+##################
+

@@ -1,0 +1,24 @@
+Aj'Snaga = {
+        color = { 0.03 0.89 0.47 }
+        ethos = ethos_communal
+        heritage = heritage_akan
+        language = language_kwa
+        martial_custom = martial_custom_male_only
+        traditions = {
+            tradition_zealous_people
+            tradition_monogamous
+            tradition_wedding_ceremonies
+            tradition_seafaring
+        }
+        name_list = name_list_prussian
+        coa_gfx = {arabic_group_coa_gfx}
+        building_gfx = {indian_building_gfx}
+        clothing_gfx = {fp1_norse_clothing_gfx}
+        unit_gfx = {sub_sahran_unit_gfx}
+        ethnicities = {
+            10 = caucasian_blond
+            10 = slavic
+            
+
+        }
+    }

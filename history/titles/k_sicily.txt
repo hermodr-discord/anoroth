@@ -1,0 +1,5 @@
+c_malta = {
+	751.1.1 = {
+		holder = test_holder
+	}
+}

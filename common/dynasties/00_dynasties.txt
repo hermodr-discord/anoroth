@@ -1,0 +1,4 @@
+﻿dynn_test = {
+	name = "Test"
+	culture = "bulgarian"
+}

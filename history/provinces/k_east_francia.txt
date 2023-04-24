@@ -369,7 +369,6 @@
 	religion = catholic
 	holding = castle_holding
 	1120.1.1 = {
-		culture = saxon
 		religion = catholic
 	}
 }
@@ -389,7 +388,6 @@
 	religion = catholic
 	holding = castle_holding
 	1120.1.1 = {
-		culture = saxon
 		religion = catholic
 	}
 }
@@ -601,7 +599,6 @@
 		holding = castle_holding
 	}
 	1150.1.1 = {
-		culture = saxon
 		religion = catholic
 	}
 }
@@ -631,9 +628,6 @@
 	
 	950.1.1 = {
 		holding = castle_holding
-	}
-	1150.1.1 = {
-		culture = saxon
 	}
 }
 
@@ -678,7 +672,6 @@
 		holding = castle_holding
 	}
 	1168.1.1 = {
-		culture = saxon
 		religion = catholic
 	}
 	1066.1.1 = {
@@ -791,9 +784,6 @@
 	culture = guhinic
 	religion = catholic
 	holding = castle_holding
-	1120.1.1 = {
-		culture = franconian
-	}
 }
 3000 = {	#HOF
 	holding = none

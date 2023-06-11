@@ -1317,6 +1317,23 @@ language_ayneha = {
 
 
 
+language_anorothic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_anorothic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_anorothic }
+			multiply = 10
+		}
+	}
+	
+	color = old_anorothic
+}
 language_ranutic = {
 	type = language
 	is_shown = {
@@ -1332,5 +1349,5 @@ language_ranutic = {
 		}
 	}
 	
-	color = ranutic
+	color = old_ranutic
 }

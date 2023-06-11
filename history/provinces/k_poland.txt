@@ -2,7 +2,7 @@
 ##d_lesser_poland ###################################
 ###c_krakowska
 527 = {		#Krakow
-	culture = polish
+	culture = othorin
 	religion = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
@@ -45,7 +45,7 @@
 
 ###c_sacz
 532 = {		#Sacz
-	culture = polish
+	culture = othorin
 	religion = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
@@ -78,7 +78,7 @@
 
 ###c_sandomierska
 531 = {		#Sandomierz
-	culture = polish
+	culture = othorin
 	religion = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
@@ -178,7 +178,7 @@
 
 ###c_tarnowska
 4965 = {	#Tarnow
-	culture = polish
+	culture = othorin
 	religion = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
@@ -579,7 +579,7 @@
 
 ###c_cieszyn
 3040 = {	#Cieszyn
-	culture = polish
+	culture = othorin
 	religion = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {

@@ -527,10 +527,9 @@
 	}
 }
 2997 = {	#CHEB
-	holding = none
-	1040.1.1 = {
-		holding = castle_holding
-	}
+	culture = othorin
+	religion = catholic
+	holding = castle_holding
 }
 3001 = {	#REHAU
 	holding = none
@@ -752,7 +751,7 @@
 	holding = castle_holding
 }
 2999 = {	#SCHWARZBURG
-	culture = guhinic
+	culture = anaric
 	holding = castle_holding
 }
 3008 = {	#KAFERNBURG
@@ -848,7 +847,7 @@
 
 ###c_klingenberg
 2862 = {	#KLINGENBERG
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -904,7 +903,7 @@
 
 ###c_vaihingen
 2745 = {	#VAIHINGEN
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -918,7 +917,7 @@
 
 ###c_durne
 2739 = {	#DURNE
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -951,7 +950,7 @@
 ##d_east_franconia ###################################
 ###c_wurzburg
 2870 = {	#WURZBURG
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -964,7 +963,7 @@
 
 ###c_ansbach
 2875 = {	#ANSBACH
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -980,7 +979,7 @@
 
 ###c_coburg
 2998 = {	#COBURG
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = church_holding
 }
@@ -990,7 +989,7 @@
 
 ###c_hohenlohe
 2889 = {	#MERGENTHEIM
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -1003,7 +1002,7 @@
 
 ###c_nurnberg
 2877 = {	#NURNBERG
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -1026,7 +1025,7 @@
 
 ###c_bamberg
 2874 = {	#BAMBERG
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -1042,7 +1041,7 @@
 
 ###c_nordlingen
 2886 = {	#NORDLINGEN
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -1055,7 +1054,7 @@
 
 ###c_wiltberg
 2927 = {	#WILTBERG
-	culture = franconian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -1147,7 +1146,7 @@
 
 ###c_sankt_gallen
 2053 = {	#SANKT GALLEN
-	culture = swabian
+	culture = anorothic
 	religion = catholic
 	holding = church_holding
 }
@@ -1157,7 +1156,7 @@
 
 ###c_zurich
 2051 = {	#ZURICH
-	culture = swabian
+	culture = anorothic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1241,7 +1240,7 @@
 ##d_swabia ###################################
 ###c_ulm
 2768 = {	# ULM
-	culture = swabian
+	culture = anorothic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1266,7 +1265,7 @@
 
 ###c_grunningen
 2773 = {	#GRUNNINGEN
-	culture = swabian
+	culture = anorothic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1286,7 +1285,7 @@
 
 ###c_wurttemberg
 2748 = {	#WURTTEMBERG
-	culture = swabian
+	culture = anaric
 	religion = catholic
 	holding = castle_holding
 }
@@ -1318,7 +1317,7 @@
 
 ###c_zollern
 2763 = {	#ZOLLERN
-	culture = swabian
+	culture = anorothic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1334,7 +1333,7 @@
 
 ###c_hohenberg
 2759 = {	#HOHENBERG
-	culture = swabian
+	culture = anorothic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1344,7 +1343,7 @@
 
 ###c_furstenberg
 2757 = {	#FURSTENBERG
-	culture = swabian
+	culture = anorothic
 	religion = catholic
 	holding = castle_holding
 }

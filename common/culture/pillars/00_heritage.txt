@@ -156,6 +156,9 @@ heritage_vlach = {
 
 
 
+heritage_anorothic = {
+	type = heritage
+}
 heritage_ranutic = {
 	type = heritage
 }

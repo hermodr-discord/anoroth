@@ -1,7 +1,7 @@
-﻿proto_anorothic = {
+﻿proto_anorothic = { # Progenitor of the Anorothic, Alpine, Balkan, Ranutic, Vantic, and both Dnieper Heritages.
 	color = { 0.7 0.05 0.1 }
+	created = 2.1.1
 	parents = { proto_central_anorothic }
-	created = 1.1.1
 
 	history_loc_override = proto_anorothic_history_loc
 	
@@ -27,9 +27,9 @@
 		15 = slavic_dark_hair
 	}
 }
-proto_central_anorothic = {
+proto_central_anorothic = { # Progenitor of the Anorothic, Ranutic, and Vantic Heritages
 	color = { 0.7 0.05 0.1 }
-	created = 3100.1.1
+	created = 2800.1.1
 	parents = { proto_anorothic }
 
 	ethos = ethos_stoic
@@ -54,9 +54,9 @@ proto_central_anorothic = {
 		15 = slavic_dark_hair
 	}
 }
-proto_south_anorothic = {
+proto_south_anorothic = { # Progenitor of the Alpine and Balkan Heritages
 	color = { 0.7 0.3 0.0 }
-	created = 2600.1.1
+	created = 2650.1.1
 	parents = { proto_anorothic }
 
 	ethos = ethos_stoic
@@ -81,9 +81,9 @@ proto_south_anorothic = {
 		15 = slavic_dark_hair
 	}
 }
-proto_east_anorothic = {
+proto_east_anorothic = { # Progenitor of the Lower and Upper Dnieper Heritages
 	color = { 0.7 0.1 0.0 }
-	created = 2900.1.1
+	created = 3450.1.1
 	parents = { proto_anorothic }
 
 	ethos = ethos_stoic
@@ -108,9 +108,9 @@ proto_east_anorothic = {
 		15 = slavic_dark_hair
 	}
 }
-old_west_anorothic = {
+old_west_anorothic = { # Progenitor of the Anorothic, Anaric, Karanir, and Othorin Cultures
 	color = { 0.7 0.05 0.1 }
-	created = 3900.1.1
+	created = 4100.1.1
 	parents = { proto_central_anorothic }
 
 	ethos = ethos_stoic
@@ -135,9 +135,9 @@ old_west_anorothic = {
 		15 = slavic_dark_hair
 	}
 }
-old_east_anorothic = {
+old_east_anorothic = { # Progenitor of the Anorin, Drohinic, Kraghan, and Thalan Cultures
 	color = { 0.5 0.05 0.2 }
-	created = 3600.1.1
+	created = 4450.1.1
 	parents = { proto_central_anorothic }
 
 	ethos = ethos_stoic
@@ -162,9 +162,9 @@ old_east_anorothic = {
 		15 = slavic_dark_hair
 	}
 }
-anorothic = {
+anorothic = { # Small Culture situated in the Black Forest of Upper Germany
 	color = { 0.7 0.05 0.1 }
-	created = 5100.1.1
+	created = 6050.1.1
 	parents = { old_west_anorothic }
 
 	ethos = ethos_stoic
@@ -189,172 +189,172 @@ anorothic = {
 		15 = slavic_dark_hair
 	}
 }
-anaric = {
+anaric = { # Medium-sized Culture covering most of Upper Germany
 	color = { 0.7 0.0 0.025 }
-	created = 4900.1.1
-	parents = { old_west_anorothic }
-
-	ethos = ethos_stoic
-	heritage = heritage_anorothic
-	language = language_anorothic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_swabian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-othorin = {
-	color = { 0.65 0.05 0.1 }
-	created = 4500.1.1
-	parents = { old_west_anorothic }
-
-	ethos = ethos_stoic
-	heritage = heritage_anorothic
-	language = language_anorothic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_swabian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-karanir = {
-	color = { 0.7 0.025 0.05 }
-	created = 5400.1.1
-	parents = { old_west_anorothic }
-
-	ethos = ethos_stoic
-	heritage = heritage_anorothic
-	language = language_anorothic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_swabian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-kraghan = {
-	color = { 0.5 0.05 0.2 }
-	created = 4400.1.1
-	parents = { old_east_anorothic }
-
-	ethos = ethos_stoic
-	heritage = heritage_anorothic
-	language = language_anorothic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_swabian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-drohinic = {
-	color = { 0.7 0.025 0.075 }
-	created = 4900.1.1
-	parents = { old_east_anorothic }
-
-	ethos = ethos_stoic
-	heritage = heritage_anorothic
-	language = language_anorothic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_swabian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-anorin = {
-	color = { 0.5 0.05 0.2 }
-	created = 3600.1.1
-	parents = { old_east_anorothic }
-
-	ethos = ethos_stoic
-	heritage = heritage_anorothic
-	language = language_anorothic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_swabian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-thalan = {
-	color = { 0.5 0.05 0.2 }
 	created = 6800.1.1
+	parents = { anorothic }
+
+	ethos = ethos_stoic
+	heritage = heritage_anorothic
+	language = language_anorothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_swabian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+karanir = { # Expansive Culture covering most of the Hungarian Danube and the plains north of the Balkan Mountains
+	color = { 0.7 0.025 0.05 }
+	created = 5950.1.1
+	parents = { old_west_anorothic }
+
+	ethos = ethos_stoic
+	heritage = heritage_anorothic
+	language = language_anorothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_swabian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+othorin = { # Expansive Culture covering Bohemia and the hills of Silesia
+	color = { 0.65 0.05 0.1 }
+	created = 6100.1.1
+	parents = { old_west_anorothic }
+
+	ethos = ethos_stoic
+	heritage = heritage_anorothic
+	language = language_anorothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_swabian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+kraghan = { # Small Culture within the Pannonian Basin
+	color = { 0.5 0.05 0.2 }
+	created = 5700.1.1
 	parents = { old_east_anorothic }
+
+	ethos = ethos_stoic
+	heritage = heritage_anorothic
+	language = language_anorothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_swabian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+drohinic = { # Medium-sized Culture covering the Carpathian Mountains
+	color = { 0.7 0.025 0.075 }
+	created = 6400.1.1
+	parents = { kraghan }
+
+	ethos = ethos_stoic
+	heritage = heritage_anorothic
+	language = language_anorothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_swabian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+anorin = { # Medium-sized Culture covering the Mouth of the Danube and surrounding lowlands
+	color = { 0.5 0.05 0.2 }
+	created = 6100.1.1
+	parents = { old_east_anorothic }
+
+	ethos = ethos_stoic
+	heritage = heritage_anorothic
+	language = language_anorothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_swabian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+thalan = { # Small isolated Culture on Crimea
+	color = { 0.5 0.05 0.2 }
+	created = 7050.1.1
+	parents = { anorin }
 
 	ethos = ethos_stoic
 	heritage = heritage_anorothic

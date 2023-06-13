@@ -752,10 +752,12 @@
 }
 2999 = {	#SCHWARZBURG
 	culture = anaric
+	religion = catholic
 	holding = castle_holding
 }
 3008 = {	#KAFERNBURG
 	culture = guhinic
+	religion = catholic
 	holding = castle_holding
 }
 

@@ -1,4 +1,4 @@
-﻿old_ranutic = {
+﻿old_ranutic = { # Progenitor of the Ranutic Heritage
 	color = { 0.8 0.0 0.0 }
 	created = 4200.1.1
 	parents = { proto_central_anorothic }
@@ -27,7 +27,7 @@
 		15 = slavic_dark_hair
 	}
 }
-old_east_ranutic = {
+old_east_ranutic = { # Progenitor of the Karkudan and Guhinic Cultures
 	color = { 0.5 0.025 0.0 }
 	created = 5100.1.1
 	parents = { old_ranutic }
@@ -56,7 +56,7 @@ old_east_ranutic = {
 		15 = slavic_dark_hair
 	}
 }
-old_west_ranutic = {
+old_west_ranutic = { # Progenitor of the Antaric, Suhenic, and Thantalic Cultures
 	color = { 0.8 0.0 0.0 }
 	created = 5500.1.1
 	parents = { old_ranutic }
@@ -85,7 +85,7 @@ old_west_ranutic = {
 		15 = slavic_dark_hair
 	}
 }
-suhenic = {
+suhenic = { # Expansive Culture situated in the valley between the Rhine and Elbe Rivers
 	color = { 0.8 0.0 0.0 }
 	created = 6400.1.1
 	parents = { old_west_ranutic }
@@ -115,7 +115,7 @@ suhenic = {
 		15 = slavic_dark_hair
 	}
 }
-antaric = {
+antaric = { # Expansive Culture spanning the north bank of the Rhine, Denmark, and Scania
 	color = { 0.7 0.025 0.0 }
 	created = 6250.1.1
 	parents = { old_west_ranutic }
@@ -145,10 +145,10 @@ antaric = {
 		15 = slavic_dark_hair
 	}
 }
-thantalic = {
+thantalic = { # Medium-sized culture spanning southern Sweden and Gotland
 	color = { 0.6 0.0 0.1 }
 	created = 6600.1.1
-	parents = { old_west_ranutic }
+	parents = { antaric }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_ranutic
@@ -174,19 +174,20 @@ thantalic = {
 		15 = slavic_dark_hair
 	}
 }
-karkudan = {
-	color = { 0.8 0.05 0.0 }
-	created = 6450.1.1
+guhinic = { # Expansive culture north of Bohemia, covering most of the valley between the Rhine and Vistula rivers
+	color = { 0.5 0.025 0.0 }
+	created = 6700.1.1
 	parents = { old_east_ranutic }
 	
-	ethos = ethos_stoic
+	ethos = ethos_communal
 	heritage = heritage_ranutic
 	language = language_ranutic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_hunters
-		tradition_forest_folk
-		tradition_forest_fighters
+		tradition_hussar
+		tradition_hereditary_hierarchy
+		tradition_horse_breeder
+		tradition_pastoralists
 	}
 	
 	name_list = name_list_bavarian
@@ -203,20 +204,19 @@ karkudan = {
 		15 = slavic_dark_hair
 	}
 }
-guhinic = {
-	color = { 0.5 0.025 0.0 }
-	created = 6700.1.1
-	parents = { old_east_ranutic }
+karkudan = { # Small culture situated on the Baltic coast between the Oder and Vistula rivers
+	color = { 0.8 0.05 0.0 }
+	created = 7250.1.1
+	parents = { guhinic }
 	
-	ethos = ethos_communal
+	ethos = ethos_stoic
 	heritage = heritage_ranutic
 	language = language_ranutic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_hussar
-		tradition_hereditary_hierarchy
-		tradition_horse_breeder
-		tradition_pastoralists
+		tradition_hunters
+		tradition_forest_folk
+		tradition_forest_fighters
 	}
 	
 	name_list = name_list_bavarian

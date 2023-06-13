@@ -1,8 +1,8 @@
 ﻿test_holder = {
 	name = "Johnny Test"
 	dynasty = dynn_test
-	religion = orthodox
-	culture = bulgarian
+	religion = kushitism_pagan
+	culture = proto_anorothic
 	dna = johnny_dna
 
 	diplomacy = 15

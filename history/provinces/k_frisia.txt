@@ -46,7 +46,7 @@
 
 ###c_zeeland
 2112 = {	#MIDDELBURG
-	culture = dutch
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -63,7 +63,7 @@
 ##d_gelre ###################################
 ###c_guelders
 2450 = {	#GELDERN
-	culture = dutch
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }

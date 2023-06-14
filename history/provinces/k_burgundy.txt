@@ -167,7 +167,7 @@
 ##d_dauphine ###################################
 ###c_lyon
 2065 = {	#LYON
-	culture = french
+	culture = sorvan
 	religion = catholic
 	holding = castle_holding
 }
@@ -186,7 +186,7 @@
 
 ###c_forez
 2297 = {	#FEURS
-	culture = french
+	culture = sorvan
 	religion = catholic
 	holding = castle_holding
 }
@@ -248,7 +248,7 @@
 ##d_upper_burgundy ###################################
 ###c_besancon
 2076 = {	#BESANCON
-	culture = french
+	culture = nivan
 	religion = catholic
 	holding = castle_holding
 }
@@ -273,7 +273,7 @@
 
 ###c_bresse
 2071 = {	#BOURG
-	culture = french
+	culture = nivan
 	religion = catholic
 	holding = castle_holding
 }
@@ -286,7 +286,7 @@
 
 ###c_dole
 2458 = {	#DOLE
-	culture = french
+	culture = nivan
 	religion = catholic
 	holding = castle_holding
 }

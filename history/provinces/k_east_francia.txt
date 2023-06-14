@@ -662,7 +662,7 @@
 
 ##d_holstein ###################################
 ###c_lubeck
-2804 = {	#LÜBECK
+2804 = {	#Lï¿½BECK
 	culture = antaric
 	religion = slavic_pagan
 	holding = tribal_holding
@@ -794,7 +794,7 @@
 ##d_west_franconia ###################################
 ###c_mainz
 2694 = {	#MAINZ
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = church_holding
 	1066.1.1 = {
@@ -821,7 +821,7 @@
 
 ###c_frankfurt
 2855 = {	#FRANKFURT
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -863,7 +863,7 @@
 
 ###c_erbach
 2737 = {	#ERBACH
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -876,7 +876,7 @@
 
 ###c_worms
 2731 = {	#WORMS
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -886,7 +886,7 @@
 
 ###c_speyer
 2732 = {	#SPEYER
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -932,7 +932,7 @@
 
 ###c_kaiserlautern
 2729 = {	#KAISERLAUTERN
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1176,7 +1176,7 @@
 ##d_alsace ###################################
 ###c_strassburg
 2721 = {	#STRASSBURG
-	culture = swabian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1192,7 +1192,7 @@
 
 ###c_breisgau
 2751 = {	#FREIBURG
-	culture = swabian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1209,7 +1209,7 @@
 
 ###c_colmar
 2717 = {	#COLMAR
-	culture = swabian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1219,7 +1219,7 @@
 
 ###c_sundgau
 2057 = {	#MONTBELIARD
-	culture = swabian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -1300,7 +1300,7 @@
 
 ###c_baden
 2746 = {	#BADEN
-	culture = swabian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }

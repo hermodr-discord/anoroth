@@ -2,12 +2,9 @@
 ##d_luxembourg ###################################
 ###c_luxembourg
 2082 = {	#LUXEMBOURG
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
-	1000.1.1 = {
-		culture = franconian
-	}
 }
 2090 = {	#BASTOGNE
 	holding = city_holding
@@ -24,7 +21,7 @@
 
 ###c_bouillon
 2091 = {	#BOUILLON
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -46,7 +43,7 @@
 
 ###c_liege
 2097 = {	#LIEGE
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -59,7 +56,7 @@
 
 ###c_namur
 2098 = {	#NAMUR
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -73,7 +70,7 @@
 ##d_brabant ###################################
 ###c_brabant
 2105 = {	#LEUVEN
-	culture = dutch
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -86,7 +83,7 @@
 
 ###c_antwerpen
 2106 = {	#ANTWERP
-	culture = dutch
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -102,7 +99,7 @@
 
 ###c_hainaut
 2117 = {	#MONS
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -118,7 +115,7 @@
 
 ###c_cambray
 2118 = {	#CAMBRAI
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -132,7 +129,7 @@
 ##d_julich ###################################
 ###c_aachen
 2092 = {	#AACHEN
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 	special_building = palace_of_aachen_01
@@ -168,7 +165,7 @@
 
 ###c_cleves
 2104 = {	#KLEVE
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -190,7 +187,7 @@
 
 ###c_maastricht
 2099 = {	#MAASTRICHT
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -204,7 +201,7 @@
 ##d_upper_lorraine ###################################
 ###c_trier
 2083 = {	#TRIER
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -227,14 +224,14 @@
 
 ###c_nancy
 2709 = {	#NANCY
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
 2078 = {	#EPINAL
 	holding = church_holding
 }
-2713 = {	#BLANKENBERG = LÜNSTADT / LUNEVILLE
+2713 = {	#BLANKENBERG = Lï¿½NSTADT / LUNEVILLE
 	holding = none
 	950.1.1 = {
 		holding = city_holding
@@ -247,7 +244,7 @@
 
 ###c_metz
 2708 = {	#METZ
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -269,7 +266,7 @@
 
 ###c_saarbrucken
 2704 = {	#SAARBRUCKEN
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -285,7 +282,7 @@
 
 ###c_puttlingen
 2710 = {	#PUTTLINGEN
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -295,7 +292,7 @@
 
 ###c_neufchateau
 2384 = {	#NEUFCHATEAU
-	culture = french
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }
@@ -309,7 +306,7 @@
 ##d_lower_lorraine ###################################
 ###c_cologne
 2088 = {	#COLOGNE
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 	special_building_slot = holy_site_cologne_cathedral_01
@@ -381,7 +378,7 @@
 
 ###c_koblenz
 2084 = {	#KOBLENZ
-	culture = franconian
+	culture = sauhinic
 	religion = catholic
 	holding = castle_holding
 }

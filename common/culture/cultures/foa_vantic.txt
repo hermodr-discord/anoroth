@@ -1,0 +1,251 @@
+old_vantic = { #Progenitor of the Vantic cultures, of West of the River Sauhin, West of the (Rhone), and North the (Pyrennes)
+	color = { 0.7 0.025 0.025 }
+	created = 4800.1.1
+	parents = { proto_central_anorothic }
+
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+north_vantic = { #Vants that split and stayed neared the Vant and the Sauhin River.
+	color = { 0.7 0.025 0.025 }
+	created = 5400.1.1
+	parents = { old_vantic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+vantic = { #Vants that settled around the Vant River Basin
+	color = { 0.7 0.025 0.025 }
+	created = 5900.1.1
+	parents = { proto_central_anorothic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+sauhinic = { #Vants that migrated into the Suhen Basin
+	color = { 0.55 0.0 0.025 }
+	created = 6050.1.1
+	parents = { proto_central_anorothic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+nivan = { # Vants that adapted closer to Anorothic culture.
+	color = { 0.45 0.025 0.025 }
+	created = 6250.1.1
+	parents = { proto_central_anorothic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+eantean = { # Originated from Vantic Settlers across the (English Channel)
+	color = { 0.35  0.03  0.03 }
+	created = 6850.1.1
+	parents = { proto_central_anorothic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+south_vantic = { # Vants that migrated down to the Nahlan lands.
+	color = { 0.8 0.0 0.0 }
+	created = 5600.1.1
+	parents = { old_vantic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+dovian = { # Vants of the migrations against the Nahlan and Valkh.
+	color = { 0.4 0.08 0.08 }
+	created = 6100.1.1
+	parents = { proto_central_anorothic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+sorvan = { # From Dovians that marched onto the (Pyrennean Mountains)
+	color = { 0.6 0.08 0.08 }
+	created = 6500.1.1
+	parents = { proto_central_anorothic }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ranutic
+	language = language_ranutic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}

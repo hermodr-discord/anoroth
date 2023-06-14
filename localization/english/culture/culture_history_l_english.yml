@@ -1,2 +1,15 @@
 ﻿l_english:
+ # ANOROTHIC CULTURES!
  proto_anorothic_history_loc:0 "Formed from various $anorothic_group$ tribes in the dawn of the First Era"
+ # RANUTIC CULTURES!
+
+ # VANTIC CULTURES!
+ old_vantic_history_loc:0 "Formed from various Anorothic tribes after migrating west in the start of the Third Era"
+ north_vantic_history_loc:0 "Formed from Old Vants that settled in the North of Vantia"
+ vantic_history_loc:0 "Formed from Vants that settled in the river basin of the River Vant"
+ sauhinic_history_loc:0 "Vants that fought with the Suhenic to settle in the Suhen River Valley"
+ nivan_history_loc:0 "Vants that adopted Anorothic customs, and integrated further"
+ eantean_history_loc:0 "Vants that crossed the (ENGLISH CHANNEL) and settled there"
+ south_vantic_history_loc:0 "Formed from Old Vants that migrated into the lands of the Nahlans"
+ dovian_history_loc:0 "Formed from Vants that took the lands of the Nahlan tribes"
+ sorvan_history_loc:0 "Vants that continued moving south to settle into the Valkh lands"

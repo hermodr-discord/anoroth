@@ -1,11 +1,13 @@
-old_vantic = { #Progenitor of the Vantic cultures, of West of the River Sauhin, West of the (Rhone), and North the (Pyrennes)
+old_vantic = { #Progenitor of the North and South Vantic cultures, of West of the River Sauhin, West of the (Rhone), and North the (Pyrennes)
 	color = { 0.7 0.025 0.025 }
 	created = 4800.1.1
 	parents = { proto_central_anorothic }
 
+	history_loc_override = old_vantic_history_loc
+
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -30,10 +32,12 @@ north_vantic = { #Vants that split and stayed neared the Vant and the Sauhin Riv
 	color = { 0.7 0.025 0.025 }
 	created = 5400.1.1
 	parents = { old_vantic }
+
+	history_loc_override = north_vantic_history_loc
 	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -57,11 +61,13 @@ north_vantic = { #Vants that split and stayed neared the Vant and the Sauhin Riv
 vantic = { #Vants that settled around the Vant River Basin
 	color = { 0.7 0.025 0.025 }
 	created = 5900.1.1
-	parents = { proto_central_anorothic }
+	parents = { north_vantic }
+	
+	history_loc_override = vantic_history_loc
 	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -85,11 +91,13 @@ vantic = { #Vants that settled around the Vant River Basin
 sauhinic = { #Vants that migrated into the Suhen Basin
 	color = { 0.55 0.0 0.025 }
 	created = 6050.1.1
-	parents = { proto_central_anorothic }
+	parents = { north_vantic }
+	
+	history_loc_override = sauhinic_history_loc
 	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -113,11 +121,13 @@ sauhinic = { #Vants that migrated into the Suhen Basin
 nivan = { # Vants that adapted closer to Anorothic culture.
 	color = { 0.45 0.025 0.025 }
 	created = 6250.1.1
-	parents = { proto_central_anorothic }
+	parents = { north_vantic }
+	
+	history_loc_override = nivan_history_loc
 	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -141,11 +151,13 @@ nivan = { # Vants that adapted closer to Anorothic culture.
 eantean = { # Originated from Vantic Settlers across the (English Channel)
 	color = { 0.35  0.03  0.03 }
 	created = 6850.1.1
-	parents = { proto_central_anorothic }
+	parents = { north_vantic }
+	
+	history_loc_override = eantean_history_loc
 	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -171,9 +183,11 @@ south_vantic = { # Vants that migrated down to the Nahlan lands.
 	created = 5600.1.1
 	parents = { old_vantic }
 	
+	history_loc_override = south_vantic_history_loc
+	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -197,11 +211,13 @@ south_vantic = { # Vants that migrated down to the Nahlan lands.
 dovian = { # Vants of the migrations against the Nahlan and Valkh.
 	color = { 0.4 0.08 0.08 }
 	created = 6100.1.1
-	parents = { proto_central_anorothic }
+	parents = { south_vantic }
+	
+	history_loc_override = dovian_history_loc
 	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		
@@ -225,11 +241,13 @@ dovian = { # Vants of the migrations against the Nahlan and Valkh.
 sorvan = { # From Dovians that marched onto the (Pyrennean Mountains)
 	color = { 0.6 0.08 0.08 }
 	created = 6500.1.1
-	parents = { proto_central_anorothic }
+	parents = { south_vantic }
+	
+	history_loc_override = sorvan_history_loc
 	
 	ethos = ethos_bellicose
-	heritage = heritage_ranutic
-	language = language_ranutic
+	heritage = heritage_vantic
+	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		

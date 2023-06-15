@@ -1,8 +1,7 @@
 ﻿proto_anorothic = { # Progenitor of the Anorothic, Alpine, Balkan, Ranutic, Vantic, and both Dnieper Heritages.
 	color = { 0.7 0.05 0.1 }
-	created = 2.1.1
-	parents = { proto_central_anorothic }
 
+	created = 2.1.1
 	history_loc_override = proto_anorothic_history_loc
 	
 	ethos = ethos_stoic
@@ -31,8 +30,10 @@
 }
 proto_central_anorothic = { # Progenitor of the Anorothic, Ranutic, and Vantic Heritages
 	color = { 0.7 0.05 0.1 }
-	created = 2800.1.1
+
 	parents = { proto_anorothic }
+	created = 2800.1.1
+	history_loc_override = proto_central_anorothic_history_loc
 
 	ethos = ethos_bureaucratic
 	heritage = heritage_anorothic
@@ -60,8 +61,10 @@ proto_central_anorothic = { # Progenitor of the Anorothic, Ranutic, and Vantic H
 }
 proto_south_anorothic = { # Progenitor of the Alpine and Balkan Heritages
 	color = { 0.7 0.3 0.0 }
-	created = 2650.1.1
+
 	parents = { proto_anorothic }
+	created = 2650.1.1
+	history_loc_override = proto_south_anorothic_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_anorothic
@@ -89,8 +92,10 @@ proto_south_anorothic = { # Progenitor of the Alpine and Balkan Heritages
 }
 proto_east_anorothic = { # Progenitor of the Lower and Upper Dnieper Heritages
 	color = { 0.7 0.1 0.0 }
-	created = 3450.1.1
+
 	parents = { proto_anorothic }
+	created = 3450.1.1
+	history_loc_override = proto_east_anorothic_history_loc
 
 	ethos = ethos_spiritual
 	heritage = heritage_anorothic
@@ -118,8 +123,10 @@ proto_east_anorothic = { # Progenitor of the Lower and Upper Dnieper Heritages
 }
 old_west_anorothic = { # Progenitor of the Anorothic, Anaric, Karanir, and Othorin Cultures
 	color = { 0.7 0.05 0.1 }
-	created = 4100.1.1
+
 	parents = { proto_central_anorothic }
+	created = 4100.1.1
+	history_loc_override = old_west_anorothic_history_loc
 
 	ethos = ethos_bellicose
 	heritage = heritage_anorothic
@@ -147,8 +154,10 @@ old_west_anorothic = { # Progenitor of the Anorothic, Anaric, Karanir, and Othor
 }
 old_east_anorothic = { # Progenitor of the Anorin, Drohinic, Kraghan, and Thalan Cultures
 	color = { 0.5 0.05 0.2 }
-	created = 4450.1.1
+
 	parents = { proto_central_anorothic }
+	created = 4450.1.1
+	history_loc_override = old_east_anorothic_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_anorothic
@@ -176,8 +185,10 @@ old_east_anorothic = { # Progenitor of the Anorin, Drohinic, Kraghan, and Thalan
 }
 anorothic = { # Small Culture situated in the Black Forest of Upper Germany
 	color = { 0.7 0.05 0.1 }
-	created = 6050.1.1
+
 	parents = { old_west_anorothic }
+	created = 6050.1.1
+	history_loc_override = anorothic_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_anorothic
@@ -206,8 +217,10 @@ anorothic = { # Small Culture situated in the Black Forest of Upper Germany
 }
 anaric = { # Medium-sized Culture covering most of Upper Germany
 	color = { 0.7 0.0 0.025 }
-	created = 6800.1.1
+
 	parents = { anorothic }
+	created = 6800.1.1
+	history_loc_override = anaric_history_loc
 
 	ethos = ethos_courtly
 	heritage = heritage_anorothic
@@ -236,8 +249,10 @@ anaric = { # Medium-sized Culture covering most of Upper Germany
 }
 karanir = { # Expansive Culture covering most of the Hungarian Danube and the plains north of the Balkan Mountains
 	color = { 0.7 0.025 0.05 }
-	created = 5950.1.1
+
 	parents = { old_west_anorothic }
+	created = 5950.1.1
+	history_loc_override = karanir_history_loc
 
 	ethos = ethos_spiritual
 	heritage = heritage_anorothic
@@ -266,8 +281,10 @@ karanir = { # Expansive Culture covering most of the Hungarian Danube and the pl
 }
 othorin = { # Expansive Culture covering Bohemia and the hills of Silesia
 	color = { 0.65 0.05 0.1 }
-	created = 6100.1.1
+
 	parents = { old_west_anorothic }
+	created = 6100.1.1
+	history_loc_override = othorin_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_anorothic
@@ -296,12 +313,14 @@ othorin = { # Expansive Culture covering Bohemia and the hills of Silesia
 }
 kraghan = { # Small Culture within the Pannonian Basin
 	color = { 0.5 0.05 0.2 }
-	created = 5700.1.1
+
 	parents = { old_east_anorothic }
+	created = 5700.1.1
+	history_loc_override = kraghan_history_loc
 
 	ethos = ethos_spiritual
 	heritage = heritage_anorothic
-	language = language_anorothic
+	language = language_anorin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_forest_folk
@@ -326,12 +345,14 @@ kraghan = { # Small Culture within the Pannonian Basin
 }
 drohinic = { # Medium-sized Culture covering the Carpathian Mountains
 	color = { 0.7 0.025 0.075 }
-	created = 6400.1.1
+
 	parents = { kraghan }
+	created = 6400.1.1
+	history_loc_override = drohinic_history_loc
 
 	ethos = ethos_spiritual
 	heritage = heritage_anorothic
-	language = language_anorothic
+	language = language_anorin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mountain_homes
@@ -356,12 +377,14 @@ drohinic = { # Medium-sized Culture covering the Carpathian Mountains
 }
 anorin = { # Medium-sized Culture covering the Mouth of the Danube and surrounding lowlands
 	color = { 0.5 0.05 0.2 }
-	created = 6100.1.1
+
 	parents = { old_east_anorothic }
+	created = 6100.1.1
+	history_loc_override = anorin_history_loc
 
 	ethos = ethos_communal
 	heritage = heritage_anorothic
-	language = language_anorothic
+	language = language_anorin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_wetlanders
@@ -386,12 +409,14 @@ anorin = { # Medium-sized Culture covering the Mouth of the Danube and surroundi
 }
 thalan = { # Small isolated Culture on Crimea
 	color = { 0.5 0.05 0.2 }
-	created = 7050.1.1
+
 	parents = { anorin }
+	created = 7050.1.1
+	history_loc_override = thalan_history_loc
 
 	ethos = ethos_bellicose
 	heritage = heritage_anorothic
-	language = language_anorothic
+	language = language_anorin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_metal_craftsmanship

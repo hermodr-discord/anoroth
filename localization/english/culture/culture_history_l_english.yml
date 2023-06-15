@@ -1,9 +1,22 @@
 ﻿l_english:
- # ANOROTHIC CULTURES!
- proto_anorothic_history_loc:0 "Formed from various $anorothic_group$ tribes in the dawn of the First Era"
- # RANUTIC CULTURES!
+ # ANOROTHIC CULTURES
+ proto_anorothic_history_loc:0 "Formed from various $anorothic_group$ tribes in the dawn of the [first_era|E]"
+ proto_central_anorothic_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] who migrated across the plains"
+ proto_south_anorothic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that crossed the Anor Mountains"
+ proto_east_anorothic_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] who migrated east in the [second_era|E]"
+ old_west_anorothic_history_loc:0 "Born of the [CULTURE.GetCollectiveNoun] that settled the upper Anor river"
+ old_east_anorothic_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] that migrated to the mouth of the Anor"
+ anorothic_history_loc:0 "Kept the old ways of the [CULTURE.GetName] high nobility"
+ anaric_history_loc:0 "Those who settled the northern lowlands of the Anor Mountains"
+ karanir_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] who settled the central Anor river"
+ othorin_history_loc:0 "Born of the [CULTURE.GetCollectiveNoun] who settled the hills north of the Anor river"
+ kraghan_history_loc:0 "Born of the [CULTURE.GetCollectiveNoun] who migrated to the Kraghav Basin"
+ drohinic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who settled the Kraghav mountains and hills"
+ anorin_history_loc:0 "Progeny of the [CULTURE.GetCollectiveNoun] that settled the mouth of the Anor river"
+ thalan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated across the Sea of Thal"
+ # RANUTIC CULTURES
 
- # VANTIC CULTURES!
+ # VANTIC CULTURES
  old_vantic_history_loc:0 "Descended from Anorothic tribes that migrated west in the Third Era"
  north_vantic_history_loc:0 "Descended from Old Vants"
  vantic_history_loc:0 "Descended from North Vants that settled in Vantia"

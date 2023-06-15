@@ -1,4 +1,4 @@
-old_vantic = { #Progenitor of the North and South Vantic cultures, of West of the River Sauhin, West of the (Rhone), and North the (Pyrennes)
+﻿old_vantic = { #Progenitor of the North and South Vantic cultures, of West of the River Sauhin, West of the (Rhone), and North the (Pyrennes)
 	color = { 0.7 0.025 0.025 }
 	created = 5100.1.1
 	parents = { proto_central_anorothic }

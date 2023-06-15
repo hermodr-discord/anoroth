@@ -1,0 +1,20 @@
+﻿### Eras
+first_era = {
+}
+first_era_short = {
+}
+
+second_era = {
+}
+second_era_short = {
+}
+
+third_era = {
+}
+third_era_short = {
+}
+
+fourth_era = {
+}
+fourth_era_short = {
+}

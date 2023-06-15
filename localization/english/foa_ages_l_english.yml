@@ -3,8 +3,8 @@
  ### Constants
 
  ## Era Dates
- ERA_1E_END:0 "'(int32)1627'"
- ERA_2E_END:0 "'(int32)2802'"
+ ERA_1E_END:0 "'(int32)2714'"
+ ERA_2E_END:0 "'(int32)3920'"
  ERA_3E_END:0 "'(int32)4783'"
  ERA_4E_END:0 "'(int32)7826'"
 
@@ -108,8 +108,8 @@
  # ERA
  ERA_SEL_MPGSD:0 "[Select_CString( GreaterThanOrEqualTo_int32($ERA_4E_END$, '(int32)1'), $ERA_5E_MPGSD$, $ERA_4E_MPGSD$)]"
  ERA_5E_MPGSD:0 "Select_CString( GreaterThanOrEqualTo_int32( MpBookmarkItem.GetDate.GetYear, $ERA_4E_END$ ), '5E ', $ERA_4E_MPGSD$ )"
- ERA_2E_MPGSD:0 "Select_CString( GreaterThanOrEqualTo_int32( MpBookmarkItem.GetDate.GetYear, $ERA_3E_END$ ), '4E ', $ERA_3E_MPGSD$ )"
- ERA_2E_MPGSD:0 "Select_CString( GreaterThanOrEqualTo_int32( MpBookmarkItem.GetDate.GetYear, $ERA_2E_END$ ), '3E ', $ERA_2E_MPGSD$ )"
+ ERA_4E_MPGSD:0 "Select_CString( GreaterThanOrEqualTo_int32( MpBookmarkItem.GetDate.GetYear, $ERA_3E_END$ ), '4E ', $ERA_3E_MPGSD$ )"
+ ERA_3E_MPGSD:0 "Select_CString( GreaterThanOrEqualTo_int32( MpBookmarkItem.GetDate.GetYear, $ERA_2E_END$ ), '3E ', $ERA_2E_MPGSD$ )"
  ERA_2E_MPGSD:0 "Select_CString( GreaterThanOrEqualTo_int32( MpBookmarkItem.GetDate.GetYear, $ERA_1E_END$ ), '2E ', '1E ' )"
  # YEAR
  YEAR_SEL_MPGSD:0 "[Select_int32( GreaterThanOrEqualTo_int32($ERA_4E_END$, '(int32)1'), $YEAR_5E_MPGSD$, $YEAR_4E_MPGSD$)]"

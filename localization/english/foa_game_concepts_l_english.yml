@@ -1,0 +1,22 @@
+﻿l_english:
+ ### NOTE: Vanilla rewrites need to be put in localization/replace/english/game_concepts_l_english.yml
+
+ game_concept_first_era:0 "First Era"
+ game_concept_first_era_desc:0 "The First Era is the start of civilization as we know it, before the Anorothic unifications and the advent of ironworking. The unification of the Anorothic tribes in 1E 2714 under Anortagh Khaaghur brought the age to its end, bringing forth the start of the [second_era|E]."
+ game_concept_first_era_short:0 "First"
+ game_concept_first_era_short_desc:0 "The First Era is the start of civilization as we know it, lasting for over 2,000 years. The unification of the Anorothic tribes under An-Taaghur brought the First Era to an end, ushering in the [second_era|E]."
+
+ game_concept_second_era:0 "Second Era"
+ game_concept_second_era_desc:0 "The Second Era began with the birth of the First Anorothic Empire, spanning 1,200 years of relative peace across the continent until the Akhtin Plague came, bringing an end to the Empire."
+ game_concept_second_era_short:0 "Second"
+ game_concept_second_era_short_desc:0 "The Second Era began with the birth of the First Anorothic Empire, spanning 1,200 years of relative peace across the continent until the Akhtin Plague came, bringing an end to the Empire."
+
+ game_concept_third_era:0 "Third Era"
+ game_concept_third_era_desc:0 "The Third Era, known as the Dark Ages, came as a result of the Akhtin Plague, which had wiped out over half the population of the known world. Lasting for almost 9 centuries, the formation of the Second Anorothic Empire marked the end of this era, a sign of hope for the future."
+ game_concept_third_era_short:0 "Third"
+ game_concept_third_era_short_desc:0 "The Third Era, known as the Dark Ages, came as a result of the Akhtin Plague, which had wiped out over half the population of the known world. Lasting for almost 9 centuries, the formation of the Second Anorothic Empire marked the end of this era, a sign of hope for the future."
+
+ game_concept_fourth_era:0 "Fourth Era"
+ game_concept_fourth_era_desc:0 "The Fourth Era was the most prosperous time for the Anorothi, notable for its great technological and cultural innovation over more than 3 thousand years. But this peace also led to corruption and intrigue, culminating in the assassination of the Emperor in 4E 3042 and causing the Empire to shatter into civil war, bringing an end to the Fourth Era."
+ game_concept_fourth_era_short:0 "Fourth"
+ game_concept_fourth_era_short_desc:0 "The Fourth Era was the most prosperous time for the Anorothi, notable for its great technological and cultural innovation over more than 3 thousand years. But this peace also led to corruption and intrigue, culminating in the assassination of the Emperor in 4E 3042 and causing the Empire to shatter into civil war, bringing an end to the Fourth Era."

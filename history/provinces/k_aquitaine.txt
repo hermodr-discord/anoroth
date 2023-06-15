@@ -30,7 +30,7 @@
 
 ###c_labourd
 2012 = {	#BAYONNE
-	culture = basque
+	culture = valkh
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -105,7 +105,7 @@
 
 ###c_perigord
 2237 = {	#PERIGUEUX
-	culture = occitan
+	culture = nahlan
 	religion = catholic
 	holding = castle_holding
 }
@@ -121,7 +121,7 @@
 
 ###c_limousin
 2248 = {	#LIMGOES
-	culture = occitan
+	culture = nahlan
 	religion = catholic
 	holding = castle_holding
 }
@@ -297,11 +297,9 @@
 
 ###c_carcassonne
 2006 = {	#CARCASSONNE
-	culture = occitan
+	culture = sorvan
 	religion = catholic
 	holding = castle_holding
-	1150.1.1 = { religion = cathar }
-	1244.3.16 = { religion = catholic}
 }
 2447 = {	#LIMOUX
 	holding = church_holding
@@ -327,14 +325,9 @@
 
 ###c_foix
 2209 = {	#FOIX
-	culture = occitan
+	culture = valkh
 	religion = catholic
 	holding = castle_holding
-	977.1.1	 = {
-		culture = occitan
-	}
-	1200.1.1 = { religion = cathar }
-	1244.3.16 = { religion = catholic}
 }
 2210 = {	#TARASCON
 	holding = city_holding
@@ -362,7 +355,7 @@
 
 ###c_bigorre
 2010 = {	#TARBES
-	culture = occitan
+	culture = valkh
 	religion = catholic
 	holding = castle_holding
 }
@@ -372,7 +365,7 @@
 
 ###c_bearn
 2193 = {	#PAU
-	culture = basque
+	culture = valkh
 	religion = catholic
 	holding = castle_holding
 }
@@ -385,12 +378,9 @@
 
 ###c_comminges
 2009 = {	#BERTRAND DE COMMINGES
-	culture = occitan
+	culture = valkh
 	religion = catholic
 	holding = castle_holding
-	977.1.1	 = {
-		culture = occitan
-	}
 }
 2008 = {	#SAINT LIZIER
 	holding = church_holding
@@ -485,7 +475,7 @@
 ##d_auvergne ###################################
 ###c_auvergne
 2294 = {	#AURILLAC
-	culture = occitan
+	culture = nahlan
 	religion = catholic
 	holding = castle_holding
 }
@@ -498,7 +488,7 @@
 
 ###c_clermont_sur_allier
 2289 = {	#CLERMONT SUR AILLER
-	culture = occitan
+	culture = nahlan
 	religion = catholic
 	holding = castle_holding
 }
@@ -535,7 +525,7 @@
 ##d_bourbon ###################################
 ###c_bourbon
 2310 = {	#BOURBON-LARCHEMBAULT
-	culture = occitan
+	culture = nahlan
 	religion = catholic
 	holding = castle_holding
 }
@@ -560,7 +550,7 @@
 }
 ###c_jaligny
 2309 = {	#SAINT POURCAIN
-	culture = occitan
+	culture = nahlan
 	religion = catholic
 	holding = castle_holding
 }
@@ -570,7 +560,7 @@
 
 ###c_la_marche
 2285 = {	#GRANDMONT
-	culture = occitan
+	culture = nahlan
 	religion = catholic
 	holding = castle_holding
 }

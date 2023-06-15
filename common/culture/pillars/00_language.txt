@@ -32,6 +32,23 @@ language_anorin = {
 
 	color = anorin
 }
+language_nahlan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_nahlan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_nahlan }
+			multiply = 10
+		}
+	}
+	
+	color = nahlan
+}
 language_ranutic = {
 	type = language
 	is_shown = {
@@ -48,6 +65,23 @@ language_ranutic = {
 	}
 	
 	color = ranutic
+}
+language_valkh = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_valkh
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_valkh }
+			multiply = 10
+		}
+	}
+	
+	color = valkh
 }
 language_vantic = {
 	type = language

@@ -1,0 +1,260 @@
+﻿proto_valkh = { # Progenitor of the Valkh Heritage
+	color = { 0.1 0.45 0.05 }
+
+	created = 250.1.1
+	#history_loc_override = proto_valkh_history_loc
+	
+	ethos = ethos_bellicose
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+proto_north_valkh = { # Progenitor of the Nahlan Culture
+	color = { 0.0 0.4 0.025 }
+	
+	parents = { proto_valkh }
+	created = 2450.1.1
+	#history_loc_override = proto_north_valkh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+proto_south_valkh = { # Progenitor of the Valkh Cultures
+	color = { 0.1 0.45 0.05 }
+	
+	parents = { proto_valkh }
+	created = 2600.1.1
+	#history_loc_override = proto_south_valkh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+old_nahlan = { # Progenitor of the Nahlan Culture 
+	color = { 0.0 0.4 0.025 }
+	
+	parents = { proto_north_valkh }
+	created = 3850.1.1
+	#history_loc_override = old_nahlan_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_nahlan
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+old_north_valkh = { # Progenitor of the Valkh Culture
+	color = { 0.1 0.45 0.05 }
+	
+	parents = { proto_south_valkh }
+	created = 3350.1.1
+	#history_loc_override = old_north_valkh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+old_west_valkh = { # Progenitor of the Askhal, Korun, Malghas, and Nadrahn Cultures
+	color = { 0.0 0.35 0.0 }
+	
+	parents = { proto_south_valkh }
+	created = 3300.1.1
+	#history_loc_override = old_west_valkh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+old_south_valkh = { # Progenitor of the Alkuhn and Vazh Cultures
+	color = { 0.0 0.25 0.15 }
+	
+	parents = { proto_south_valkh }
+	created = 3700.1.1
+	#history_loc_override = old_south_valkh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+nahlan = { # Small and isolated Culture in the Occitan Forest
+	color = { 0.0 0.4 0.025 }
+	
+	parents = { old_nahlan }
+	created = 5400.1.1
+	#history_loc_override = nahlan_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_nahlan
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+valkh = { # Medium-sized isolated Culture in the Pyrenees
+	color = { 0.1 0.45 0.05 }
+	
+	parents = { old_north_valkh }
+	created = 4900.1.1
+	#history_loc_override = valkh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}

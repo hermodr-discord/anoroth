@@ -42562,11 +42562,6 @@ e_france = {
 
 					color = { 110 100 155 }
 				}
-				b_limoux = {
-					province = 2447
-
-					color = { 110 100 155 }
-				}
 			}
 			c_beziers = {
 				color = { 115 100 220 }
@@ -42609,6 +42604,11 @@ e_france = {
 					province = 2211
 
 					color = { 95 24 226 }
+				}
+				b_limoux = {
+					province = 2447
+
+					color = { 110 100 155 }
 				}
 			}
 		}
@@ -45640,6 +45640,23 @@ e_spain = {
 
 					color = { 138 74 10 }
 				}
+				b_fraga = {
+					province = 1882
+
+					color = { 175 75 15 }
+
+					cultural_names = {
+						name_list_bedouin = cn_afraga
+						name_list_baranis = cn_afraga
+						name_list_butr = cn_afraga
+						name_list_zaghawa = cn_afraga
+						name_list_levantine = cn_afraga
+						name_list_egyptian = cn_afraga
+						name_list_maghrebi = cn_afraga
+						name_list_andalusian = cn_afraga
+						name_list_yemeni = cn_afraga
+					}
+				}
 			}
 			c_albarracin = {
 				color = { 135 70 20 }
@@ -45776,23 +45793,6 @@ e_spain = {
 
 					color = { 175 75 15 }
 				}
-				b_fraga = {
-					province = 1882
-
-					color = { 175 75 15 }
-
-					cultural_names = {
-						name_list_bedouin = cn_afraga
-						name_list_baranis = cn_afraga
-						name_list_butr = cn_afraga
-						name_list_zaghawa = cn_afraga
-						name_list_levantine = cn_afraga
-						name_list_egyptian = cn_afraga
-						name_list_maghrebi = cn_afraga
-						name_list_andalusian = cn_afraga
-						name_list_yemeni = cn_afraga
-					}
-				}
 			}
 			c_alcaniz = {
 				color = { 155 115 50 }
@@ -45881,26 +45881,6 @@ e_spain = {
 						name_list_yemeni = cn_barshiluna
 					}
 				}
-				b_sitges = {
-					province = 1861
-
-					color = { 156 110 72 }
-				}
-				b_manresa = { #Cardona
-					province = 1877
-
-					color = { 156 110 72 }
-				}
-				b_vic = {
-					province = 1875
-
-					color = { 156 110 72 }
-				}
-				b_berga = {
-					province = 1876
-
-					color = { 156 110 72 }
-				}
 			}
 			c_urgell = {
 				color = { 170 97 92 }
@@ -45961,6 +45941,26 @@ e_spain = {
 
 					color = { 145 105 90 }
 				}
+				b_sitges = {
+					province = 1861
+
+					color = { 156 110 72 }
+				}
+				b_manresa = { #Cardona
+					province = 1877
+
+					color = { 156 110 72 }
+				}
+				b_vic = {
+					province = 1875
+
+					color = { 156 110 72 }
+				}
+				b_berga = {
+					province = 1876
+
+					color = { 156 110 72 }
+				}
 			}
 			c_girona = {
 				color = { 170 115 110 }
@@ -45988,11 +45988,6 @@ e_spain = {
 
 					color = { 170 115 110 }
 				}
-				b_olot = {
-					province = 1867
-
-					color = { 170 115 110 }
-				}
 			}
 			c_rossello = {
 				color = { 176 95 88 }
@@ -46012,6 +46007,11 @@ e_spain = {
 					province = 1865
 
 					color = { 176 95 88 }
+				}
+				b_olot = {
+					province = 1867
+
+					color = { 170 115 110 }
 				}
 			}
 			c_lleida = {
@@ -46151,11 +46151,6 @@ e_spain = {
 						name_list_yemeni = cn_banbalunah
 					}
 				}
-				b_tafalla = {
-					province = 1889
-
-					color = { 140 130 0 }
-				}
 				b_lizarra = {
 					province = 1809
 
@@ -46221,6 +46216,11 @@ e_spain = {
 					province = 1890
 
 					color = { 155 145 15 }
+				}
+				b_tafalla = {
+					province = 1889
+
+					color = { 140 130 0 }
 				}
 			}
 		}

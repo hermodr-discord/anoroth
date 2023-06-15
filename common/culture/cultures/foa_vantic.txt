@@ -10,7 +10,9 @@
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_tribe_unity
+		tradition_strong_kinship
+		tradition_agrarian
 	}
 	
 	name_list = name_list_bavarian
@@ -18,8 +20,8 @@
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger
@@ -40,7 +42,9 @@ north_vantic = { #Vants that split and stayed neared the Vant and the Sauhin Riv
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_mystical_ancestors
+		tradition_family_entrepreneurship
+		tradition_adaptive_skirmishing
 	}
 	
 	name_list = name_list_bavarian
@@ -48,7 +52,7 @@ north_vantic = { #Vants that split and stayed neared the Vant and the Sauhin Riv
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
+	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
 		10 = caucasian_blond
@@ -65,12 +69,15 @@ vantic = { #Vants that settled around the Vant River Basin
 	
 	history_loc_override = vantic_history_loc
 	
-	ethos = ethos_bellicose
+	ethos = ethos_stoic
 	heritage = heritage_vantic
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_castle_keepers
+		tradition_family_entrepreneurship
+		tradition_adaptive_skirmishing
+		tradition_mystical_ancestors
 	}
 	
 	name_list = name_list_bavarian
@@ -78,8 +85,8 @@ vantic = { #Vants that settled around the Vant River Basin
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+		
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger
@@ -100,7 +107,10 @@ sauhinic = { #Vants that migrated into the Suhen Basin
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_agrarian
+		tradition_pastoralists
+		tradition_formation_fighting
+		tradition_stalwart_defenders
 	}
 	
 	name_list = name_list_bavarian
@@ -108,8 +118,8 @@ sauhinic = { #Vants that migrated into the Suhen Basin
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+		
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger
@@ -125,12 +135,15 @@ nivan = { # Vants that adapted closer to Anorothic culture.
 	
 	history_loc_override = nivan_history_loc
 	
-	ethos = ethos_bellicose
+	ethos = ethos_courtly
 	heritage = heritage_vantic
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_fp2_malleable_subjects
+		tradition_city_keepers
+		tradition_family_entrepreneurship
+		tradition_talent_acquisition
 	}
 	
 	name_list = name_list_bavarian
@@ -138,8 +151,8 @@ nivan = { # Vants that adapted closer to Anorothic culture.
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+		
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger
@@ -160,7 +173,10 @@ eantean = { # Originated from Vantic Settlers across the (English Channel)
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_quarrelsome
+		tradition_battlefield_looters
+		tradition_frugal_armorsmiths
+		tradition_strength_in_numbers
 	}
 	
 	name_list = name_list_bavarian
@@ -168,8 +184,8 @@ eantean = { # Originated from Vantic Settlers across the (English Channel)
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+		
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger
@@ -190,7 +206,9 @@ south_vantic = { # Vants that migrated down to the Nahlan lands.
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_agrarian
+		tradition_adaptive_skirmishing
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_bavarian
@@ -198,8 +216,8 @@ south_vantic = { # Vants that migrated down to the Nahlan lands.
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+		
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger
@@ -215,12 +233,15 @@ dovian = { # Vants of the migrations against the Nahlan and Valkh.
 	
 	history_loc_override = dovian_history_loc
 	
-	ethos = ethos_bellicose
+	ethos = ethos_courtly
 	heritage = heritage_vantic
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_religious_patronage
+		tradition_agrarian
+		tradition_astute_diplomats
+		tradition_esteemed_hospitality
 	}
 	
 	name_list = name_list_bavarian
@@ -228,8 +249,8 @@ dovian = { # Vants of the migrations against the Nahlan and Valkh.
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+		
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger
@@ -238,19 +259,22 @@ dovian = { # Vants of the migrations against the Nahlan and Valkh.
 	}	
 }
 
-sorvan = { # From Dovians that marched onto the (Pyrennean Mountains)
+sorvan = { # From Dovians that marched onto the Valkh Mountains
 	color = { 0.6 0.08 0.08 }
 	created = 6500.1.1
-	parents = { dovian }
+	parents = { dovian nahlan }
 	
 	history_loc_override = sorvan_history_loc
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_vantic
 	language = language_vantic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_warrior_monks
+		tradition_faith_bound
+		tradition_religious_patronage
+		#tradition_fervent_temple_builders
 	}
 	
 	name_list = name_list_bavarian
@@ -258,8 +282,8 @@ sorvan = { # From Dovians that marched onto the (Pyrennean Mountains)
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	unit_gfx = { western_unit_gfx }
+		
 	ethnicities = {
 		10 = caucasian_blond
 		5 = caucasian_ginger

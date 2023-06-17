@@ -2,7 +2,7 @@
 	color = { 0.1 0.45 0.05 }
 
 	created = 250.1.1
-	#history_loc_override = proto_valkh_history_loc
+	history_loc_override = proto_valkh_history_loc
 	
 	ethos = ethos_bellicose
 	heritage = heritage_valkh
@@ -26,12 +26,12 @@
 		15 = slavic_dark_hair
 	}
 }
-proto_north_valkh = { # Progenitor of the Nahlan Culture
-	color = { 0.0 0.4 0.025 }
+proto_north_valkh = { # Progenitor of the Nahlan and Valkh Cultures
+	color = { 0.0 0.25 0.05 }
 	
 	parents = { proto_valkh }
 	created = 2450.1.1
-	#history_loc_override = proto_north_valkh_history_loc
+	history_loc_override = proto_north_valkh_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh
@@ -55,12 +55,12 @@ proto_north_valkh = { # Progenitor of the Nahlan Culture
 		15 = slavic_dark_hair
 	}
 }
-proto_south_valkh = { # Progenitor of the Valkh Cultures
-	color = { 0.1 0.45 0.05 }
+proto_south_valkh = { # Progenitor of the West and South Valkh Cultures
+	color = { 0.075 0.35 0.05 }
 	
 	parents = { proto_valkh }
 	created = 2600.1.1
-	#history_loc_override = proto_south_valkh_history_loc
+	history_loc_override = proto_south_valkh_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh
@@ -85,11 +85,11 @@ proto_south_valkh = { # Progenitor of the Valkh Cultures
 	}
 }
 old_nahlan = { # Progenitor of the Nahlan Culture 
-	color = { 0.0 0.4 0.025 }
+	color = { 0.0 0.25 0.05 }
 	
 	parents = { proto_north_valkh }
 	created = 3850.1.1
-	#history_loc_override = old_nahlan_history_loc
+	history_loc_override = old_nahlan_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh
@@ -113,12 +113,12 @@ old_nahlan = { # Progenitor of the Nahlan Culture
 		15 = slavic_dark_hair
 	}
 }
-old_north_valkh = { # Progenitor of the Valkh Culture
-	color = { 0.1 0.45 0.05 }
+old_valkh = { # Progenitor of the Valkh Culture
+	color = { 0.075 0.35 0.05 }
 	
-	parents = { proto_south_valkh }
+	parents = { proto_north_valkh }
 	created = 3350.1.1
-	#history_loc_override = old_north_valkh_history_loc
+	history_loc_override = old_valkh_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh
@@ -147,7 +147,7 @@ old_west_valkh = { # Progenitor of the Askhal, Korun, Malghas, and Nadrahn Cultu
 	
 	parents = { proto_south_valkh }
 	created = 3300.1.1
-	#history_loc_override = old_west_valkh_history_loc
+	history_loc_override = old_west_valkh_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh
@@ -176,7 +176,7 @@ old_south_valkh = { # Progenitor of the Alkuhn and Vazh Cultures
 	
 	parents = { proto_south_valkh }
 	created = 3700.1.1
-	#history_loc_override = old_south_valkh_history_loc
+	history_loc_override = old_south_valkh_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh
@@ -201,11 +201,11 @@ old_south_valkh = { # Progenitor of the Alkuhn and Vazh Cultures
 	}
 }
 nahlan = { # Small and isolated Culture in the Occitan Forest
-	color = { 0.0 0.4 0.025 }
+	color = { 0.0 0.25 0.05 }
 	
 	parents = { old_nahlan }
 	created = 5400.1.1
-	#history_loc_override = nahlan_history_loc
+	history_loc_override = nahlan_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh
@@ -230,11 +230,185 @@ nahlan = { # Small and isolated Culture in the Occitan Forest
 	}
 }
 valkh = { # Medium-sized isolated Culture in the Pyrenees
-	color = { 0.1 0.45 0.05 }
+	color = { 0.075 0.35 0.05 }
 	
-	parents = { old_north_valkh }
+	parents = { old_valkh }
 	created = 4900.1.1
-	#history_loc_override = valkh_history_loc
+	history_loc_override = valkh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+askhal = { # Medium-sized dead Culture in West Iberia
+	color = { 0.05 0.3 0.0 }
+	
+	parents = { old_west_valkh }
+	created = 4650.1.1
+	history_loc_override = askhal_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+malghas = { # Medium-sized dead Culture in Galicia
+	color = { 0.0 0.5 0.1 }
+	
+	parents = { askhal }
+	created = 5350.1.1
+	history_loc_override = malghas_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+nadrahn = { # Medium-sized dead Culture in Southwest Iberia
+	color = { 0.025 0.425 0.0 }
+	
+	parents = { old_west_valkh }
+	created = 4950.1.1
+	history_loc_override = nadrahn_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+korun = { # Small dead Culture in Central Iberia
+	color = { 0.025 0.325 0.1 }
+	
+	parents = { nadrahn }
+	created = 5250.1.1
+	history_loc_override = korun_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+vazh = { # Medium-sized dead Culture in Valencia
+	color = { 0.125 0.4 0.0 }
+	
+	parents = { old_south_valkh }
+	created = 4500.1.1
+	history_loc_override = vazh_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_valkh
+	language = language_valkh
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+alkuhn = { # Medium-sized dead Culture in Granada
+	color = { 0.075 0.3 0.075 }
+	
+	parents = { old_south_valkh }
+	created = 5000.1.1
+	history_loc_override = alkuhn_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_valkh

@@ -4,6 +4,12 @@
 heritage_adrantic = {
 	type = heritage
 }
+heritage_pretoric = {
+	type = heritage
+}
+heritage_rahanic = {
+	type = heritage
+}
 heritage_ranutic = {
 	type = heritage
 }

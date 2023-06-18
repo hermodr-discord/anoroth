@@ -2,13 +2,9 @@
 ##d_yedisan ###################################
 ###c_odessa
 543 = {	#Kara-Kerman
-	culture = mogyer
+	culture = rahanic
 	religion = magyar_pagan
 	#holding = castle_holding
-	895.1.2 = {
-		culture = pecheneg
-		religion = tengri_pagan
-	}
 }
 5267 = {	#Tiraspol
 	holding = none
@@ -22,13 +18,9 @@
 
 ###c_ladyzyn
 5257 = {	#Ladyzyn
-	culture = mogyer
+	culture = rahanic
 	religion = magyar_pagan
 	holding = tribal_holding
-	895.1.2 = {
-		culture = pecheneg
-		religion = tengri_pagan
-	}
 }
 5258 = {	#Birzula	AKA Podilsk
 	holding = none
@@ -39,13 +31,9 @@
 
 ###c_uman
 5260 = {	#Yary
-	culture = mogyer
+	culture = rahanic
 	religion = magyar_pagan
 	#holding = castle_holding
-	895.1.2 = {
-		culture = pecheneg
-		religion = tengri_pagan
-	}
 }
 5261 = {	#Buky
 	holding = none
@@ -56,13 +44,9 @@
 
 ###c_cherkassy
 5263 = {	#Cherkassy
-	culture = mogyer
+	culture = rahanic
 	religion = magyar_pagan
 	#holding = castle_holding
-	895.1.2 = {
-		culture = pecheneg
-		religion = tengri_pagan
-	}
 }
 5264 = {	#Sacacatce
 	holding = none
@@ -76,13 +60,9 @@
 
 ###c_kherson
 5269 = {	#Kherson
-	culture = mogyer
+	culture = rahanic
 	religion = magyar_pagan
 	#holding = castle_holding
-	895.1.2 = {
-		culture = pecheneg
-		religion = tengri_pagan
-	}
 }
 5270 = {	#Kazanka
 	holding = none
@@ -93,13 +73,9 @@
 
 ###c_dnipro
 5274 = {	#Dnipro
-	culture = mogyer
+	culture = rahanic
 	religion = magyar_pagan
 	#holding = castle_holding
-	895.1.2 = {
-		culture = pecheneg
-		religion = tengri_pagan
-	}
 }
 5272 = {	#Beryslav
 	holding = none
@@ -114,12 +90,9 @@
 ##d_levedia ###################################
 ###c_khortytsia
 557 = {		#Khortytsia
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
-	1000.1.2 = {
-		culture = cuman
-	}
 }
 5280 = {	#Mariupol
 	holding = none
@@ -133,12 +106,10 @@
 
 ###c_oleshye
 558 = {		#Oleshye
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
-	1000.1.2 = {
-		culture = cuman
-	}
+	
 }
 5278 = {	#Kakovka
 	holding = none
@@ -149,12 +120,10 @@
 
 ###c_bakhmut
 564 = {		#Bakhmut
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
-	1000.1.2 = {
-		culture = cuman
-	}
+	
 }
 5320 = {	#Lozova
 	holding = none
@@ -171,12 +140,10 @@
 
 ###c_samar
 556 = {		#Samar
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
-	1000.1.2 = {
-		culture = cuman
-	}
+	
 }
 5282 = {	#Karlivka
 	holding = none
@@ -191,12 +158,10 @@
 ##d_don_valley ###################################
 ###c_tana
 596 = {		#Tana
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
-	1000.1.2 = {
-		culture = cuman
-	}
+	
 }
 563 = {		#Taganrog
 	holding = none
@@ -210,15 +175,13 @@
 
 ###c_golden_hills
 5290 = {	#Golden Hills
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
 	750.1.2 = {
 		religion = kabarism
 	}
-	1000.1.2 = {
-		culture = cuman
-	}
+	
 }
 5291 = {	#Siyahtepe
 	#semi-fictional, based on probable location of Khazar settlement
@@ -235,12 +198,10 @@
 
 ###c_kazanskaya
 5287 = {	#Kazanskaya
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
-	1000.1.2 = {
-		culture = cuman
-	}
+	
 }
 5325 = {	#Boguchar
 	holding = none
@@ -254,7 +215,7 @@
 
 ###c_sarysyn
 595 = {		#Sarysyn
-	culture = khazar
+	culture = talane
 	religion = tengri_pagan
 	#holding = castle_holding
 	750.1.2 = {

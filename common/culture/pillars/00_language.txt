@@ -66,6 +66,41 @@ language_nahlan = {
 	
 	color = nahlan
 }
+language_pretoric = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_pretoric
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_pretoric }
+			multiply = 10
+		}
+	}
+	
+	color = pretoric
+}
+
+language_rahanic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_rahanic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_rahanic }
+			multiply = 10
+		}
+	}
+	
+	color = rahanic
+}
 language_ranutic = {
 	type = language
 	is_shown = {

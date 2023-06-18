@@ -32,7 +32,7 @@
 old_north_vantic = { # Progenitor of the Eantean, Nivan, Sauhinic, and Vantic Cultures
 	color = { 0.7 0.025 0.025 }
 
-	parents = { old_vantic }
+	parents = { proto_vantic }
 	created = 5650.1.1
 	history_loc_override = old_north_vantic_history_loc
 
@@ -63,7 +63,7 @@ old_north_vantic = { # Progenitor of the Eantean, Nivan, Sauhinic, and Vantic Cu
 old_south_vantic = { # Progenitor of the Dovian and Sorvan Cultures
 	color = { 0.8 0.0 0.0 }
 
-	parents = { old_vantic }
+	parents = { proto_vantic }
 	created = 5700.1.1
 	history_loc_override = old_south_vantic_history_loc
 

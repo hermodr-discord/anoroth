@@ -1,0 +1,127 @@
+﻿pretoric = { #Progenitors of the Kalhan culture
+	color = { 0.9 0.1 0.0 }
+	created = 4450.1.1
+	parents = { proto_east_anorothic }
+
+	#history_loc_override = pretoric_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_pretoric
+	language = language_pretoric
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_medicinal_plants
+		tradition_zealous_people
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+kalic = { #The Eastern Anorothics that settled down east of the (Vistula)
+	color = { 0.9 0.1 0.0 }
+	created = 4950.1.1
+	parents = { pretoric }
+
+	#history_loc_override = kalic_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_pretoric
+	language = language_pretoric
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_music_theory
+		tradition_forest_fighters
+		tradition_medicinal_plants
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+kalhan = { #The Kalics that intermingled with the (Baltic Cultures).
+	color = { 0.65 0.1 0.05 }
+	created = 5600.1.1
+	parents = { kalic }
+
+	#history_loc_override = kalhan_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_pretoric
+	language = language_pretoric
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_sacred_groves
+		tradition_forest_folk
+		tradition_forest_fighters
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+thula = { #The Kalics that settled along the (Dnieper)
+	color = { 0.8 0.1 0.1 }
+	created = 6100.1.1
+	parents = { kalic }
+
+	#history_loc_override = thula_history_loc
+
+	ethos = ethos_spiritual
+	heritage = heritage_pretoric
+	language = language_pretoric
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_medicinal_plants
+		tradition_wetlanders
+		tradition_hunters
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}

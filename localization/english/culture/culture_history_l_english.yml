@@ -20,7 +20,19 @@
  kraghan_history_loc:0 "Born of the [CULTURE.GetCollectiveNoun] who migrated to the Kraghav Basin"
  drohinic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who settled the Kraghav mountains and hills"
  anorin_history_loc:0 "Progeny of the [CULTURE.GetCollectiveNoun] that settled the mouth of the Anor River"
- thalan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated across the Sea of Thal"
+ thalan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated across the Sea of Thal" 
+ # PRETORIC CULTURES
+ pretoric_history_loc:0 "From [CULTURE.GetName] tribes settling east of the Kala"
+ kalic_history_loc:0 "The [CULTURE.GetCollectiveNoun] after adopting feudal ways"
+ kalhan_history_loc:0 "The [CULTURE.GetCollectiveNoun] that adopted (BALTIC) traditions" 
+ thula_history_loc:0 "The [CULTURE.GetName] tribesmen that settled by the heart of the Thula river"
+ # RAHANIC CULTURES
+ old_rahanic_history_loc:0 "From [CULTURE.GetName] tribes settling west of the Thula (PLACEHOLDER)"
+ rahanic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] accustoming to the steppe (PLACEHOLDER)"
+ taranic_history_loc:0 "From [CULTURE.GetCollectiveNoun] settling in the hills (PLACEHOLDER)"
+ haraic_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] that crossed the Thula (PLACEHOLDER)"
+ talane_history_loc:0 "Born from [CULTURE.GetCollectiveNoun] that marched on the steppe (PLACEHOLDER)"
+ khalin_history_loc:0 "The [CULTURE.GetName] tribes that settled by the (Caucasus) (PLACEHOLDER)"
  # RANUTIC CULTURES
  proto_ranutic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that migrated to the Ranut River basin"
  old_east_ranutic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated near the Kala River"

@@ -4,6 +4,10 @@
  heritage_adrantic_collective_noun:0 "Adrantics"
  heritage_anorothic_name:0 "Anorothic"
  heritage_anorothic_collective_noun:0 "Anorothics"
+ heritage_pretoric_name:0 "Pretoric"
+ heritage_pretoric_collective_noun:0 "Pretorics"
+ heritage_rahanic_name:0 "Rahanic"
+ heritage_rahanic_collective_noun:0 "Rahanics"
  heritage_ranutic_name:0 "Ranutic"
  heritage_ranutic_collective_noun:0 "Ranutics"
  heritage_valkh_name:0 "Valkh"
@@ -11,7 +15,7 @@
  heritage_vantic_name:0 "Vantic"
  heritage_vantic_collective_noun:0 "Vantics"
 
-
+ ###
 
  heritage_arabic_name:0 "Arabic"
  heritage_arabic_collective_noun:0 "Arabs"

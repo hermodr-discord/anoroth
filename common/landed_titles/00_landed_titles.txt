@@ -19205,16 +19205,6 @@ e_wendish_empire = {
 
 					color = { 115 45 45 }
 				}
-				b_suvalkai = {
-					province = 157
-
-					color = { 115 45 45 }
-				}
-				b_sejny = {
-					province = 163
-
-					color = { 115 45 45 }
-				}
 			}
 			c_braslau = {
 				color = { 90 10 10 }
@@ -19688,6 +19678,16 @@ e_wendish_empire = {
 						name_list_swabian = cn_angirburg
 						name_list_bavarian = cn_angirburg
 					}
+				}
+				b_suvalkai = {
+					province = 157
+
+					color = { 115 45 45 }
+				}
+				b_sejny = {
+					province = 163
+
+					color = { 115 45 45 }
 				}
 			}
 		}
@@ -20662,6 +20662,11 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 
 					color = { 150 40 25 }
 				}
+				b_parczew = {
+					province = 4958
+
+					color = { 147 40 2 }
+				}
 			}
 			c_radomska = {
 				color = { 150 30 5 }
@@ -20697,11 +20702,6 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 
 				b_lublin = {
 					province = 4957
-
-					color = { 147 40 2 }
-				}
-				b_parczew = {
-					province = 4958
 
 					color = { 147 40 2 }
 				}
@@ -22589,6 +22589,11 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 						name_list_polish = cn_czortkow
 					}
 				}
+				b_mezhybozhe = {
+					province = 5088
+
+					color = { 120 190 130 }
+				}
 			}
 			c_zaslavl = {
 				color = { 80 212 60 }
@@ -23219,11 +23224,6 @@ e_russia = {	#Kievan Rus
 						name_list_polish = cn_zytomierz
 					}
 				}
-				b_mezhybozhe = {
-					province = 5088
-
-					color = { 120 190 130 }
-				}
 				b_rastovets = {
 					province = 5089
 
@@ -23261,6 +23261,16 @@ e_russia = {	#Kievan Rus
 
 					color = { 70 183 89 }
 				}
+				b_ivankiv = {
+					province = 5096
+
+					color = { 52 156 80 }
+				}
+				b_radynka = {
+					province = 5097
+
+					color = { 52 156 80 }
+				}
 			}
 			c_chornobyl = {
 				color = { 52 156 80 }
@@ -23277,16 +23287,6 @@ e_russia = {	#Kievan Rus
 					cultural_names = {
 						name_list_polish = cn_czarnobyl
 					}
-				}
-				b_ivankiv = {
-					province = 5096
-
-					color = { 52 156 80 }
-				}
-				b_radynka = {
-					province = 5097
-
-					color = { 52 156 80 }
 				}
 			}
 			c_ushytsia = {
@@ -23385,25 +23385,7 @@ e_russia = {	#Kievan Rus
 
 					color = { 110 140 20 }
 				}
-			}
-			c_korosten = {
-				color = { 96 125 11 }
-
-				cultural_names = {
-					name_list_polish = cn_korosten
-					name_list_lithuanian = cn_korostenis
-				}
-
-				b_korosten = {
-					province = 5104
-
-					color = { 96 125 11 }
-
-					cultural_names = {
-						name_list_polish = cn_korosten
-						name_list_lithuanian = cn_korostenis
-					}
-				}
+				
 				b_ovruch = {
 					province = 5105
 
@@ -23427,6 +23409,25 @@ e_russia = {	#Kievan Rus
 					province = 5108
 
 					color = { 96 125 11 }
+				}
+			}
+			c_korosten = {
+				color = { 96 125 11 }
+
+				cultural_names = {
+					name_list_polish = cn_korosten
+					name_list_lithuanian = cn_korostenis
+				}
+
+				b_korosten = {
+					province = 5104
+
+					color = { 96 125 11 }
+
+					cultural_names = {
+						name_list_polish = cn_korosten
+						name_list_lithuanian = cn_korostenis
+					}
 				}
 			}
 			c_dubrovytsia = {
@@ -23576,11 +23577,6 @@ e_russia = {	#Kievan Rus
 
 					color = { 121 189 74 }
 				}
-				b_unenezh = {
-					province = 5201
-
-					color = { 121 189 74 }
-				}
 				b_surazichi = {
 					province = 5202
 
@@ -23619,16 +23615,6 @@ e_russia = {	#Kievan Rus
 
 					color = { 108 135 2 }
 				}
-				b_borzna = {
-					province = 5191
-
-					color = { 108 135 2 }
-				}
-				b_glukhov = {
-					province = 5192
-
-					color = { 108 135 2 }
-				}
 			}
 			c_putyvl = {
 				color = { 140 165 40 }
@@ -23647,6 +23633,21 @@ e_russia = {	#Kievan Rus
 					province = 5195
 
 					color = { 140 165 40 }
+				}
+				b_borzna = {
+					province = 5191
+
+					color = { 108 135 2 }
+				}
+				b_glukhov = {
+					province = 5192
+
+					color = { 108 135 2 }
+				}
+				b_unenezh = {
+					province = 5201
+
+					color = { 121 189 74 }
 				}
 			}
 			c_kursk = {
@@ -23671,6 +23672,16 @@ e_russia = {	#Kievan Rus
 					province = 5199
 
 					color = { 130 180 55 }
+				}
+				b_khorysdan = {
+					province = 5285
+
+					color = { 66 62 44 }
+				}
+				b_khursa = {
+					province = 5286
+
+					color = { 66 62 44 }
 				}
 			}
 		}
@@ -24286,16 +24297,6 @@ e_russia = {	#Kievan Rus
 
 					color = { 173 158 142 }
 				}
-				b_luninets = {
-					province = 5113
-
-					color = { 173 158 142 }
-
-					cultural_names = {
-						name_list_lithuanian = cn_luniecas
-						name_list_polish = cn_luniniec
-					}
-				}
 			}
 			c_slutsk = {
 				color = { 181 157 132 }
@@ -24333,6 +24334,16 @@ e_russia = {	#Kievan Rus
 					cultural_names = {
 						name_list_lithuanian = cn_mikasevicai
 						name_list_polish = cn_mikaszewicze
+					}
+				}
+				b_luninets = {
+					province = 5113
+
+					color = { 173 158 142 }
+
+					cultural_names = {
+						name_list_lithuanian = cn_luniecas
+						name_list_polish = cn_luniniec
 					}
 				}
 			}
@@ -24566,14 +24577,14 @@ e_russia = {	#Kievan Rus
 						name_list_polish = cn_dryssa
 					}
 				}
-				b_myory = {
-					province = 5131
+				b_haradok = {
+					province = 5135
 
-					color = { 127 184 184 }
+					color = { 71 173 173 }
 
 					cultural_names = {
-						name_list_lithuanian = cn_merai
-						name_list_polish = cn_miory
+						name_list_lithuanian = cn_haradokas
+						name_list_polish = cn_horodek
 					}
 				}
 			}
@@ -24608,6 +24619,16 @@ e_russia = {	#Kievan Rus
 						name_list_polish = cn_glebokie
 					}
 				}
+				b_myory = {
+					province = 5131
+
+					color = { 127 184 184 }
+
+					cultural_names = {
+						name_list_lithuanian = cn_merai
+						name_list_polish = cn_miory
+					}
+				}
 			}
 			c_vitebsk = {
 				color = { 71 173 173 }
@@ -24625,16 +24646,6 @@ e_russia = {	#Kievan Rus
 					cultural_names = {
 						name_list_lithuanian = cn_vitebskas
 						name_list_polish = cn_witebsk
-					}
-				}
-				b_haradok = {
-					province = 5135
-
-					color = { 71 173 173 }
-
-					cultural_names = {
-						name_list_lithuanian = cn_haradokas
-						name_list_polish = cn_horodek
 					}
 				}
 			}
@@ -24673,6 +24684,11 @@ e_russia = {	#Kievan Rus
 
 					color = { 146 124 153 }
 				}
+				b_dukhovshchina = {
+					province = 5223
+
+					color = { 157 143 161 }
+				}
 			}
 			c_gnezdovo = {
 				color = { 157 143 161 }
@@ -24684,11 +24700,6 @@ e_russia = {	#Kievan Rus
 				}
 				b_velizh = {
 					province = 5222
-
-					color = { 157 143 161 }
-				}
-				b_dukhovshchina = {
-					province = 5223
 
 					color = { 157 143 161 }
 				}
@@ -24980,11 +24991,6 @@ e_russia = {	#Kievan Rus
 
 				b_tula = {
 					province = 5231
-
-					color = { 101 110 45 }
-				}
-				b_yelets = {
-					province = 5232
 
 					color = { 101 110 45 }
 				}
@@ -25785,18 +25791,8 @@ e_caspian-pontic_steppe = {
 
 					color = { 205 175 85 }
 				}
-				b_siyahtepe = {
-					province = 5291
-
-					color = { 205 175 85 }
-				}
 				b_ust-donvokhi = {
 					province = 5292
-
-					color = { 205 175 85 }
-				}
-				b_kazarki = {
-					province = 594
 
 					color = { 205 175 85 }
 				}
@@ -25847,6 +25843,16 @@ e_caspian-pontic_steppe = {
 					province = 5295
 
 					color = { 91 95 25 }
+				}
+				b_kazarki = {
+					province = 594
+
+					color = { 205 175 85 }
+				}
+				b_siyahtepe = {
+					province = 5291
+
+					color = { 205 175 85 }
 				}
 			}
 		}
@@ -25931,11 +25937,6 @@ e_caspian-pontic_steppe = {
 				}
 				b_aksay = {
 					province = 5315
-
-					color = { 125 80 18 }
-				}
-				b_semikarakary = {
-					province = 5332
 
 					color = { 125 80 18 }
 				}
@@ -26051,6 +26052,11 @@ e_caspian-pontic_steppe = {
 
 					color = { 100 72 15 }
 				}
+				b_semikarakary = {
+					province = 5332
+
+					color = { 125 80 18 }
+				}
 			}
 		}
 
@@ -26072,10 +26078,10 @@ e_caspian-pontic_steppe = {
 
 					color = { 85 50 22 }
 				}
-				b_betzini = {
-					province = 5301
+				b_ulmi = {
+					province = 5298
 
-					color = { 85 50 22 }
+					color = { 100 44 16 }
 				}
 			}
 			c_cabardinia = {
@@ -26120,10 +26126,10 @@ e_caspian-pontic_steppe = {
 
 					color = { 100 44 16 }
 				}
-				b_ulmi = {
-					province = 5298
+				b_betzini = {
+					province = 5301
 
-					color = { 100 44 16 }
+					color = { 85 50 22 }
 				}
 			}
 		}
@@ -26918,15 +26924,10 @@ e_volga-ural = {
 						name_list_muroma = cn_voronej
 					}
 				}
-				b_usman = {
-					province = 5352
+				b_yelets = {
+					province = 5232
 
-					color = { 26 52 24 }
-				}
-				b_lipetsk = {
-					province = 5351
-
-					color = { 26 52 24 }
+					color = { 101 110 45 }
 				}
 			}
 			c_karatayak = {
@@ -26969,16 +26970,6 @@ e_volga-ural = {
 
 				b_oskol = {
 					province = 566
-
-					color = { 66 62 44 }
-				}
-				b_khorysdan = {
-					province = 5285
-
-					color = { 66 62 44 }
-				}
-				b_khursa = {
-					province = 5286
 
 					color = { 66 62 44 }
 				}
@@ -27227,6 +27218,16 @@ e_volga-ural = {
 					province = 5354
 
 					color = { 14 52 32 }
+				}
+				b_usman = {
+					province = 5352
+
+					color = { 26 52 24 }
+				}
+				b_lipetsk = {
+					province = 5351
+
+					color = { 26 52 24 }
 				}
 			}
 			c_durovka = {

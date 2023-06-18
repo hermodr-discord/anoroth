@@ -66,6 +66,38 @@
  thalan:0 "Thalan"
  thalan_prefix:0 "Thalano"
  thalan_collective_noun:0 "Thalani"
+ # Pretoric
+ pretoric:0 "Pretoric"
+ pretoric_prefix:0 "Pretoro"
+ pretoric_collective_noun:0 "Pretorics"
+ kalic:0 "Kalic"
+ kalic_prefix:0 "Kalo"
+ kalic_collective_noun:0 "Kalics"
+ kalhan:0 "Kalhan"
+ kalhan_prefix:0 "Kalhano"
+ kalhan_collective_noun:0 "Kalhans"
+ thula:0 "Thula"
+ thula_prefix:0 "Thulo"
+ thula_collective_noun:0 "Thulans"
+ # Rahanic
+ old_rahanic:0 "Old Rahanic"
+ old_rahanic_prefix:0 "Old Rahano"
+ old_rahanic_collective_noun:0 "Rahanics"
+ rahanic:0 "Rahanic"
+ rahanic_prefix:0 "Rahano"
+ rahanic_collective_noun:0 "Rahanics"
+ taranic:0 "Taranic"
+ taranic_prefix:0 "Tarano"
+ taranic_collective_noun:0 "Taranics"
+ haraic:0 "Haraic"
+ haraic_prefix:0 "Haro"
+ haraic_collective_noun:0 "Haraics"
+ talane:0 "Talane"
+ talane_prefix:0 "Talano"
+ talane_collective_noun:0 "Talanes"
+ khalin:0 "Khalin"
+ khalin_prefix:0 "Khalino"
+ khalin_collective_noun:0 "Khalins"
  # Ranutic
  ranutic_group:0 "Ranutic"
  ranutic_group_collective_noun:0 "Ranutics"
@@ -160,9 +192,12 @@
  sorvan:0 "Sorvan"
  sorvan_prefix:0 "Sorvo"
  sorvan_collective_noun:0 "Sorvans"
+ ###
 
 
 
+
+ ###
  #Arabic group
  arabic_group:0 "Arabic"
  arabic_group_collective_noun:1 "Arabs"

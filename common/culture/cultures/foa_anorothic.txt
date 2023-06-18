@@ -90,7 +90,7 @@ proto_south_anorothic = { # Progenitor of the Alpine and Balkan Heritages
 		15 = slavic_dark_hair
 	}
 }
-proto_east_anorothic = { # Progenitor of the Lower and Upper Dnieper Heritages
+proto_east_anorothic = { # Progenitor of the Pretoric and Rahanic Cultures
 	color = { 0.7 0.1 0.0 }
 
 	parents = { proto_anorothic }
@@ -152,7 +152,7 @@ old_west_anorothic = { # Progenitor of the Anorothic, Anaric, Karanir, and Othor
 		15 = slavic_dark_hair
 	}
 }
-old_east_anorothic = { # Progenitor of the Anorin, Drohinic, Kraghan, and Thalan Cultures
+old_east_anorothic = { # Progenitor of the Anorin, Drohinic, Kraghan, and Thalan cultures.
 	color = { 0.5 0.05 0.2 }
 
 	parents = { proto_central_anorothic }

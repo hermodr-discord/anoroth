@@ -2,7 +2,7 @@
 ##d_provence ###################################
 ###c_venaissin
 2017 = {	#ARLES
-	culture = occitan
+	culture = chilar
 	religion = catholic
 	holding = castle_holding
 }
@@ -21,7 +21,7 @@
 
 ###c_provence
 2019 = {	#TOULON
-	culture = occitan
+	culture = chilar
 	religion = catholic
 	holding = castle_holding
 }
@@ -47,7 +47,7 @@
 
 ###c_nice
 2021 = {	#NICE
-	culture = occitan
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -72,7 +72,7 @@
 
 ###c_forcalquier
 2061 = {	#FORCALQUIER
-	culture = occitan
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -95,7 +95,7 @@
 ##d_savoie ###################################
 ###c_savoie
 2031 = {	#MOUTIERS
-	culture = french
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -117,7 +117,7 @@
 
 ###c_aosta
 2039 = {	#AOSTA
-	culture = cisalpine
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -127,7 +127,7 @@
 
 ###c_geneva
 2035 = {	#GENEVA
-	culture = french
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -150,7 +150,7 @@
 
 ###c_canavese
 2040 = {	#IVREA
-	culture = cisalpine
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -202,7 +202,7 @@
 
 ###c_viviers
 2063 = {	#VIVIERS
-	culture = occitan
+	culture = chilar
 	religion = catholic
 	holding = castle_holding
 }
@@ -212,7 +212,7 @@
 
 ###c_viennois
 2030 = {	#GRENOBLE
-	culture = french
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -234,7 +234,7 @@
 
 ###c_valentinois
 8717 = {	#MONTEIL
-	culture = occitan
+	culture = chilar
 	religion = catholic
 	holding = castle_holding
 }

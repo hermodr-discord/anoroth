@@ -234,7 +234,7 @@
 
 ###c_berchtesgaden
 2977 = {	#BERCHTESGADEN
-	culture = bavarian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -333,7 +333,7 @@
 
 ###c_alpsee
 2782 = {	#SCHONGAU
-	culture = swabian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -425,7 +425,7 @@
 
 ###c_liebnitz
 3109 = {	#LIEBNITZ
-	culture = carantanian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -566,7 +566,7 @@
 ##d_tyrol ###################################
 ###c_innsbruck
 2950 = {	#INNSBRUCK
-	culture = bavarian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 	special_building_slot = schwaz_mines_01
@@ -580,7 +580,7 @@
 
 ###c_brixen
 2955 = {	#BRIXEN
-	culture = bavarian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -591,7 +591,7 @@
 
 ###c_lienz
 3134 = {	#LIENZ
-	culture = bavarian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -611,7 +611,7 @@
 ##d_carinthia ###################################
 ###c_karnten
 3105 = {	#KLAGENFURT
-	culture = carantanian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -627,12 +627,9 @@
 
 ###c_kammersberg
 3128 = {	#KAMMERSBERG
-	culture = carantanian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
-	950.1.1 = {
-		culture = bavarian
-	}
 }
 3114 = {	#MURAU
 	holding = none
@@ -672,7 +669,7 @@
 
 ###c_villach
 3099 = {	#VILLACH
-	culture = carantanian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -687,7 +684,7 @@
 ##d_krain ###################################
 ###c_kranj
 3100 = {	#KRANJ
-	culture = carantanian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -703,7 +700,7 @@
 
 ###c_ljubljana
 3096 = {	#LJUBLJANA
-	culture = carantanian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }
@@ -720,7 +717,7 @@
 ##d_istria ###################################
 ###c_pula
 2518 = {	#PULA
-	culture = croatian
+	culture = adrantic
 	religion = catholic
 	holding = castle_holding
 }

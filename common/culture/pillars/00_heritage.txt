@@ -1,6 +1,9 @@
 ﻿heritage_anorothic = {
 	type = heritage
 }
+heritage_adrantic = {
+	type = heritage
+}
 heritage_ranutic = {
 	type = heritage
 }

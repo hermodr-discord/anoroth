@@ -274,7 +274,7 @@
 
 ###c_uses
 2217 = {	#MONTLAUR
-	culture = occitan
+	culture = chilar
 	religion = catholic
 	holding = castle_holding
 }
@@ -284,7 +284,7 @@
 
 ###c_montpellier
 2015 = {	#MONTPELLIER
-	culture = occitan
+	culture = chilar
 	religion = catholic
 	holding = castle_holding
 }

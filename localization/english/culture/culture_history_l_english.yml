@@ -1,4 +1,11 @@
 ﻿l_english:
+ # ADRANTIC CULTURES
+ proto_adrantic_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] of the late [second_era|E]"
+ old_adrantic_history_loc:0 "Progeny of the [CULTURE.GetCollectiveNoun] that survived the Akhtin Plague"
+ adrantic_history_loc:0 "Those of the [CULTURE.GetCollectiveNoun] that settled the Anor Mountains"
+ chilar_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that settled the mouth of the Chil River"
+ imathan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that settled the Imatha Peninsula"
+ suthalic_history_loc:0 "Born from [CULTURE.GetCollectiveNoun] who sailed to the isles of Suthal"
  # ANOROTHIC CULTURES
  proto_anorothic_history_loc:0 "Formed from various $anorothic_group$ tribes in the dawn of the [first_era|E]"
  proto_central_anorothic_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] who migrated across the plains"

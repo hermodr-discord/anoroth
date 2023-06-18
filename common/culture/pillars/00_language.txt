@@ -1,4 +1,21 @@
-﻿language_anorothic = {
+﻿language_adrantic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_adrantic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_adrantic }
+			multiply = 10
+		}
+	}
+	
+	color = adrantic
+}
+language_anorothic = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {

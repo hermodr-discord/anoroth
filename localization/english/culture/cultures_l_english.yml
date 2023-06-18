@@ -1,5 +1,26 @@
 ﻿l_english:
  ###
+ # Adrantic
+ adrantic_group:0 "Adrantic"
+ adrantic_group_collective_noun:0 "Adrantics"
+ proto_adrantic:0 "Proto-Adrantic"
+ proto_adrantic_prefix:0 "Proto-Adranto"
+ proto_adrantic_collective_noun:0 "Proto-Adrantics"
+ old_adrantic:0 "Old Adrantic"
+ old_adrantic_prefix:0 "Old Adranto"
+ old_adrantic_collective_noun:0 "Old Adrantics"
+ adrantic:0 "Adrantic"
+ adrantic_prefix:0 "Adranto"
+ adrantic_collective_noun:0 "Adrantics"
+ chilar:0 "Chilar"
+ chilar_prefix:0 "Chilaro"
+ chilar_collective_noun:0 "Chilar"
+ imathan:0 "Imathan"
+ imathan_prefix:0 "Imathano"
+ imathan_collective_noun:0 "Imathani"
+ suthalic:0 "Suthalic"
+ suthalic_prefix:0 "Suthalo"
+ suthalic_collective_noun:0 "Suthalics"
  # Anorothic
  anorothic_group:0 "Anorothic"
  anorothic_group_collective_noun:0 "Anorothics"

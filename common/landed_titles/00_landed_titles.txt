@@ -14221,11 +14221,6 @@ e_italy = {
 
 					color = { 155 255 175 }
 				}
-				b_pordenone = {
-					province = 2513
-
-					color = { 155 255 175 }
-				}
 				b_portogruaro = {
 					province = 8766
 
@@ -14269,16 +14264,6 @@ e_italy = {
 
 					color = { 150 245 210 }
 				}
-				b_lessinia = {
-					province = 2502
-
-					color = { 150 245 210 }
-				}
-				b_garda = {
-					province = 2496
-
-					color = { 150 245 210 }
-				}
 			}
 
 			c_treviso = {
@@ -14289,16 +14274,6 @@ e_italy = {
 
 					color = { 160 225 210 }
 				}
-				b_ceneta = {
-					province = 2511
-
-					color = { 160 225 210 }
-				}
-				b_vicenza = {
-					province = 2500
-
-					color = { 160 225 210 }
-				}
 			}
 
 			c_padua = {
@@ -14306,11 +14281,6 @@ e_italy = {
 
 				b_padua = {
 					province = 2503
-
-					color = { 130 215 190 }
-				}
-				b_lonigo = {
-					province = 2509
 
 					color = { 130 215 190 }
 				}
@@ -14395,11 +14365,6 @@ e_italy = {
 
 					color = { 195 140 130 }
 				}
-				b_biella = {
-					province = 2473
-
-					color = { 195 140 130 }
-				}
 				b_vercelli = {
 					province = 2470
 
@@ -14451,22 +14416,12 @@ e_italy = {
 
 					color = { 185 120 205 }
 				}
-				b_varese = {
-					province = 2479
-
-					color = { 185 120 205 }
-				}
 			}
 			c_brescia = {
 				color = { 170 150 190 }
 
 				b_brescia = {
 					province = 2494
-
-					color = { 170 150 190 }
-				}
-				b_bergamo = {
-					province = 2493
 
 					color = { 170 150 190 }
 				}
@@ -14494,6 +14449,16 @@ e_italy = {
 
 					color = { 240 175 255 }
 				}
+				b_varese = {
+					province = 2479
+
+					color = { 185 120 205 }
+				}
+				b_biella = {
+					province = 2473
+
+					color = { 195 140 130 }
+				}
 			}
 			c_trent = {
 				color = { 250 150 220 }
@@ -14517,6 +14482,41 @@ e_italy = {
 					province = 8761
 
 					color = { 250 150 220 }
+				}
+				b_pordenone = {
+					province = 2513
+
+					color = { 155 255 175 }
+				}
+				b_ceneta = {
+					province = 2511
+
+					color = { 160 225 210 }
+				}
+				b_vicenza = {
+					province = 2500
+
+					color = { 160 225 210 }
+				}
+				b_lonigo = {
+					province = 2509
+
+					color = { 130 215 190 }
+				}
+				b_lessinia = {
+					province = 2502
+
+					color = { 150 245 210 }
+				}
+				b_garda = {
+					province = 2496
+
+					color = { 150 245 210 }
+				}
+				b_bergamo = {
+					province = 2493
+
+					color = { 170 150 190 }
 				}
 			}
 
@@ -14605,11 +14605,6 @@ e_italy = {
 
 				b_genoa = {
 					province = 2466
-
-					color = { 244 141 120 }
-				}
-				b_monaco = {
-					province = 2022
 
 					color = { 244 141 120 }
 				}
@@ -14906,10 +14901,10 @@ e_italy = {
 
 					color = { 220 160 250 }
 				}
-				b_samassi = {
-					province = 2660
+				b_carbonara = {
+					province = 2655
 
-					color = { 220 160 250 }
+					color = { 180 170 180 }
 				}
 			}
 			c_arborea = {
@@ -14920,10 +14915,15 @@ e_italy = {
 
 					color = { 200 185 250 }
 				}
-				b_isili = {
-					province = 2661
+				b_alghero = {
+					province = 2665
 
-					color = { 200 185 250 }
+					color = { 170 182 225 }
+				}
+				b_porto_torres = {
+					province = 2664
+
+					color = { 170 182 225 }
 				}
 			}
 			c_gallura = {
@@ -14948,16 +14948,6 @@ e_italy = {
 
 					color = { 170 182 225 }
 				}
-				b_alghero = {
-					province = 2665
-
-					color = { 170 182 225 }
-				}
-				b_porto_torres = {
-					province = 2664
-
-					color = { 170 182 225 }
-				}
 				b_ardara = {
 					province = 2663
 
@@ -14972,10 +14962,15 @@ e_italy = {
 
 					color = { 180 170 180 }
 				}
-				b_carbonara = {
-					province = 2655
+				b_samassi = {
+					province = 2660
 
-					color = { 180 170 180 }
+					color = { 220 160 250 }
+				}
+				b_isili = {
+					province = 2661
+
+					color = { 200 185 250 }
 				}
 			}
 		}
@@ -15019,11 +15014,6 @@ e_italy = {
 				}
 				b_forli = {
 					province = 2548
-
-					color = { 229 165 115 }
-				}
-				b_rimini = {
-					province = 2547
 
 					color = { 229 165 115 }
 				}
@@ -15071,11 +15061,6 @@ e_italy = {
 
 				b_casentino = {
 					province = 2553
-
-					color = { 209 125 105 }
-				}
-				b_montefeltro = {
-					province = 2552
 
 					color = { 209 125 105 }
 				}
@@ -15133,6 +15118,16 @@ e_italy = {
 					province = 2556
 
 					color = { 240 225 150 }
+				}
+				b_rimini = {
+					province = 2547
+
+					color = { 229 165 115 }
+				}
+				b_montefeltro = {
+					province = 2552
+
+					color = { 209 125 105 }
 				}
 			}
 			c_fermo = {
@@ -15262,21 +15257,6 @@ e_italy = {
 
 					color = { 242 233 156 }
 				}
-				b_vaticano = {
-					province = 2577
-
-					color = { 242 233 156 }
-				}
-				b_palo = {
-					province = 2578
-
-					color = { 242 233 156 }
-				}
-				b_paterno = {
-					province = 2574
-
-					color = { 242 233 156 }
-				}
 				b_farfa = {
 					province = 2579
 
@@ -15301,6 +15281,21 @@ e_italy = {
 					province = 2571
 
 					color = { 212 203 116 }
+				}
+				b_vaticano = {
+					province = 2577
+
+					color = { 242 233 156 }
+				}
+				b_palo = {
+					province = 2578
+
+					color = { 242 233 156 }
+				}
+				b_paterno = {
+					province = 2574
+
+					color = { 242 233 156 }
 				}
 			}
 
@@ -43181,11 +43176,6 @@ e_france = {
 
 					color = { 165 50 105 }
 				}
-				b_castellane = {
-					province = 2025
-
-					color = { 165 50 105 }
-				}
 				b_marseille = {
 					province = 2018
 
@@ -43224,6 +43214,16 @@ e_france = {
 					province = 2026
 
 					color = { 195 75 90 }
+				}
+				b_castellane = {
+					province = 2025
+
+					color = { 165 50 105 }
+				}
+				b_monaco = {
+					province = 2022
+
+					color = { 244 141 120 }
 				}
 			}
 			c_forcalquier = {
@@ -43415,11 +43415,6 @@ e_france = {
 
 					color = { 120 10 80 }
 				}
-				b_romans = {
-					province = 2068
-
-					color = { 120 10 80 }
-				}
 			}
 			c_valentinois = {
 				color = { 195 70 95 }
@@ -43438,6 +43433,11 @@ e_france = {
 					province = 2064
 
 					color = { 195 70 95 }
+				}
+				b_romans = {
+					province = 2068
+
+					color = { 120 10 80 }
 				}
 			}
 		}

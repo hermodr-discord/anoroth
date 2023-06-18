@@ -1,9 +1,9 @@
-﻿old_vantic = { #Progenitor of the North and South Vantic cultures, of West of the River Sauhin, West of the (Rhone), and North the (Pyrennes)
+﻿proto_vantic = { # Progenitor of the Vantic Heritage
 	color = { 0.7 0.025 0.025 }
-	created = 5100.1.1
-	parents = { proto_central_anorothic }
 
-	history_loc_override = old_vantic_history_loc
+	parents = { proto_central_anorothic }
+	created = 5100.1.1
+	history_loc_override = proto_vantic_history_loc
 
 	ethos = ethos_bellicose
 	heritage = heritage_vantic
@@ -29,14 +29,13 @@
 		35 = caucasian_dark_hair
 	}	
 }
-
-north_vantic = { #Vants that split and stayed neared the Vant and the Sauhin River.
+old_north_vantic = { # Progenitor of the Eantean, Nivan, Sauhinic, and Vantic Cultures
 	color = { 0.7 0.025 0.025 }
-	created = 5650.1.1
-	parents = { old_vantic }
 
-	history_loc_override = north_vantic_history_loc
-	
+	parents = { old_vantic }
+	created = 5650.1.1
+	history_loc_override = old_north_vantic_history_loc
+
 	ethos = ethos_bellicose
 	heritage = heritage_vantic
 	language = language_vantic
@@ -61,14 +60,44 @@ north_vantic = { #Vants that split and stayed neared the Vant and the Sauhin Riv
 		35 = caucasian_dark_hair
 	}	
 }
+old_south_vantic = { # Progenitor of the Dovian and Sorvan Cultures
+	color = { 0.8 0.0 0.0 }
 
-vantic = { #Vants that settled around the Vant River Basin
+	parents = { old_vantic }
+	created = 5700.1.1
+	history_loc_override = old_south_vantic_history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_vantic
+	language = language_vantic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_adaptive_skirmishing
+		tradition_religious_patronage
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+		
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+vantic = { # Medium-sized culture on the north coast of France
 	color = { 0.7 0.025 0.025 }
+
+	parents = { old_north_vantic }
 	created = 6100.1.1
-	parents = { north_vantic }
-	
 	history_loc_override = vantic_history_loc
-	
+
 	ethos = ethos_stoic
 	heritage = heritage_vantic
 	language = language_vantic
@@ -94,14 +123,13 @@ vantic = { #Vants that settled around the Vant River Basin
 		35 = caucasian_dark_hair
 	}	
 }
-
-sauhinic = { #Vants that migrated into the Suhen Basin
+sauhinic = { # Medium-sized culture on the south/west bank of the Rhine
 	color = { 0.55 0.0 0.025 }
+
+	parents = { old_north_vantic }
 	created = 6250.1.1
-	parents = { north_vantic }
-	
 	history_loc_override = sauhinic_history_loc
-	
+
 	ethos = ethos_bellicose
 	heritage = heritage_vantic
 	language = language_vantic
@@ -127,14 +155,13 @@ sauhinic = { #Vants that migrated into the Suhen Basin
 		35 = caucasian_dark_hair
 	}	
 }
-
-nivan = { # Vants that adapted closer to Anorothic culture.
+nivan = { # Small culture spanning French Burgundy
 	color = { 0.45 0.025 0.025 }
-	created = 6750.1.1
+
 	parents = { vantic anorothic }
-	
+	created = 6750.1.1
 	history_loc_override = nivan_history_loc
-	
+
 	ethos = ethos_courtly
 	heritage = heritage_vantic
 	language = language_vantic
@@ -160,14 +187,13 @@ nivan = { # Vants that adapted closer to Anorothic culture.
 		35 = caucasian_dark_hair
 	}	
 }
-
-eantean = { # Originated from Vantic Settlers across the (English Channel)
+eantean = { # Medium-sized culture spanning the south English coast
 	color = { 0.35  0.03  0.03 }
+
+	parents = { old_north_vantic }
 	created = 6900.1.1
-	parents = { north_vantic }
-	
 	history_loc_override = eantean_history_loc
-	
+
 	ethos = ethos_bellicose
 	heritage = heritage_vantic
 	language = language_vantic
@@ -193,44 +219,11 @@ eantean = { # Originated from Vantic Settlers across the (English Channel)
 		35 = caucasian_dark_hair
 	}	
 }
-
-south_vantic = { # Vants that migrated down to the Nahlan lands.
-	color = { 0.8 0.0 0.0 }
-	created = 5700.1.1
-	parents = { old_vantic }
-	
-	history_loc_override = south_vantic_history_loc
-	
-	ethos = ethos_bellicose
-	heritage = heritage_vantic
-	language = language_vantic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_agrarian
-		tradition_adaptive_skirmishing
-		tradition_religious_patronage
-	}
-	
-	name_list = name_list_bavarian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-		
-	ethnicities = {
-		10 = caucasian_blond
-		5 = caucasian_ginger
-		45 = caucasian_brown_hair
-		35 = caucasian_dark_hair
-	}	
-}
-
-dovian = { # Vants of the migrations against the Nahlan and Valkh.
+dovian = { # Medium sized culture covering the gap between the Loire and the Garonne rivers
 	color = { 0.4 0.08 0.08 }
+
+	parents = { old_south_vantic }
 	created = 6250.1.1
-	parents = { south_vantic }
-	
 	history_loc_override = dovian_history_loc
 	
 	ethos = ethos_courtly
@@ -258,12 +251,11 @@ dovian = { # Vants of the migrations against the Nahlan and Valkh.
 		35 = caucasian_dark_hair
 	}	
 }
-
-sorvan = { # From Dovians that marched onto the Valkh Mountains
+sorvan = { # Medium-sized culture spanning the gap between the Garonne and Rhône rivers
 	color = { 0.6 0.08 0.08 }
-	created = 6500.1.1
+
 	parents = { dovian nahlan }
-	
+	created = 6500.1.1
 	history_loc_override = sorvan_history_loc
 	
 	ethos = ethos_spiritual

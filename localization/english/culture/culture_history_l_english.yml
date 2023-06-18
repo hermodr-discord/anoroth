@@ -34,11 +34,8 @@
  nahlan_history_loc:0 "Descended from the remnants of [CULTURE.GetName] peasantry that survived the Akhtin Plague"
  valkh_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] who remained after the Akhtin Plague"
  askhal_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] of the [third_era|E]"
- malghas_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] who migrated to the north coast of Valkhagh"
  nadrahn_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] that settled the Nadra River"
- korun_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that migrated to the source of the Nadra"
  vazh_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] of the late [third_era|E]"
- alkuhn_history_loc:0 "Progeny of the [CULTURE.GetCollectiveNoun] that settled the mouth of the Alku river"
  # VANTIC CULTURES
  old_vantic_history_loc:0 "Descended from Anorothic tribes that migrated west in the Third Era"
  north_vantic_history_loc:0 "Descended from Old Vants"

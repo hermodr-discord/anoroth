@@ -4,12 +4,14 @@
 	created = 250.1.1
 	history_loc_override = proto_valkh_history_loc
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_valkh
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_hill_dwellers
+		tradition_tribe_unity
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -38,7 +40,9 @@ proto_north_valkh = { # Progenitor of the Nahlan and Valkh Cultures
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_hill_dwellers
+		tradition_hereditary_hierarchy
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -62,12 +66,14 @@ proto_south_valkh = { # Progenitor of the West and South Valkh Cultures
 	created = 2600.1.1
 	history_loc_override = proto_south_valkh_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_bureaucratic
 	heritage = heritage_valkh
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_hill_dwellers
+		tradition_philosopher_culture
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -91,12 +97,14 @@ old_nahlan = { # Progenitor of the Nahlan Culture
 	created = 3850.1.1
 	history_loc_override = old_nahlan_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_communal
 	heritage = heritage_valkh
 	language = language_nahlan
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_forest_folk
+		tradition_astute_diplomats
+		tradition_concubines
 	}
 	
 	name_list = name_list_bavarian
@@ -125,7 +133,9 @@ old_valkh = { # Progenitor of the Valkh Culture
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_highland_warriors
+		tradition_mountain_homes
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -142,19 +152,22 @@ old_valkh = { # Progenitor of the Valkh Culture
 		15 = slavic_dark_hair
 	}
 }
-old_west_valkh = { # Progenitor of the Askhal, Korun, Malghas, and Nadrahn Cultures
+old_west_valkh = { # Progenitor of the Askhal and Nadrahn Cultures
 	color = { 0.0 0.35 0.0 }
 	
 	parents = { proto_south_valkh }
 	created = 3300.1.1
 	history_loc_override = old_west_valkh_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_bureaucratic
 	heritage = heritage_valkh
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_hill_dwellers
+		tradition_polygamous
+		tradition_city_keepers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_bavarian
@@ -171,19 +184,22 @@ old_west_valkh = { # Progenitor of the Askhal, Korun, Malghas, and Nadrahn Cultu
 		15 = slavic_dark_hair
 	}
 }
-old_south_valkh = { # Progenitor of the Alkuhn and Vazh Cultures
+old_south_valkh = { # Progenitor of the Vazh Culture
 	color = { 0.0 0.25 0.15 }
 	
 	parents = { proto_south_valkh }
 	created = 3700.1.1
 	history_loc_override = old_south_valkh_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_spiritual
 	heritage = heritage_valkh
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_highland_warriors
+		tradition_warrior_monks
+		tradition_religious_patronage
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -212,7 +228,10 @@ nahlan = { # Small and isolated Culture in the Occitan Forest
 	language = language_nahlan
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_forest_folk
+		tradition_isolationist
+		tradition_warrior_monks
+		tradition_concubines
 	}
 	
 	name_list = name_list_bavarian
@@ -241,7 +260,10 @@ valkh = { # Medium-sized isolated Culture in the Pyrenees
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_highland_warriors
+		tradition_mountain_homes
+		tradition_artisans
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -265,41 +287,15 @@ askhal = { # Medium-sized dead Culture in West Iberia
 	created = 4650.1.1
 	history_loc_override = askhal_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_bureaucratic
 	heritage = heritage_valkh
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
-	}
-	
-	name_list = name_list_bavarian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-malghas = { # Medium-sized dead Culture in Galicia
-	color = { 0.0 0.5 0.1 }
-	
-	parents = { askhal }
-	created = 5350.1.1
-	history_loc_override = malghas_history_loc
-
-	ethos = ethos_stoic
-	heritage = heritage_valkh
-	language = language_valkh
-	martial_custom = martial_custom_male_only
-	traditions = {
-
+		tradition_hill_dwellers
+		tradition_highland_warriors
+		tradition_hard_working
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -323,41 +319,15 @@ nadrahn = { # Medium-sized dead Culture in Southwest Iberia
 	created = 4950.1.1
 	history_loc_override = nadrahn_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_communal
 	heritage = heritage_valkh
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
-	}
-	
-	name_list = name_list_bavarian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-korun = { # Small dead Culture in Central Iberia
-	color = { 0.025 0.325 0.1 }
-	
-	parents = { nadrahn }
-	created = 5250.1.1
-	history_loc_override = korun_history_loc
-
-	ethos = ethos_stoic
-	heritage = heritage_valkh
-	language = language_valkh
-	martial_custom = martial_custom_male_only
-	traditions = {
-
+		tradition_pastoralists
+		tradition_agrarian
+		tradition_hard_working
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian
@@ -381,41 +351,15 @@ vazh = { # Medium-sized dead Culture in Valencia
 	created = 4500.1.1
 	history_loc_override = vazh_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_spiritual
 	heritage = heritage_valkh
 	language = language_valkh
 	martial_custom = martial_custom_male_only
 	traditions = {
-
-	}
-	
-	name_list = name_list_bavarian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		45 = slavic_blond
-		5 = slavic_ginger
-		35 = slavic_brown_hair
-		15 = slavic_dark_hair
-	}
-}
-alkuhn = { # Medium-sized dead Culture in Granada
-	color = { 0.075 0.3 0.075 }
-	
-	parents = { old_south_valkh }
-	created = 5000.1.1
-	history_loc_override = alkuhn_history_loc
-
-	ethos = ethos_stoic
-	heritage = heritage_valkh
-	language = language_valkh
-	martial_custom = martial_custom_male_only
-	traditions = {
-
+		tradition_highland_warriors
+		tradition_warrior_monks
+		tradition_fishermen
+		tradition_polygamous
 	}
 	
 	name_list = name_list_bavarian

@@ -19,6 +19,9 @@ heritage_valkh = {
 heritage_vantic = {
 	type = heritage
 }
+heritage_khalkad = {
+	type = heritage
+}
 
 
 ###

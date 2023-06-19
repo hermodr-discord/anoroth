@@ -1,0 +1,268 @@
+﻿proto_khalkad = { # Progenitor of the Khalkad, (ARMENIAN), (CISCAUCASIAN), (TRANSCAUCASIAN), (MESOPOTAMIAN), (SYRIAN), and (WEST ANATOLIAN) heritages.
+
+	#parents = {  }
+	created = 700.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_
+	language = language_
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+proto_central_khalkad = { # Progenitor of the Khalkad heritage.
+	color = { 0.5 0.5 0.5 }
+
+	parents = { proto_khalkad }
+	created = 3350.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+proto_east_khalkad = { # Progenitor of the (ARMENIAN), (TRANSCAUCASIAN), and (CISCAUCASIAN) heritages
+	color = { 0.5 0.5 0.5 }
+
+	parents = { proto_khalkad }
+	created = 3900.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+proto_south_khalkad = { # Progenitor of the (SYRIAN), and (MESOPOTAMIAN) heritages.
+	color = { 0.5 0.5 0.5 }
+
+	parents = { proto_khalkad }
+	created = 4400.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+proto_west_khalkad = { # Progenitor of the (WEST ANATOLIAN) heritage.
+	color = { 0.5 0.5 0.5 }
+
+	parents = { proto_khalkad }
+	created = 5100.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+old_khalkad = { # 
+	color = { 0.5 0.5 0.5 }
+
+	parents = { proto_central_khalkad }
+	created = 4200.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+khalkad = { # 
+	color = { 0.5 0.5 0.5 }
+
+	parents = { old_khalkad }
+	created = 5100.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+tsalkud = { # 
+	color = { 0.5 0.5 0.5 }
+
+	parents = { khalkad }
+	created = 5600.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+sadun = { # 
+	color = { 0.5 0.5 0.5 }
+
+	parents = { tsalkud }
+	created = 6500.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_khalkad
+	language = language_khalkad
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}

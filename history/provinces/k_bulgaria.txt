@@ -53,7 +53,7 @@
 ##d_turnovo ###################################
 ###c_turnovo aka Tarnovgrad
 499 = {		#Tyrnovo	
-	culture = bulgarian
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }
@@ -78,7 +78,7 @@
 
 ###c_sredets
 500 = {		#Serdica	aka modern day Sofia
-	culture = bulgarian
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }
@@ -144,7 +144,7 @@
 
 ###c_vratsa
 3678 = {	#Vratsa
-	culture = bulgarian
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }
@@ -212,7 +212,7 @@
 ##d_bulgaria ###################################
 ###c_naissus
 501 = {		#Naissus	
-	culture = bulgarian
+	culture = valtoric
 	religion = orthodox	
 	holding = tribal_holding
 	1066.1.1 = {
@@ -248,7 +248,7 @@
 
 ###c_pomoravlje
 3658 = {	#Vranje
-	culture = bulgarian
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }
@@ -265,13 +265,9 @@
 
 ###c_velbazhd
 3656 = {	#Velbazhd
-	culture = bulgarian
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
-	950.1.1 = {
-		religion = bogomilist
-		#Appeared in the region in the Xth century
-	}
 }
 3654 = {	#Bosilegrad
 	holding = city_holding
@@ -282,13 +278,9 @@
 
 ###c_pirin
 3653 = {	#Melnik
-	culture = bulgarian
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
-	950.1.1 = {
-		religion = bogomilist
-		#Appeared in the region in the Xth century
-	}
 }
 3652 = {	#Scaptopara / modern Blagoevgrad
 	holding = none
@@ -296,13 +288,9 @@
 
 ###c_strumica
 3650 = {	#Strumica
-	culture = bulgarian
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
-	950.1.1 = {
-		religion = bogomilist
-		#Appeared in the region in the Xth century
-	}
 }
 3648 = {	#Shtip
 	holding = city_holding
@@ -316,13 +304,9 @@
 
 ###c_skopje
 3643 = {	#Skopje
-	culture = bulgarian
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
-	950.1.1 = {
-		religion = bogomilist
-		#Appeared in the region in the Xth century
-	}
 }
 3642 = {	#Zegligovo
 	holding = none
@@ -355,13 +339,9 @@
 
 ###c_ohrid
 471 = {		#Ochrid
-	culture = bulgarian
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
-	950.1.1 = {
-		religion = bogomilist
-		#Appeared in the region in the Xth century
-	}
 }
 3638 = {	#Bitola
 	holding = castle_holding
@@ -380,7 +360,7 @@
 ##d_philippopolis ###################################
 ###c_philippopolis
 493 = {		#Philippopolis
-	culture = greek
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }
@@ -399,7 +379,7 @@
 
 ###c_kran
 3636 = {	#Kran
-	culture = bulgarian
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }
@@ -417,7 +397,7 @@
 
 ###c_beroe
 3632 = {	#Beroe
-	culture = greek
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }
@@ -506,7 +486,7 @@
 
 ###c_rhodopes
 3617 = {	#Nevrokop
-	culture = greek
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }

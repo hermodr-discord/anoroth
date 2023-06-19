@@ -253,7 +253,7 @@
 
 ###c_chalkidike
 491 = {		#Polygyros
-	culture = greek
+	culture = savastran
 	religion = orthodox
 	holding = castle_holding
 	867.1.1 = {

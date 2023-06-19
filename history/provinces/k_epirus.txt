@@ -19,7 +19,7 @@
 
 ###c_epeiros
 3708 = {	#Ioannina
-	culture = greek
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }
@@ -51,7 +51,7 @@
 
 ###c_metzovo
 3702 = {	#Metzovo
-	culture = greek
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }
@@ -68,7 +68,7 @@
 ##d_dyrrachion ###################################
 ###c_dyrrachion
 470 = {		#Dyrrachion
-	culture = greek
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 	1066.1.1 = {
@@ -85,7 +85,7 @@
 
 ###c_arbanon
 3720 = {	#Krujë
-	culture = greek
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }
@@ -102,7 +102,7 @@
 
 ###c_debar
 3724 = {	#Debar
-	culture = greek
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }
@@ -115,7 +115,7 @@
 
 ###c_antipatreia / Albanian Toskeria
 3713 = {	#Antipatreia
-	culture = greek
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }
@@ -135,7 +135,7 @@
 
 ###c_avlonas
 3711 = {	#Avlonas
-	culture = greek
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }

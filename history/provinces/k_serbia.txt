@@ -5,12 +5,9 @@
 ##d_rashka ###################################
 ###c_rashka
 502 = {		#Rashka / b_novotrgoviste
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-	}
 }
 3592 = {	#Budlimlje
 	holding = none
@@ -25,13 +22,9 @@
 
 ###c_zlatibor
 3591 = {	#Sjenica
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-	}
-	#1st mention in 1253
 }
 3589 = {	#Arilje
 	holding = none
@@ -44,7 +37,7 @@
 
 ###c_sumadija
 3598 = {	#Kruševac
-	culture = serbian
+	culture = valtoric
 	religion = orthodox
 	holding = castle_holding
 }
@@ -60,12 +53,9 @@
 
 ###c_podrinje
 3583 = {	# Hotca
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-	}
 }
 3585 = {	#Brežnica
 	holding = none
@@ -88,13 +78,9 @@
 
 ###c_durmitor
 3584 = {	#Prijepolje
-	culture = serbian
+	culture = valtoric
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-	}
-	#Settled in 1234
 }
 3586 = {	#Brskovo
 	holding = none
@@ -103,7 +89,7 @@
 
 ###c_hvosno
 3596 = {	#Priština
-	culture = serbian
+	culture = voden
 	religion = orthodox
 	holding = castle_holding
 }
@@ -172,12 +158,9 @@
 ##d_duklja ###################################
 ###c_duklja
 469 = {		#Zeta / b_ribnicapodgorica / Ribnica / Podgorica
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-	}
 }
 503 = {		#Hum / b_plav
 	holding = none
@@ -205,12 +188,9 @@
 
 ###c_pomorje
 3575 = {	#Bar / Antivari
-	culture = serbian
+	culture = voden
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-	}
 }
 3576 = {	#Ulcinj
 	holding = city_holding
@@ -224,12 +204,9 @@
 
 ###c_travunia
 3572 = {	#Trebinje
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-	}
 }
 3571 = {	#Onogošt
 	holding = city_holding

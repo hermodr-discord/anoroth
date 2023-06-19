@@ -1,0 +1,174 @@
+﻿proto_kotyran = { # Progenitor of the Kotyran Heritage
+	color = { 0.8 0.4 0.0 }
+
+	parents = { proto_south_anorothic }
+	created = 3900.1.1
+	history_loc_override = proto_kotyran_history_loc
+	
+	ethos = ethos_stoic
+	heritage = heritage_kotyran
+	language = language_kotyran
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+old_kotyran = { # Progenitor of the Kotyran Cultures
+	color = { 0.8 0.4 0.0 }
+	
+	parents = { proto_kotyran }
+	created = 5250.1.1
+	history_loc_override = old_kotyran_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_kotyran
+	language = language_kotyran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+kotyran = { # 
+	color = { 0.8 0.4 0.0 }
+	
+	parents = { old_kotyran }
+	created = 6600.1.1
+	history_loc_override = kotyran_history_loc
+
+	ethos = ethos_stoic
+	heritage = heritage_kotyran
+	language = language_kotyran
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+voden = { # 
+	color = { 0.7 0.5 0.0 }
+	
+	parents = { old_kotyran }
+	created = 6750.1.1
+	history_loc_override = voden_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_kotyran
+	language = language_kotyran
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+valtoric = { # 
+	color = { 0.65 0.65 0.0 }
+	
+	parents = { old_kotyran }
+	created = 6900.1.1
+	history_loc_override = valtoric_history_loc
+
+	ethos = ethos_bureaucratic
+	heritage = heritage_kotyran
+	language = language_kotyran
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+savastran = { # 
+	color = { 0.65 0.8 0.0 }
+	
+	parents = { voden }
+	created = 7300.1.1
+	history_loc_override = savastran_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_kotyran
+	language = language_kotyran
+	martial_custom = martial_custom_male_only
+	traditions = {
+
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}

@@ -49,6 +49,40 @@ language_anorin = {
 
 	color = anorin
 }
+language_khalkad = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_khalkad
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_khalkad }
+			multiply = 10
+		}
+	}
+	
+	color = khalkad
+}
+language_kotyran = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_kotyran
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = { 
+			limit = { has_cultural_pillar = language_kotyran }
+		}
+		multiply = 10
+	}
+
+	color = kotyran
+}
 language_nahlan = {
 	type = language
 	is_shown = {
@@ -152,23 +186,7 @@ language_vantic = {
 	
 	color = vantic
 }
-language_khalkad = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_khalkad
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_khalkad }
-			multiply = 10
-		}
-	}
-	
-	color = vantic
-}
+
 
 ###
 

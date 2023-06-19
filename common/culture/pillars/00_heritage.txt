@@ -4,6 +4,12 @@
 heritage_adrantic = {
 	type = heritage
 }
+heritage_khalkad = {
+	type = heritage
+}
+heritage_kotyran = {
+	type = heritage
+}
 heritage_pretoric = {
 	type = heritage
 }
@@ -17,9 +23,6 @@ heritage_valkh = {
 	type = heritage
 }
 heritage_vantic = {
-	type = heritage
-}
-heritage_khalkad = {
 	type = heritage
 }
 

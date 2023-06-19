@@ -21,6 +21,13 @@
  drohinic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who settled the Kraghav mountains and hills"
  anorin_history_loc:0 "Progeny of the [CULTURE.GetCollectiveNoun] that settled the mouth of the Anor River"
  thalan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated across the Sea of Thal" 
+ # KOTYRAN CULTURES
+ proto_kotyran_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated to the Kotyr Mountains"
+ old_kotyran_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] of the early [fourth_era|E]"
+ kotyran_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] of the late [fourth_era|E]"
+ voden_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that migrated into the south Kotyr Mountains"
+ valtoric_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that settled the south mountains of the Anor"
+ savastran_history_loc:0 "Born from [CULTURE.GetCollectiveNoun] who migrated into the more fertile southern plains"
  # PRETORIC CULTURES
  pretoric_history_loc:0 "From [CULTURE.GetName] tribes settling east of the Kala"
  kalic_history_loc:0 "The [CULTURE.GetCollectiveNoun] after adopting feudal ways"

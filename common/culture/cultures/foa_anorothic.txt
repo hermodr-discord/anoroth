@@ -152,7 +152,7 @@ old_west_anorothic = { # Progenitor of the Anorothic, Anaric, Karanir, and Othor
 		15 = slavic_dark_hair
 	}
 }
-old_east_anorothic = { # Progenitor of the Anorin, Drohinic, Kraghan, and Thalan cultures.
+old_east_anorothic = { # Progenitor of the Anorin, Drohinic, Kraghan, and Thalan Cultures
 	color = { 0.5 0.05 0.2 }
 
 	parents = { proto_central_anorothic }

@@ -2,13 +2,9 @@
 ##d_dalmatia ###################################
 ###c_zadar
 465 = {		#Zadar
-	culture = greek
+	culture = kotyran
 	religion = orthodox
 	holding = castle_holding
-	1066.1.1 = {
-		culture = croatian
-		religion = catholic
-	}
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_02
@@ -31,7 +27,7 @@
 
 ###c_knin
 3548 = {	#Knin
-	culture = croatian
+	culture = kotyran
 	religion = catholic
 	holding = castle_holding
 }
@@ -50,13 +46,9 @@
 
 ###c_cetina
 3551 = {	#Sinj / c_sinjcroat
-	culture = greek
+	culture = kotyran
 	religion = orthodox
 	holding = castle_holding
-	1066.1.1 = {
-		culture = greek
-		religion = catholic
-	}
 }
 467 = {		#Split
 	holding = city_holding
@@ -72,7 +64,7 @@
 ##d_croatia ###################################
 ###c_gacka
 464 = {		#Senj
-	culture = croatian
+	culture = kotyran
 	religion = catholic
 	holding = castle_holding
 }
@@ -86,7 +78,7 @@
 
 ###c_lika
 3543 = {	#Kaseg
-	culture = croatian
+	culture = kotyran
 	religion = catholic
 	holding = castle_holding
 }
@@ -102,13 +94,9 @@
 
 ###c_cherso
 2521 = {	#Cherso / Cres
-	culture = greek
+	culture = kotyran
 	religion = orthodox
 	holding = castle_holding
-	1066.1.1 = {
-		culture = croatian
-		religion = catholic
-	}
 }
 459 = {		#Krk / Veglia
 	holding = city_holding
@@ -117,7 +105,7 @@
 
 ###c_modrus
 3539 = {	#Modruš
-	culture = croatian
+	culture = kotyran
 	religion = catholic
 	holding = castle_holding
 }
@@ -210,7 +198,7 @@
 ##d_bosna ###################################
 ###c_rama
 3527 = {	#Visoki
-	culture = bosnian
+	culture = kotyran
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -232,7 +220,7 @@
 
 ###c_donjikraji
 3507 = {	#Jajce
-	culture = bosnian
+	culture = kotyran
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -253,7 +241,7 @@
 
 ###c_vhrbosna
 3567 = {	#Vhrbosna
-	culture = bosnian
+	culture = kotyran
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -274,7 +262,7 @@
 
 ###c_pset
 3522 = {	#Bihac
-	culture = bosnian
+	culture = kotyran
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -289,13 +277,9 @@
 ##d_lower_bosna ###################################
 ###c_vodica / krajina
 3519 = {	#Vodicevo
-	culture = croatian
+	culture = kotyran
 	religion = bosnian_church
 	holding = castle_holding
-	950.1.1 = {
-		culture = bosnian
-		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
-	}
 }
 3518 = {	#Dubica
 	holding = none
@@ -306,13 +290,9 @@
 
 ###c_vrbas
 3516 = {	#Vrbaški Grad / b_banjaluka
-	culture = croatian
+	culture = kotyran
 	religion = bosnian_church
 	holding = castle_holding
-	950.1.1 = {
-		culture = bosnian
-		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
-	}
 }
 3515 = {	#Gradiška
 	holding = city_holding
@@ -325,18 +305,9 @@
 ###c_usora
 3513 = {	#Srebrenik
 	#culture = croatian
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
-	950.1.1 = {
-		culture = bosnian
-		religion = bosnian_church
-		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
-	}
 }
 463 = {		#Usora
 	holding = none
@@ -354,18 +325,9 @@
 ###c_soli
 3510 = {	#Soli
 	#culture = croatian
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
-	950.1.1 = {
-		culture = bosnian
-		religion = bosnian_church
-		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
-	}
 }
 3509 = {	#Bijeljina
 	holding = city_holding
@@ -382,13 +344,9 @@
 466 = {		#Zachlumia
 	#culture = bosnian
 	#religion = bosnian_church
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
 }
 3561 = {	#Nevesinje
 	holding = none
@@ -408,14 +366,9 @@
 
 ###c_zelengora
 3560 = {	#Gacko
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
-	#First mention in 1150
 }
 3557 = {	#Konjic
 	holding = none
@@ -427,7 +380,7 @@
 
 ###c_zavrsje
 3501 = {	#Hlivno
-	culture = bosnian
+	culture = kotyran
 	religion = bosnian_church
 	holding =  castle_holding
 
@@ -451,18 +404,9 @@
 
 ###c_pagania
 3555 = {	#Mokro
-	culture = croatian
+	culture = kotyran
 	religion = slavic_pagan
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
-	950.1.1 = {
-		#Slower spread out to the culture from the Dinaric Alps.
-		religion = bosnian_church
-		culture = bosnian
-	}
 }
 3553 = {	#Omiš
 	holding = none
@@ -474,13 +418,9 @@
 ##d_ragusa ###################################
 ###c_ragusa
 468 = {		#Ragusa
-	culture = serbian
+	culture = kotyran
 	religion = slavic_pagan	
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_02

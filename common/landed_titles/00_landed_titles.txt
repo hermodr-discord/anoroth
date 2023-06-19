@@ -7948,6 +7948,16 @@ e_byzantium = {
 
 					color = { 189 19 130 }
 				}
+				b_rendina = {
+					province = 3775
+
+					color = { 165 30 170 }
+				}
+				b_ierrisos = {
+					province = 3776
+
+					color = { 165 30 170 }
+				}
 			}
 			c_chalkidike = {
 				color = { 165 30 170 }
@@ -7959,18 +7969,8 @@ e_byzantium = {
 
 					color = { 165 30 170 }
 				}
-				b_rendina = {
-					province = 3775
-
-					color = { 165 30 170 }
-				}
 				b_kassandreia = {
 					province = 3777
-
-					color = { 165 30 170 }
-				}
-				b_ierrisos = {
-					province = 3776
 
 					color = { 165 30 170 }
 				}
@@ -8147,6 +8147,16 @@ e_byzantium = {
 
 					color = { 134 63 109 }
 				}
+				b_agrafa = {
+					province = 3705
+
+					color = { 185 130 150 }
+				}
+				b_grava = { # Modern Igoumenitsa
+					province = 3709
+
+					color = { 140 70 75 }
+				}
 			}
 			c_epeiros = {
 				color = { 140 70 75 }
@@ -8189,11 +8199,6 @@ e_byzantium = {
 
 					color = { 150 100 140 }
 				}
-				b_agrafa = {
-					province = 3705
-
-					color = { 185 130 150 }
-				}
 			}
 			c_metzovo = {
 				color = { 185 130 150 }
@@ -8215,6 +8220,11 @@ e_byzantium = {
 
 					color = { 185 130 150 }
 				}
+				b_servia = {
+					province = 3787
+
+					color = { 170 30 165 }
+				}
 				b_grevena = {
 					province = 3795
 
@@ -8224,11 +8234,6 @@ e_byzantium = {
 					province = 3796
 
 					color = { 155 30 210 }
-				}
-				b_servia = {
-					province = 3787
-
-					color = { 170 30 165 }
 				}
 			}
 		}
@@ -8278,6 +8283,11 @@ e_byzantium = {
 					province = 3721
 
 					color = { 140 65 85 }
+				}
+				b_danj = {
+					province = 3579
+
+					color = { 129 94 13 }
 				}
 			}
 			c_debar = {
@@ -8385,11 +8395,6 @@ e_byzantium = {
 					province = 3710
 
 					color = { 190 90 70 }
-				}
-				b_grava = { # Modern Igoumenitsa
-					province = 3709
-
-					color = { 140 70 75 }
 				}
 			}
 		}
@@ -9429,15 +9434,20 @@ e_byzantium = {
 
 					color = { 103 88 51 }
 				}
-				b_zica = {
-					province = 3588
-
-					color = { 103 88 51 }
-				}
 				b_gradac = {
 					province = 3587
 
 					color = { 103 88 51 }
+				}
+				b_zvecan = {
+					province = 3594
+
+					color = { 85 105 70 }
+				}
+				b_podujevo = {
+					province = 3593
+
+					color = { 85 105 70 }
 				}
 			}
 			c_zlatibor = {
@@ -9488,6 +9498,11 @@ e_byzantium = {
 					province = 3603
 
 					color = { 128 115 37 }
+				}
+				b_zica = {
+					province = 3588
+
+					color = { 103 88 51 }
 				}
 			}
 			c_podrinje = {
@@ -9543,16 +9558,6 @@ e_byzantium = {
 				}
 				b_pec = {
 					province = 3595
-
-					color = { 85 105 70 }
-				}
-				b_zvecan = {
-					province = 3594
-
-					color = { 85 105 70 }
-				}
-				b_podujevo = {
-					province = 3593
 
 					color = { 85 105 70 }
 				}
@@ -9623,25 +9628,15 @@ e_byzantium = {
 
 					color = { 129 94 13 }
 				}
-				b_drivast = {
-					province = 3578
-
-					color = { 129 94 13 }
-				}
-				b_danj = {
-					province = 3579
-
-					color = { 129 94 13 }
-				}
-				b_skadar = {
-					province = 3580
-
-					color = { 129 94 13 }
-				}
 				b_moraca = {
 					province = 3577
 
 					color = { 129 94 13 }
+				}
+				b_cattaro = { # Kotor
+					province = 3574
+
+					color = { 155 105 5 }
 				}
 			}
 			c_pomorje = {
@@ -9659,10 +9654,15 @@ e_byzantium = {
 
 					color = { 155 105 5 }
 				}
-				b_cattaro = { # Kotor
-					province = 3574
+				b_skadar = {
+					province = 3580
 
-					color = { 155 105 5 }
+					color = { 129 94 13 }
+				}
+				b_drivast = {
+					province = 3578
+
+					color = { 129 94 13 }
 				}
 			}
 			c_travunia = { # Travunia
@@ -10102,11 +10102,6 @@ e_byzantium = {
 
 					color = { 145 135 135 }
 				}
-				b_kratovo = {
-					province = 3655
-
-					color = { 145 135 135 }
-				}
 			}
 
 			c_pirin = {
@@ -10124,6 +10119,11 @@ e_byzantium = {
 
 					color = { 110 100 130 }
 				}
+				b_maleshevo = {
+					province = 3649
+
+					color = { 140 95 130 }
+				}
 			}
 
 			c_strumica = {
@@ -10138,11 +10138,6 @@ e_byzantium = {
 				}
 				b_shtip = {
 					province = 3648
-
-					color = { 140 95 130 }
-				}
-				b_maleshevo = {
-					province = 3649
 
 					color = { 140 95 130 }
 				}
@@ -10187,6 +10182,11 @@ e_byzantium = {
 					province = 3647
 
 					color = { 135 95 95 }
+				}
+				b_kratovo = {
+					province = 3655
+
+					color = { 145 135 135 }
 				}
 			}
 

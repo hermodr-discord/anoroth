@@ -79,13 +79,10 @@
 ###c_girona
 1864 = {	# GIRONA
 	# Misc
-	culture = visigothic
+	culture = svalkvud
 	religion = catholic
 	
 	holding = castle_holding
-	
-	# History
-	800.1.1 = { culture = catalan }
 }
 1863 = {	# LOREDO/Ullastret
 	holding = church_holding

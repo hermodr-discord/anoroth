@@ -64,15 +64,10 @@
 
 ###c_vestfold
 286 = {	#TUNSBERG	aka Tønsberg
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
 	special_building_slot = heddal_stave_church_01 #Should probably be in SKIRINGSSAL, but placed here for balance and county holder access
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding	#founded before that, in VIIIth, but set here for balance
-	}
 }
 287 = { #SKIRINGSSAL
 	holding = none
@@ -89,16 +84,9 @@
 
 ###c_telemark
 248 = {	#TELEMARK
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-		#City of Skien, center of Telemark, founded in viking age
-		#Set as castle here, so it upgrades from tribal at the same time as the reste of Norway
-	}
 }
 288 = { #HEDDALL	aka Heddal, Hitterdal, Heitrardalr
 	holding = none
@@ -110,14 +98,9 @@
 ##d_agder ###################################
 ###c_nedenes
 249 = {	#ARENDALL
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 250 = { #RAABOIGDE
 	holding = none
@@ -128,14 +111,9 @@
 
 ###c_agdeside
 289 = {	#OTTRUNES	aka Oddernes, tied to Kristiansand
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 251 = { #NORWEGIAN_LISTER	aka Lista
 	holding = none
@@ -147,14 +125,9 @@
 ##d_vestlandi ###################################
 ###c_rogalandi
 252 = {	#JATHARR	aka Jæren, linked city = Stavanger
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_01
@@ -172,15 +145,9 @@
 
 ###c_hordalandi
 257 = {	#BJORGVIN	aka Bergen
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-		#speculated to have been founded around 1020s
-	}
 }
 258 = { #NORTHRIHORDALANDI	aka Nordhordland
 	holding = none
@@ -197,14 +164,9 @@
 
 ###c_sogn
 260 = {	#SOGNFYLKI	#aka Sogn
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 262 = { #STOLSHEIMEN
 	holding = none
@@ -225,15 +187,11 @@
 ##d_trandalog ###################################
 ###c_trandheim
 270 = {	#NIDAROS	aka Trondheim
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
 	997.1.1 = {
 		holding = castle_holding
-	}
-	1066.1.1 = {
-		culture = norwegian
-		religion = catholic
 	}
 	1066.1.1 = {
 		buildings = {
@@ -262,14 +220,9 @@
 
 ###c_norwegian_more
 268 = {	#RAUMSDALI	aka Romsdal
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 269 = { #NORTHRI_MORE	aka Nordmøre
 	holding = none
@@ -284,14 +237,9 @@
 
 ###c_firdafylki
 265 = {	#FIRDAFYLKI
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 266 = { #JOLSTER
 	holding = none
@@ -300,14 +248,9 @@
 ##d_dalir ###################################
 ###c_hedmork
 236 = {	#HEDMORK	aka Hedmark
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 235 = { #VALDRES
 	holding = none
@@ -318,14 +261,9 @@
 
 ###c_gudbrandsdalir
 238 = {	#SUTHRI_GUDBRANDSDALI
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 237 = { #NORTHRI_GUDBRANDSDALI
 	holding = none
@@ -344,14 +282,9 @@
 
 ###c_eystridalir
 239 = {	#NORTHRI_EYSTRIDALI
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 240 = { #SUTHRI_EYSTRIDALI
 	holding = none
@@ -359,14 +292,9 @@
 
 ###c_gauldala
 241 = {	#GAULDALA
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 242 = { #STJORDALA
 	holding = none
@@ -378,13 +306,9 @@
 
 ###c_vastvag
 280 = {	#VASTVAGBORG
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		#religion = catholic
-	}
 }
 279 = { #BJARKOY
 	holding = none
@@ -395,13 +319,9 @@
 
 ###c_bothin
 277 = {	#BOTHIN
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		#religion = catholic
-	}
 }
 275 = { #RODOY
 	holding = none
@@ -415,13 +335,9 @@
 
 ###c_namdalfylki
 245 = {	#UTAN_NAMDAL
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		#religion = catholic
-	}
 }
 244 = { #INNAN_NAMDAL
 	holding = none
@@ -436,12 +352,9 @@
 ##d_iceland ###################################
 ###c_vestisland
 2 = {	#REYKJAVIK
-	culture = norse
+	culture = klaasuo
 	religion = norse_pagan
 	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-	}
 }
 1 = {	#VESTFIRDIR
 	holding = none
@@ -455,12 +368,9 @@
 
 ###c_nordrland
 5 = {	#HUSAVIK
-	culture = norse
+	culture = klaasuo
 	religion = norse_pagan
 	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-	}
 }
 8773 = {	#VOPNAFJORDUR
 	holding = none
@@ -471,12 +381,9 @@
 
 ###c_austisland
 4 = {	#REYDARFJALL
-	culture = norse
+	culture = klaasuo
 	religion = norse_pagan
 	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-	}
 }
 8772 = {	#HOFN
 	holding = none
@@ -484,12 +391,9 @@
 
 ###c_sudurland
 3 = {	#STOKKSEYRI
-	culture = norse
+	culture = klaasuo
 	religion = norse_pagan
 	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-	}
 }
 8774 = {	#KLAUSTUR
 	holding = none
@@ -498,53 +402,23 @@
 ##d_northern_isles ###################################
 ###c_orkney
 8 = {	#KIRKWALL
-	culture = pictish
+	culture = urqala
 	religion = catholic
 	holding = tribal_holding
-	855.1.1 = {
-		culture = norse
-		religion = norse_pagan
-	}
-	1000.1.1 = {
-		religion = catholic
-		holding = castle_holding
-	}
-	1066.1.1 = { culture = norwegian }
 }
 
 ###c_faereyar
 6 = {	#TORSHAVN
-	culture = pictish
+	culture = urqala
 	religion = catholic
 	holding = tribal_holding
-	855.1.1 = {
-		culture = norse
-		religion = norse_pagan
-	}
-	1000.1.1 = {
-		religion = catholic
-		holding = castle_holding
-	}
-	1066.1.1 = {
-		culture = norwegian
-	}
 }
 
 ###c_shetland
 7 = {	#SCALLOWAY
-	culture = pictish
+	culture = urqala
 	religion = catholic
 	holding = tribal_holding
-	855.1.1 = {
-		culture = norse
-		religion = norse_pagan
-	}
-	1000.1.1 = {
-		religion = catholic
-		holding = castle_holding
-	}
-	1066.1.1 = { culture = norwegian }
-	1334.1.1 = { culture = scottish }
 }
 
 ##d_jamtland ###################################
@@ -618,14 +492,9 @@
 
 ###c_harjadalen
 291 = {	#TANNA
-	culture = norse
+	culture = konavala
 	religion = norse_pagan
 	holding = tribal_holding
-	1020.1.1 = {
-		culture = norwegian
-		religion = catholic
-		holding = castle_holding
-	}
 }
 297 = { #STORSJO
 	holding = none

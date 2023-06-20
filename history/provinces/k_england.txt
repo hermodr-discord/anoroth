@@ -57,12 +57,9 @@
 
 ###c_bedford
 1538 = {	#Bedford
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1539 = {	#Ampthill
 	holding = none
@@ -118,14 +115,11 @@
 ##d_northumberland ###################################
 ###c_northumberland
 1609 = {	#Bamburgh
-	culture = anglo_saxon
+	culture = annsara
 	religion = catholic
 	holding = castle_holding
 	122.1.1 = {
 		special_building = hadrians_wall_01
-	}
-	1100.11.11 = {
-		culture = english
 	}
 }
 1612 = {	#Rothbury
@@ -145,12 +139,9 @@
 
 ###c_durham
 1606 = {	# 1606 - Durham
-	culture = anglo_saxon
+	culture = annsara
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1607 = {	#Hartlepool
 	holding = church_holding
@@ -163,14 +154,11 @@
 
 ###c_cumberland
 1635 = {	#Carlisle
-	culture = cumbrian
+	culture = annsara
 	religion = catholic
 	holding = castle_holding
 	122.1.1 = {
 		special_building = hadrians_wall_01
-	}
-	1100.11.11 = {
-		culture = english
 	}
 }
 1636 = {	#Whitehaven
@@ -199,12 +187,9 @@
 ##d_lancaster ###################################
 ###c_lancashire
 1639 = {	#Lancaster
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1640 = {	#Salford
 	holding = city_holding
@@ -215,12 +200,9 @@
 
 ###c_westmorland
 1637 = {	#Kendal
-	culture = anglo_saxon
+	culture = annsara
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1638 = {	#Appleby
 	holding = none
@@ -228,14 +210,11 @@
 
 ###c_cheshire
 1643 = {	#Chester
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
 	767.1.1 = {
 		special_building = offas_dyke_01
-	}
-	1100.11.11 = {
-		culture = english
 	}
 }
 1644 = {	#Northwich
@@ -250,12 +229,9 @@
 
 ###c_derby
 1621 = {	#Derby
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1622 = {	#Chesterfield
 	holding = none
@@ -271,7 +247,7 @@
 ##d_york ###################################
 ###c_north_riding
 1595 = {	# York
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -280,9 +256,6 @@
 			hunting_grounds_02
 			#military_camps_01
 		}
-	}
-	1100.11.11 = {
-		culture = english
 	}
 }
 1596 = {	#Scarborough
@@ -304,12 +277,9 @@
 
 ###c_east_riding
 1588 = {	#Pocklington
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1589 = {	#Cottingham
 	holding = none
@@ -323,12 +293,9 @@
 
 ###c_west_riding
 1591 = {	#Leeds
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1592 = {	#Doncaster
 	holding = city_holding
@@ -354,7 +321,7 @@
 
 ###c_lincolnshire
 1583 = {	#Lincoln
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -363,9 +330,6 @@
 			barracks_01
 			#hunting_grounds_01
 		}
-	}
-	1100.11.11 = {
-		culture = english
 	}
 }
 1584 = {	#Stamford
@@ -451,12 +415,9 @@
 ##d_hereford ###################################
 ###c_warwickshire
 1603 = {	#Warwick
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english 
-	}
 }
 1604 = {	#Coventry
 	holding = church_holding
@@ -468,12 +429,9 @@
 
 ###c_leicestershire
 1615 = {	#Leicester
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1616 = {	#Melton
 	holding = none
@@ -488,12 +446,9 @@
 
 ###c_nottinghamshire
 1618 = {	#Nottingham
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1619 = {	#Newark
 	holding = none
@@ -507,12 +462,9 @@
 
 ###c_staffordshire
 1627 = {	#Stafford
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1628 = {	#Wolverhampton
 	holding = church_holding
@@ -524,12 +476,9 @@
 
 ###c_worcestershire
 1624 = {	#Worcester
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1625 = {	#Evesham
 	holding = church_holding
@@ -554,12 +503,9 @@
 
 ###c_northamptonshire
 1600 = {	#Northampton
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1601 = {	#Peterborough
 	holding = church_holding
@@ -570,14 +516,11 @@
 
 ###c_shropshire
 1646 = {	#Shrewshbury
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
 	767.1.1 = {
 		special_building = offas_dyke_01
-	}
-	1100.11.11 = {
-		culture = english
 	}
 }
 1647 = {	#Ludlow
@@ -596,7 +539,7 @@
 ##d_gloucester ###################################
 ###c_gloucestershire
 1580 = {	#Gloucester
-	culture = anglo_saxon
+	culture = ijaanda
 	religion = catholic
 	holding = castle_holding
 	767.1.1 = {

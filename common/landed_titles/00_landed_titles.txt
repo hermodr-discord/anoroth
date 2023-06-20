@@ -1271,6 +1271,26 @@ e_britannia = {
 
 					color = { 255 15 15 }
 				}
+				b_scarborough = {
+					province = 1596
+
+					color = { 255 95 20 }
+				}
+				b_whitby = {
+					province = 1597
+
+					color = { 255 95 20 }
+				}
+				b_richmond = {
+					province = 1598
+
+					color = { 255 95 20 }
+				}
+				b_yarlestre = {
+					province = 1500
+
+					color = { 255 95 20 }
+				}
 			}
 			c_cumberland = {
 				color = { 240 25 25 }
@@ -1483,26 +1503,6 @@ e_britannia = {
 						name_list_welsh = cn_efrog
 						name_list_pictish = cn_efrog
 					}
-				}
-				b_scarborough = {
-					province = 1596
-
-					color = { 255 95 20 }
-				}
-				b_whitby = {
-					province = 1597
-
-					color = { 255 95 20 }
-				}
-				b_richmond = {
-					province = 1598
-
-					color = { 255 95 20 }
-				}
-				b_yarlestre = {
-					province = 1500
-
-					color = { 255 95 20 }
 				}
 			}
 			c_east_riding = {
@@ -2779,6 +2779,11 @@ e_britannia = {
 
 					color = { 220 130 0 }
 				}
+				b_callander = {
+					province = 1735
+
+					color = { 245 130 0 }
+				}
 			}
 			c_fife = {
 				color = { 210 115 5 }
@@ -2805,11 +2810,6 @@ e_britannia = {
 
 				b_stirling = {
 					province = 1734
-
-					color = { 245 130 0 }
-				}
-				b_callander = {
-					province = 1735
 
 					color = { 245 130 0 }
 				}
@@ -2977,11 +2977,6 @@ e_britannia = {
 						name_list_welsh = cn_alclud
 					}
 				}
-				b_glasgow = {
-					province = 1696
-
-					color = { 230 150 50 }
-				}
 				b_meneith = {
 					province = 1697
 
@@ -3055,6 +3050,11 @@ e_britannia = {
 					province = 1688
 
 					color = { 230 145 50 }
+				}
+				b_glasgow = {
+					province = 1696
+
+					color = { 230 150 50 }
 				}
 			}
 			c_annandale = {
@@ -3142,26 +3142,6 @@ e_britannia = {
 						name_list_norwegian = cn_skid
 					}
 				}
-				b_lewis = {
-					province = 1693
-
-					color = { 255 225 55 }
-
-					cultural_names = {
-						name_list_norse = cn_ljodhus
-						name_list_norwegian = cn_ljodhus
-					}
-				}
-				b_the_uists = {
-					province = 1694
-
-					color = { 255 225 55 }
-
-					cultural_names = {
-						name_list_norse = cn_vist
-						name_list_norwegian = cn_vist
-					}
-				}
 			}
 			c_argyll = {
 				color = { 215 200 15 }
@@ -3209,6 +3189,30 @@ e_britannia = {
 					cultural_names = {
 						name_list_norse = cn_mylarsund
 						name_list_norwegian = cn_mylarsund
+					}
+				}
+			}
+			c_lewis = {
+				color = { 255 225 55 }
+
+				b_lewis = {
+					province = 1693
+
+					color = { 255 225 55 }
+
+					cultural_names = {
+						name_list_norse = cn_ljodhus
+						name_list_norwegian = cn_ljodhus
+					}
+				}
+				b_the_uists = {
+					province = 1694
+
+					color = { 255 225 55 }
+
+					cultural_names = {
+						name_list_norse = cn_vist
+						name_list_norwegian = cn_vist
 					}
 				}
 			}
@@ -3699,6 +3703,17 @@ e_britannia = {
 
 					color = { 30 180 45 }
 				}
+				b_derry = {
+					province = 12
+
+					color = { 66 157 22 }
+
+					cultural_names = {
+						name_list_irish = cn_daire_coluimb_chille
+						name_list_norse = cn_ulfkelsfjordr
+						name_list_norwegian = cn_ulfkelsfjordr
+					}
+				}
 			}
 			c_ailech = {
 				color = { 66 157 22 }
@@ -3733,17 +3748,6 @@ e_britannia = {
 
 					cultural_names = {
 						name_list_irish = cn_fathain
-					}
-				}
-				b_derry = {
-					province = 12
-
-					color = { 66 157 22 }
-
-					cultural_names = {
-						name_list_irish = cn_daire_coluimb_chille
-						name_list_norse = cn_ulfkelsfjordr
-						name_list_norwegian = cn_ulfkelsfjordr
 					}
 				}
 			}
@@ -3935,6 +3939,15 @@ e_britannia = {
 
 					color = { 93 166 15 }
 				}
+				b_roscrea = { #Historical note: important trading town
+					province = 48
+
+					color = { 3 128 0 }
+
+					cultural_names = {
+						name_list_irish = cn_ros_cre
+					}
+				}
 			}
 		}
 
@@ -3966,15 +3979,6 @@ e_britannia = {
 
 					cultural_names = {
 						name_list_irish = cn_aonach_urmhumhan
-					}
-				}
-				b_roscrea = { #Historical note: important trading town
-					province = 48
-
-					color = { 3 128 0 }
-
-					cultural_names = {
-						name_list_irish = cn_ros_cre
 					}
 				}
 				b_kilmallock = {
@@ -4038,15 +4042,6 @@ e_britannia = {
 						name_list_irish = cn_cluain_meala
 					}
 				}
-			}
-			c_desmond = {
-				color = { 10 137 35 }
-
-				b_tralee = {
-					province = 52
-
-					color = { 10 137 35 }
-				}
 				b_cork = { #Historical note: important trading town
 					province = 53
 
@@ -4058,6 +4053,15 @@ e_britannia = {
 				}
 				b_kinsale = {
 					province = 54
+
+					color = { 10 137 35 }
+				}
+			}
+			c_desmond = {
+				color = { 10 137 35 }
+
+				b_tralee = {
+					province = 52
 
 					color = { 10 137 35 }
 				}
@@ -16093,15 +16097,6 @@ e_scandinavia = {
 						name_list_swedish = cn_asele
 					}
 				}
-				b_gaaltoe = { #Gåaltoe (Kultsjön)
-					province = 431
-
-					color = { 35 35 180 }
-
-					cultural_names = {
-						name_list_swedish = cn_kultsjon
-					}
-				}
 				b_vualtjere = { #(Vilhelmina)
 					province = 432
 
@@ -16133,11 +16128,6 @@ e_scandinavia = {
 					province = 8781
 					color = { 20 25 195 }
 				}
-				b_lais = {
-					province = 381
-
-					color = { 20 25 195 }
-				}
 			}
 			c_pite = {
 				color = { 10 10 205 }
@@ -16149,11 +16139,6 @@ e_scandinavia = {
 				}
 				b_arjepluovve = { #Árjepluovve
 					province = 427
-
-					color = { 10 10 205 }
-				}
-				b_semisjaur = {
-					province = 377
 
 					color = { 10 10 205 }
 				}
@@ -16169,11 +16154,6 @@ e_scandinavia = {
 					cultural_names = {
 						name_list_swedish = cn_jokkmokk
 					}
-				}
-				b_tuorpon = {
-					province = 376
-
-					color = { 15 15 180 }
 				}
 			}
 		}
@@ -16365,6 +16345,11 @@ e_scandinavia = {
 					province = 383
 
 					color = { 80 75 235 }
+				}
+				b_tuorpon = {
+					province = 376
+
+					color = { 15 15 180 }
 				}
 			}
 			c_aviovara = {
@@ -17407,6 +17392,40 @@ e_scandinavia = {
 
 					color = { 150 30 80 }
 				}
+				b_follinge = {
+					province = 437
+
+					color = { 45 0 50 }
+				}
+				b_graftavallen = {
+					province = 282
+
+					color = { 75 20 70 }
+				}
+				b_skalstugan = {
+					province = 296
+
+					color = { 75 20 70 }
+				}
+				b_ardda = {
+					province = 294
+
+					color = { 75 20 70 }
+				}
+				b_krokar = {
+					province = 295
+
+					color = { 75 20 70 }
+				}
+				b_gaaltoe = { #Gåaltoe (Kultsjön)
+					province = 431
+
+					color = { 35 35 180 }
+
+					cultural_names = {
+						name_list_swedish = cn_kultsjon
+					}
+				}
 			}
 			c_norwegian_more = {
 				color = { 160 45 75 }
@@ -17567,6 +17586,16 @@ e_scandinavia = {
 					province = 276
 
 					color = { 225 160 225 }
+				}
+				b_lais = {
+					province = 381
+
+					color = { 20 25 195 }
+				}
+				b_semisjaur = {
+					province = 377
+
+					color = { 10 10 205 }
 				}
 			}
 			c_namdalfylki = {
@@ -17766,26 +17795,6 @@ e_scandinavia = {
 
 					color = { 75 20 70 }
 				}
-				b_graftavallen = {
-					province = 282
-
-					color = { 75 20 70 }
-				}
-				b_skalstugan = {
-					province = 296
-
-					color = { 75 20 70 }
-				}
-				b_ardda = {
-					province = 294
-
-					color = { 75 20 70 }
-				}
-				b_krokar = {
-					province = 295
-
-					color = { 75 20 70 }
-				}
 			}
 			c_morarna = {
 				color = { 65 0 70 }
@@ -17804,6 +17813,11 @@ e_scandinavia = {
 					province = 436
 
 					color = { 65 0 70 }
+				}
+				b_sveg = {
+					province = 298
+
+					color = { 65 20 80 }
 				}
 			}
 			c_helgum = {
@@ -17824,11 +17838,6 @@ e_scandinavia = {
 
 					color = { 45 0 50 }
 				}
-				b_follinge = {
-					province = 437
-
-					color = { 45 0 50 }
-				}
 			}
 			c_harjadalen = {
 				color = { 65 20 80 }
@@ -17840,11 +17849,6 @@ e_scandinavia = {
 				}
 				b_storsjo = {
 					province = 297
-
-					color = { 65 20 80 }
-				}
-				b_sveg = {
-					province = 298
 
 					color = { 65 20 80 }
 				}

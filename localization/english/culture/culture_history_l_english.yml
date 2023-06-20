@@ -21,6 +21,18 @@
  drohinic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who settled the Kraghav mountains and hills"
  anorin_history_loc:0 "Progeny of the [CULTURE.GetCollectiveNoun] that settled the mouth of the Anor River"
  thalan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated across the Sea of Thal" 
+ # KONAVALA CULTURES
+ proto_konavala_history_loc:0 "Descended from Rautii who migrated west into the mountains"
+ old_konavala_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] of the late [third_era|E]"
+ old_rusaana_history_loc:0 "Born from [CULTURE.GetCollectiveNoun] who sailed across the Aansana Sea"
+ konavala_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] of the late [fourth_era|E]"
+ klaasuo_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that sailed across the north Aansana Sea"
+ rusaana_history_loc:0 "Progeny of [CULTURE.GetCollectiveNoun] that settled the highlands of Rusaan"
+ urqala_history_loc:0 "Born from [CULTURE.GetCollectiveNoun] settled various islands off the coast of Rusaan"
+ annsara_history_loc:0 "Descended from [CULTURE.GetName] warriors of the late [fourth_era|E]"
+ ijaanda_history_loc:0 "Born of [CULTURE.GetName] conquest of [TARGET_CULTURE.GetName] territories"
+ aonaala_history_loc:0 "Progeny of [CULTURE.GetCollectiveNoun] that settled Aonaal"
+ tuanaara_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated into the western marshes"
  # KOTYRAN CULTURES
  proto_kotyran_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated to the Kotyr Mountains"
  old_kotyran_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] of the early [fourth_era|E]"

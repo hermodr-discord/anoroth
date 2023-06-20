@@ -161,7 +161,7 @@
 
 ###c_aytos
 3691 = {	#Aytos
-	culture = bulgarian
+	culture = tsalkud
 	religion = orthodox
 	holding = castle_holding
 }
@@ -198,7 +198,7 @@
 
 ###c_mesembria
 498 = {		#Mesembria
-	culture = bulgarian
+	culture = tsalkud
 	religion = slavic_pagan
 	holding = castle_holding
 }
@@ -411,7 +411,7 @@
 
 ###c_burgas
 3628 = {	#Burgas
-	culture = greek
+	culture = tsalkud
 	religion = orthodox
 	holding = castle_holding
 	1066.1.1 = {
@@ -436,7 +436,7 @@
 
 ###c_adrianopolis
 494 = {		#Adrianopolis
-	culture = greek
+	culture = tsalkud
 	religion = orthodox	
 	holding = castle_holding
 	1066.1.1 = {
@@ -445,10 +445,6 @@
 			pastures_01
 			military_camps_01
 		}
-	}
-	1382.1.1 = {
-		culture = turkish
-		religion = ashari
 	}
 }
 3626 = {	#Mezeshka
@@ -461,7 +457,7 @@
 
 ###c_zherkovo
 3618 = {	#Zherkovo
-	culture = greek
+	culture = tsalkud
 	religion = orthodox
 	holding = castle_holding
 }

@@ -1,0 +1,118 @@
+﻿salatud = { # 
+color = { 0.55 0.15 0.3 }
+
+parents = { proto_east_khalkad }
+created = 5900.1.1
+#history_loc_override = _history_loc
+
+ethos = ethos_bellicose
+heritage = heritage_salatud
+language = language_salatud
+martial_custom = martial_custom_male_only
+traditions = {
+	
+}
+
+name_list = name_list_bavarian
+
+coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+building_gfx = { western_building_gfx }
+clothing_gfx = { western_clothing_gfx }
+unit_gfx = { western_unit_gfx }
+
+ethnicities = {
+	10 = caucasian_blond
+	5 = caucasian_ginger
+	45 = caucasian_brown_hair
+	35 = caucasian_dark_hair
+}	
+}
+
+sakhlid = { # 
+color = { 0.55 0.15 0.3 }
+
+parents = { salatud }
+created = 6500.1.1
+#history_loc_override = _history_loc
+
+ethos = ethos_bellicose
+heritage = heritage_salatud
+language = language_salatud
+martial_custom = martial_custom_male_only
+traditions = {
+	
+}
+
+name_list = name_list_bavarian
+
+coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+building_gfx = { western_building_gfx }
+clothing_gfx = { western_clothing_gfx }
+unit_gfx = { western_unit_gfx }
+
+ethnicities = {
+	10 = caucasian_blond
+	5 = caucasian_ginger
+	45 = caucasian_brown_hair
+	35 = caucasian_dark_hair
+}	
+}
+
+kanvut = { # 
+color = { 0.5 0.25 0.4 }
+
+parents = { salatud }
+created = 6500.1.1
+#history_loc_override = _history_loc
+
+ethos = ethos_bellicose
+heritage = heritage_salatud
+language = language_salatud
+martial_custom = martial_custom_male_only
+traditions = {
+	
+}
+
+name_list = name_list_bavarian
+
+coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+building_gfx = { western_building_gfx }
+clothing_gfx = { western_clothing_gfx }
+unit_gfx = { western_unit_gfx }
+
+ethnicities = {
+	10 = caucasian_blond
+	5 = caucasian_ginger
+	45 = caucasian_brown_hair
+	35 = caucasian_dark_hair
+}	
+}
+tlevek = { # 
+color = { 0.5 0.3 0.5 }
+
+parents = { salatud }
+created = 6500.1.1
+#history_loc_override = _history_loc
+
+ethos = ethos_bellicose
+heritage = heritage_salatud
+language = language_salatud
+martial_custom = martial_custom_male_only
+traditions = {
+	
+}
+
+name_list = name_list_bavarian
+
+coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+building_gfx = { western_building_gfx }
+clothing_gfx = { western_clothing_gfx }
+unit_gfx = { western_unit_gfx }
+
+ethnicities = {
+	10 = caucasian_blond
+	5 = caucasian_ginger
+	45 = caucasian_brown_hair
+	35 = caucasian_dark_hair
+}	
+}

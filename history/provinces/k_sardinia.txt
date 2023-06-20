@@ -33,7 +33,7 @@
 ##d_sardinia ###################################
 ###c_cagliari
 2653 = {	#CAGLIARI
-	culture = sardinian
+	culture = ayalud
 	religion = orthodox
 	holding = castle_holding
 	special_building_slot = argentiera_mines_01
@@ -52,7 +52,7 @@
 	}
 }
 2654 = {	#IGLESIAS
-	culture = sardinian
+	culture = ayalud
 	religion = orthodox
 	holding = church_holding
 }
@@ -62,7 +62,7 @@
 
 ###c_arborea
 2659 = {	#ORISTANO
-	culture = sardinian
+	culture = ayalud
 	religion = orthodox
 	holding = castle_holding
 	1060.1.1 = {

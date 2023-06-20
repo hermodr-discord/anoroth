@@ -1,0 +1,89 @@
+﻿batuvenk = { # 
+	color = { 0.8 0.3 0.55 }
+
+	parents = { proto_east_khalkad }
+	created = 5500.1.1
+	#history_loc_override = _history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_batuvenk
+	language = language_batuvenk
+	martial_custom = martial_custom_male_only
+	traditions = {
+		
+	}
+	
+	name_list = name_list_bavarian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}	
+}
+
+bektad = { # 
+color = { 0.75 0.25 0.6 }
+
+parents = { batuvenk }
+created = 6100.1.1
+#history_loc_override = _history_loc
+
+ethos = ethos_bellicose
+heritage = heritage_batuvenk
+language = language_batuvenk
+martial_custom = martial_custom_male_only
+traditions = {
+	
+}
+
+name_list = name_list_bavarian
+
+coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+building_gfx = { western_building_gfx }
+clothing_gfx = { western_clothing_gfx }
+unit_gfx = { western_unit_gfx }
+
+ethnicities = {
+	10 = caucasian_blond
+	5 = caucasian_ginger
+	45 = caucasian_brown_hair
+	35 = caucasian_dark_hair
+}	
+}
+
+ketvenk = { # 
+color = { 0.8 0.4 0.5 }
+
+parents = { batuvenk }
+created = 6000.1.1
+#history_loc_override = _history_loc
+
+ethos = ethos_bellicose
+heritage = heritage_batuvenk
+language = language_batuvenk
+martial_custom = martial_custom_male_only
+traditions = {
+	
+}
+
+name_list = name_list_bavarian
+
+coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+building_gfx = { western_building_gfx }
+clothing_gfx = { western_clothing_gfx }
+unit_gfx = { western_unit_gfx }
+
+ethnicities = {
+	10 = caucasian_blond
+	5 = caucasian_ginger
+	45 = caucasian_brown_hair
+	35 = caucasian_dark_hair
+}	
+}

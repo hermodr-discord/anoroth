@@ -150,14 +150,12 @@ savastran = { #
 	created = 7300.1.1
 	history_loc_override = savastran_history_loc
 
-	ethos = ethos_stoic
+	ethos = ethos_communal
 	heritage = heritage_kotyran
 	language = language_kotyran
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_highland_warriors
-		tradition_stalwart_defenders
-		tradition_mountain_homes
+
 	}
 	
 	name_list = name_list_bavarian

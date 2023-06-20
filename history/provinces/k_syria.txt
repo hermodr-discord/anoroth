@@ -4,13 +4,6 @@
 	# Misc
 	culture = armenian
 	religion = armenian_apostolic
-	
-	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
 
 }
 
@@ -22,11 +15,6 @@
 	religion = armenian_apostolic
 	
 	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
 
 }
 
@@ -37,28 +25,14 @@
 	culture = armenian
 	religion = armenian_apostolic
 	
-	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
-
 }
 
 # 4893 - MARASH
 4893 = {	# 4893 - Marash
 	
 	# Misc
-	culture = armenian
+	culture = khalkad
 	religion = armenian_apostolic
-	
-	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
 
 }
 
@@ -66,16 +40,9 @@
 4894 = {	# 4894 - Samosata
 	
 	# Misc
-	culture = armenian
+	culture = khalkad
 	religion = armenian_apostolic
 	
-	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
-
 }
 
 # 4899 - DULUK-TELUCH
@@ -85,29 +52,15 @@
 	culture = armenian
 	religion = armenian_apostolic
 	
-	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
-
 }
 
 # 5900 - AINTAB
 5900 = {	# 5900 - Aintab
 	
 	# Misc
-	culture = armenian
+	culture = vadun
 	religion = armenian_apostolic
 	
-	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
-
 }
 
 # 5902 - JARABULUS
@@ -117,13 +70,6 @@
 	culture = armenian
 	religion = armenian_apostolic
 	
-	# History
-	1177.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
-	1320.1.1 = { culture = levantine }
-
 }
 
 # 5903 - QURUS
@@ -133,10 +79,6 @@
 	culture = greek
 	religion = orthodox
 	
-	# History
-	1268.1.1 = { culture = levantine }
-	1268.1.1 = { religion = ashari }
-
 }
 
 # 5904 - BAGHRAS
@@ -146,30 +88,22 @@
 	culture = greek
 	religion = orthodox
 	
-	# History
-	1268.1.1 = { culture = levantine }
-	1268.1.1 = { religion = ashari }
-
 }
 
 # 5905 - ALEXANDRETTA
 5905 = {	# 5905 - Alexandretta
 	
 	# Misc
-	culture = greek
+	culture = khalenk
 	religion = orthodox
 	
-	# History
-	1268.1.1 = { culture = levantine }
-	1268.1.1 = { religion = ashari }
-
 }
 
 # 5906 - TALL_AFRIN
 5906 = {	# 5906 - Tall Afrin
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -180,7 +114,7 @@
 5907 = {	# 5907 - Azaz
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -191,7 +125,7 @@
 5908 = {	# 5908 - Manbij
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -202,20 +136,16 @@
 5909 = {	# 5909 - As-Suwaydiya
 	
 	# Misc
-	culture = greek
+	culture = khalenk
 	religion = orthodox
 	
-	# History
-	1268.1.1 = { culture = levantine }
-	1268.1.1 = { religion = ashari }
-
 }
 
 # 5910 - ANTIOCH
 5910 = {	# 5910 - Antioch
 	
 	# Misc
-	culture = greek
+	culture = khalenk
 	religion = orthodox
 	holding = castle_holding
 	# History
@@ -231,9 +161,6 @@
 			#hunting_grounds_01
 		}
 	}
-	1268.1.1 = { culture = levantine }
-	1268.1.1 = { religion = ashari }
-
 }
 
 # 5911 - JABALA
@@ -243,10 +170,6 @@
 	culture = greek
 	religion = orthodox
 	
-	# History
-	1268.1.1 = { culture = levantine }
-	1268.1.1 = { religion = ashari }
-
 }
 
 # 5912 - LATAKIA
@@ -256,65 +179,49 @@
 	culture = greek
 	religion = orthodox
 	
-	# History
-	1268.1.1 = { culture = levantine }
-	1268.1.1 = { religion = ashari }
-
 }
 
 # 5914 - MASYAF
 5914 = {	# 5914 - Masyaf
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	1271.1.1 = { religion = ashari }
-
 }
 
 # 5915 - SHAIZAR
 5915 = {	# 5915 - Shaizar
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	1271.1.1 = { religion = ashari }
-
 }
 
 # 5916 - ANTARTUS
 5916 = {	# 5916 - Antartus
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	1295.1.1 = { religion = ashari }
-
 }
 
 # 5917 - RAFANIYA-KRAK
 5917 = {	# 5917 - Rafaniya-Krak
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	867.1.1 = { religion = ashari }
-
 }
 
 # 5918 - TRIPOLIS
 5918 = {	# 5918 - Tripoli
 	
 	# Misc
-	culture = levantine
+	culture = vadtud
 	religion = orthodox
 	holding = castle_holding
 	# History
@@ -331,15 +238,13 @@
 			#watchtowers_01
 		}
 	}
-	1295.1.1 = { religion = ashari }
-
 }
 
 # 5919 - BEIRUT
 5919 = {	# 5919 - Beirut
 	
 	# Misc
-	culture = levantine
+	culture = vadtud
 	religion = orthodox
 	
 	# History
@@ -350,7 +255,7 @@
 5920 = {	# 5920 - Saida
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
 	# History
@@ -361,7 +266,7 @@
 5923 = {	# 5923 - Nawa
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -383,33 +288,25 @@
 5925 = {	# 5925 - Az-Zabadani
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	867.1.1 = { religion = ashari }
-	1016.1.1 = { religion = druze }
-
 }
 
 # 5926 - BAALBAK
 5926 = {	# 5926 - Baalbak
 	
 	# Misc
-	culture = levantine
+	culture = vadtud
 	religion = orthodox
 	
-	# History
-	867.1.1 = { religion = ashari }
-	1016.1.1 = { religion = druze }
-
 }
 
 # 5927 - AL-QASTAL
 5927 = {	# 5927 - Al-Qastal
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -420,23 +317,19 @@
 5928 = {	# 5928 - Jusiya
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	867.1.1 = { religion = ashari }
-
 }
 
 # 5929 - HIMS
 5929 = {	# 5929 - Hims
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	holding = castle_holding
 	# History
-	867.1.1 = { religion = ashari }
 	1066.1.1 = {
 		buildings = {
 			cereal_fields_01
@@ -450,55 +343,43 @@
 5930 = {	# 5930 - Hama
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	867.1.1 = { religion = ashari }
-
 }
 
 # 5931 - SALAMIYA
 5931 = {	# 5931 - Salamiya
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	867.1.1 = { religion = ashari }
-
 }
 
 # 5932 - KAFARTAB
 5932 = {	# 5932 - Kafartab
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	867.1.1 = { religion = ashari }
-
 }
 
 # 5933 - QINNASRIN
 5933 = {	# 5933 - Qinnasrin
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
 	
-	# History
-	1271.1.1 = { religion = ashari }
-
 }
 
 # 5934 - HALAB
 5934 = {	# 5934 - Halab
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -519,44 +400,31 @@
 5935 = {	# 5935 - Artah
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
-	
-	# History
-	1271.1.1 = { religion = ashari }
-
 }
 
 # 5936 - AR-RIKHA
 5936 = {	# 5936 - Ar-Rikha
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
-	
-	# History
-	1271.1.1 = { religion = ashari }
-
 }
 
 # 5937 - ANJAR
 5937 = {	# 5937 - Anjar
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
-	
-	# History
-	867.1.1 = { religion = ashari }
-	1016.1.1 = { religion = druze }
-
 }
 
 # 5938 - BUZAA
 5938 = {	# 5938 - Buzaa
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -567,7 +435,7 @@
 5939 = {	# 5939 - Siffin
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -578,7 +446,7 @@
 5940 = {	# 5940 - Ar-Rusafa
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -589,7 +457,7 @@
 5941 = {	# 5941 - Khunasira
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -600,7 +468,7 @@
 5942 = {	# 5942 - Suriya
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -611,7 +479,7 @@
 5944 = {	# 5944 - Dair_Ar-Ruman
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -622,7 +490,7 @@
 5945 = {	# 5945 - As-Sukhna
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -633,7 +501,7 @@
 5946 = {	# 5946 - Urd
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -644,11 +512,8 @@
 5947 = {	# 5947 - Arak
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
-	
-	# History
-	867.1.1 = { religion = ashari }
 
 }
 
@@ -656,11 +521,8 @@
 5948 = {	# 5948 - Tadmur
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
-	
-	# History
-	867.1.1 = { religion = ashari }
 
 }
 
@@ -668,11 +530,8 @@
 5949 = {	# 5949 - Judr
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = orthodox
-	
-	# History
-	867.1.1 = { religion = ashari }
 
 }
 
@@ -682,9 +541,6 @@
 	# Misc
 	culture = levantine
 	religion = orthodox
-	
-	# History
-	867.1.1 = { religion = ashari }
 
 }
 
@@ -703,7 +559,7 @@
 5952 = {	# 5952 - Marj-Rahit
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -714,7 +570,7 @@
 5953 = {	# 5953 - Darayya
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -725,7 +581,7 @@
 5954 = {	# 5954 - Zurra
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -747,7 +603,7 @@
 5956 = {	# 5956 - Sarkhad
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History
@@ -758,7 +614,7 @@
 5957 = {	# 5957 - As-Suwaida-Hauran
 	
 	# Misc
-	culture = levantine
+	culture = vadun
 	religion = ashari
 	
 	# History

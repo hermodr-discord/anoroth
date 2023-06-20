@@ -3,13 +3,12 @@
 ###c_barcelona
 1862 = {	# BARCELONA
 	# Misc
-	culture = visigothic
+	culture = svalkvud
 	religion = catholic
 	
 	holding = castle_holding
 	
 	# History
-	800.1.1 = { culture = catalan }
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_01

@@ -13857,16 +13857,6 @@ e_byzantium = {
 
 					color = { 240 209 100 }
 				}
-				b_gaeta = {
-					province = 2593
-
-					color = { 240 209 100 }
-				}
-				b_cassino = {
-					province = 2602
-
-					color = { 240 209 100 }
-				}
 			}
 			c_napoli = {
 				color = { 230 225 90 }
@@ -13986,17 +13976,17 @@ e_byzantium = {
 
 					color = { 245 194 199 }
 				}
+				b_stigliano = {
+					province = 2632
+
+					color = { 250 215 205 }
+				}
 			}
 			c_camarda = {
 				color = { 250 215 205 }
 
 				b_camarda = {
 					province = 2631
-
-					color = { 250 215 205 }
-				}
-				b_stigliano = {
-					province = 2632
 
 					color = { 250 215 205 }
 				}
@@ -14959,11 +14949,6 @@ e_italy = {
 
 					color = { 170 182 225 }
 				}
-				b_porto_torres = {
-					province = 2664
-
-					color = { 170 182 225 }
-				}
 			}
 			c_gallura = {
 				color = { 195 175 225 }
@@ -14989,6 +14974,11 @@ e_italy = {
 				}
 				b_ardara = {
 					province = 2663
+
+					color = { 170 182 225 }
+				}
+				b_porto_torres = {
+					province = 2664
 
 					color = { 170 182 225 }
 				}
@@ -15360,6 +15350,16 @@ e_italy = {
 					province = 2592
 
 					color = { 242 253 136 }
+				}
+				b_gaeta = {
+					province = 2593
+
+					color = { 240 209 100 }
+				}
+				b_cassino = {
+					province = 2602
+
+					color = { 240 209 100 }
 				}
 			}
 		}
@@ -35812,6 +35812,21 @@ e_persia = {
 
 					color = { 190 231 118 }
 				}
+				b_andamish = {
+					province = 4260
+
+					color = { 175 245 125 }
+				}
+				b_saburkhawasht = {
+					province = 4261
+
+					color = { 175 245 125 }
+				}
+				b_alishtar = {
+					province = 4262
+
+					color = { 75 164 110 }
+				}
 			}
 			c_dinawar = {
 				color = { 190 231 118 }
@@ -36135,11 +36150,6 @@ e_persia = {
 
 					color = { 185 245 125 }
 				}
-				b_asak = {
-					province = 4307
-
-					color = { 185 245 125 }
-				}
 				b_idhaj = {
 					province = 4309
 
@@ -36198,6 +36208,11 @@ e_persia = {
 
 					color = { 178 233 117 }
 				}
+				b_asak = {
+					province = 4307
+
+					color = { 185 245 125 }
+				}
 			}
 			c_dawraq = {
 				color = { 175 246 120 }
@@ -36252,27 +36267,12 @@ e_persia = {
 
 					color = { 75 164 110 }
 				}
-				b_alishtar = {
-					province = 4262
-
-					color = { 75 164 110 }
-				}
 			}
 			c_saimara = {
 				color = { 175 245 125 }
 
 				b_as-saimara = {
 					province = 4786
-
-					color = { 175 245 125 }
-				}
-				b_andamish = {
-					province = 4260
-
-					color = { 175 245 125 }
-				}
-				b_saburkhawasht = {
-					province = 4261
 
 					color = { 175 245 125 }
 				}
@@ -43907,6 +43907,21 @@ e_spain = {
 
 					color = { 65 110 40 }
 				}
+				b_aguilas = {
+					province = 1850
+
+					color = { 27 130 60 }
+				}
+				b_caravacadelacruz = {
+					province = 1971
+
+					color = { 27 130 60 }
+				}
+				b_cieza = {
+					province = 1970
+
+					color = { 27 130 60 }
+				}
 			}
 			c_cabra = {
 				color = { 50 150 20 }
@@ -44921,16 +44936,6 @@ e_spain = {
 
 					color = { 54 186 96 }
 				}
-				b_montanejos = {
-					province = 1938
-
-					color = { 54 186 96 }
-				}
-				b_requena = {
-					province = 1939
-
-					color = { 54 186 96 }
-				}
 			}
 			c_castellon = {
 				color = { 85 170 125 }
@@ -45200,21 +45205,6 @@ e_spain = {
 
 					color = { 27 130 60 }
 				}
-				b_aguilas = {
-					province = 1850
-
-					color = { 27 130 60 }
-				}
-				b_caravacadelacruz = {
-					province = 1971
-
-					color = { 27 130 60 }
-				}
-				b_cieza = {
-					province = 1970
-
-					color = { 27 130 60 }
-				}
 			}
 			c_alcaraz = {
 				color = { 5 115 60 }
@@ -45288,6 +45278,16 @@ e_spain = {
 					province = 1964
 
 					color = { 0 100 35 }
+				}
+				b_montanejos = {
+					province = 1938
+
+					color = { 54 186 96 }
+				}
+				b_requena = {
+					province = 1939
+
+					color = { 54 186 96 }
 				}
 			}
 		}
@@ -48271,27 +48271,12 @@ e_maghreb = {
 
 					color = { 96 128 224 }
 				}
-				b_silyana = {
-					province = 4753
-
-					color = { 96 128 224 }
-				}
 			}
 			c_satfura = {
 				color = { 77 117 240 }
 
 				b_banzart = {
 					province = 4585
-
-					color = { 77 117 240 }
-				}
-					b_tabarqa = {
-					province = 4586
-
-					color = { 77 117 240 }
-				}
-				b_mansa'l-kharaz = {
-					province = 4587
 
 					color = { 77 117 240 }
 				}
@@ -48313,6 +48298,21 @@ e_maghreb = {
 					province = 4591
 
 					color = { 123 148 227 }
+				}
+				b_silyana = {
+					province = 4753
+
+					color = { 96 128 224 }
+				}
+				b_tabarqa = {
+					province = 4586
+
+					color = { 77 117 240 }
+				}
+				b_mansa'l-kharaz = {
+					province = 4587
+
+					color = { 77 117 240 }
 				}
 			}
 			c_mahdiya = {
@@ -48541,16 +48541,6 @@ e_maghreb = {
 
 					color = { 8 108 196 }
 				}
-				b_jarjis = {
-					province = 4565
-
-					color = { 8 108 196 }
-				}
-				b_bughrara = {
-					province = 4566
-
-					color = { 8 108 196 }
-				}
 			}
 			c_jafara = {
 				color = { 71 129 181 }
@@ -48579,6 +48569,16 @@ e_maghreb = {
 					province = 4567
 
 					color = { 71 129 181 }
+				}
+				b_jarjis = {
+					province = 4565
+
+					color = { 8 108 196 }
+				}
+				b_bughrara = {
+					province = 4566
+
+					color = { 8 108 196 }
 				}
 			}
 		}

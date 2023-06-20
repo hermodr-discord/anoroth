@@ -66,6 +66,23 @@ language_khalkad = {
 	
 	color = khalkad
 }
+language_konavala = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_konavala
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = { 
+			limit = { has_cultural_pillar = language_konavala }
+		}
+		multiply = 10
+	}
+
+	color = konavala
+}
 language_kotyran = {
 	type = language
 	is_shown = {
@@ -185,6 +202,108 @@ language_vantic = {
 	}
 	
 	color = vantic
+}
+language_kalkud = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_kalkud
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_kalkud }
+			multiply = 10
+		}
+	}
+	
+	color = language_kalkud
+}
+language_batuvenk = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_batuvenk
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_batuvenk }
+			multiply = 10
+		}
+	}
+	
+	color = language_batuvenk
+}
+language_salatud = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_salatud
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_salatud }
+			multiply = 10
+		}
+	}
+	
+	color = language_salatud
+}
+language_salkeche = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_salkeche
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_salkeche }
+			multiply = 10
+		}
+	}
+	
+	color = language_salkeche
+}
+language_vadi = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_vadi
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_vadi }
+			multiply = 10
+		}
+	}
+	
+	color = language_vadi
+}
+language_khaigud = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_khaigud
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_khaigud }
+			multiply = 10
+		}
+	}
+	
+	color = language_khaigud
 }
 
 

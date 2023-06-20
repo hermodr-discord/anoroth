@@ -2,7 +2,7 @@
 ##d_athens ###################################
 ###c_attica
 482 = {		#Atheniai
-	culture = greek
+	culture = sadun
 	religion = orthodox
 	holding = castle_holding
 	867.1.1 = {
@@ -29,7 +29,7 @@
 
 ###c_boeotia
 3728 = {	#Levadia
-	culture = greek
+	culture = sadun
 	religion = orthodox
 	holding = castle_holding
 }
@@ -42,7 +42,7 @@
 
 ###c_euboea
 485 = {		#Euboia
-	culture = greek
+	culture = sadun
 	religion = orthodox
 	holding = castle_holding
 }
@@ -61,7 +61,7 @@
 ##d_achaia ###################################
 ###c_achaia
 476 = {		#Achaia
-	culture = greek
+	culture = salkut
 	religion = orthodox
 	holding = castle_holding
 }
@@ -83,7 +83,7 @@
 
 ###c_korinthos
 481 = {		#Korinthos
-	culture = greek
+	culture = salkut
 	religion = orthodox
 	holding = castle_holding
 }
@@ -100,7 +100,7 @@
 
 ###c_messenia
 3733 = {	#Karytaina
-	culture = greek
+	culture = salkut
 	religion = orthodox
 	holding = castle_holding
 }
@@ -120,7 +120,7 @@
 
 ###c_laconia
 3736 = {	#Mistra
-	culture = greek
+	culture = salkut
 	religion = orthodox
 	holding = castle_holding
 }

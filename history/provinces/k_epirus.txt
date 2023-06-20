@@ -2,7 +2,7 @@
 ##d_epirus ###################################
 ###c_nicopolis
 473 = {		#Arta
-	culture = greek
+	culture = sadun
 	religion = orthodox
 	holding = castle_holding
 }
@@ -37,7 +37,7 @@
 
 ###c_aetolia
 475 = {		#Hellas
-	culture = greek
+	culture = sadun
 	religion = orthodox
 	holding = castle_holding
 }
@@ -146,7 +146,7 @@
 ##d_cephalonia ###################################
 ###c_cephalonia
 474 = {		#Cephalonia
-	culture = greek
+	culture = sadun
 	religion = orthodox
 	holding = castle_holding
 }
@@ -156,7 +156,7 @@
 
 ###c_buthrotum
 472 = {		#Épeiros
-	culture = greek
+	culture = sadun
 	religion = orthodox
 	holding = castle_holding
 }

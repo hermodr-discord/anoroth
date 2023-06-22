@@ -3,14 +3,17 @@ color = { 0.6 0.35 0.7 }
 
 parents = { proto_east_khalkad }
 created = 5400.1.1
-#history_loc_override = kalkud_history_loc
+history_loc_override = kalkud_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_stoic
 heritage = heritage_kalkud
 language = language_kalkud
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_stand_and_fight
+	tradition_isolationist
+	tradition_mystical_ancestors
+	tradition_hill_dwellers
 }
 
 name_list = name_list_bavarian

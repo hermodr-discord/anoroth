@@ -146,7 +146,7 @@
 ##d_cephalonia ###################################
 ###c_cephalonia
 474 = {		#Cephalonia
-	culture = sadun
+	culture = salkut
 	religion = orthodox
 	holding = castle_holding
 }

@@ -3,7 +3,7 @@
 	created = 4450.1.1
 	parents = { proto_east_anorothic }
 
-	#history_loc_override = pretoric_history_loc
+	history_loc_override = pretoric_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_pretoric
@@ -35,7 +35,7 @@ kalic = { #The Eastern Anorothics that settled down east of the (Vistula)
 	created = 4950.1.1
 	parents = { pretoric }
 
-	#history_loc_override = kalic_history_loc
+	history_loc_override = kalic_history_loc
 
 	ethos = ethos_communal
 	heritage = heritage_pretoric
@@ -62,12 +62,12 @@ kalic = { #The Eastern Anorothics that settled down east of the (Vistula)
 	}	
 }
 
-kalhan = { #The Kalics that intermingled with the (Baltic Cultures).
+kalhan = { #The Kalics that intermingled with the Rautii.
 	color = { 0.65 0.1 0.05 }
 	created = 5600.1.1
 	parents = { kalic }
 
-	#history_loc_override = kalhan_history_loc
+	history_loc_override = kalhan_history_loc
 
 	ethos = ethos_stoic
 	heritage = heritage_pretoric
@@ -94,12 +94,12 @@ kalhan = { #The Kalics that intermingled with the (Baltic Cultures).
 	}	
 }
 
-thula = { #The Kalics that settled along the (Dnieper)
+thula = { #The Kalics that settled along the Thula
 	color = { 0.8 0.1 0.1 }
 	created = 6100.1.1
 	parents = { kalic }
 
-	#history_loc_override = thula_history_loc
+	history_loc_override = thula_history_loc
 
 	ethos = ethos_spiritual
 	heritage = heritage_pretoric

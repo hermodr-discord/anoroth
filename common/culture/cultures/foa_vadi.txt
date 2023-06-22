@@ -3,14 +3,16 @@ color = { 0.4 0.0 0.25 }
 
 parents = { proto_south_khalkad }
 created = 4900.1.1
-#history_loc_override = _history_loc
+history_loc_override = vadi_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_communal
 heritage = heritage_vadi
 language = language_vadi
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_maritime_mercantilism
+	tradition_welcoming
+	tradition_dryland_dwellers
 }
 
 name_list = name_list_bavarian
@@ -31,16 +33,19 @@ ethnicities = {
 vadun = { # 
 color = { 0.4 0.0 0.25 }
 
-parents = { khalenk kaluch }
+parents = { vadi kaluch }
 created = 6000.1.1
-#history_loc_override = _history_loc
+history_loc_override = vadun_history_loc
 
 ethos = ethos_bellicose
 heritage = heritage_vadi
 language = language_vadi
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_dryland_dwellers
+	tradition_fp2_malleable_subjects
+	tradition_swords_for_hire
+	tradition_martial_admiration
 }
 
 name_list = name_list_bavarian
@@ -61,16 +66,19 @@ ethnicities = {
 khalenk = { # 
 color = { 0.3 0.05 0.15 }
 
-parents = { vadi }
+parents = { vadi kaluch } #Kaluch for the targetculture
 created = 5300.1.1
-#history_loc_override = _history_loc
+history_loc_override = khalenk_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_stoic
 heritage = heritage_vadi
 language = language_vadi
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_maritime_mercantilism
+	tradition_stand_and_fight
+	tradition_martial_admiration
+	tradition_forbearing
 }
 
 name_list = name_list_bavarian
@@ -93,14 +101,17 @@ color = { 0.25 0.05 0.25 }
 
 parents = { vadi }
 created = 6100.1.1
-#history_loc_override = _history_loc
+history_loc_override = vadtud_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_bureaucratic
 heritage = heritage_vadi
 language = language_vadi
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_language_scholars
+	tradition_maritime_mercantilism
+    tradition_caravaneers
+	tradition_court_eunuchs
 }
 
 name_list = name_list_bavarian
@@ -123,14 +134,17 @@ color = { 0.45 0.25 0.3 }
 
 parents = { vadi }
 created = 5500.1.1
-#history_loc_override = _history_loc
+history_loc_override = avenk_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_stoic
 heritage = heritage_vadi
 language = language_vadi
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_practiced_pirates
+	tradition_stand_and_fight
+	tradition_swords_for_hire
+	tradition_formation_fighting
 }
 
 name_list = name_list_bavarian

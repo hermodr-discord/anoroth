@@ -10,7 +10,9 @@
 	language = language_kotyran
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_highland_warriors
+		tradition_tribe_unity
+		tradition_ancient_miners
 	}
 	
 	name_list = name_list_bavarian
@@ -39,7 +41,9 @@ old_kotyran = { # Progenitor of the Kotyran Cultures
 	language = language_kotyran
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_ancient_miners
+		tradition_storytellers
+		tradition_stalwart_defenders
 	}
 	
 	name_list = name_list_bavarian
@@ -68,7 +72,10 @@ kotyran = { # Medium-sized culture covering the Balkan Mountains
 	language = language_kotyran
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_mountaineer_ruralism
+		tradition_life_is_just_a_joke
+		tradition_sacred_mountains
+		tradition_forbearing
 	}
 	
 	name_list = name_list_bavarian
@@ -97,7 +104,10 @@ voden = { # Medium-sized culture covering the southern Balkan Mountains
 	language = language_kotyran
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_mountaineer_ruralism
+		tradition_isolationist
+		tradition_staunch_traditionalists
+		tradition_zealous_people
 	}
 	
 	name_list = name_list_bavarian
@@ -126,7 +136,10 @@ valtoric = { # Medium-sized culture covering most of Bulgaria
 	language = language_kotyran
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_mountaineer_ruralism
+		tradition_hard_working
+		tradition_ancient_miners
+		tradition_merciful_blindings
 	}
 	
 	name_list = name_list_bavarian
@@ -150,12 +163,14 @@ savastran = { # Small culture on Cholomondas Mountain and the Kassandra Peninsul
 	created = 7300.1.1
 	history_loc_override = savastran_history_loc
 
-	ethos = ethos_communal
+	ethos = ethos_stoic
 	heritage = heritage_kotyran
 	language = language_kotyran
 	martial_custom = martial_custom_male_only
 	traditions = {
-
+		tradition_highland_warriors
+		tradition_stalwart_defenders
+		tradition_mountain_homes
 	}
 	
 	name_list = name_list_bavarian

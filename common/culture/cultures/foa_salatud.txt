@@ -3,14 +3,16 @@ color = { 0.55 0.15 0.3 }
 
 parents = { proto_east_khalkad }
 created = 5900.1.1
-#history_loc_override = _history_loc
+history_loc_override = salatud_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_egalitarian
 heritage = heritage_salatud
 language = language_salatud
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_xenophilic
+	tradition_reverence_for_veterans
+	tradition_mountain_homes
 }
 
 name_list = name_list_bavarian
@@ -33,14 +35,16 @@ color = { 0.55 0.15 0.3 }
 
 parents = { salatud }
 created = 6500.1.1
-#history_loc_override = _history_loc
+history_loc_override = sakhlid_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_egalitarian
 heritage = heritage_salatud
 language = language_salatud
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_mountain_homes
+	tradition_sacred_mountains
+	tradition_reverence_for_veterans
 }
 
 name_list = name_list_bavarian
@@ -63,14 +67,16 @@ color = { 0.5 0.25 0.4 }
 
 parents = { salatud }
 created = 6500.1.1
-#history_loc_override = _history_loc
+history_loc_override = kanvut_history_loc
 
 ethos = ethos_bellicose
 heritage = heritage_salatud
 language = language_salatud
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_modest
+	tradition_spartan
+	tradition_warrior_culture
 }
 
 name_list = name_list_bavarian
@@ -92,14 +98,16 @@ color = { 0.5 0.3 0.5 }
 
 parents = { salatud }
 created = 6500.1.1
-#history_loc_override = _history_loc
+history_loc_override = tlevek_history_loc
 
-ethos = ethos_bellicose
+ethos = ethos_communal
 heritage = heritage_salatud
 language = language_salatud
 martial_custom = martial_custom_male_only
 traditions = {
-	
+	tradition_spartan
+	tradition_hill_dwellers
+	tradition_horse_breeder
 }
 
 name_list = name_list_bavarian

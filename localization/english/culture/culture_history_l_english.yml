@@ -21,6 +21,28 @@
  drohinic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who settled the Kraghav mountains and hills"
  anorin_history_loc:0 "Progeny of the [CULTURE.GetCollectiveNoun] that settled the mouth of the Anor River"
  thalan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated across the Sea of Thal" 
+ # BATUVENK CULTURES
+ batuvenk_history_loc:0 "The [CULTURE.GetName] peoples that settled south of the Saluk Mountains"
+ ketvenk_history_loc:0 "The [CULTURE.GetCollectiveNoun] that fell to [TARGET_CULTURE.GetName] rule"
+ bektad_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] that remained free"
+ # KALKUD CULTURES
+ kalkud_history_loc:0 "From the first of the [CULTURE.GetName] settlers"
+ # KHAIGUD CULTURES
+ salkut_history_loc:0 ""
+ khaigud_history_loc:0 "Progeny of the [CULTURE.GetName] adventurers that joined the Khaigud Ura"
+ serukhaid_history_loc:0 "From the [CULTURE.GetName] adventurers that adopted a mercantile lifestyle"
+ ayalud_history_loc:0 "[CULTURE.GetName] and [TARGET_CULTURE.GetName] adventurers that joined the Ayalud invasion"
+ svalkvud_history_loc:0 "The [CULTURE.GetName] adventurers that invaded the [TARGET_CULTURE.GetCollectiveNoun]"
+ # KHALKAD CULTURES
+ proto_khalkad_history_loc:0 "Formed from various Khalkad tribes early into the [first_era|E]"
+ proto_west_khalkad_history_loc:0 "From the [CULTURE.GetName] tribes that settled west"
+ proto_south_khalkad_history_loc:0 "From the [CULTURE.GetName] tribes that migrated south"
+ proto_east_khalkad_history_loc:0 "Descended from the [CULTURE.GetName] that settled the Saluk Mountains"
+ proto_central_khalkad_history_loc:0 "Descended from the Khalkads that remained in the peninsula of Tsaluk"
+ old_khalkad_history_loc:0 "The [CULTURE.GetName] tribes that modernised in the early [third_era|E]"
+ khalkad_history_loc:0 "The [CULTURE.GetName] clans that maintain traditionalist belief"
+ tsalkud_history_loc:0 "The [CULTURE.GetName] peoples that embraced the autocratic system"
+ sadun_history_loc:0 "Born from [CULTURE.GetName] warriors that settled in the [TARGET_CULTURE.GetName] lands"
  # KONAVALA CULTURES
  proto_konavala_history_loc:0 "Descended from Rautii who migrated west into the mountains"
  old_konavala_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] of the late [third_era|E]"
@@ -43,15 +65,15 @@
  # PRETORIC CULTURES
  pretoric_history_loc:0 "From [CULTURE.GetName] tribes settling east of the Kala"
  kalic_history_loc:0 "The [CULTURE.GetCollectiveNoun] after adopting feudal ways"
- kalhan_history_loc:0 "The [CULTURE.GetCollectiveNoun] that adopted (BALTIC) traditions" 
+ kalhan_history_loc:0 "The [CULTURE.GetCollectiveNoun] that adopted Rautii traditions" #Check later for Rautii
  thula_history_loc:0 "The [CULTURE.GetName] tribesmen that settled by the heart of the Thula river"
  # RAHANIC CULTURES
- old_rahanic_history_loc:0 "From [CULTURE.GetName] tribes settling west of the Thula (PLACEHOLDER)"
- rahanic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] accustoming to the steppe (PLACEHOLDER)"
- taranic_history_loc:0 "From [CULTURE.GetCollectiveNoun] settling in the hills (PLACEHOLDER)"
- haraic_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] that crossed the Thula (PLACEHOLDER)"
- talane_history_loc:0 "Born from [CULTURE.GetCollectiveNoun] that marched on the steppe (PLACEHOLDER)"
- khalin_history_loc:0 "The [CULTURE.GetName] tribes that settled by the (Caucasus) (PLACEHOLDER)"
+ old_rahanic_history_loc:0 "The [CULTURE.GetCollectiveNoun] that adopted the (Religion) faith"
+ rahanic_history_loc:0 "Descended [CULTURE.GetCollectiveNoun] that settled the lowlands west of the Thula"
+ taranic_history_loc:0 "Born from the [CULTURE.GetCollectiveNoun] that remained in the highlands west of the Thula"
+ haraic_history_loc:0 "Those of the [CULTURE.GetName] peoples that migrated to the woodlands east of the Thula"
+ talane_history_loc:0 "From the [CULTURE.GetName] warriors that settled the steppe north of the Sea of Thal"
+ khalin_history_loc:0 "The [CULTURE.GetCollectiveNoun] that settled the flatlands near the Saluk Mountains"
  # RANUTIC CULTURES
  proto_ranutic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] that migrated to the Ranut River basin"
  old_east_ranutic_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who migrated near the Kala River"
@@ -61,6 +83,22 @@
  thantalic_history_loc:0 "Progeny of [CULTURE.GetCollectiveNoun] who pushed further north"
  guhinic_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] of the late [fourth_era|E]"
  karkudan_history_loc:0 "Descended from [CULTURE.GetCollectiveNoun] who settled the west bank of the Kala River"
+ # SALATUD CULTURES
+ salatud_history_loc:0 "The [CULTURE.GetName] peoples that settled north of the Saluk Mountains"
+ sakhlid_history_loc:0 "The name for the diverse [CULTURE.GetName] peoples of the Saluk Mountains"
+ tlevek_history_loc:0 "The [CULTURE.GetName] that adopted a strict communal lifestyle"
+ kanvut_history_loc:0 "Descended from the [CULTURE.GetName] warriors that were stationed in approaching steppe"
+ # SALKECHE CULTURES
+ old_salkeche_history_loc:0 "Born from the [CULTURE.GetName] peoples that settled the Kavunuk River" #Tigris renamed to Kavunuk
+ kaluch_history_loc:0 "Progeny of the [CULTURE.GetName] warrior kings and their ways"
+ salkeche_history_loc:0 "Descended from the [CULTURE.GetName] lords and mayors that grew decadent"
+ bagtuz_history_loc:0 "The [CULTURE.GetName] that followed their saint to a new sanctuary"
+ # VADI CULTURES
+ vadi_history_loc:0 "[CULTURE.GetName] that settled the Vadi coast."
+ khalenk_history_loc:0 "The [CULTURE.GetName] that were hardened in their wars against the [TARGET_CULTURE.GetName]"
+ vadtud_history_loc:0 "Born of the [CULTURE.GetName] that adapted to mercantile life"
+ avenk_history_loc:0 "The [CULTURE.GetName] pirates, bandits, and sailors after their exile in the [third_era|E]"
+ vadun_history_loc:0 "Descendants of the [CULTURE.GetName] natives and [TARGET_CULTURE.GetName] invaders"
  # VALKH CULTURES
  proto_valkh_history_loc:0 "Formed from various $valkh_group$ tribes in the early [first_era|E]"
  proto_south_valkh_history_loc:0 "Descended from the [CULTURE.GetCollectiveNoun] who remained south of the Valkh Mountains"

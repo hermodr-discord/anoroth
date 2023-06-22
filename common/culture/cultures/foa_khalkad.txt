@@ -2,14 +2,16 @@
 
 	#parents = {  }
 	created = 700.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = proto_khalkad_history_loc
 
-	ethos = ethos_bellicose
-	heritage = heritage_
-	language = language_
+	ethos = ethos_stoic
+	heritage = heritage_khalkad
+	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_tribe_unity
+		tradition_pastorialists
+		tradition_staunch_traditionalists
 	}
 	
 	name_list = name_list_bavarian
@@ -32,14 +34,16 @@ proto_central_khalkad = { # Progenitor of the Khalkad heritage.
 
 	parents = { proto_khalkad }
 	created = 3350.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = proto_central_khalkad_history_loc
 
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_tribe_unity
+		tradition_hill_dwellers
+		tradition_castle_keepers
 	}
 	
 	name_list = name_list_bavarian
@@ -57,19 +61,21 @@ proto_central_khalkad = { # Progenitor of the Khalkad heritage.
 	}	
 }
 
-proto_east_khalkad = { # Progenitor of the (ARMENIAN), (TRANSCAUCASIAN), and (CISCAUCASIAN) heritages
+proto_east_khalkad = { # Progenitor of the Kalkud, Batuvenk, and Salatud heritages
 	color = { 0.5 0.5 0.5 }
 
 	parents = { proto_khalkad }
 	created = 3900.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = proto_east_khalkad_history_loc
 
-	ethos = ethos_bellicose
+	ethos = ethos_stoic
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_tribe_unity
+		tradition_stand_and_fight
+		tradition_xenophilic
 	}
 	
 	name_list = name_list_bavarian
@@ -87,19 +93,21 @@ proto_east_khalkad = { # Progenitor of the (ARMENIAN), (TRANSCAUCASIAN), and (CI
 	}	
 }
 
-proto_south_khalkad = { # Progenitor of the (SYRIAN), and (MESOPOTAMIAN) heritages.
+proto_south_khalkad = { # Progenitor of the Vadi, and Salkeche heritages.
 	color = { 0.5 0.5 0.5 }
 
 	parents = { proto_khalkad }
 	created = 4400.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = proto_south_khalkad_history_loc
 
 	ethos = ethos_bellicose
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_tribe_unity
+		tradition_dryland_dwellers
+		tradition_warriors_of_the_dry
 	}
 	
 	name_list = name_list_bavarian
@@ -117,19 +125,21 @@ proto_south_khalkad = { # Progenitor of the (SYRIAN), and (MESOPOTAMIAN) heritag
 	}	
 }
 
-proto_west_khalkad = { # Progenitor of the (WEST ANATOLIAN) heritage.
+proto_west_khalkad = { # Progenitor of the Khaigud heritage.
 	color = { 0.5 0.5 0.5 }
 
 	parents = { proto_khalkad }
 	created = 5100.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = proto_west_khalkad_history_loc
 
 	ethos = ethos_bellicose
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_tribe_unity
+		tradition_seafaring
+		tradition_practiced_pirates
 	}
 	
 	name_list = name_list_bavarian
@@ -152,14 +162,16 @@ old_khalkad = { #
 
 	parents = { proto_central_khalkad }
 	created = 4200.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = old_khalkad_history_loc
 
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_metalworkers
+		tradition_industrious
+		tradition_sacred_mountains
 	}
 	
 	name_list = name_list_bavarian
@@ -182,14 +194,17 @@ khalkad = { #
 
 	parents = { old_khalkad }
 	created = 5100.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = khalkad_history_loc
 
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_strong_kinship
+		tradition_hill_dwellers
+		tradition_artisans
+		tradition_staunch_traditionalists
 	}
 	
 	name_list = name_list_bavarian
@@ -212,14 +227,17 @@ tsalkud = { #
 
 	parents = { khalkad }
 	created = 5600.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = tsalkud_history_loc
 
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_astute_diplomats
+		tradition_hit_and_run
+		tradition_charitable
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_bavarian
@@ -240,16 +258,19 @@ tsalkud = { #
 sadun = { # 
 	color = { 0.8 0.15 0.65 }
 
-	parents = { tsalkud }
+	parents = { tsalkud savastran }
 	created = 6500.1.1
-	#history_loc_override = _history_loc
+	history_loc_override = sadun_history_loc
 
 	ethos = ethos_bellicose
 	heritage = heritage_khalkad
 	language = language_khalkad
 	martial_custom = martial_custom_male_only
 	traditions = {
-		
+		tradition_culinary_art
+		tradition_only_the_strong
+		tradition_quarrelsome
+		tradition_formation_fighting
 	}
 	
 	name_list = name_list_bavarian

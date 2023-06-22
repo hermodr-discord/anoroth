@@ -56,7 +56,7 @@ old_kotyran = { # Progenitor of the Kotyran Cultures
 		15 = slavic_dark_hair
 	}
 }
-kotyran = { # 
+kotyran = { # Medium-sized culture covering the Balkan Mountains
 	color = { 0.8 0.4 0.0 }
 	
 	parents = { old_kotyran }
@@ -85,7 +85,7 @@ kotyran = { #
 		15 = slavic_dark_hair
 	}
 }
-voden = { # 
+voden = { # Medium-sized culture covering the southern Balkan Mountains
 	color = { 0.7 0.5 0.0 }
 	
 	parents = { old_kotyran }
@@ -114,7 +114,7 @@ voden = { #
 		15 = slavic_dark_hair
 	}
 }
-valtoric = { # 
+valtoric = { # Medium-sized culture covering most of Bulgaria
 	color = { 0.65 0.65 0.0 }
 	
 	parents = { old_kotyran }
@@ -143,7 +143,7 @@ valtoric = { #
 		15 = slavic_dark_hair
 	}
 }
-savastran = { # 
+savastran = { # Small culture on Cholomondas Mountain and the Kassandra Peninsula
 	color = { 0.65 0.8 0.0 }
 	
 	parents = { voden }

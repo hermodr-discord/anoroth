@@ -1,0 +1,97 @@
+﻿##############################
+# COMBAT CULTURAL TRADITIONS #
+##############################
+
+tradition_eantean_decadence = {
+	category = combat
+
+	layers = {
+		0 = learning
+		1 = western
+		4 = fight.dds
+	}
+	
+	can_pick = {
+		culture_not_pacifistic_trigger = yes
+		culture_in_winter_geographical_region_trigger = yes
+	}
+	parameters = {
+		winter_soldier_trait_more_common = yes
+		winter_trait_bonuses = yes
+		can_recruit_winter_specialist = yes
+	}
+	character_modifier = {
+		taiga_travel_danger = taiga_low_danger_reduction
+	}
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								OR = {
+									geographical_region = world_europe_north
+									geographical_region = world_europe_west
+									geographical_region = world_europe_east
+									geographical_region = world_steppe
+									geographical_region = world_tibet
+								}
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = winter_percentage_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							percent >= 0.3
+							culture = scope:character.culture
+							any_county_province = {
+								OR = {
+									geographical_region = world_europe_north
+									geographical_region = world_europe_west
+									geographical_region = world_europe_east
+									geographical_region = world_steppe
+									geographical_region = world_tibet
+								}
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}

@@ -582,7 +582,7 @@
 	culture = khalkad
 	religion = orthodox
 	
-	holding = none
+	holding = castle_holding
 	
 }
 

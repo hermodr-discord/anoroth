@@ -64,7 +64,7 @@
 	culture = tsalkud
 	religion = orthodox
 	
-	holding = none
+	holding = castle_holding
 	
 }
 

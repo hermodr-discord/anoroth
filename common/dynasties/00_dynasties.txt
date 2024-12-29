@@ -1,4 +1,4 @@
-﻿dynn_test = {
-	name = "Test"
-	culture = "bulgarian"
+﻿anoroth6 = {
+	name = "dynn_Tikanariyen"
+	culture = "greek"
 }

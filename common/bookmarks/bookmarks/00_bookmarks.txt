@@ -1,23 +1,25 @@
-﻿bm_7833_1 = {
-	start_date = 7833.1.1
+﻿bm_1066_anoroth = {
+	start_date = 1066.10.1
 	is_playable = yes
-	recommended = yes
-	group = bm_group_7833
+	group = bm_group_1066
 
+	weight = { value = 100 }
+
+	# Ourágon
 	character = {
-		name = "bookmark_test_johnny_test"
-		dynasty = 1059
+		name = "Ourágon"
+		dynasty = anoroth6
 		dynasty_splendor_level = 1
 		type = male
-		birth = 712.1.1
-		title = c_malta
-		government = feudal_government
-		culture = bulgarian
-		religion = orthodox
+		birth = 820.1.1
+		title = c_anoraszeho
+		government = tribal_government
+		culture = greek
+		religion = "orthodox"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = test_holder
-		position = { 500 500 }
-		
-		animation = personality_rational
+		history_id = lineofanoroth_1
+		position = { 250 750 }
+
+		animation = happiness
 	}
 }

@@ -1,0 +1,23 @@
+e_anoroth = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+k_anoraszeho = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+d_anoraszeho = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+c_anoraszeho = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	767.1.1 = { government = tribal_government }
+	850.1.1 = {
+		holder = lineofanoroth_1
+	}
+}

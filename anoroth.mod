@@ -1,11 +1,8 @@
-name="Flames of Anoroth | Git Version"
+name = "Anoroth: The Setting Sun | Git Version"
 tags={
-	"Total Conversion"
-	"Gameplay"
-	"Map"
+    "Total Conversion"
+    "Gameplay"
+    "Map"
 }
-replace_path="common/bookmark_portraits"
-replace_path="history/characters"
-replace_path="history/titles"
-supported_version="1.9.*"
+supported_version="1.15.*"
 path="C:/Users/Bort/Documents/Paradox Interactive/Crusader Kings III/mod/anoroth"

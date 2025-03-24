@@ -1,0 +1,325 @@
+576 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+577 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+578 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+579 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+580 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+581 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+582 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+583 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+584 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+585 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+586 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+587 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+588 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+589 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+590 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+591 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+592 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+593 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+594 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+595 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+596 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+597 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+598 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+599 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+600 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+601 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+602 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+603 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+604 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+605 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+606 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+607 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+608 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+609 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+610 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+611 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+612 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+613 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+614 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+615 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+616 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+617 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+618 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+619 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+620 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+621 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+622 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+623 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+624 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+625 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+626 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+627 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+628 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+629 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+630 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+631 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+632 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+633 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+634 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1126 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1127 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1128 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1129 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1158 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1159 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}

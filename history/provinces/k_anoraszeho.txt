@@ -1,8 +1,78 @@
 #k_anoraszeho
 ##d_anoraszeho
 ###c_anoraszeho
-1 = {		#GRAN CANARIA
-	culture = baranis
-	religion = west_african_pagan
+1 = {	# ANÓRÂSZÊHO
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+2 = {	# ATHÉLZÊHO
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+3 = {	# ISFÁROTH
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+4 = {	# THASÍSNOUN
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+5 = {	# THRONÊVONUR
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+6 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+7 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+8 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+9 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+20 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+11 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+12 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+13 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+14 = {	#
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+15 = {	#
+	culture = anorothic
+	religion = anorothun
 	holding = tribal_holding
 }

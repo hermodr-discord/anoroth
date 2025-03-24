@@ -1,0 +1,9 @@
+﻿anoraszeho = {
+	county = c_anoraszeho
+	barony = b_anoraszeho
+	
+	character_modifier = {
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}

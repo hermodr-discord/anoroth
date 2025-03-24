@@ -1,4 +1,10 @@
 ﻿anoroth6 = {
-	name = "dynn_Tikanariyen"
-	culture = "greek"
+	name = "dynn_OurE_kimI_lun"
+	culture = "anorothun"
+}
+
+# Keeping Prydain to dodge a stubborn error.
+1029001 = {
+	name = "dynn_Prydain"
+	culture = "welsh"
 }

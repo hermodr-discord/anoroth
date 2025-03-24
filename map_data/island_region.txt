@@ -7,3 +7,90 @@
 #	duchies = { }, takes county title names declared in landed_titles.txt
 #	counties = { }, takes county title names declared in landed_titles.txt
 #	provinces = { }, takes province id numbers declared in /history/provinces
+
+island_region_anoraszeho = {
+	duchies = { d_anoraszeho }
+}
+
+island_region_ouradetsis = {
+	duchies = {
+		d_duchy_47
+		d_duchy_50
+		d_duchy_51
+	}
+}
+
+island_region_duchy48 = {
+	duchies = { d_duchy_48 }
+}
+
+island_region_duchy49 = {
+	duchies = { d_duchy_49 }
+}
+
+island_region_detsisosar = {
+	duchies = {
+		d_duchy_52
+		d_duchy_53
+		d_duchy_54
+	}
+}
+
+island_region_vireganidh = {
+	duchies = {
+		d_duchy_68
+		d_duchy_69
+	}
+}
+
+island_region_county155 = {
+	counties = { c_county_155 }
+}
+
+island_region_county158 = {
+	counties = { c_county_158 }
+}
+
+island_region_province79 = {
+	provinces = { 79 }
+}
+
+island_region_province121 = {
+	provinces = { 121 }
+}
+
+island_region_province151 = {
+	provinces = { 151 }
+}
+
+island_region_province471 = {
+	provinces = { 471 }
+}
+
+island_region_province573 = {
+	provinces = { 573 }
+}
+
+island_region_province654 = {
+	provinces = { 654 }
+}
+
+island_region_province712 = {
+	provinces = { 712 }
+}
+
+island_region_province738 = {
+	provinces = { 738 }
+}
+
+island_region_province739 = {
+	provinces = { 739 }
+}
+
+island_region_province1124 = {
+	provinces = { 1124 }
+}
+
+island_region_province1125 = {
+	provinces = { 1125 }
+}

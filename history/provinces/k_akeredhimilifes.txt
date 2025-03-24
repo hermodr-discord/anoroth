@@ -1,0 +1,115 @@
+757 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+758 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+759 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+760 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+761 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+762 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+763 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+764 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+765 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+766 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+767 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+768 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+769 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+770 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+771 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+772 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+773 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+774 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+775 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+776 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+777 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+778 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+779 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}

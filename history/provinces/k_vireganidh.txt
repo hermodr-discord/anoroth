@@ -1,0 +1,125 @@
+813 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+814 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+815 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+816 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+817 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+818 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+819 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+820 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+821 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+822 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+823 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+824 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+825 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+826 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+827 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+828 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+829 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+830 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+831 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+832 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+833 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1130 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1131 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1132 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+1133 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}

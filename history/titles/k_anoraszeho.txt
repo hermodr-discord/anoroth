@@ -1,23 +1,59 @@
 e_anoroth = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
+	6654.1.1 = {
+		holder = lineofanoroth_1
+	}
 }
 
 k_anoraszeho = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
+	6654.1.1 = {
+		holder = lineofanoroth_1
+	}
 }
 
 d_anoraszeho = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
+	6654.1.1 = {
+		holder = lineofanoroth_1
+	}
 }
 
 c_anoraszeho = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 	767.1.1 = { government = tribal_government }
-	850.1.1 = {
+	6654.1.1 = {
+		holder = lineofanoroth_1
+	}
+}
+
+c_county_2 = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	767.1.1 = { government = tribal_government }
+	6654.1.1 = {
+		holder = lineofanoroth_1
+	}
+}
+
+c_county_3 = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	767.1.1 = { government = tribal_government }
+	6654.1.1 = {
+		holder = lineofanoroth_1
+	}
+}
+
+c_county_4 = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	767.1.1 = { government = tribal_government }
+	6654.1.1 = {
 		holder = lineofanoroth_1
 	}
 }

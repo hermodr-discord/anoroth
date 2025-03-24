@@ -1,0 +1,69 @@
+coat_of_arms_template_lists = {
+	# Root may be the set character, if in the ruler designer it will not exist yet but the saved scopes will so use them instead of checking the character
+	# scope:faith is the faith of the character, always set
+	# scope:culture is the culture of the character, always set
+	# scope:title is the primary title of the character, may be unset
+	all = {
+		# Simple catch all
+
+		3 = basic_charge_01
+		3 = basic_charge_01b
+		3 = basic_ordinary_01
+		3 = basic_ordinary_01_inverted
+
+		#500 = basic_charge_02
+		#50000 = basic_charge_03
+		#1 = basic_charge_04
+		#50000 = basic_charge_05
+		#3 = basic_charge_06
+
+		# Turned off
+		#1 = basic_charge_13
+		#1 = basic_charge_13_b
+		#1 = border_01
+		#1 = border_01_metal
+		#1 = basic_ordinary_02
+		#1 = basic_ordinary_02_b
+		#1 = dynasty_godwin
+		#1 = dynasty_godwin_02
+
+
+
+		#3 = basic_ordinary_division_01
+		#1 = basic_ordinary_division_02
+		#3 = basic_ordinary_chief_01
+		#1 = basic_ordinary_chief_02
+
+		# European Paganism - Single, Circle, Senester
+		special_selection = {
+			trigger = {
+				scope:faith.religion = {
+					save_temporary_scope_as = religion
+				}
+				OR = {
+					scope:religion = religion:pantheonic_religion
+				}
+			}
+			# Weights are temps
+			16000 = basic_pagan_template
+			16000 = basic_pagan_template_inverted
+			8000 = basic_pagan_template_senester
+			8000 = basic_pagan_template_senester_inverted
+			3000 = geometrical_pagan_template
+			4000 = geometrical_pagan_template_inverted
+			3000 = geometrical_pagan_template_senester
+			2000 = circled_pagan_template
+			2000 = circled_pagan_template_inverted
+			2000 = circled_pagan_template_offset
+			2000 = circled_pagan_template_offset_inverted
+		}
+	}
+	religious_title = {
+		100 = religious_icon_01
+		100 = religious_icon_01_metal
+	}
+
+	factions = {
+		100 = faction_01
+	}
+}

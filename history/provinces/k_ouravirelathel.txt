@@ -1,0 +1,150 @@
+890 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+891 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+892 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+893 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+894 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+895 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+896 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+897 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+898 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+899 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+900 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+901 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+902 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+903 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+904 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+905 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+906 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+907 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+908 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+909 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+910 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+911 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+912 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+913 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+914 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+915 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+916 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+917 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+918 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}
+919 = {
+	culture = anorothic
+	religion = anorothun
+	holding = tribal_holding
+}

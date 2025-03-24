@@ -1,21 +1,23 @@
 ﻿bm_1066_anoroth = {
-	start_date = 1066.10.1
+	start_date = 6713.1.1
 	is_playable = yes
 	group = bm_group_1066
 
-	weight = { value = 100 }
+	weight = {
+		value = 0
+	}
 
 	# Ourágon
 	character = {
-		name = "Ourágon"
+		name = "bookmark_anoroth_emperor_ouragon"
 		dynasty = anoroth6
 		dynasty_splendor_level = 1
 		type = male
-		birth = 820.1.1
-		title = c_anoraszeho
+		birth = 6625.1.1
+		title = e_anoroth
 		government = tribal_government
-		culture = greek
-		religion = "orthodox"
+		culture = anorothic
+		religion = "anorothun"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = lineofanoroth_1
 		position = { 250 750 }

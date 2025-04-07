@@ -1,0 +1,245 @@
+364 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+365 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+366 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+367 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+368 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+369 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+370 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+371 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+372 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+373 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+374 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+375 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+376 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+377 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+378 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+379 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+380 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+381 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+382 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+383 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+384 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+385 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+386 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+387 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+388 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+389 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+390 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+391 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+392 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+393 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+394 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+395 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+396 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+397 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+398 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+399 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+400 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+401 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+402 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+403 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+404 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+405 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+406 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+407 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+408 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+409 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+410 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+411 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+412 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}

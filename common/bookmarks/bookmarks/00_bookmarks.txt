@@ -1,7 +1,7 @@
-﻿bm_1066_anoroth = {
+﻿bm_6713_anoroth = {
 	start_date = 6713.1.1
 	is_playable = yes
-	group = bm_group_1066
+	group = bm_group_6713
 
 	weight = {
 		value = 0
@@ -15,9 +15,9 @@
 		type = male
 		birth = 6625.1.1
 		title = e_anoroth
-		government = tribal_government
-		culture = anorothic
-		religion = "anorothun"
+		government = feudal_government
+		culture = anorothil
+		religion = "faith_anoril"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = lineofanoroth_1
 		position = { 250 750 }

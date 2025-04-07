@@ -1,6 +1,6 @@
 ﻿anoroth6 = {
 	name = "dynn_OurE_kimI_lun"
-	culture = "anorothun"
+	culture = "anorothil"
 }
 
 # Keeping Prydain to dodge a stubborn error.

@@ -1,0 +1,310 @@
+21 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+22 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+23 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+24 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+25 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+26 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+27 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+28 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+29 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+30 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+31 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+32 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+33 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+34 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+35 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+36 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+37 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+38 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+39 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+40 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+41 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+42 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+43 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+44 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+45 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+46 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+47 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+48 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+49 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+50 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+51 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+52 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+53 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+54 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+55 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+56 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+57 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+58 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+59 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+60 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+61 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+62 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+63 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+64 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+65 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+66 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+67 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+68 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+69 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+70 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+71 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+72 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+73 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+74 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+75 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+76 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+77 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+78 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+79 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+80 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+81 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+82 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}

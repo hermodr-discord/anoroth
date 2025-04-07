@@ -1,0 +1,100 @@
+1 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+2 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+3 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+4 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+5 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+6 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+7 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+8 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+9 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+10 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+11 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+12 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+13 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+14 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+15 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+16 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+17 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+18 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+19 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+20 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}

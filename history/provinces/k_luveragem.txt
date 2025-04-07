@@ -1,0 +1,175 @@
+975 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+976 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+977 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+978 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+979 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+980 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+981 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+982 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+983 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+984 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+985 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+986 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+987 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+988 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+989 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+990 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+991 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+992 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+993 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+994 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+995 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+996 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+997 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+998 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+999 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1000 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1001 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1002 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1003 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1004 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1005 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1006 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1007 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1008 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}
+1009 = {	#
+	culture = anorothil
+	religion = faith_anoril
+	holding = castle_holding
+}

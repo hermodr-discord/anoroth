@@ -1,8 +1,8 @@
 ﻿lineofanoroth_1 = {
 	name = "Ourágon"
 	dynasty = anoroth6
-	religion = faith_anorothun
-	culture = anorothic
+	religion = faith_anoril
+	culture = anorothil
 	dna = ouragon
 
 	diplomacy = 8

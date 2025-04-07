@@ -16,20 +16,19 @@ seasons = "seasons.txt"
 # SEA ZONES
 #############
 # Seas
-sea_zones = RANGE { 1061 1119 }
-sea_zones = LIST { 1121 }
+sea_zones = RANGE { 1198 1255 }
 
 ###############
 # MAJOR RIVERS
 ###############
 # Rivers
-river_provinces = RANGE { 1003 1024 }
+river_provinces = RANGE { 1288 1331 }
 
 ########
 # LAKES
 ########
 # Lakes
-lakes = RANGE { 1025 1060 }
+lakes = RANGE { 1256 1287 }
 
 #####################
 # IMPASSABLE TERRAIN
@@ -37,9 +36,9 @@ lakes = RANGE { 1025 1060 }
 # Can be colored by whoever owns the most of the province's neighbours.
 # Blocks unit movement.
 # Impassables
-impassable_mountains = RANGE { 961 1002 }
-impassable_mountains = LIST { 1120 }
+impassable_mountains = RANGE { 1147 1197 }
+impassable_mountains = LIST { 1332 }
 
 # IMPASSABLE SEA ZONES
 # These sea provinces cannot be crossed/sailed
-impassable_seas = LIST { 1121 }
+impassable_seas = LIST { 1333 }

@@ -211,11 +211,11 @@
 	}
 
 	faiths = {
-		faith_anorothun = {
+		faith_anoril = {
 			color = { 0.6 0.1 0.1 }
 			icon = hellenic
 
-			holy_site = anoraszeho
+			holy_site = anorzehilas
 
 			doctrine = tenet_astrology
 			doctrine = tenet_communal_identity

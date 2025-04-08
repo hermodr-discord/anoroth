@@ -15,3 +15,38 @@
 	
 	color = greek
 }
+language_agalrian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_agalrian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_agalrian }
+			multiply = 10
+		}
+	}
+	
+	color = { 133 78 73 }
+}
+
+language_islander = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_islander
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_islander }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}

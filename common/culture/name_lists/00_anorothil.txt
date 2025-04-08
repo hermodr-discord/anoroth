@@ -1,0 +1,174 @@
+﻿name_list_anorothil = {
+
+	cadet_dynasty_names = {
+		"dynn_Adhil"
+		"dynn_Aethemenar"
+		"dynn_Aethorin"
+		"dynn_Agrath"
+		"dynn_Amasethor"
+		"dynn_Anavrin"
+		"dynn_Aratil"
+		"dynn_Arcerin"
+		"dynn_Avethorin"
+		"dynn_Balgramor"
+		"dynn_Balgramorath"
+		"dynn_Brennath"
+		"dynn_Caperil"
+		"dynn_Cevamar"
+		"dynn_Ciril"
+		"dynn_Codhorin"
+		"dynn_Dherath"
+		"dynn_Dheronath"
+		"dynn_Dhoronil"
+		"dynn_Dornil"
+		"dynn_Dremar"
+		"dynn_Edemor"
+		"dynn_Endolemar"
+		"dynn_Evenil"
+		"dynn_Falasil"
+		"dynn_Falcamar"
+		"dynn_Fuledhath"
+		"dynn_Galarathelrin"
+		"dynn_Gathrimar"
+		"dynn_Gerath"
+		"dynn_Gevarin"
+		"dynn_Grimath"
+		"dynn_Ifil"
+		"dynn_Iosorin"
+		"dynn_Jenath"
+		"dynn_Kaivilath"
+		"dynn_Kalorin"
+		"dynn_Kethanil"
+		"dynn_Ledhemar"
+		"dynn_Linorin"
+		"dynn_Minil"
+		"dynn_Noril"
+		"dynn_Ourathelrin"
+		"dynn_Predhor"
+		"dynn_Ramath"
+		"dynn_Ranavethil"
+		"dynn_Rasil"
+		"dynn_Rinmar"
+		"dynn_Sellath"
+		"dynn_Seranmar"
+		"dynn_Shelevil"
+		"dynn_Taurin"
+		"dynn_Tsalmenthavil"
+		"dynn_Tulcath"
+		"dynn_Uluren"
+		"dynn_Valethil"
+		"dynn_Vulrinmar"
+		"dynn_Zethamar"
+		"dynn_Zilthavil"
+		{ "dynnp_ul" "dynn_Ambar" }
+		{ "dynnp_ul" "dynn_Cel" }
+		{ "dynnp_ul" "dynn_Dre" }
+		{ "dynnp_ul" "dynn_Eredh" }
+		{ "dynnp_ul" "dynn_Grim" }
+		{ "dynnp_ul" "dynn_Kathav" }
+		{ "dynnp_ul" "dynn_Rin" }
+		{ "dynnp_ul" "dynn_Taur" }
+		{ "dynnp_ul" "dynn_Thanis" }
+		{ "dynnp_ul" "dynn_Vathil" }
+	}
+
+	dynasty_names = {
+		"dynn_Adhil"
+		"dynn_Aethemenar"
+		"dynn_Aethorin"
+		"dynn_Agrath"
+		"dynn_Amasethor"
+		"dynn_Anavrin"
+		"dynn_Aratil"
+		"dynn_Arcerin"
+		"dynn_Avethorin"
+		"dynn_Balgramor"
+		"dynn_Balgramorath"
+		"dynn_Brennath"
+		"dynn_Caperil"
+		"dynn_Cevamar"
+		"dynn_Ciril"
+		"dynn_Codhorin"
+		"dynn_Dherath"
+		"dynn_Dheronath"
+		"dynn_Dhoronil"
+		"dynn_Dornil"
+		"dynn_Dremar"
+		"dynn_Edemor"
+		"dynn_Endolemar"
+		"dynn_Evenil"
+		"dynn_Falasil"
+		"dynn_Falcamar"
+		"dynn_Fuledhath"
+		"dynn_Galarathelrin"
+		"dynn_Gathrimar"
+		"dynn_Gerath"
+		"dynn_Gevarin"
+		"dynn_Grimath"
+		"dynn_Ifil"
+		"dynn_Iosorin"
+		"dynn_Jenath"
+		"dynn_Kaivilath"
+		"dynn_Kalorin"
+		"dynn_Kethanil"
+		"dynn_Ledhemar"
+		"dynn_Linorin"
+		"dynn_Minil"
+		"dynn_Noril"
+		"dynn_Ourathelrin"
+		"dynn_Predhor"
+		"dynn_Ramath"
+		"dynn_Ranavethil"
+		"dynn_Rasil"
+		"dynn_Rinmar"
+		"dynn_Sellath"
+		"dynn_Seranmar"
+		"dynn_Shelevil"
+		"dynn_Taurin"
+		"dynn_Tsalmenthavil"
+		"dynn_Tulcath"
+		"dynn_Uluren"
+		"dynn_Valethil"
+		"dynn_Vulrinmar"
+		"dynn_Zethamar"
+		"dynn_Zilthavil"
+		{ "dynnp_ul" "dynn_Ambar" }
+		{ "dynnp_ul" "dynn_Cel" }
+		{ "dynnp_ul" "dynn_Dre" }
+		{ "dynnp_ul" "dynn_Eredh" }
+		{ "dynnp_ul" "dynn_Grim" }
+		{ "dynnp_ul" "dynn_Kathav" }
+		{ "dynnp_ul" "dynn_Rin" }
+		{ "dynnp_ul" "dynn_Taur" }
+		{ "dynnp_ul" "dynn_Thanis" }
+		{ "dynnp_ul" "dynn_Vathil" }
+	}
+
+	male_names = {
+		AcavthO_ras AcetA_r AE_celrim AE_nor AE_thirarin AgrA_nis AgrA_rces AgrA_savel Althon An_Athir AncO_rias AnO_rvathis ArA_drin ArcE_nev ArcE_thavU_l ArcE_vath ArcE_vun ArdhU_rel AthanO_r BalranO_r BalthanO_r BalthE_viO_n BorvA_nis BrevdrE_l BrevE_thos BrevthO_ras CaranO_r Carthir CelavanO_r Celrin CethapE_ras CethA_vimor CE_thavI_on CethA_vrin CevA_thil CevA_thimor ConA_ris CovA_nas CurE_nas DhavethO_ras DhiA_nor DrA_rces DrE_nev EA_rE_rin EsethU_nor EthavA_lthav EthavA_rces EthavA_thimor EthavO_r EthE_lan EviA_rcen EvthA_nor GathU_lvor GrevA_nas Havriun HavthiO_n IkathA_nis IkA_thir IlanO_r IncA_rin IpA_nithor JathA_nis KuraE_nor Kurelmatias KurE_rin LanO_r LorvA_nas LuthrU_n MetI_rav NuvE_ras OkA_viO_s OU_rA_novor PalI_mor PanthA_rdhul PreshO_lor RhodhanO_r RI_lanO_r RilmE_nvor SA_leveris Skavrin SuvE_ras TagI_nor TalA_rdhul TalA_vor ThaleO_sor ThalE_risor ThivA_nas VA_naE_s VA_napre VA_narevor VA_niO_svor VathI_lunev VetalaI_as VunA_thos ZhelanO_r ZhelA_rdhul ZhelcO_s ZhelthI_ras ZhesE_thunuv
+	}
+	
+	female_names = {
+		AE_ile AE_tA_riel AE_thile AE_thipA_niel AE_thlemiel AE_thlI_s AE_wen AmacalE_ne Amalain AmamI_re Anathiel AncO_viel AnO_riel Calenile CavthO_riel EA_reile Epelile Epelwen Evenile EviO_nile GacavthO_riel GalA_rseron IloranO_r IncA_niel IpA_niel IzI_le Lainwen LisanO_r LiswE_n LodhI_le LuvE_thile LuvI_le MI_reile MI_rewen NA_reile NI_sile NI_swen PathA_niel Rhoile Rhowen RilmE_nile Rilvenile SalE_viel Seronile TagA_riel TalA_sile ThanO_viel UrU_thile UrU_thwen ValaE_ ValanO_riel Valcalen Valepel VallI_s ValmI_re Vaneile VA_niel Veile VelepA_ne
+	}
+
+	dynasty_of_location_prefix = "dynnp_ul"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 40
+	mat_grf_name_chance = 40
+	father_name_chance = 20
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 45
+	mat_grm_name_chance = 45
+	mother_name_chance = 10
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_cretans" }
+		{ name = "mercenary_company_heruli" }
+		{ name = "mercenary_company_hoplites_of_place" }
+	}
+}

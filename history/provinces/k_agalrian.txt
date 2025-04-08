@@ -1,455 +1,331 @@
 844 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 845 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 846 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 847 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 848 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 849 = {	#
-	culture = anorothil
+	culture = bayside_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 850 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 851 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 852 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 853 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 854 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 855 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 856 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 857 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 858 = {	#
-	culture = anorothil
+	culture = bayside_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 859 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 860 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 861 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 862 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 863 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 864 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 865 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 866 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 867 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 868 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 869 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 870 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 871 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 872 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 873 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 874 = {	#
 	culture = anorothil
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 875 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 876 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 877 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 878 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 879 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 880 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 881 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 882 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 883 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 884 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 885 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 886 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 887 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 888 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 889 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 890 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 891 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 892 = {	#
-	culture = anorothil
+	culture = bayside_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 893 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 894 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 895 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 896 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 897 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 898 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 899 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 900 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 901 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 902 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 903 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 904 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 905 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 906 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 907 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 908 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 909 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 910 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 911 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 912 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 913 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 914 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 915 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 916 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 917 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 918 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 919 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 920 = {	#
-	culture = anorothil
+	culture = bayside_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 921 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 922 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 923 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 924 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 925 = {	#
-	culture = anorothil
+	culture = southern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 926 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 927 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 928 = {	#
-	culture = anorothil
+	culture = northern_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 929 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 930 = {	#
-	culture = anorothil
+	culture = bayside_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 931 = {	#
-	culture = anorothil
+	culture = bayside_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 932 = {	#
-	culture = anorothil
+	culture = bayside_agalrian
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 933 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 934 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }

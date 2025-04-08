@@ -1,175 +1,129 @@
 975 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 976 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 977 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 978 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 979 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 980 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 981 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 982 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 983 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 984 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 985 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 986 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 987 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 988 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 989 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 990 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 991 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 992 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 993 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 994 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 995 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 996 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 997 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 998 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 999 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 1000 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 1001 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1002 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1003 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 1004 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1005 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1006 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1007 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 1008 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 1009 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }

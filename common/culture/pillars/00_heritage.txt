@@ -7,7 +7,6 @@
 	}
 	audio_parameter = european
 }
-
 heritage_agalrian = {
 	type = heritage
 	is_shown = {

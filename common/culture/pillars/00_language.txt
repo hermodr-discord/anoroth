@@ -15,7 +15,6 @@
 	
 	color = greek
 }
-
 language_agalrian = {
 	type = language
 	is_shown = {

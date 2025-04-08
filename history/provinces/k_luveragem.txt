@@ -1,6 +1,5 @@
 975 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 976 = {	#
 	culture = islander
@@ -13,24 +12,19 @@
 	holding = tribal_holding
 }
 978 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 979 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 980 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 981 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 982 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 983 = {	#
 	culture = islander
@@ -43,28 +37,22 @@
 	holding = tribal_holding
 }
 985 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 986 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 987 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 988 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 989 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 990 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 991 = {	#
 	culture = islander
@@ -72,16 +60,13 @@
 	holding = tribal_holding
 }
 992 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 993 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 994 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 995 = {	#
 	culture = islander
@@ -89,8 +74,7 @@
 	holding = tribal_holding
 }
 996 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 997 = {	#
 	culture = islander
@@ -98,16 +82,13 @@
 	holding = tribal_holding
 }
 998 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 999 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 1000 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 1001 = {	#
 	culture = islander
@@ -120,8 +101,7 @@
 	holding = tribal_holding
 }
 1003 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 1004 = {	#
 	culture = islander
@@ -139,14 +119,11 @@
 	holding = tribal_holding
 }
 1007 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 1008 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }
 1009 = {	#
-	culture = islander
-	religion = faith_anoril
+	holding = none
 }

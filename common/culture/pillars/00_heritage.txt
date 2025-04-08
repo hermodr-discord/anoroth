@@ -7,3 +7,23 @@
 	}
 	audio_parameter = european
 }
+
+heritage_agalrian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_agalrian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_islander = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_islander
+		}
+	}
+	audio_parameter = european
+}

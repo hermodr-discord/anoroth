@@ -1,0 +1,28 @@
+islander = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_islander
+	language = language_islander
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_the_witenagemot
+		tradition_city_keepers
+		tradition_hird
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

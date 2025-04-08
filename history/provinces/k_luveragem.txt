@@ -1,175 +1,152 @@
 975 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 976 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 977 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 978 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 979 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 980 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 981 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 982 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 983 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 984 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 985 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 986 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 987 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 988 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 989 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 990 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 991 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 992 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 993 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 994 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 995 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 996 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 997 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 998 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 999 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 1000 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 1001 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1002 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1003 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 1004 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1005 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1006 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
+	holding = tribal_holding
 }
 1007 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 1008 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }
 1009 = {	#
-	culture = anorothil
+	culture = islander
 	religion = faith_anoril
-	holding = castle_holding
 }

@@ -1,5 +1,5 @@
 ﻿anoroth6 = {
-	name = "dynn_OurE_kimI_lun"
+	name = "dynn_Ourimetanil"
 	culture = "anorothil"
 }
 

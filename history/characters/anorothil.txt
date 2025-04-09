@@ -1,9 +1,9 @@
 ﻿lineofanoroth_1 = {
-	name = "Ourágon"
+	name = OU_rA_novor
 	dynasty = anoroth6
 	religion = faith_anoril
 	culture = anorothil
-	dna = ouragon
+	dna = ouranovor
 
 	diplomacy = 8
 	martial = 10
@@ -24,10 +24,10 @@
 	sexuality = heterosexual
 	disallow_random_traits = yes
 
-	6625.1.1 = {
+	8078.1.1 = {
 		birth = yes
 	}
-	6720.1.1 = {
+	8172.1.1 = {
 		death = { death_reason = death_murder }
 	}
 }

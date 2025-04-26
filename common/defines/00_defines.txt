@@ -106,12 +106,12 @@ NCharacter = {
 	RANDOM_CHARACTER_LEARNING_MAX = 10
 	RANDOM_CHARACTER_PROWESS_MIN = 0
 	RANDOM_CHARACTER_PROWESS_MAX = 10
-	RANDOM_CHARACTER_MIN_FERTILITY = 0.5
-	RANDOM_CHARACTER_MAX_FERTILITY = 0.6
+	RANDOM_CHARACTER_MIN_FERTILITY = 0.35
+	RANDOM_CHARACTER_MAX_FERTILITY = 0.45
 
 	RANDOM_CHARACTER_MIN_HEALTH = 4.0
 	RANDOM_CHARACTER_MAX_HEALTH = 5.0
-	RANDOM_CHARACTER_AGE_MIN_HEALTH = 2.5 # This is the minimum starting base health characters get after adjustments for age
+	RANDOM_CHARACTER_AGE_MIN_HEALTH = 3.0 # This is the minimum starting base health characters get after adjustments for age
 
 	MAX_STRESS_LEVEL = 3			# The maximum stress level
 	STRESS_PER_LEVEL = 100			# Stress per level
@@ -132,7 +132,7 @@ NCharacter = {
 	MAX_STRIFE_OPINION = 100				# maximum strife opinion value a character can have
 	STRIFE_OPINION_MONTHLY_CHANGE = -0.2	# strife opinion is changing by this value each month
 
-	BASE_FERTILITY = 0.5
+	BASE_FERTILITY = 0.45
 	BASE_HEALTH = 5.0
 
 	# experience needed for piety/prestige/influence levels - first/negative level requires 1000, then 350 etc.
@@ -282,7 +282,7 @@ NCharacter = {
 }
 
 NOldAge = {
-	LOWER_HEALTH_START_AGE = 25 # At this age characters start getting the chance to lose health each year
+	LOWER_HEALTH_START_AGE = 45 # At this age characters start getting the chance to lose health each year
 	LOWER_HEALTH_BASE_CHANCE = 0.075 # This is the base chance of losing health at the START_AGE
 	LOWER_HEALTH_YEARLY_INCREASE = 0.022 # This is the yearly increase of the chance to lose health
 	LOWER_HEALTH_AMOUNT = -0.125 # This is the health change on each failed yearly health roll
@@ -295,7 +295,7 @@ NOldAge = {
 	DEATH_MINIMUM_DELAY = 15 # If marked for death, they will die at least this many days after the check
 	DEATH_MAXIMUM_DELAY = 20 # If marked for death, they will die no more than this many days after the check. With these numbers, that means if someone becomes deathly ill, they have a high chance of dying between 7 and 40 days (30 days from the death check) after contracting the health penalty
 
-	LOWER_PROWESS_START_AGE = 45 # At this age characters start getting the chance to lose prowess each year
+	LOWER_PROWESS_START_AGE = 65 # At this age characters start getting the chance to lose prowess each year
 	LOWER_PROWESS_BASE_CHANCE = 0.1 # This is the base chance of losing prowess at the START_AGE
 	LOWER_PROWESS_YEARLY_INCREASE = 0.015 # This is the yearly increase of the chance to lose prowess
 	LOWER_PROWESS_MAX_CHANCE = 0.75 # This is the maximum chance to lose prowess
@@ -317,14 +317,14 @@ NChildbirth = {
 	MALE_FERTILITY_MULTIPLIER = { 0.5 0.6 0.7 0.8 0.9 1.0 } # Multiplier values based on age limits from FERTILITY_MULTIPLIER_LIMITS should have an extra value at the beginning for characters older than first limit
 	FEMALE_FERTILITY_MULTIPLIER_LIMITS = { 45 40 35 30 25 } # Ages where fertility multiplier is applied 25 means up to 25, needs to be sorted in descending order
 	FEMALE_FERTILITY_MULTIPLIER = { 0.1 0.33 0.5 0.7 0.9 1.0 } # Multiplier values based on age limits from FERTILITY_MULTIPLIER_LIMITS should have an extra value at the beginning for characters older than first limit
-	MOTHER_FERTILITY_REDUCTION_PER_PREVIOUS_CHILD = 0.05
+	MOTHER_FERTILITY_REDUCTION_PER_PREVIOUS_CHILD = 0.075
 	LOW_FERTILITY = 0.1
 	PRIMARY_SPOUSE_FERTILITY_MULTIPLIER = 1
 	SECONDARY_SPOUSE_FERTILITY_MULTIPLIER = 0.5
 	CONCUBINE_FERTILITY_MULTIPLIER = 0.5
 	NOT_SPOUSE_FERTILITY_MULTIPLIER = 1
 	NON_RULER_FERTILITY_MULTIPLIER = 0.85	# If neither parent is a ruler, resulting fertility gets multiplied by this
-	FERTILITY_CHANCE_MULTIPLIER = 4.75 # Fertility is an average between the father and the mother (if the mother has 0.3 and the father 0.5, the average is 0.4), this number is then multiplied by this multiplier to produce the percentage chance of impregnation. Impregnation is checked every month.
+	FERTILITY_CHANCE_MULTIPLIER = 4.5 # Fertility is an average between the father and the mother (if the mother has 0.3 and the father 0.5, the average is 0.4), this number is then multiplied by this multiplier to produce the percentage chance of impregnation. Impregnation is checked every month.
 	MIN_FERTILITY_CHANCE = 1
 	MAX_FERTILITY_CHANCE = 25
 	TWIN_BASE_CHANCE = 0.02

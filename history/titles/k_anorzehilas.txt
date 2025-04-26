@@ -1,7 +1,8 @@
 e_anoroth = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
-	6654.1.1 = {
+
+	8107.1.1 = {
 		holder = lineofanoroth_1
 	}
 }
@@ -9,7 +10,8 @@ e_anoroth = {
 k_anorzehilas = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
-	6654.1.1 = {
+
+	8107.1.1 = {
 		holder = lineofanoroth_1
 	}
 }
@@ -17,7 +19,8 @@ k_anorzehilas = {
 d_anorzehilas = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
-	6654.1.1 = {
+
+	8107.1.1 = {
 		holder = lineofanoroth_1
 	}
 }
@@ -26,7 +29,8 @@ c_anorzehilas = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 	767.1.1 = { government = tribal_government }
-	6654.1.1 = {
+
+	8107.1.1 = {
 		holder = lineofanoroth_1
 	}
 }

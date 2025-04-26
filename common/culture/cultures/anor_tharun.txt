@@ -1,14 +1,43 @@
-southern_agalrian = {
-	color = { 106 62 37 }
+﻿eyarir = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_tharun
+	language = language_tharunur
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fp1_coastal_warriors
+		tradition_seafaring
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+brynor = {
+	color = { 47 177 186 }
 	
 	ethos = ethos_stoic
-	heritage = heritage_agalrian
-	language = language_agalrian
+	heritage = heritage_tharun
+	language = language_tharunur
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
+		tradition_isolationist
+		tradition_winter_warriors
+		tradition_fishermen
 	}
 	
 	name_list = name_list_anglo_saxon
@@ -27,75 +56,18 @@ southern_agalrian = {
 	}
 }
 
-northern_agalrian = {
-	color = { 133 78 73 }
+funerathil = {
+	color = { 47 177 186 }
 	
-	ethos = ethos_stoic
-	heritage = heritage_agalrian
-	language = language_agalrian
+	ethos = ethos_communal
+	heritage = heritage_tharun
+	language = language_anorothil
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
-	}
-	
-	name_list = name_list_anglo_saxon
-
-	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
-	building_gfx = { western_building_gfx } 
-	clothing_gfx = { northern_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 	
-
-	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
-	}
-}
-
-bayside_agalrian = {
-	color = { 110 69 55 }
-	
-	ethos = ethos_bureaucratic
-	heritage = heritage_agalrian
-	language = language_agalrian
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
-	}
-	
-	name_list = name_list_anglo_saxon
-
-	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
-	building_gfx = { western_building_gfx } 
-	clothing_gfx = { northern_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 	
-
-	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
-	}
-}
-
-tidal_agalrian = {
-	color = { 76 49 80 }
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_agalrian
-	language = language_agalrian
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_forbearing
+		tradition_hunters
 	}
 	
 	name_list = name_list_anglo_saxon

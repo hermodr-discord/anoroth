@@ -141,3 +141,20 @@ ethos_communal = {
 		value = 1
 	}
 }
+
+ethos_isolationist = {
+	type = ethos
+	character_modifier = {
+		close_relative_opinion = 5
+		same_culture_mercenary_hire_cost_mult = -0.15
+		minority_different_culture_opinion = -10
+	}
+	province_modifier = {
+		build_gold_cost = -0.05
+		build_speed = -0.1
+	}
+
+	ai_will_do = {
+		value = 1
+	}
+}

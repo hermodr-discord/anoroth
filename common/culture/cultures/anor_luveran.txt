@@ -1,14 +1,15 @@
-islander = {
+﻿luveran = {
 	color = { 47 177 186 }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_islander
-	language = language_islander
+	heritage = heritage_luveran
+	language = language_luveran
 	martial_custom = martial_custom_equal
 	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
+		tradition_people_of_the_tides
+		tradition_stand_and_fight
+		tradition_hunters
+		tradition_tribe_unity
 	}
 	
 	name_list = name_list_anglo_saxon

@@ -2,13 +2,13 @@
 	holding = none
 }
 976 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 977 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 978 = {	#
@@ -27,13 +27,13 @@
 	holding = none
 }
 983 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 984 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 985 = {	#
@@ -55,8 +55,8 @@
 	holding = none
 }
 991 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 992 = {	#
@@ -69,16 +69,16 @@
 	holding = none
 }
 995 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 996 = {	#
 	holding = none
 }
 997 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 998 = {	#
@@ -91,31 +91,31 @@
 	holding = none
 }
 1001 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 1002 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 1003 = {	#
 	holding = none
 }
 1004 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 1005 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 1006 = {	#
-	culture = islander
-	religion = faith_anoril
+	culture = luveran
+	religion = faith_isanara
 	holding = tribal_holding
 }
 1007 = {	#

@@ -15,6 +15,7 @@
 	
 	color = greek
 }
+
 language_agalrian = {
 	type = language
 	is_shown = {
@@ -33,17 +34,143 @@ language_agalrian = {
 	color = { 133 78 73 }
 }
 
-language_islander = {
+language_luveran = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_islander
+			LANGUAGE = language_luveran
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_islander }
+			limit = { has_cultural_pillar = language_luveran }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_tharunur = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_tharunur
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_tharunur }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_larrunic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_larrunic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_larrunic }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_helyv = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_helyv
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_helyv }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_oreg_al = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_oreg_al
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_oreg_al }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_qaratan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_qaratan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_qaratan }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_argaman = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_argaman
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_argaman }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_behatyn = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_behatyn
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_behatyn }
 			multiply = 10
 		}
 	}

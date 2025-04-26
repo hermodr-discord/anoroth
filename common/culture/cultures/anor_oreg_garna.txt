@@ -1,0 +1,89 @@
+﻿oreg_hagan = {
+	color = { 0 76 10 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_oreg_garna
+	language = language_oreg_al
+	martial_custom = martial_custom_equal
+	traditions = {
+		#Children of Oreg-Garna
+		tradition_strength_in_numbers
+		tradition_zealous_people
+		tradition_staunch_traditionalists
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+oreg_bagat = {
+	color = { 20 80 20 }
+	
+	ethos = ethos_communal
+	heritage = heritage_oreg_garna
+	language = language_oreg_al
+	martial_custom = martial_custom_equal
+	traditions = {
+		#Children of Oreg-Garna
+		tradition_strength_in_numbers
+		tradition_storytellers
+		tradition_medicinal_plants
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+oreg_suran = {
+	color = { 0 56 0 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_oreg_garna
+	language = language_oreg_al
+	martial_custom = martial_custom_equal
+	traditions = {
+		#Children of Oreg-Garna
+		tradition_strength_in_numbers
+		tradition_tribe_unity
+		tradition_artisans
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

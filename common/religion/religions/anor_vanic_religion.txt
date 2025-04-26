@@ -1,4 +1,4 @@
-﻿pantheonic_religion = {
+﻿vanic_religion = {
 	family = rf_pantheonic
 
 	doctrine = pagan_hostility_doctrine
@@ -211,8 +211,8 @@
 	}
 
 	faiths = {
-		faith_anoril = {
-			color = { 0.6 0.1 0.1 }
+		faith_ronarvir = {
+			color = { 103 54 103 }
 			icon = hellenic
 
 			holy_site = anorzehilas

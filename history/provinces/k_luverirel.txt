@@ -1,5 +1,5 @@
 935 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = none
 }
@@ -16,12 +16,12 @@
 	holding = none
 }
 940 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
 941 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
@@ -35,7 +35,7 @@
 	holding = none
 }
 945 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
@@ -49,7 +49,7 @@
 	holding = none
 }
 949 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
@@ -65,7 +65,7 @@
 	holding = castle_holding
 }
 953 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
@@ -73,7 +73,7 @@
 	holding = none
 }
 955 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
@@ -81,12 +81,12 @@
 	holding = none
 }
 957 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
 958 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }
@@ -132,7 +132,7 @@
 	holding = none
 }
 972 = {	#
-	culture = tidal_agalrian
+	culture = mehenan
 	religion = faith_anoril
 	holding = tribal_holding
 }

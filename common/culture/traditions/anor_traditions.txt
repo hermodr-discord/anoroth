@@ -1,0 +1,446 @@
+﻿#######################
+# CULTURAL TRADITIONS #
+#######################
+
+######################
+# MAA Traditions 	 #
+######################
+
+
+######### ANOROTHIC
+
+tradition_vathirin_ourapivelis = { #Vathîrin Oúrapivêlis
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = soldiers.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_anorothil
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	can_pick = {
+		has_cultural_pillar = heritage_anorothil
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	
+	parameters = {
+		unlock_maa_ayyar = yes
+		can_use_sparring_duel = yes
+		martial_education_more_valued = yes
+		prowess_traits_more_valued = yes
+		blademaster_trait_bonuses = yes
+		craven_and_content_traits_looked_down_upon = yes
+		knights_slightly_more_prone_to_injury = yes
+		unlock_voluntary_laampdom = yes
+	}
+	character_modifier = {
+		knight_limit = 2
+		negate_prowess_penalty_add = 5
+		accolade_glory_gain_mult = 0.2
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_courtly_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							any_knight = {
+								count >= 6
+								prowess >= 12
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = knights_with_prowess_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 400 }
+}
+
+tradition_right_of_anor = { #Right of Anór
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = soldiers.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_anorothil
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	can_pick = {
+		has_cultural_pillar = heritage_anorothil
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	
+	parameters = {
+		unlock_maa_ayyar = yes
+		can_use_sparring_duel = yes
+		martial_education_more_valued = yes
+		prowess_traits_more_valued = yes
+		blademaster_trait_bonuses = yes
+		craven_and_content_traits_looked_down_upon = yes
+		knights_slightly_more_prone_to_injury = yes
+		unlock_voluntary_laampdom = yes
+	}
+	character_modifier = {
+		knight_limit = 2
+		negate_prowess_penalty_add = 5
+		accolade_glory_gain_mult = 0.2
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_courtly_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							any_knight = {
+								count >= 6
+								prowess >= 12
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = knights_with_prowess_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 400 }
+}
+
+######### LUVERAN
+
+tradition_people_of_the_tides = { #People of the Tides
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = soldiers.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_luveran
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	can_pick = {
+		has_cultural_pillar = heritage_luveran
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	
+	parameters = {
+		unlock_maa_ayyar = yes
+		can_use_sparring_duel = yes
+		martial_education_more_valued = yes
+		prowess_traits_more_valued = yes
+		blademaster_trait_bonuses = yes
+		craven_and_content_traits_looked_down_upon = yes
+		knights_slightly_more_prone_to_injury = yes
+		unlock_voluntary_laampdom = yes
+	}
+	character_modifier = {
+		knight_limit = 2
+		negate_prowess_penalty_add = 5
+		accolade_glory_gain_mult = 0.2
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_courtly_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							any_knight = {
+								count >= 6
+								prowess >= 12
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = knights_with_prowess_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 400 }
+}
+
+######### OREG-GARNA
+
+tradition_children_of_oreg_garna = { #Children of Oreg-Garna
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = soldiers.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_oreg_garna
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	can_pick = {
+		has_cultural_pillar = heritage_oreg_garna
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	
+	parameters = {
+		unlock_maa_ayyar = yes
+		can_use_sparring_duel = yes
+		martial_education_more_valued = yes
+		prowess_traits_more_valued = yes
+		blademaster_trait_bonuses = yes
+		craven_and_content_traits_looked_down_upon = yes
+		knights_slightly_more_prone_to_injury = yes
+		unlock_voluntary_laampdom = yes
+	}
+	character_modifier = {
+		knight_limit = 2
+		negate_prowess_penalty_add = 5
+		accolade_glory_gain_mult = 0.2
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_courtly_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							any_knight = {
+								count >= 6
+								prowess >= 12
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = knights_with_prowess_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 400 }
+}
+
+######### SHIDONEM
+
+tradition_the_golden_strait = { #The Golden Strait
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = soldiers.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_shidonem
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	can_pick = {
+		has_cultural_pillar = heritage_shidonem
+		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
+			has_cultural_tradition = tradition_seafaring
+			has_cultural_tradition = tradition_maritime_mercantilism
+			has_cultural_tradition = tradition_fishermen
+		}
+	}
+	
+	parameters = {
+		unlock_maa_ayyar = yes
+		can_use_sparring_duel = yes
+		martial_education_more_valued = yes
+		prowess_traits_more_valued = yes
+		blademaster_trait_bonuses = yes
+		craven_and_content_traits_looked_down_upon = yes
+		knights_slightly_more_prone_to_injury = yes
+		unlock_voluntary_laampdom = yes
+	}
+	character_modifier = {
+		knight_limit = 2
+		negate_prowess_penalty_add = 5
+		accolade_glory_gain_mult = 0.2
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_courtly_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							any_knight = {
+								count >= 6
+								prowess >= 12
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = knights_with_prowess_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 400 }
+}

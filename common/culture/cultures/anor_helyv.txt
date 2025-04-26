@@ -1,0 +1,176 @@
+﻿helyv = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_helyv
+	language = language_helyv
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_isolationist
+		tradition_mountaineers
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+helesz = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_helyv
+	language = language_helyv
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fp2_state_ransoming
+		tradition_practiced_pirates
+		tradition_highland_warriors
+		tradition_warrior_monks
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+zsorag = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_helyv
+	language = language_helyv
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_highland_warriors
+		tradition_sacred_mountains
+		tradition_religious_patronage
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+heszo = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_isolationist
+	heritage = heritage_helyv
+	language = language_helyv
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_modest
+		tradition_mountain_homes
+		tradition_tribe_unity
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+vogyd = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_communal
+	heritage = heritage_helyv
+	language = language_helyv
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_family_entrepreneurship
+		tradition_culinary_art
+		tradition_artisans
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+halavath = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_communal
+	heritage = heritage_helyv
+	language = language_anorothil
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_culture_blending
+		tradition_astute_diplomats
+		tradition_agrarian
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

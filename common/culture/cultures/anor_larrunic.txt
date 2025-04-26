@@ -1,0 +1,58 @@
+﻿larrun = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_ceremonious
+	heritage = heritage_larrunic
+	language = language_larrunic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_horse_breeder
+		tradition_pastoralists
+		tradition_music_theory
+		tradition_sacred_hunts
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+kintir = {
+	color = { 47 177 186 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_larrunic
+	language = language_larrunic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_sorcerous_metallurgy
+		tradition_sacred_hunts
+		tradition_talent_acquisition
+	}
+	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

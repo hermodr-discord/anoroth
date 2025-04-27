@@ -33,7 +33,7 @@
 }
 
 anorosyn = {
-	color = { 199 2 17 }
+	color = { 127 0 0 }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_anorothil
@@ -66,7 +66,7 @@ anorosyn = {
 }
 
 brenilor = {
-	color = { 199 2 17 }
+	color = { 189 51 56 }
 	
 	ethos = ethos_ceremonious
 	heritage = heritage_anorothil
@@ -98,7 +98,7 @@ brenilor = {
 }
 
 ourimetanath = {
-	color = { 199 2 17 }
+	color = { 163 29 10 }
 	
 	ethos = ethos_ceremonious
 	heritage = heritage_anorothil

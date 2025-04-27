@@ -212,7 +212,7 @@
 
 	faiths = {
 		faith_ilg_e_garna = {
-			color = { 0.6 0.1 0.1 }
+			color = { 0 64 6 }
 			icon = hellenic
 
 			holy_site = anorzehilas

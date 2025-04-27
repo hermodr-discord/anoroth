@@ -1,5 +1,5 @@
 ﻿eyarir = {
-	color = { 47 177 186 }
+	color = { 74 66 87 }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_tharun
@@ -28,7 +28,7 @@
 }
 
 brynor = {
-	color = { 47 177 186 }
+	color = { 103 54 103 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_tharun
@@ -57,7 +57,7 @@ brynor = {
 }
 
 funerathil = {
-	color = { 47 177 186 }
+	color = { 78 47 98 }
 	
 	ethos = ethos_communal
 	heritage = heritage_tharun

@@ -1,145 +1,105 @@
 1010 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1011 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = brenilor
+	religion = faith_anorath
 	holding = castle_holding
 }
 1012 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1013 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = zsorag
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1014 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1015 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1016 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1017 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = zsorag
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1018 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = zsorag
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1019 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1020 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1021 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1022 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1023 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = brenilor
+	religion = faith_anorath
 	holding = castle_holding
 }
 1024 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1025 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1026 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = brenilor
+	religion = faith_anorath
 	holding = castle_holding
 }
 1027 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1028 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1029 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1030 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1031 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = brenilor
+	religion = faith_anorath
 	holding = castle_holding
 }
 1032 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = zsorag
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1033 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1034 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1035 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1036 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }
 1037 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = zsorag
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1038 = {	#
-	culture = anorothil
-	religion = faith_anoril
 	holding = castle_holding
 }

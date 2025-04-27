@@ -1,220 +1,160 @@
 1103 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_oszeseg
+    holding = castle_holding
 }
 1104 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_oszeseg
+    holding = castle_holding
 }
 1105 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = vogyd
+    religion = faith_oszeseg
+    holding = castle_holding
 }
 1106 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1107 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1108 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1109 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 1110 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1111 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1112 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1113 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_oszeseg
+    holding = castle_holding
 }
 1114 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1115 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1116 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 1117 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1118 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1119 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = halavath
+    religion = faith_anorath
+    holding = castle_holding
 }
 1120 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1121 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_oszeseg
+    holding = castle_holding
 }
 1122 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_oszeseg
+    holding = castle_holding
 }
 1123 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_anorath
+    holding = castle_holding
 }
 1124 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1125 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1126 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1127 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1128 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1129 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1130 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1131 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1132 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1133 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1134 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_anorath
+    holding = castle_holding
 }
 1135 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1136 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1137 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 1138 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1139 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = vogyd
+    religion = faith_oszeseg
+    holding = castle_holding
 }
 1140 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1141 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = helyv
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 1142 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1143 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1144 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1145 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 1146 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }

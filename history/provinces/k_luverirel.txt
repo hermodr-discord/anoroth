@@ -1,6 +1,6 @@
 935 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = none
 }
 936 = {	#
@@ -17,12 +17,12 @@
 }
 940 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 941 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 942 = {	#
@@ -36,7 +36,7 @@
 }
 945 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 946 = {	#
@@ -50,7 +50,7 @@
 }
 949 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 950 = {	#
@@ -60,13 +60,13 @@
 	holding = none
 }
 952 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = larrun
+	religion = faith_anatzeve
 	holding = castle_holding
 }
 953 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 954 = {	#
@@ -74,7 +74,7 @@
 }
 955 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 956 = {	#
@@ -82,12 +82,12 @@
 }
 957 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 958 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 959 = {	#
@@ -106,8 +106,8 @@
 	holding = none
 }
 964 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = larrun
+	religion = faith_anatzeve
 	holding = castle_holding
 }
 965 = {	#
@@ -133,7 +133,7 @@
 }
 972 = {	#
 	culture = mehenan
-	religion = faith_anoril
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 973 = {	#

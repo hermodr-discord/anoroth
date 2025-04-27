@@ -1,5 +1,5 @@
 ﻿larrun = {
-	color = { 47 177 186 }
+	color = { 240 180 66 }
 	
 	ethos = ethos_ceremonious
 	heritage = heritage_larrunic
@@ -29,7 +29,7 @@
 }
 
 kintir = {
-	color = { 47 177 186 }
+	color = { 212 129 55 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_larrunic

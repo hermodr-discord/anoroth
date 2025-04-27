@@ -1,5 +1,5 @@
 ﻿helyv = {
-	color = { 47 177 186 }
+	color = { 82 99 15 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_helyv
@@ -28,7 +28,7 @@
 }
 
 helesz = {
-	color = { 47 177 186 }
+	color = { 75 76 47 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_helyv
@@ -58,7 +58,7 @@ helesz = {
 }
 
 zsorag = {
-	color = { 47 177 186 }
+	color = { 63 89 31 }
 	
 	ethos = ethos_spiritual
 	heritage = heritage_helyv
@@ -87,7 +87,7 @@ zsorag = {
 }
 
 heszo = {
-	color = { 47 177 186 }
+	color = { 26 103 44 }
 	
 	ethos = ethos_isolationist
 	heritage = heritage_helyv
@@ -116,7 +116,7 @@ heszo = {
 }
 
 vogyd = {
-	color = { 47 177 186 }
+	color = { 31 117 20 }
 	
 	ethos = ethos_communal
 	heritage = heritage_helyv
@@ -146,7 +146,7 @@ vogyd = {
 }
 
 halavath = {
-	color = { 47 177 186 }
+	color = { 30 106 63 }
 	
 	ethos = ethos_communal
 	heritage = heritage_helyv

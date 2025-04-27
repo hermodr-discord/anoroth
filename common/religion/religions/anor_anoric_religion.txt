@@ -251,7 +251,7 @@
 			doctrine = tenet_communal_identity
 			doctrine = tenet_esotericism
 		}
-		faith_south_anor = {
+		faith_anatzeve = {
 			color = { 210 48 12 }
 			icon = hellenic
 

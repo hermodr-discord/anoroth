@@ -400,12 +400,12 @@
 }
 701 = {	#
 	culture = argaman
-	religion = faith_taqarut
+	religion = faith_toqarut
 	holding = castle_holding
 }
 702 = {	#
 	culture = argaman
-	religion = faith_taqarut
+	religion = faith_toqarut
 	holding = castle_holding
 }
 703 = {	#

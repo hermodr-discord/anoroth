@@ -28,7 +28,7 @@
 }
 
 bregan = {
-	color = { 133 78 73 }
+	color = { 111 60 57 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_agalrian
@@ -86,7 +86,7 @@ tunorar = {
 }
 
 mehenan = {
-	color = { 76 49 80 }
+	color = { 88 52 53 }
 	
 	ethos = ethos_egalitarian
 	heritage = heritage_agalrian

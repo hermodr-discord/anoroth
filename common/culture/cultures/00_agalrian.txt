@@ -11,7 +11,7 @@ southern_agalrian = {
 		tradition_hird
 	}
 	
-	name_list = name_list_anglo_saxon
+	name_list = name_list_agalrian
 
 	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
 	building_gfx = { western_building_gfx } 
@@ -40,7 +40,7 @@ northern_agalrian = {
 		tradition_hird
 	}
 	
-	name_list = name_list_anglo_saxon
+	name_list = name_list_agalrian
 
 	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
 	building_gfx = { western_building_gfx } 
@@ -69,7 +69,7 @@ bayside_agalrian = {
 		tradition_hird
 	}
 	
-	name_list = name_list_anglo_saxon
+	name_list = name_list_agalrian
 
 	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
 	building_gfx = { western_building_gfx } 
@@ -98,7 +98,7 @@ tidal_agalrian = {
 		tradition_hird
 	}
 	
-	name_list = name_list_anglo_saxon
+	name_list = name_list_agalrian
 
 	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
 	building_gfx = { western_building_gfx } 

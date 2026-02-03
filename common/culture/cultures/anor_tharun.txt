@@ -1,0 +1,87 @@
+﻿eyarir = {
+	color = { 74 66 87 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_tharun
+	language = language_tharunur
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fp1_coastal_warriors
+		tradition_seafaring
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_tharun
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+brynor = {
+	color = { 103 54 103 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_tharun
+	language = language_tharunur
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_isolationist
+		tradition_winter_warriors
+		tradition_fishermen
+	}
+	
+	name_list = name_list_tharun
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+funerathil = {
+	color = { 78 47 98 }
+	
+	ethos = ethos_communal
+	heritage = heritage_tharun
+	language = language_anorothil
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_loyal_soldiers
+		tradition_forbearing
+		tradition_hunters
+	}
+	
+	name_list = name_list_tharun
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

@@ -4,6 +4,8 @@ tags={
 	"Gameplay"
 	"Map"
 }
+replace_path="common/dynasties"
+replace_path="common/dynasty_houses"
 replace_path="common/landed_titles"
 replace_path="history/characters"
 replace_path="history/cultures"

@@ -1,6 +1,6 @@
 935 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = none
 }
 936 = {	#
@@ -16,13 +16,13 @@
 	holding = none
 }
 940 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 941 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 942 = {	#
@@ -35,8 +35,8 @@
 	holding = none
 }
 945 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 946 = {	#
@@ -49,8 +49,8 @@
 	holding = none
 }
 949 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 950 = {	#
@@ -60,34 +60,34 @@
 	holding = none
 }
 952 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = larrun
+	religion = faith_anatzeve
 	holding = castle_holding
 }
 953 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 954 = {	#
 	holding = none
 }
 955 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 956 = {	#
 	holding = none
 }
 957 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 958 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 959 = {	#
@@ -106,8 +106,8 @@
 	holding = none
 }
 964 = {	#
-	culture = anorothil
-	religion = faith_anoril
+	culture = larrun
+	religion = faith_anatzeve
 	holding = castle_holding
 }
 965 = {	#
@@ -132,8 +132,8 @@
 	holding = none
 }
 972 = {	#
-	culture = tidal_agalrian
-	religion = faith_anoril
+	culture = mehenan
+	religion = faith_anatzeve
 	holding = tribal_holding
 }
 973 = {	#

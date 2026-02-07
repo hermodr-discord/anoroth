@@ -1,4 +1,4 @@
-southern_agalrian = {
+﻿agalrian = {
 	color = { 106 62 37 }
 	
 	ethos = ethos_stoic
@@ -6,9 +6,9 @@ southern_agalrian = {
 	language = language_agalrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
+		tradition_hill_dwellers
+		tradition_highland_warriors
+		tradition_stalwart_defenders
 	}
 	
 	name_list = name_list_agalrian
@@ -27,17 +27,17 @@ southern_agalrian = {
 	}
 }
 
-northern_agalrian = {
-	color = { 133 78 73 }
+bregan = {
+	color = { 111 60 57 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_agalrian
 	language = language_agalrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
+		tradition_hill_dwellers
+		tradition_highland_warriors
+		tradition_eye_for_an_eye
 	}
 	
 	name_list = name_list_agalrian
@@ -56,7 +56,7 @@ northern_agalrian = {
 	}
 }
 
-bayside_agalrian = {
+tunorar = {
 	color = { 110 69 55 }
 	
 	ethos = ethos_bureaucratic
@@ -64,9 +64,9 @@ bayside_agalrian = {
 	language = language_agalrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
+		tradition_fishermen
+		tradition_culture_blending
+		tradition_stalwart_defenders
 	}
 	
 	name_list = name_list_agalrian
@@ -85,17 +85,17 @@ bayside_agalrian = {
 	}
 }
 
-tidal_agalrian = {
-	color = { 76 49 80 }
+mehenan = {
+	color = { 88 52 53 }
 	
 	ethos = ethos_egalitarian
 	heritage = heritage_agalrian
 	language = language_agalrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
+		tradition_fishermen
+		tradition_wedding_ceremonies
+		tradition_esteemed_hospitality
 	}
 	
 	name_list = name_list_agalrian

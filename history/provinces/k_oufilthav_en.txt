@@ -1,245 +1,173 @@
 364 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_bagat
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 365 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_suran
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 366 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 367 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_hagan
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 368 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 369 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 370 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_bagat
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 371 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 372 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 373 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_hagan
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 374 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 375 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 376 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 377 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 378 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 379 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_hagan
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 380 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 381 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 382 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 383 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 384 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 385 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 386 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 387 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 388 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 389 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_hagan
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 390 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 391 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_bagat
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 392 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 393 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 394 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 395 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 396 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_suran
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 397 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 398 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 399 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 400 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_suran
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 401 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 402 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 403 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 404 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 405 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_suran
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 406 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 407 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 408 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 409 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 410 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_suran
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }
 411 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	holding = none
 }
 412 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+	culture = oreg_suran
+	religion = faith_ilg_e_garna
+	holding = tribal_holding
 }

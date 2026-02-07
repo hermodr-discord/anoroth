@@ -1,245 +1,179 @@
 524 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = halavath
+    religion = faith_anorath
+    holding = castle_holding
 }
 525 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 526 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 527 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 528 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 529 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 530 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 531 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 532 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 533 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 534 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 535 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = anorothil
+    religion = faith_anorath
+    holding = castle_holding
 }
 536 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 537 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 538 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = halavath
+    religion = faith_anorath
+    holding = castle_holding
 }
 539 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 540 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 541 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 542 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 543 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 544 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 545 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anorath
+    holding = castle_holding
 }
 546 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 547 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 548 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 549 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anorath
+    holding = castle_holding
 }
 550 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 551 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 552 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 553 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 554 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 555 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 556 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anorath
+    holding = castle_holding
 }
 557 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 558 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 559 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 560 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 561 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 562 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 563 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 564 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 565 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 566 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 567 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 568 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = halavath
+    religion = faith_anorath
+    holding = castle_holding
 }
 569 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = halavath
+    religion = faith_anorath
+    holding = castle_holding
 }
 570 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }
 571 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    holding = castle_holding
 }
 572 = {	#
-	culture = anorothil
-	religion = faith_anoril
-	holding = castle_holding
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
 }

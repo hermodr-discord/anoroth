@@ -1,7 +1,7 @@
 ﻿lineofanoroth_1 = {
 	name = OU_rA_novor
 	dynasty = anoroth6
-	religion = faith_anoril
+	religion = faith_anorath
 	culture = anorothil
 	dna = ouranovor
 

@@ -2,8 +2,8 @@
 	holding = none
 }
 845 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 846 = {	#
@@ -16,13 +16,13 @@
 	holding = none
 }
 849 = {	#
-	culture = bayside_agalrian
-	religion = faith_anoril
+	culture = tunorar
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 850 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 851 = {	#
@@ -41,16 +41,16 @@
 	holding = none
 }
 856 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 857 = {	#
 	holding = none
 }
 858 = {	#
-	culture = bayside_agalrian
-	religion = faith_anoril
+	culture = tunorar
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 859 = {	#
@@ -60,13 +60,13 @@
 	holding = none
 }
 861 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 862 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 863 = {	#
@@ -76,8 +76,8 @@
 	holding = none
 }
 865 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_anorath
 	holding = none
 }
 866 = {	#
@@ -87,8 +87,8 @@
 	holding = none
 }
 868 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 869 = {	#
@@ -101,19 +101,19 @@
 	holding = none
 }
 872 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 873 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 874 = {	#
 	culture = anorothil
-	religion = faith_anoril
-	holding = tribal_holding
+	religion = faith_anorath
+	holding = castle_holding
 }
 875 = {	#
 	holding = none
@@ -134,9 +134,9 @@
 	holding = none
 }
 881 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
-	holding = tribal_holding
+	culture = anorothil
+	religion = faith_atharfavrel
+	holding = church_holding
 }
 882 = {	#
 	holding = none
@@ -169,8 +169,8 @@
 	holding = none
 }
 892 = {	#
-	culture = bayside_agalrian
-	religion = faith_anoril
+	culture = tunorar
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 893 = {	#
@@ -186,11 +186,11 @@
 	holding = none
 }
 897 = {	#
-	holding = none
+	holding = castle_holding
 }
 898 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 899 = {	#
@@ -200,24 +200,24 @@
 	holding = none
 }
 901 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 902 = {	#
 	holding = none
 }
 903 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 904 = {	#
 	holding = none
 }
 905 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 906 = {	#
@@ -233,8 +233,8 @@
 	holding = none
 }
 910 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 911 = {	#
@@ -244,24 +244,24 @@
 	holding = none
 }
 913 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = none
 }
 914 = {	#
 	holding = none
 }
 915 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 916 = {	#
 	holding = none
 }
 917 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 918 = {	#
@@ -271,8 +271,8 @@
 	holding = none
 }
 920 = {	#
-	culture = bayside_agalrian
-	religion = faith_anoril
+	culture = tunorar
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 921 = {	#
@@ -285,13 +285,13 @@
 	holding = none
 }
 924 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_anorath
 	holding = tribal_holding
 }
 925 = {	#
-	culture = southern_agalrian
-	religion = faith_anoril
+	culture = agalrian
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 926 = {	#
@@ -301,26 +301,26 @@
 	holding = none
 }
 928 = {	#
-	culture = northern_agalrian
-	religion = faith_anoril
+	culture = bregan
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 929 = {	#
 	holding = none
 }
 930 = {	#
-	culture = bayside_agalrian
-	religion = faith_anoril
+	culture = tunorar
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 931 = {	#
-	culture = bayside_agalrian
-	religion = faith_anoril
+	culture = tunorar
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 932 = {	#
-	culture = bayside_agalrian
-	religion = faith_anoril
+	culture = tunorar
+	religion = faith_anorath
 	holding = tribal_holding
 }
 933 = {	#

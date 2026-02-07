@@ -17,11 +17,71 @@ heritage_agalrian = {
 	audio_parameter = european
 }
 
-heritage_islander = {
+heritage_luveran = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_islander
+			HERITAGE = heritage_luveran
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_behatyn = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_behatyn
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_shidonem = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_shidonem
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_helyv = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_helyv
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_oreg_garna = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_oreg_garna
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_larrunic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_larrunic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_tharun = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_tharun
 		}
 	}
 	audio_parameter = european

@@ -1,0 +1,84 @@
+﻿l_english:
+
+ #Patharanic Localization
+ patharanic_religion:0 "Patharánic"
+ patharanic_religion_adj:0 "Patharánic"
+ patharanic_religion_adherent:0 "Patharánic"
+ patharanic_religion_adherent_plural:0 "Patharánic"
+ patharanic_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+
+ patharanic_high_god_name:0 "Patharán"
+ patharanic_high_god_name_2:0 "$patharanic_high_god_name$" # Optional translation alt
+ patharanic_high_god_name_possessive:0 "Isana's"
+ patharanic_high_god_name_alternate:0 "She of Ocean and Wind"
+ patharanic_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
+ patharanic_good_god_ancestors:0 "the ancestors"
+ patharanic_good_god_ancestors_posessive:0 "the ancestors'"
+ patharanic_good_god_spirits:0 "the spirits"
+ patharanic_good_god_spirits_possessive:0 "the spirits'"
+ patharanic_devil_name:0 "corruption"
+ patharanic_devil_name_possessive:0 "corruption's"
+ patharanic_devil_shehe:0 "it"
+ patharanic_devil_herselfhimself:0 "itself"
+ patharanic_devil_herhis:0 "its"
+ patharanic_evil_god_decay:0 "blight"
+ patharanic_evil_god_decay_possessive:0 "blight's"
+ patharanic_evil_god_drought:0 "drought"
+ patharanic_death_deity_name:0 "death"
+ patharanic_death_deity_name_possessive:0 "death's"
+ patharanic_death_deity_herhis:0 "its"
+
+ patharanic_creator_god_name:0 "$patharanic_high_god_name$"
+ patharanic_creator_god_name_possessive:0 "$patharanic_high_god_name_possessive$"
+ patharanic_health_god_name:0 "$patharanic_good_god_spirits_name$"
+ patharanic_health_god_name_possessive:0 "$patharanic_good_god_spirits_name_possessive$"
+ patharanic_fertility_god_name:0 "$patharanic_high_god_name$"
+ patharanic_fertility_god_name_possessive:0 "$patharanic_high_god_name_possessive$"
+ patharanic_wealth_god_name:0 "$patharanic_high_god_name$"
+ patharanic_wealth_god_name_possessive:0 "$patharanic_high_god_name_possessive$"
+ patharanic_household_god_name:0 "$patharanic_good_god_ancestors$"
+ patharanic_household_god_name_possessive:0 "$patharanic_good_god_ancestors$"
+ patharanic_fate_god_name:0 "fate"
+ patharanic_fate_god_name_possessive:0 "fate's"
+ patharanic_knowledge_god_name:0 "$patharanic_good_god_ancestors$"
+ patharanic_knowledge_god_name_possessive:0 "$patharanic_good_god_ancestors$"
+ patharanic_war_god_name:0 "$patharanic_high_god_name$"
+ patharanic_war_god_name_possessive:0 "$patharanic_high_god_name_possessive$"
+ patharanic_trickster_god_name:0 "$patharanic_good_god_spirits_name$"
+ patharanic_trickster_god_name_possessive:0 "$patharanic_good_god_spirits_name$"
+ patharanic_night_god_name:0 "$patharanic_high_god_name$"
+ patharanic_night_god_name_possessive:0 "$patharanic_high_god_name_possessive$"
+ patharanic_water_god_name:0 "$patharanic_high_god_name$"
+ patharanic_water_god_name_possessive:0 "$patharanic_high_god_name_possessive$"
+
+ patharanic_house_of_worship:0 "temple"
+ patharanic_house_of_worship_2:0 "$patharanic_house_of_worship$" # Optional translation alt
+ patharanic_house_of_worship_3:0 "$patharanic_house_of_worship$" # Optional translation alt
+ patharanic_house_of_worship_plural:0 "temples"
+ patharanic_religious_symbol:0 "moon"
+ patharanic_religious_symbol_2:0 "$patharanic_religious_symbol$" # Optional translation alt
+ patharanic_religious_symbol_3:0 "$patharanic_religious_symbol$" # Optional translation alt
+ patharanic_religious_text:0 "Isana's teachings"
+ patharanic_religious_text_2:0 "$patharanic_religious_text$" # Optional translation alt
+ patharanic_religious_text_3:0 "$patharanic_religious_text$" # Optional translation alt
+ patharanic_religious_head_title:0 "High Shaman"
+ patharanic_religious_head_title_name:0 "Isana's Devoted"
+ patharanic_devotee:0 "devotee"
+ patharanic_devoteeplural:0 "devotees"
+ patharanic_priest:0 "shaman"
+ patharanic_priest_plural:0 "shamans"
+ patharanic_priest_alternate_plural:1 "elders"
+ patharanic_divine_realm:0 "Isana's Realm"
+ patharanic_divine_realm_2:0 "$patharanic_divine_realm$" # Optional translation alt
+ patharanic_divine_realm_3:0 "$patharanic_divine_realm$" # Optional translation alt
+ patharanic_afterlife:0 "Isana's embrace"
+ patharanic_afterlife_2:0 "$patharanic_afterlife$" # Optional translation alt
+ patharanic_afterlife_3:0 "$patharanic_afterlife$" # Optional translation alt
+ patharanic_witchgodname_the_spirits:0 "$patharanic_good_god_spirits_name$"
+ patharanic_witchgodname_the_spirits_possessive:0 "$patharanic_good_god_spirits_name_possessive$"
+
+ 
+ berenovy:0 "Berenovy"
+ berenovy_adj:0 "Berenovy"
+ berenovy_adherent:0 "Berenovy"
+ berenovy_adherent_plural:0 "Berenovya"

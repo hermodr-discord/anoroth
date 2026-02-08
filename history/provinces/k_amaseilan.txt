@@ -1,485 +1,485 @@
 621 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 622 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 623 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 624 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 625 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 626 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 627 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 628 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 629 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 630 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 631 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 632 = {	#
 	culture = anorosyn
-	religion = faith_sobranorye
+	religion = sobranorye
 	holding = castle_holding
 }
 633 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 634 = {	#
 	culture = anorosyn
-	religion = faith_sobranorye
+	religion = sobranorye
 	holding = castle_holding
 }
 635 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 636 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 637 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 638 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 639 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 640 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 641 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 642 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 643 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 644 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 645 = {	#
 	culture = behatyn
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 646 = {	#
 	culture = anorosyn
-	religion = faith_sobranorye
+	religion = sobranorye
 	holding = castle_holding
 }
 647 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 648 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 649 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 650 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 651 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 652 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 653 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 654 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 655 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 656 = {	#
 	culture = anorosyn
-	religion = faith_sobranorye
+	religion = sobranorye
 	holding = castle_holding
 }
 657 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 658 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 659 = {	#
 	culture = behatyn
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 660 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 661 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 662 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 663 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 664 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 665 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 666 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 667 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 668 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 669 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 670 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 671 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 672 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 673 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 674 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 675 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 676 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 677 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 678 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 679 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 680 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 681 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 682 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 683 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 684 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 685 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 686 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 687 = {	#
 	culture = anorosyn
-	religion = faith_celavath
+	religion = celavath
 	holding = castle_holding
 }
 688 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 689 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 690 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 691 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 692 = {	#
 	culture = anorosyn
-	religion = faith_sobranorye
+	religion = sobranorye
 	holding = castle_holding
 }
 693 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 694 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 695 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 696 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 697 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 698 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 699 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 700 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 701 = {	#
 	culture = argaman
-	religion = faith_toqarut
+	religion = toqarut
 	holding = castle_holding
 }
 702 = {	#
 	culture = argaman
-	religion = faith_toqarut
+	religion = toqarut
 	holding = castle_holding
 }
 703 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 704 = {	#
 	culture = anorosyn
-	religion = faith_celavath
+	religion = celavath
 	holding = castle_holding
 }
 705 = {	#
 	culture = anorosyn
-	religion = faith_celavath
+	religion = celavath
 	holding = castle_holding
 }
 706 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 707 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 708 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 709 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 710 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 711 = {	#
 	culture = anorosyn
-	religion = faith_sobranorye
+	religion = sobranorye
 	holding = castle_holding
 }
 712 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 713 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 714 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 715 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 716 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }
 717 = {	#
 	culture = behatyn
-	religion = faith_beronovy
+	religion = beronovy
 	holding = castle_holding
 }

@@ -1,6 +1,6 @@
 83 = {	#
     culture = funerathil
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 84 = {	#
@@ -14,12 +14,12 @@
 }
 87 = {	#
     culture = brynor
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 88 = {	#
     culture = funerathil
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 89 = {	#
@@ -30,7 +30,7 @@
 }
 91 = {	#
     culture = brynor
-    religion = faith_ronarvir
+    religion = ronarvir
     holding = castle_holding
 }
 92 = {	#
@@ -59,7 +59,7 @@
 }
 100 = {	#
     culture = brynor
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 101 = {	#
@@ -79,7 +79,7 @@
 }
 106 = {	#
     culture = brynor
-    religion = faith_ronarvir
+    religion = ronarvir
     holding = castle_holding
 }
 107 = {	#
@@ -87,7 +87,7 @@
 }
 108 = {	#
     culture = brynor
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 109 = {	#
@@ -101,7 +101,7 @@
 }
 112 = {	#
     culture = brynor
-    religion = faith_ronarvir
+    religion = ronarvir
     holding = castle_holding
 }
 113 = {	#
@@ -112,7 +112,7 @@
 }
 115 = {	#
     culture = brynor
-    religion = faith_ronarvir
+    religion = ronarvir
     holding = castle_holding
 }
 116 = {	#
@@ -126,11 +126,11 @@
 }
 119 = {	#
     culture = brynor
-    religion = faith_ronarvir
+    religion = ronarvir
     holding = castle_holding
 }
 120 = {	#
     culture = brynor
-    religion = faith_ronarvir
+    religion = ronarvir
     holding = castle_holding
 }

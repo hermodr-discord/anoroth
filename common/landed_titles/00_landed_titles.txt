@@ -3212,7 +3212,7 @@ e_rimekanir = { # Rímekanir
 
     capital = c_county_165
 
-    k_amaseilan = { # Amasëílan
+    k_behtava = { # Amasëílan
         color = { 244 178 19 }
         capital = c_county_165
 
@@ -3756,7 +3756,7 @@ e_rimekanir = { # Rímekanir
             }
         }
     }
-	k_usovirasal = { # Usovírasal
+	k_zatysna = { # Usovírasal
         color = { 121 24 65 }
         capital = c_county_194
 
@@ -4033,7 +4033,7 @@ e_rimekanir = { # Rímekanir
             }
         }
     }
-	k_ouralanentan_en = { # Oürelánentan-en
+	k_meruyar = { # Oürelánentan-en
         color = { 66 134 54 }
         capital = c_county_209
 
@@ -4484,7 +4484,7 @@ e_rimekanir = { # Rímekanir
             }
         }
     }
-	k_nisefarelime_en = { # Nísefarelíme-en
+	k_saraalan = { # Nísefarelíme-en
         color = { 93 223 210 }
         capital = c_county_232
 
@@ -4728,24 +4728,24 @@ e_rimekanir = { # Rímekanir
 e_ourabilan = { # Oürábílan
     color = { 114 69 55 }
 
-    capital = c_county_243
+    capital = c_kallioros
 
     k_agalrian = { # Agálrían
         color = { 114 69 55 }
-        capital = c_county_243
+        capital = c_kallioros
 
         d_duchy_57 = {
             color = { 114 69 55 }
-            capital = c_county_243
+            capital = c_kallioros
 
-            c_county_243 = {
+            c_kallioros = {
                 color = { 114 69 55 }
 
-                b_province_874 = {
+                b_kallioros = {
                     province = 874
                     color = { 114 69 55 }
                 }
-                b_province_922 = {
+                b_kallichora = {
                     province = 922
                     color = { 133 76 70 }
                 }
@@ -4754,7 +4754,7 @@ e_ourabilan = { # Oürábílan
                     color = { 146 72 59 }
                 }
             }
-            c_county_244 = {
+            c_brenna = {
                 color = { 133 79 67 }
 
                 b_province_925 = {
@@ -4887,7 +4887,7 @@ e_ourabilan = { # Oürábílan
                     color = { 106 63 51 }
                 }
             }
-            c_county_251 = {
+            c_brennach = {
                 color = { 111 61 48 }
 
                 b_province_862 = {
@@ -5208,7 +5208,7 @@ e_ourabilan = { # Oürábílan
                     color = { 126 77 68 }
                 }
             }
-            c_county_270 = {
+            c_colles = {
                 color = { 110 69 55 }
 
                 b_province_858 = {
@@ -5250,7 +5250,7 @@ e_ourabilan = { # Oürábílan
             }
         }
     }
-	k_luverirel = { # Lúverírel
+	k_seiwecan = { # Lúverírel
         color = { 82 49 104 }
         capital = c_county_272
 
@@ -5478,20 +5478,24 @@ e_ourabilan = { # Oürábílan
             }
         }
     }
-	k_luveragem = { # Luveragém
+	k_luveran = { # Luveragém
         color = { 47 177 186 }
-        capital = c_county_284
+        capital = c_lysan
 
         d_duchy_67 = {
             color = { 47 177 186 }
             capital = c_county_284
 
-            c_county_284 = {
+            c_lysan = {
                 color = { 47 177 186 }
 
-                b_province_995 = {
+                b_lysan_castle = {
                     province = 995
                     color = { 47 177 186 }
+                }
+                b_lysan_city = {
+                    province = 981
+                    color = { 36 155 163 }
                 }
                 b_province_979 = {
                     province = 979
@@ -5501,19 +5505,15 @@ e_ourabilan = { # Oürábílan
                     province = 980
                     color = { 35 144 152 }
                 }
-                b_province_981 = {
-                    province = 981
-                    color = { 36 155 163 }
-                }
                 b_province_986 = {
                     province = 986
                     color = { 41 171 180 }
                 }
             }
-            c_county_285 = {
+            c_aila = {
                 color = { 23 167 176 }
 
-                b_province_976 = {
+                b_aila = {
                     province = 976
                     color = { 23 167 176 }
                 }
@@ -5526,10 +5526,10 @@ e_ourabilan = { # Oürábílan
                     color = { 42 150 157 }
                 }
             }
-            c_county_286 = {
+            c_tiaran = {
                 color = { 32 164 173 }
 
-                b_province_977 = {
+                b_tiaran = {
                     province = 977
                     color = { 32 164 173 }
                 }
@@ -5579,10 +5579,10 @@ e_ourabilan = { # Oürábílan
                     color = { 50 137 126 }
                 }
             }
-            c_county_289 = {
+            c_rian = {
                 color = { 39 156 164 }
 
-                b_province_984 = {
+                b_rian = {
                     province = 984
                     color = { 39 156 164 }
                 }
@@ -5612,10 +5612,10 @@ e_ourabilan = { # Oürábílan
             color = { 51 146 137 }
             capital = c_county_291
 
-            c_county_291 = {
+            c_keala = {
                 color = { 51 146 137 }
 
-                b_province_1001 = {
+                b_keala = {
                     province = 1001
                     color = { 51 146 137 }
                 }
@@ -5697,7 +5697,7 @@ e_gadharietan = { # Gadháriëtan
 
     capital = c_county_296
 
-    k_ouvendole = { # Oüvéndole
+    k_nagyvolen = { # Oüvéndole
         color = { 31 117 20 }
 
         capital = c_county_296

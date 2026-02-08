@@ -211,7 +211,7 @@
 	}
 
 	faiths = {
-		faith_oszeseg = {
+		oszeseg = {
 			color = { 31 117 20 }
 			icon = hellenic
 

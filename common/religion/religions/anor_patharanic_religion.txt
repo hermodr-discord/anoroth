@@ -211,18 +211,8 @@
 	}
 
 	faiths = {
-		faith_beronovy = {
+		beronovy = {
 			color = { 80 80 160 }
-			icon = hellenic
-
-			holy_site = anorzehilas
-
-			doctrine = tenet_astrology
-			doctrine = tenet_communal_identity
-			doctrine = tenet_esotericism
-		}
-		faith_sobranorye = {
-			color = { 141 77 135 }
 			icon = hellenic
 
 			holy_site = anorzehilas

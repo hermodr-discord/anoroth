@@ -211,7 +211,7 @@
 	}
 
 	faiths = {
-		faith_ilg_e_garna = {
+		ilg_e_garna = {
 			color = { 0 64 6 }
 			icon = hellenic
 

@@ -1,0 +1,84 @@
+﻿l_english:
+
+ #Agalrian Localization
+ agalrian_religion:0 "Agalrian"
+ agalrian_religion_adj:0 "Agalrian"
+ agalrian_religion_adherent:0 "Agalrian"
+ agalrian_religion_adherent_plural:0 "Agalrians"
+ agalrian_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+
+ agalrian_high_god_name:0 "Isana"
+ agalrian_high_god_name_2:0 "$agalrian_high_god_name$" # Optional translation alt
+ agalrian_high_god_name_possessive:0 "Isana's"
+ agalrian_high_god_name_alternate:0 "She of Ocean and Wind"
+ agalrian_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
+ agalrian_good_god_ancestors:0 "the ancestors"
+ agalrian_good_god_ancestors_posessive:0 "the ancestors'"
+ agalrian_good_god_spirits:0 "the spirits"
+ agalrian_good_god_spirits_possessive:0 "the spirits'"
+ agalrian_devil_name:0 "corruption"
+ agalrian_devil_name_possessive:0 "corruption's"
+ agalrian_devil_shehe:0 "it"
+ agalrian_devil_herselfhimself:0 "itself"
+ agalrian_devil_herhis:0 "its"
+ agalrian_evil_god_decay:0 "blight"
+ agalrian_evil_god_decay_possessive:0 "blight's"
+ agalrian_evil_god_drought:0 "drought"
+ agalrian_death_deity_name:0 "death"
+ agalrian_death_deity_name_possessive:0 "death's"
+ agalrian_death_deity_herhis:0 "its"
+
+ agalrian_creator_god_name:0 "$agalrian_high_god_name$"
+ agalrian_creator_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
+ agalrian_health_god_name:0 "$agalrian_good_god_spirits_name$"
+ agalrian_health_god_name_possessive:0 "$agalrian_good_god_spirits_name_possessive$"
+ agalrian_fertility_god_name:0 "$agalrian_high_god_name$"
+ agalrian_fertility_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
+ agalrian_wealth_god_name:0 "$agalrian_high_god_name$"
+ agalrian_wealth_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
+ agalrian_household_god_name:0 "$agalrian_good_god_ancestors$"
+ agalrian_household_god_name_possessive:0 "$agalrian_good_god_ancestors$"
+ agalrian_fate_god_name:0 "fate"
+ agalrian_fate_god_name_possessive:0 "fate's"
+ agalrian_knowledge_god_name:0 "$agalrian_good_god_ancestors$"
+ agalrian_knowledge_god_name_possessive:0 "$agalrian_good_god_ancestors$"
+ agalrian_war_god_name:0 "$agalrian_high_god_name$"
+ agalrian_war_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
+ agalrian_trickster_god_name:0 "$agalrian_good_god_spirits_name$"
+ agalrian_trickster_god_name_possessive:0 "$agalrian_good_god_spirits_name$"
+ agalrian_night_god_name:0 "$agalrian_high_god_name$"
+ agalrian_night_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
+ agalrian_water_god_name:0 "$agalrian_high_god_name$"
+ agalrian_water_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
+
+ agalrian_house_of_worship:0 "temple"
+ agalrian_house_of_worship_2:0 "$agalrian_house_of_worship$" # Optional translation alt
+ agalrian_house_of_worship_3:0 "$agalrian_house_of_worship$" # Optional translation alt
+ agalrian_house_of_worship_plural:0 "temples"
+ agalrian_religious_symbol:0 "moon"
+ agalrian_religious_symbol_2:0 "$agalrian_religious_symbol$" # Optional translation alt
+ agalrian_religious_symbol_3:0 "$agalrian_religious_symbol$" # Optional translation alt
+ agalrian_religious_text:0 "Isana's teachings"
+ agalrian_religious_text_2:0 "$agalrian_religious_text$" # Optional translation alt
+ agalrian_religious_text_3:0 "$agalrian_religious_text$" # Optional translation alt
+ agalrian_religious_head_title:0 "High Shaman"
+ agalrian_religious_head_title_name:0 "Isana's Devoted"
+ agalrian_devotee:0 "devotee"
+ agalrian_devoteeplural:0 "devotees"
+ agalrian_priest:0 "shaman"
+ agalrian_priest_plural:0 "shamans"
+ agalrian_priest_alternate_plural:1 "elders"
+ agalrian_divine_realm:0 "Isana's Realm"
+ agalrian_divine_realm_2:0 "$agalrian_divine_realm$" # Optional translation alt
+ agalrian_divine_realm_3:0 "$agalrian_divine_realm$" # Optional translation alt
+ agalrian_afterlife:0 "Isana's embrace"
+ agalrian_afterlife_2:0 "$agalrian_afterlife$" # Optional translation alt
+ agalrian_afterlife_3:0 "$agalrian_afterlife$" # Optional translation alt
+ agalrian_witchgodname_the_spirits:0 "$agalrian_good_god_spirits_name$"
+ agalrian_witchgodname_the_spirits_possessive:0 "$agalrian_good_god_spirits_name_possessive$"
+
+
+ gaileth:0 "Gaileth"
+ gaileth_adj:0 "Gaileth"
+ gaileth_adherent:0 "Gaileth"
+ gaileth_adherent_plural:0 "Gaileths"

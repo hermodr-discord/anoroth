@@ -1,0 +1,68 @@
+k_luveran = {
+
+	8074.1.1 = {
+		holder = lineofluveran1
+	}
+	8100.1.1 = {
+		holder = lineofluveran2
+	}
+	8112.1.1 = {
+		holder = lineofluveran3
+	}
+	8131.1.1 = {
+		holder = lineofluveran4
+	}
+	8146.1.1 = {
+		holder = lineofluveran5
+	}
+	8174.1.1 = {
+		holder = lineofluveran6
+	}
+	8166.1.1 = { government = tribal_government }
+}
+
+d_lysan = {
+
+	8074.1.1 = {
+		holder = lineofluveran1
+	}
+	8100.1.1 = {
+		holder = lineofluveran2
+	}
+	8112.1.1 = {
+		holder = lineofluveran3
+	}
+	8131.1.1 = {
+		holder = lineofluveran4
+	}
+	8146.1.1 = {
+		holder = lineofluveran5
+	}
+	8174.1.1 = {
+		holder = lineofluveran6
+	}
+	8166.1.1 = { government = tribal_government }
+}
+
+c_lysan = {
+
+	8074.1.1 = {
+		holder = lineofluveran1
+	}
+	8100.1.1 = {
+		holder = lineofluveran2
+	}
+	8112.1.1 = {
+		holder = lineofluveran3
+	}
+	8131.1.1 = {
+		holder = lineofluveran4
+	}
+	8146.1.1 = {
+		holder = lineofluveran5
+	}
+	8174.1.1 = {
+		holder = lineofluveran6
+	}
+	8166.1.1 = { government = tribal_government }
+}

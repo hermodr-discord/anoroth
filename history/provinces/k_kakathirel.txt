@@ -3,7 +3,7 @@
 }
 301 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 302 = {	#
@@ -14,7 +14,7 @@
 }
 304 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 305 = {	#
@@ -31,7 +31,7 @@
 }
 309 = {	#
     culture = anorothil
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 310 = {	#
@@ -39,7 +39,7 @@
 }
 311 = {	#
     culture = kintir
-    religion = faith_telasatz
+    religion = telasatz
     holding = castle_holding
 }
 312 = {	#
@@ -53,7 +53,7 @@
 }
 315 = {	#
     culture = larrun
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 316 = {	#
@@ -61,7 +61,7 @@
 }
 317 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 318 = {	#
@@ -72,7 +72,7 @@
 }
 320 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 321 = {	#
@@ -89,7 +89,7 @@
 }
 325 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 326 = {	#
@@ -97,7 +97,7 @@
 }
 327 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 328 = {	#
@@ -108,7 +108,7 @@
 }
 330 = {	#
     culture = kintir
-    religion = faith_telasatz
+    religion = telasatz
     holding = castle_holding
 }
 331 = {	#
@@ -116,12 +116,12 @@
 }
 332 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 333 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 334 = {	#
@@ -132,7 +132,7 @@
 }
 336 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 337 = {	#
@@ -140,7 +140,7 @@
 }
 338 = {	#
     culture = kintir
-    religion = faith_telasatz
+    religion = telasatz
     holding = castle_holding
 }
 339 = {	#
@@ -172,7 +172,7 @@
 }
 348 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 349 = {	#
@@ -180,12 +180,12 @@
 }
 350 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 351 = {	#
     culture = kintir
-    religion = faith_telasatz
+    religion = telasatz
     holding = castle_holding
 }
 352 = {	#
@@ -208,7 +208,7 @@
 }
 358 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 359 = {	#
@@ -216,7 +216,7 @@
 }
 360 = {	#
     culture = kintir
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 361 = {	#

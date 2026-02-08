@@ -211,11 +211,11 @@
 	}
 
 	faiths = {
-		faith_isanara = {
+		isanara = {
 			color = { 47 177 186 }
 			icon = hellenic
 
-			holy_site = anorzehilas
+			holy_site = lysan
 
 			doctrine = tenet_astrology
 			doctrine = tenet_communal_identity

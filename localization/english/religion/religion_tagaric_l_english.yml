@@ -1,0 +1,84 @@
+﻿l_english:
+
+ #Tagaric Localization
+ tagaric_religion:0 "Tagaric"
+ tagaric_religion_adj:0 "Tagaric"
+ tagaric_religion_adherent:0 "Tagaric"
+ tagaric_religion_adherent_plural:0 "Tagarics"
+ tagaric_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+
+ tagaric_high_god_name:0 "Tagára"
+ tagaric_high_god_name_2:0 "$tagaric_high_god_name$" # Optional translation alt
+ tagaric_high_god_name_possessive:0 "Isana's"
+ tagaric_high_god_name_alternate:0 "She of Ocean and Wind"
+ tagaric_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
+ tagaric_good_god_ancestors:0 "the ancestors"
+ tagaric_good_god_ancestors_posessive:0 "the ancestors'"
+ tagaric_good_god_spirits:0 "the spirits"
+ tagaric_good_god_spirits_possessive:0 "the spirits'"
+ tagaric_devil_name:0 "corruption"
+ tagaric_devil_name_possessive:0 "corruption's"
+ tagaric_devil_shehe:0 "it"
+ tagaric_devil_herselfhimself:0 "itself"
+ tagaric_devil_herhis:0 "its"
+ tagaric_evil_god_decay:0 "blight"
+ tagaric_evil_god_decay_possessive:0 "blight's"
+ tagaric_evil_god_drought:0 "drought"
+ tagaric_death_deity_name:0 "death"
+ tagaric_death_deity_name_possessive:0 "death's"
+ tagaric_death_deity_herhis:0 "its"
+
+ tagaric_creator_god_name:0 "$tagaric_high_god_name$"
+ tagaric_creator_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
+ tagaric_health_god_name:0 "$tagaric_good_god_spirits_name$"
+ tagaric_health_god_name_possessive:0 "$tagaric_good_god_spirits_name_possessive$"
+ tagaric_fertility_god_name:0 "$tagaric_high_god_name$"
+ tagaric_fertility_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
+ tagaric_wealth_god_name:0 "$tagaric_high_god_name$"
+ tagaric_wealth_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
+ tagaric_household_god_name:0 "$tagaric_good_god_ancestors$"
+ tagaric_household_god_name_possessive:0 "$tagaric_good_god_ancestors$"
+ tagaric_fate_god_name:0 "fate"
+ tagaric_fate_god_name_possessive:0 "fate's"
+ tagaric_knowledge_god_name:0 "$tagaric_good_god_ancestors$"
+ tagaric_knowledge_god_name_possessive:0 "$tagaric_good_god_ancestors$"
+ tagaric_war_god_name:0 "$tagaric_high_god_name$"
+ tagaric_war_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
+ tagaric_trickster_god_name:0 "$tagaric_good_god_spirits_name$"
+ tagaric_trickster_god_name_possessive:0 "$tagaric_good_god_spirits_name$"
+ tagaric_night_god_name:0 "$tagaric_high_god_name$"
+ tagaric_night_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
+ tagaric_water_god_name:0 "$tagaric_high_god_name$"
+ tagaric_water_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
+
+ tagaric_house_of_worship:0 "temple"
+ tagaric_house_of_worship_2:0 "$tagaric_house_of_worship$" # Optional translation alt
+ tagaric_house_of_worship_3:0 "$tagaric_house_of_worship$" # Optional translation alt
+ tagaric_house_of_worship_plural:0 "temples"
+ tagaric_religious_symbol:0 "moon"
+ tagaric_religious_symbol_2:0 "$tagaric_religious_symbol$" # Optional translation alt
+ tagaric_religious_symbol_3:0 "$tagaric_religious_symbol$" # Optional translation alt
+ tagaric_religious_text:0 "Isana's teachings"
+ tagaric_religious_text_2:0 "$tagaric_religious_text$" # Optional translation alt
+ tagaric_religious_text_3:0 "$tagaric_religious_text$" # Optional translation alt
+ tagaric_religious_head_title:0 "High Shaman"
+ tagaric_religious_head_title_name:0 "Isana's Devoted"
+ tagaric_devotee:0 "devotee"
+ tagaric_devoteeplural:0 "devotees"
+ tagaric_priest:0 "shaman"
+ tagaric_priest_plural:0 "shamans"
+ tagaric_priest_alternate_plural:1 "elders"
+ tagaric_divine_realm:0 "Isana's Realm"
+ tagaric_divine_realm_2:0 "$tagaric_divine_realm$" # Optional translation alt
+ tagaric_divine_realm_3:0 "$tagaric_divine_realm$" # Optional translation alt
+ tagaric_afterlife:0 "Isana's embrace"
+ tagaric_afterlife_2:0 "$tagaric_afterlife$" # Optional translation alt
+ tagaric_afterlife_3:0 "$tagaric_afterlife$" # Optional translation alt
+ tagaric_witchgodname_the_spirits:0 "$tagaric_good_god_spirits_name$"
+ tagaric_witchgodname_the_spirits_possessive:0 "$tagaric_good_god_spirits_name_possessive$"
+
+
+ toqarut:0 "Toqarut"
+ toqarut_adj:0 "Toqarut"
+ toqarut_adherent:0 "Toqarut"
+ toqarut_adherent_plural:0 "Toqaruts"

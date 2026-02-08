@@ -211,7 +211,7 @@
 	}
 
 	faiths = {
-		faith_ronarvir = {
+		ronarvir = {
 			color = { 103 54 103 }
 			icon = hellenic
 

@@ -1,1 +1,4 @@
-﻿
+﻿saphyros = { # Third Imperial Dynasty of Anóroth | Reigned 3A 1578 - 3A 1961
+	name = "dynn_Saphyros"
+	dynasty = vasylidon # House Vasylidon, Second Imperial Dynasty of Anóroth
+}

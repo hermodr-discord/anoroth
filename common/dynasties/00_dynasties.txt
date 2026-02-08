@@ -1,4 +1,13 @@
-﻿anoroth6 = {
+﻿anomar = { # First Imperial Dynasty of Anóroth | Reigned 3A 1 - 3A 1021
+	name = "dynn_Anomar"
+	culture = "anorothil"
+}
+vasylidon = { # Second Imperial Dynasty of Anóroth | Reigned 3A 1047 - 3A 1578
+	name = "dynn_Vasylidon"
+	culture = "anorothil"
+}
+
+anoroth6 = {
 	name = "dynn_Ourimetanil"
 	culture = "anorothil"
 }

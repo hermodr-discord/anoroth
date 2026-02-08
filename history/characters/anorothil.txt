@@ -1,5 +1,1269 @@
-﻿lineofanoroth_1 = {
-	name = OU_rA_novor
+﻿# IMPERIAL HOUSES
+## House Anómar (Emperors 3A 1 - 3A 1021)
+anomar1 = {
+	name = AgrA_s
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	diplomacy = 10
+	martial = 18
+	stewardship = 8
+	intrigue = 6
+	learning = 10
+	prowess = 24
+
+	trait = brave
+	trait = ambitious
+	trait = zealous
+	trait = wrathful
+	trait = education_martial_5
+	trait = aggressive_attacker
+	trait = holy_warrior
+	trait = intellect_good_3
+	trait = physique_good_3
+	trait = strong
+	sexuality = heterosexual
+	disallow_random_traits = yes
+
+	4481.1.1 = {
+		birth = yes
+	}
+	4611.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar2 = {
+	name = Ektaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar1
+
+	4516.1.1 = {
+		birth = yes
+	}
+	4605.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar3 = {
+	name = Damaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar2
+	
+	4535.1.1 = {
+		birth = yes
+	}
+	4623.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar4 = {
+	name = Kastyas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar3
+
+	4566.1.1 = {
+		birth = yes
+	}
+	4649.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar5 = {
+	name = Myras
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar4
+
+	4600.1.1 = {
+		birth = yes
+	}
+	4684.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar6 = {
+	name = Kaelon
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar5
+
+	4640.1.1 = {
+		birth = yes
+	}
+	4711.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar7 = {
+	name = Damaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar6
+
+	4671.1.1 = {
+		birth = yes
+	}
+	4750.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar8 = {
+	name = Damaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar7
+
+	4703.1.1 = {
+		birth = yes
+	}
+	4757.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+anomar9 = {
+	name = Ektaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar8
+
+	4734.1.1 = {
+		birth = yes
+	}
+	4809.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar10 = {
+	name = Pheros
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar9
+
+	4760.1.1 = {
+		birth = yes
+	}
+	4847.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar11 = {
+	name = Kastyas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar10
+
+	4789.1.1 = {
+		birth = yes
+	}
+	4865.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar12 = {
+	name = Lykas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar11
+
+	4813.1.1 = {
+		birth = yes
+	}
+	4890.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar13 = {
+	name = Myron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar12
+
+	4841.1.1 = {
+		birth = yes
+	}
+	4894.1.1 = {
+		death = { death_reason = death_assassination }
+	}
+}
+anomar14 = {
+	name = Amare
+	female = yes
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar12
+
+	4844.1.1 = {
+		birth = yes
+	}
+	4916.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar15 = {
+	name = Themara
+	female = yes
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	mother = anomar14
+
+	4867.1.1 = {
+		birth = yes
+	}
+	4971.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar16 = {
+	name = Ektaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	mother = anomar15
+
+	4904.1.1 = {
+		birth = yes
+	}
+	4991.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar17 = {
+	name = Pylas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar16
+
+	4937.1.1 = {
+		birth = yes
+	}
+	4996.1.1 = {
+		death = { death_reason = death_ill }
+	}
+}
+anomar18 = {
+	name = Kaelas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar17
+
+	4964.1.1 = {
+		birth = yes
+	}
+	4996.1.1 = {
+		death = { death_reason = death_ill }
+	}
+}
+anomar19 = {
+	name = Myron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar17
+
+	4969.1.1 = {
+		birth = yes
+	}
+	5048.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar20 = {
+	name = Kastyas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar19
+
+	5004.1.1 = {
+		birth = yes
+	}
+	5085.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar21 = {
+	name = Myraklon
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar20
+
+	5044.1.1 = {
+		birth = yes
+	}
+	5094.1.1 = {
+		death = { death_reason = death_assassination }
+	}
+}
+anomar22 = {
+	name = Kaelas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar21
+
+	5072.1.1 = {
+		birth = yes
+	}
+	5116.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+anomar23 = {
+	name = Lykas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar22
+
+	5099.1.1 = {
+		birth = yes
+	}
+	5121.1.1 = {
+		death = {
+			death_reason = death_execution
+			killer = anomar25
+		}
+	}
+}
+anomar24 = {
+	name = Damara
+	female = yes
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar20
+
+	5050.1.1 = {
+		birth = yes
+	}
+	5118.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar25 = {
+	name = Nikaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	mother = anomar24
+
+	5080.1.1 = {
+		birth = yes
+	}
+	5189.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar26 = {
+	name = Andron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar25
+
+	5126.1.1 = {
+		birth = yes
+	}
+	5205.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar27 = {
+	name = Oraleon
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar26
+
+	5162.1.1 = {
+		birth = yes
+	}
+	5238.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar28 = {
+	name = Phyron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar27
+
+	5193.1.1 = {
+		birth = yes
+	}
+	5272.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar29 = {
+	name = Myron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar28
+
+	trait = bubonic_plague
+
+	5226.1.1 = {
+		birth = yes
+	}
+	5285.1.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+anomar30 = {
+	name = Damaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar29
+
+	trait = bubonic_plague
+
+	5248.1.1 = {
+		birth = yes
+	}
+	5285.1.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+anomar31 = {
+	name = Theras
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar29
+
+	trait = bubonic_plague
+
+	5250.1.1 = {
+		birth = yes
+	}
+	5285.1.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+anomar32 = {
+	name = Kaston
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar29
+
+	trait = bubonic_plague
+
+	5254.1.1 = {
+		birth = yes
+	}
+	5286.4.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+anomar33 = {
+	name = Myron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar32
+
+	trait = bubonic_plague
+
+	5278.1.1 = {
+		birth = yes
+	}
+	5286.11.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+anomar34 = {
+	name = Ektaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar29
+
+	trait = bubonic_plague
+
+	5262.1.1 = {
+		birth = yes
+	}
+	5286.1.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+anomar35 = {
+	name = Andron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar29
+
+	5262.1.1 = {
+		birth = yes
+	}
+	5291.1.1 = {
+		death = { death_reason = death_assassination }
+	}
+}
+anomar36 = {
+	name = Myron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar35
+
+	5290.1.1 = {
+		birth = yes
+	}
+	5299.1.1 = {
+		death = { death_reason = death_mysterious }
+	}
+}
+anomar37 = {
+	name = Pylas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar28
+
+	5232.1.1 = {
+		birth = yes
+	}
+	5313.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar38 = {
+	name = Rhion
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar37
+
+	5261.1.1 = {
+		birth = yes
+	}
+	5349.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar39 = {
+	name = Damaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar38
+
+	5294.1.1 = {
+		birth = yes
+	}
+	5385.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar40 = {
+	name = Korydon
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar39
+
+	5329.1.1 = {
+		birth = yes
+	}
+	5417.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar41 = {
+	name = Pylanes
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar40
+
+	5370.1.1 = {
+		birth = yes
+	}
+	5436.1.1 = {
+		death = { death_reason = death_stress }
+	}
+}
+anomar42 = {
+	name = Kanon
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar41
+
+	5393.1.1 = {
+		birth = yes
+	}
+	5444.1.1 = {
+		death = { death_reason = death_stress }
+	}
+}
+anomar43 = {
+	name = Orestas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar42
+
+	5417.1.1 = {
+		birth = yes
+	}
+	5489.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar44 = {
+	name = Kastyas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar43
+
+	5453.1.1 = {
+		birth = yes
+	}
+	5511.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+anomar45 = {
+	name = Lykas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar44
+
+	5481.1.1 = {
+		birth = yes
+	}
+	5527.1.1 = {
+		death = { death_reason = death_assassination }
+	}
+}
+anomar46 = {
+	name = Myron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar45
+
+	5516.1.1 = {
+		birth = yes
+	}
+	5534.1.1 = {
+		death = { death_reason = death_disappearance }
+	}
+}
+anomar47 = {
+	name = Rhion
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar39
+
+	5331.1.1 = {
+		birth = yes
+	}
+	5403.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar48 = {
+	name = Kaelas
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar47
+
+	5356.1.1 = {
+		birth = yes
+	}
+	5426.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar49 = {
+	name = Damaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar48
+
+	5385.1.1 = {
+		birth = yes
+	}
+	5462.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar50 = {
+	name = Damaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar49
+
+	5412.1.1 = {
+		birth = yes
+	}
+	5480.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar51 = {
+	name = Nikaron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar50
+
+	5436.1.1 = {
+		birth = yes
+	}
+	5518.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar52 = {
+	name = Phyron
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar51
+
+	5465.1.1 = {
+		birth = yes
+	}
+	5541.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+anomar53 = {
+	name = Lykan
+	dynasty = anomar
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar52
+
+	5486.1.1 = {
+		birth = yes
+	}
+	5565.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+## House Vasylidon (Emperors 3A 1047 - 3A 1578)
+vasylidon1 = {
+	name = Nikaron
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = anomar53
+
+	5509.1.1 = {
+		birth = yes
+	}
+	5598.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon2 = {
+	name = Theras
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon1
+
+	5540.1.1 = {
+		birth = yes
+	}
+	5627.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon3 = {
+	name = Kylanon
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon2
+
+	5564.1.1 = {
+		birth = yes
+	}
+	5640.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon4 = {
+	name = Nikaron
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon3
+
+	5605.1.1 = {
+		birth = yes
+	}
+	5696.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon5 = {
+	name = Damaron
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon4
+
+	5644.1.1 = {
+		birth = yes
+	}
+	5718.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon6 = {
+	name = Lykan
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon5
+
+	5673.1.1 = {
+		birth = yes
+	}
+	5761.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon7 = {
+	name = Alenias
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon6
+
+	5717.1.1 = {
+		birth = yes
+	}
+	5794.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon8 = {
+	name = Alkyon
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon7
+
+	5754.1.1 = {
+		birth = yes
+	}
+	5828.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon9 = {
+	name = Kastylas
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon8
+
+	trait = bubonic_plague
+
+	5792.1.1 = {
+		birth = yes
+	}
+	5837.1.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+vasylidon10 = {
+	name = Kastianos
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon9
+
+	trait = bubonic_plague
+
+	5821.1.1 = {
+		birth = yes
+	}
+	5837.1.1 = {
+		death = { death_reason = death_bubonic_plague }
+	}
+}
+vasylidon11 = {
+	name = Vasylas
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon8
+
+	5796.1.1 = {
+		birth = yes
+	}
+	5880.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon12 = {
+	name = Grenas
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon11
+
+	5822.1.1 = {
+		birth = yes
+	}
+	5898.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon13 = {
+	name = Andrakon
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon12
+
+	5845.1.1 = {
+		birth = yes
+	}
+	5925.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon14 = {
+	name = Damaron
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon13
+
+	5871.1.1 = {
+		birth = yes
+	}
+	5953.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon15 = {
+	name = Damaron
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon14
+
+	5902.1.1 = {
+		birth = yes
+	}
+	5980.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon16 = {
+	name = Oryos
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon15
+
+	5944.1.1 = {
+		birth = yes
+	}
+	6031.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon17 = {
+	name = Pylanes
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon16
+
+	5972.1.1 = {
+		birth = yes
+	}
+	6045.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon18 = {
+	name = Kastanos
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon17
+
+	6005.1.1 = {
+		birth = yes
+	}
+	6082.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+vasylidon19 = {
+	name = Gelaros
+	dynasty = vasylidon
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon17
+
+	trait = infertile
+
+	6029.1.1 = {
+		birth = yes
+	}
+	6091.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+## House Saphyros (Emperors 3A 1578 - 3A 1961)
+saphyros1 = {
+	name = Saphyras
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = vasylidon11
+
+	5829.1.1 = {
+		birth = yes
+	}
+	5904.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros2 = {
+	name = Kastyas
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros1
+
+	5850.1.1 = {
+		birth = yes
+	}
+	5924.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros3 = {
+	name = AgrA_s
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros2
+
+	5881.1.1 = {
+		birth = yes
+	}
+	5957.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros4 = {
+	name = Myron
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros3
+
+	5907.1.1 = {
+		birth = yes
+	}
+	5978.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros5 = {
+	name = Myron
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros4
+
+	5946.1.1 = {
+		birth = yes
+	}
+	6028.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros6 = {
+	name = Theras
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros5
+
+	5975.1.1 = {
+		birth = yes
+	}
+	6054.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros7 = {
+	name = Oryos
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros6
+
+	6002.1.1 = {
+		birth = yes
+	}
+	6076.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros8 = {
+	name = Damaron
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros7
+
+	6030.1.1 = {
+		birth = yes
+	}
+	6103.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+saphyros9 = {
+	name = Heliane
+	female = yes
+	dynasty_house = saphyros
+	religion = faith_anorath
+	culture = anorothil
+
+	father = saphyros8
+
+	6057.1.1 = {
+		birth = yes
+	}
+	6140.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+
+lineofanoroth_1 = {
+	name = "Ouralon"
 	dynasty = anoroth6
 	religion = faith_anorath
 	culture = anorothil

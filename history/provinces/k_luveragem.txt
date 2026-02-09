@@ -3,12 +3,12 @@
 }
 976 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 977 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 978 = {	#
@@ -21,19 +21,19 @@
 	holding = none
 }
 981 = {	#
-	holding = none
+	holding = city_holding
 }
 982 = {	#
 	holding = none
 }
 983 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 984 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 985 = {	#
@@ -56,7 +56,7 @@
 }
 991 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 992 = {	#
@@ -70,15 +70,15 @@
 }
 995 = {	#
 	culture = luveran
-	religion = faith_isanara
-	holding = tribal_holding
+	religion = isanara
+	holding = castle_holding
 }
 996 = {	#
 	holding = none
 }
 997 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 998 = {	#
@@ -92,12 +92,12 @@
 }
 1001 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 1002 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 1003 = {	#
@@ -105,17 +105,17 @@
 }
 1004 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 1005 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 1006 = {	#
 	culture = luveran
-	religion = faith_isanara
+	religion = isanara
 	holding = tribal_holding
 }
 1007 = {	#

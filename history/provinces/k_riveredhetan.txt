@@ -3,7 +3,7 @@
 }
 1011 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 1012 = {	#
@@ -11,7 +11,7 @@
 }
 1013 = {	#
 	culture = zsorag
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 1014 = {	#
@@ -25,12 +25,12 @@
 }
 1017 = {	#
 	culture = zsorag
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 1018 = {	#
 	culture = zsorag
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 1019 = {	#
@@ -47,7 +47,7 @@
 }
 1023 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 1024 = {	#
@@ -58,7 +58,7 @@
 }
 1026 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 1027 = {	#
@@ -75,12 +75,12 @@
 }
 1031 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 1032 = {	#
 	culture = zsorag
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 1033 = {	#
@@ -97,7 +97,7 @@
 }
 1037 = {	#
 	culture = zsorag
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 1038 = {	#

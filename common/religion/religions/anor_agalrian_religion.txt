@@ -211,7 +211,7 @@
 	}
 
 	faiths = {
-		faith_gaileth = {
+		gaileth = {
 			color = { 106 62 37 }
 			icon = hellenic
 

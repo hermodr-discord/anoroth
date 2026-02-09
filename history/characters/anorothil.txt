@@ -1,7 +1,7 @@
 ﻿lineofanoroth_1 = {
 	name = OU_rA_novor
 	dynasty = anoroth6
-	religion = faith_anorath
+	religion = anorath
 	culture = anorothil
 	dna = ouranovor
 
@@ -23,6 +23,33 @@
 	trait = strong
 	sexuality = heterosexual
 	disallow_random_traits = yes
+
+	8078.1.1 = {
+		birth = yes
+	}
+	8172.1.1 = {
+		death = { death_reason = death_murder }
+	}
+}
+evilguy1 = { 
+	religion = atharfavrel
+	culture = anorothil
+
+	diplomacy = 6
+	martial = 4
+	stewardship = 6
+	intrigue = 10
+	learning = 8
+	prowess = 4
+
+	trait = deceitful
+	trait = ambitious
+	trait = patient
+	trait = sadistic
+	trait = education_intrigue_4
+	trait = schemer
+
+	sexuality = heterosexual
 
 	8078.1.1 = {
 		birth = yes

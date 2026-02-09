@@ -211,9 +211,10 @@
 	}
 
 	faiths = {
-		faith_ilg_e_garna = {
+		ilg_e_garna = {
 			color = { 0 64 6 }
 			icon = hellenic
+			reformed_icon = hellenic_reformed
 
 			holy_site = anorzehilas
 

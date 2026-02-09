@@ -211,9 +211,10 @@
 	}
 
 	faiths = {
-		faith_ronarvir = {
+		ronarvir = {
 			color = { 103 54 103 }
 			icon = hellenic
+			reformed_icon = hellenic_reformed
 
 			holy_site = anorzehilas
 

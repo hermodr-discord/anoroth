@@ -3,6 +3,16 @@
 	culture = "anorothil"
 }
 
+luveran1 = {
+	name = "dynn_Lysan"
+	culture = "luveran"
+}
+
+luveran2 = {
+	name = "dynn_Dovalin"
+	culture = "luveran"
+}
+
 # Keeping Prydain to dodge a stubborn error.
 1029001 = {
 	name = "dynn_Prydain"

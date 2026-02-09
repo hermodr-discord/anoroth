@@ -1,0 +1,46 @@
+﻿l_english:
+ TITLE_NAME:1 "$NAME|U$"
+ TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
+ TITLE_DEFINITIVE_NAME:0 "the $TIER|U$ of $NAME$"
+ TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME_DEFINITE_FORM:0 "the $NAME$ $TIER|U$ #F ($BASE_NAME$) #!"
+ TITLE_TIER_AS_NAME:0 "$TIER|U$"
+
+ # Default title names
+ e_anoroth:0 "Anóroth"
+ k_anorzehilas:0 "Anórzehis"
+ d_anorzehilas:0 "Anórzehis"
+ c_anorzehilas:0 "Anórzehis"
+
+ k_zatysna:0 "Zatysna"
+ k_zatysna_adj:0 "Zatysni"
+
+ k_behtava:0 "Behtava"
+ k_behtava_adj:0 "Behtavan"
+
+ k_agalrian:0 "Agalrian"
+ k_agalrian_adj:0 "Agalrian"
+
+ k_seiwecan:0 "Seiwecan"
+ k_seiwecan_adj:0 "Seiwecan"
+ 
+ k_luveran:0 "Luveran"
+ k_luveran_adj:0 "Luveran"
+ 
+ c_lysan:0 "Lysan"
+ b_lysan_castle:0 "Lysan Castle"
+ b_lysan_city:0 "Lysan"
+
+ k_saraalan:0 "Saraalan"
+ k_saraalan_adj:0 "Saraalan"
+
+ k_meruyar:0 "Meruyar"
+<<<<<<< Updated upstream
+ k_meruyar_adj:0 "Meruyar"
+=======
+ k_meruyar_adj:0 "Meruyar"
+
+ k_eclipsed_realm:0 "The Eclipsed Realm"
+ k_eclipsed_realm_adj:0 "Eclipsed"
+>>>>>>> Stashed changes

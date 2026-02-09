@@ -1,0 +1,91 @@
+﻿l_english:
+
+ #Oreg Localization
+ oreg_religion:0 "Ilg-e-Garna"
+ oreg_religion_adj:0 "Ilg-e-Garna"
+ oreg_religion_adherent:0 "Ilg-e-Garna"
+ oreg_religion_adherent_plural:0 "Ilg-e-Garnans"
+ oreg_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+
+ oreg_high_god_name:0 "Garna"
+ oreg_high_god_name_2:0 "$oreg_high_god_name$" # Optional translation alt
+ oreg_high_god_name_possessive:0 "Garna's"
+ oreg_high_god_name_alternate:0 "She of Ocean and Wind"
+ oreg_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
+ oreg_good_god_ancestors:0 "the ancestors"
+ oreg_good_god_ancestors_posessive:0 "the ancestors'"
+ oreg_good_god_spirits:0 "the spirits"
+ oreg_good_god_spirits_possessive:0 "the spirits'"
+ oreg_devil_name:0 "corruption"
+ oreg_devil_name_possessive:0 "corruption's"
+ oreg_devil_shehe:0 "it"
+ oreg_devil_herselfhimself:0 "itself"
+ oreg_devil_herhis:0 "its"
+ oreg_evil_god_decay:0 "blight"
+ oreg_evil_god_decay_possessive:0 "blight's"
+ oreg_evil_god_drought:0 "drought"
+ oreg_death_deity_name:0 "death"
+ oreg_death_deity_name_possessive:0 "death's"
+ oreg_death_deity_herhis:0 "its"
+
+ oreg_creator_god_name:0 "$oreg_high_god_name$"
+ oreg_creator_god_name_possessive:0 "$oreg_high_god_name_possessive$"
+ oreg_health_god_name:0 "$oreg_good_god_spirits_name$"
+ oreg_health_god_name_possessive:0 "$oreg_good_god_spirits_name_possessive$"
+ oreg_fertility_god_name:0 "$oreg_high_god_name$"
+ oreg_fertility_god_name_possessive:0 "$oreg_high_god_name_possessive$"
+ oreg_wealth_god_name:0 "$oreg_high_god_name$"
+ oreg_wealth_god_name_possessive:0 "$oreg_high_god_name_possessive$"
+ oreg_household_god_name:0 "$oreg_good_god_ancestors$"
+ oreg_household_god_name_possessive:0 "$oreg_good_god_ancestors$"
+ oreg_fate_god_name:0 "fate"
+ oreg_fate_god_name_possessive:0 "fate's"
+ oreg_knowledge_god_name:0 "$oreg_good_god_ancestors$"
+ oreg_knowledge_god_name_possessive:0 "$oreg_good_god_ancestors$"
+ oreg_war_god_name:0 "$oreg_high_god_name$"
+ oreg_war_god_name_possessive:0 "$oreg_high_god_name_possessive$"
+ oreg_trickster_god_name:0 "$oreg_good_god_spirits_name$"
+ oreg_trickster_god_name_possessive:0 "$oreg_good_god_spirits_name$"
+ oreg_night_god_name:0 "$oreg_high_god_name$"
+ oreg_night_god_name_possessive:0 "$oreg_high_god_name_possessive$"
+ oreg_water_god_name:0 "$oreg_high_god_name$"
+ oreg_water_god_name_possessive:0 "$oreg_high_god_name_possessive$"
+
+ oreg_house_of_worship:0 "temple"
+ oreg_house_of_worship_2:0 "$oreg_house_of_worship$" # Optional translation alt
+ oreg_house_of_worship_3:0 "$oreg_house_of_worship$" # Optional translation alt
+ oreg_house_of_worship_plural:0 "temples"
+ oreg_religious_symbol:0 "moon"
+ oreg_religious_symbol_2:0 "$oreg_religious_symbol$" # Optional translation alt
+ oreg_religious_symbol_3:0 "$oreg_religious_symbol$" # Optional translation alt
+ oreg_religious_text:0 "Isana's teachings"
+ oreg_religious_text_2:0 "$oreg_religious_text$" # Optional translation alt
+ oreg_religious_text_3:0 "$oreg_religious_text$" # Optional translation alt
+ oreg_religious_head_title:0 "High Shaman"
+ oreg_religious_head_title_name:0 "Isana's Devoted"
+ oreg_devotee:0 "devotee"
+ oreg_devoteeplural:0 "devotees"
+ oreg_priest:0 "shaman"
+ oreg_priest_plural:0 "shamans"
+ oreg_priest_alternate_plural:1 "elders"
+ oreg_divine_realm:0 "Isana's Realm"
+ oreg_divine_realm_2:0 "$oreg_divine_realm$" # Optional translation alt
+ oreg_divine_realm_3:0 "$oreg_divine_realm$" # Optional translation alt
+ oreg_afterlife:0 "Isana's embrace"
+ oreg_afterlife_2:0 "$oreg_afterlife$" # Optional translation alt
+ oreg_afterlife_3:0 "$oreg_afterlife$" # Optional translation alt
+ oreg_witchgodname_the_spirits:0 "$oreg_good_god_spirits_name$"
+ oreg_witchgodname_the_spirits_possessive:0 "$oreg_good_god_spirits_name_possessive$"
+
+
+<<<<<<< Updated upstream
+ oreg:0 "Ilg-e-Garna"
+ oreg_adj:0 "Ilg-e-Garna"
+ oreg_adherent:0 "Ilg-e-Garna"
+ oreg_adherent_plural:0 "Ilg-e-Garnans"
+=======
+ ilg_e_garna:0 "Ilg-e-Garna"
+ ilg_e_garna_adj:0 "Ilg-e-Garna"
+ ilg_e_garna_adherent:0 "Ilg-e-Garna"
+ ilg_e_garna_adherent_plural:0 "Ilg-e-Garnans"
+>>>>>>> Stashed changes

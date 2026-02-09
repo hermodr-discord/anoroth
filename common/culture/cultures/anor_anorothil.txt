@@ -68,7 +68,7 @@ anorosyn = {
 brenilor = {
 	color = { 189 51 56 }
 	
-	ethos = ethos_ceremonious
+	ethos = ethos_courtly
 	heritage = heritage_anorothil
 	language = language_anorothil
 	martial_custom = martial_custom_male_only
@@ -100,7 +100,7 @@ brenilor = {
 ourimetanath = {
 	color = { 163 29 10 }
 	
-	ethos = ethos_ceremonious
+	ethos = ethos_courtly
 	heritage = heritage_anorothil
 	language = language_anorothil
 	martial_custom = martial_custom_male_only

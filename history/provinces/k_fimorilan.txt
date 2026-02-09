@@ -6,7 +6,7 @@
 }
 23 = {	#
 	culture = funerathil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 24 = {	#
@@ -14,17 +14,17 @@
 }
 25 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 26 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 27 = {	#
 	culture = funerathil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 28 = {	#
@@ -65,7 +65,7 @@
 }
 40 = {	#
 	culture = funerathil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 41 = {	#
@@ -73,17 +73,17 @@
 }
 42 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 43 = {	#
 	culture = funerathil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 44 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 45 = {	#
@@ -109,7 +109,7 @@
 }
 52 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 53 = {	#
@@ -126,12 +126,12 @@
 }
 57 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 58 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 59 = {	#
@@ -151,7 +151,7 @@
 }
 64 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 65 = {	#
@@ -165,7 +165,7 @@
 }
 68 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 69 = {	#
@@ -176,17 +176,17 @@
 }
 71 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 72 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 73 = {	#
 	culture = helesz
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 74 = {	#
@@ -203,7 +203,7 @@
 }
 78 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 79 = {	#
@@ -214,11 +214,11 @@
 }
 81 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 82 = {	#
 	culture = anorothil
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }

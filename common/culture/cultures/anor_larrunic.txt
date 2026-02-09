@@ -1,7 +1,7 @@
 ﻿larrun = {
 	color = { 240 180 66 }
 	
-	ethos = ethos_ceremonious
+	ethos = ethos_courtly
 	heritage = heritage_larrunic
 	language = language_larrunic
 	martial_custom = martial_custom_equal

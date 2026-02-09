@@ -211,9 +211,10 @@
 	}
 
 	faiths = {
-		faith_oszeseg = {
+		oszeseg = {
 			color = { 31 117 20 }
 			icon = hellenic
+			reformed_icon = hellenic_reformed
 
 			holy_site = anorzehilas
 

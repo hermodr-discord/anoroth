@@ -214,12 +214,16 @@
 		atharfavrel = {
 			color = { 30 30 70 }
 			icon = hellenic
+			religious_head = k_eclipsed_realm
 
 			holy_site = anorzehilas
 
 			doctrine = tenet_astrology
 			doctrine = tenet_communal_identity
 			doctrine = tenet_esotericism
+			localization = {
+				ReligiousHeadName = atharfavrel_religious_head_title
+			}
 		}
 	}
 }

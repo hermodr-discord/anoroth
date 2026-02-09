@@ -5,6 +5,7 @@
  patharanic_religion_adj:0 "Patharánic"
  patharanic_religion_adherent:0 "Patharánic"
  patharanic_religion_adherent_plural:0 "Patharánic"
+<<<<<<< Updated upstream
  patharanic_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
 
  patharanic_high_god_name:0 "Patharán"
@@ -82,3 +83,42 @@
  berenovy_adj:0 "Berenovy"
  berenovy_adherent:0 "Berenovy"
  berenovy_adherent_plural:0 "Berenovya"
+=======
+ patharanic_religion_desc:0 "PATHARANIC DESCRIPTION"
+
+ patharanic_high_god_name:0 "Patharán"
+ patharanic_high_god_name_2:0 "$patharanic_high_god_name$" # Optional translation alt
+ patharanic_high_god_name_possessive:0 "Patharán's"
+ patharanic_high_god_name_alternate:0 "the Moon Lord"
+ patharanic_high_god_name_alternate_possessive:0 "the Moon Lord's"
+ patharanic_devil_name:0 "wrath"
+ patharanic_devil_name_possessive:0 "wrath's"
+ patharanic_devil_shehe:0 "it"
+ patharanic_devil_herselfhimself:0 "itself"
+ patharanic_devil_herhis:0 "its"
+
+ patharanic_religious_symbol:0 "moon"
+ patharanic_religious_symbol_2:0 "$patharanic_religious_symbol$" # Optional translation alt
+ patharanic_religious_symbol_3:0 "$patharanic_religious_symbol$" # Optional translation alt
+ patharanic_religious_text:0 "scriptures"
+ patharanic_religious_text_2:0 "$patharanic_religious_text$" # Optional translation alt
+ patharanic_religious_text_3:0 "$patharanic_religious_text$" # Optional translation alt
+ #patharanic_religious_head_title:0 "High Shaman"
+ #patharanic_religious_head_title_name:0 "Patharánic Church"
+
+ 
+ beronovy:0 "Berónovy"
+ beronovy_adj:0 "Berónovy"
+ beronovy_adherent:0 "Berónovy"
+ beronovy_adherent_plural:0 "Berónovya"
+ beronovy_desc:0 "BERONOVY DESCRIPTION"
+
+ berenovy_high_god_name:0 "Berón"
+ berenovy_high_god_name_2:0 "$patharanic_high_god_name$" # Optional translation alt
+ berenovy_high_god_name_possessive:0 "Berón's"
+ berenovy_high_god_name_alternate:0 "the Moon Lord"
+ berenovy_high_god_name_alternate_possessive:0 "the Moon Lord's"
+
+ beronovy_religious_head_title:0 "Zashyvka"
+ beronovy_religious_head_title_name:0 "Prehylov Berónovy"
+>>>>>>> Stashed changes

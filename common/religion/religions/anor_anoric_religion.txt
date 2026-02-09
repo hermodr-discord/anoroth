@@ -4,10 +4,10 @@
 	doctrine = pagan_hostility_doctrine
 
 	#Main Group
-	doctrine = doctrine_no_head
+	doctrine = doctrine_temporal_head
 	doctrine = doctrine_gender_male_dominated
 	doctrine = doctrine_pluralism_pluralistic
-	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_theocracy_lay_clergy
 
 	#Marriage
 	doctrine = doctrine_concubines
@@ -237,11 +237,19 @@
 			doctrine = tenet_astrology
 			doctrine = tenet_communal_identity
 			doctrine = tenet_esotericism
+
+			localization = {
+				ReligiousHeadName = anorath_religious_head_title
+			}
 		}
 		celavath = {
 			color = { 127 0 0 }
 			icon = hellenic
+<<<<<<< Updated upstream
 			religious_head = e_anoroth
+=======
+			religious_head = e_anoroth # d_celavath
+>>>>>>> Stashed changes
 
 			holy_site = anorzehilas
 
@@ -321,12 +329,27 @@
 				NightGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WaterGod
+<<<<<<< Updated upstream
 				WaterGodName = pantheonic_water_god_name
 				WaterGodNamePossessive = pantheonic_water_god_name_possessive
+=======
+				WaterGodName = celavath_water_god_name
+				WaterGodNamePossessive = celavath_water_god_name_possessive
+>>>>>>> Stashed changes
 				WaterGodSheHe = CHARACTER_SHEHE_HE
 				WaterGodHerHis = CHARACTER_HERHIS_HIS
 				WaterGodHerHim = CHARACTER_HERHIM_HIM
 
+<<<<<<< Updated upstream
+=======
+				ReligiousHeadName = anorath_religious_head_title
+				DevilName = pantheonic_night_god_name
+				DevilNamePossessive = pantheonic_night_god_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HERHIM_HIM
+				EvilGodNames = { pantheonic_good_god_ipane pantheonic_water_god_name pantheonic_good_god_incanas pantheonic_good_god_aethervas pantheonic_good_god_aethlem pantheonic_wealth_god_name pantheonic_fertility_god_name pantheonic_health_god_name pantheonic_evil_god_dhiani pantheonic_trickster_god_name }
+>>>>>>> Stashed changes
 			}
 		}
 		sobranorye = {
@@ -349,6 +372,9 @@
 			doctrine = tenet_astrology
 			doctrine = tenet_communal_identity
 			doctrine = tenet_esotericism
+			localization = {
+				ReligiousHeadName = anorath_religious_head_title
+			}
 		}
 	}
 }

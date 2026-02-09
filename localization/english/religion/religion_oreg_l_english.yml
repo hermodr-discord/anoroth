@@ -78,7 +78,14 @@
  oreg_witchgodname_the_spirits_possessive:0 "$oreg_good_god_spirits_name_possessive$"
 
 
+<<<<<<< Updated upstream
  oreg:0 "Ilg-e-Garna"
  oreg_adj:0 "Ilg-e-Garna"
  oreg_adherent:0 "Ilg-e-Garna"
  oreg_adherent_plural:0 "Ilg-e-Garnans"
+=======
+ ilg_e_garna:0 "Ilg-e-Garna"
+ ilg_e_garna_adj:0 "Ilg-e-Garna"
+ ilg_e_garna_adherent:0 "Ilg-e-Garna"
+ ilg_e_garna_adherent_plural:0 "Ilg-e-Garnans"
+>>>>>>> Stashed changes

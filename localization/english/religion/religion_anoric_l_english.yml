@@ -40,8 +40,13 @@
  #anoric_bishop:0 "prelate"
  #anoric_bishop_plural:0 "prelates"
  #anoric_afterlife:0 "the abyss"
+<<<<<<< Updated upstream
  #anoric_witchgodname_the_horned_god:0 "Avtórea"
  #anoric_witchgodname_the_horned_god_possessive:0 "Avtórea's"
+=======
+ #anoric_witchgodname_avtorea:0 "Avtórea"
+ #anoric_witchgodname_avtorea_possessive:0 "Avtórea's"
+>>>>>>> Stashed changes
 
  #anoric_creator_god_name:0 "$anoric_high_god_name$"
  #anoric_creator_god_name_possessive:0 "$anoric_high_god_name_possessive$"

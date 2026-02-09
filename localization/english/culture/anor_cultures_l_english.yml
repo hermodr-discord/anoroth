@@ -12,7 +12,11 @@
 
  brenilor:0 "Brenilor"
  brenilor_prefix:0 "Brenilor"
+<<<<<<< Updated upstream
  brenilor_collective_noun:1 "Brenilors"
+=======
+ brenilor_collective_noun:1 "Brenilorans"
+>>>>>>> Stashed changes
 
  ourimetanath:0 "Ourimetanath"
  ourimetanath_prefix:0 "Ourimetan"
@@ -23,11 +27,19 @@
  behatyn_group_collective_noun:1 "Behatyna"
  behatyn:0 "Behatyn"
  behatyn_prefix:0 "Behatyna"
+<<<<<<< Updated upstream
  behatyn_collective_noun:1 "Behatyns"
 
  zatyshyn:0 "Zatyshyn"
  zatyshyn_prefix:0 "Zatysh"
  zatyshyn_collective_noun:1 "Zatyshyns"
+=======
+ behatyn_collective_noun:1 "Behatyna"
+
+ zatyshyn:0 "Zatyshyn"
+ zatyshyn_prefix:0 "Zatysh"
+ zatyshyn_collective_noun:1 "Zatyshyna"
+>>>>>>> Stashed changes
 
  #Agalrian group
  agalrian_group:0 "Agalrian"
@@ -124,6 +136,7 @@
  tharun_group_collective_noun:1 "Tharuni"
  eyarir:0 "Eyarir"
  eyarir_prefix:0 "Eyar"
+<<<<<<< Updated upstream
  eyarir_collective_noun:1 "Eyaris"
 
  brynor:0 "Brynor"
@@ -133,3 +146,14 @@
  funerathil:0 "Funerathil"
  funerathil_prefix:0 "Funerath"
  funerathil_collective_noun:1 "Funerathils"
+=======
+ eyarir_collective_noun:1 "Eyari"
+
+ brynor:0 "Brynor"
+ brynor_prefix:0 "Bryn"
+ brynor_collective_noun:1 "Brynori"
+
+ funerathil:0 "Funerathil"
+ funerathil_prefix:0 "Funerath"
+ funerathil_collective_noun:1 "Funerathili"
+>>>>>>> Stashed changes

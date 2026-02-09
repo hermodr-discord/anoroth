@@ -6488,6 +6488,29 @@ e_gadharietan = { # Gadháriëtan
     }
 }
 
+#RELIGIOUS HEADS | All here just for brevity, comment out ones that are unused
+d_telasatz = { landless = yes }
+d_celavath = { landless = yes }
+d_anatzeve = { landless = yes }
+d_funethresca = { landless = yes }
+d_gaileth = { landless = yes }
+d_oszeseg = { landless = yes }
+d_ilg_e_garna = { landless = yes }
+d_toqarut = { landless = yes }
+d_ronarvir = { landless = yes }
+k_eclipsed_realm = {
+	color = { 30 30 70 }
+	definite_form = yes
+	ruler_uses_title_name = no
+	can_use_nomadic_naming = no
+	landless = yes
+
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	can_use_nomadic_naming = no
+}
 # These titles cut hundreds of errors from logs. 
 e_hre = { landless = yes }
 e_byzantium = { landless = yes }

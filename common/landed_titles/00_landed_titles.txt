@@ -3207,826 +3207,826 @@ e_anoroth = { # Anóroth
         }
     }
 }
-e_rimekanir = { # Rímekanir
+e_rimekanir = { # Rímekanir - Anorothic | [NAME] - Behatyn
     color = { 244 178 19 }
 
-    capital = c_county_165
+    capital = c_sobryn
 
-    k_amaseilan = { # Amasëílan
+    k_behtava = { # Amásran - Anorothic
         color = { 244 178 19 }
-        capital = c_county_165
+        capital = c_sobryn
 
-        d_duchy_38 = {
+        d_lehyansk = {
             color = { 244 178 19 }
-            capital = c_county_165
+            capital = c_sobryn
 
-            c_county_165 = {
+            c_sobryn = {
                 color = { 244 178 19 }
 
-                b_province_711 = {
+                b_sobryn = {
                     province = 711
                     color = { 244 178 19 }
                 }
-                b_province_679 = {
+                b_mohylev = {
                     province = 679
                     color = { 208 172 68 }
                 }
-                b_province_688 = {
+                b_verkhalny = {
                     province = 688
                     color = { 217 162 62 }
                 }
             }
-            c_county_166 = {
+            c_vradybehy = {
                 color = { 138 105 14 }
 
-                b_province_632 = {
+                b_vradybehy = {
                     province = 632
                     color = { 138 105 14 }
                 }
-                b_province_667 = {
+                b_lehynsk = {
                     province = 667
                     color = { 198 159 66 }
                 }
-                b_province_668 = {
+                b_solyn = {
                     province = 668
                     color = { 198 160 55 }
                 }
             }
-            c_county_167 = {
+            c_ursk = {
                 color = { 166 127 35 }
 
-                b_province_646 = {
+                b_ursk = {
                     province = 646
                     color = { 166 127 35 }
                 }
-                b_province_653 = {
+                b_selyhrad = {
                     province = 653
                     color = { 177 155 70 }
                 }
-                b_province_680 = {
+                b_marylsk = {
                     province = 680
                     color = { 209 152 16 }
                 }
             }
-            c_county_168 = {
+            c_kelevsk = {
                 color = { 217 156 11 }
 
-                b_province_687 = {
+                b_novy_anorzehylsk = { #Capital of the Lost Legion
                     province = 687
                     color = { 217 156 11 }
                 }
-                b_province_647 = {
+                b_kelevsk = {
                     province = 647
                     color = { 166 143 82 }
                 }
-                b_province_648 = {
+                b_polansk = {
                     province = 648
                     color = { 167 141 71 }
                 }
-                b_province_699 = {
+                b_chyvytsk = {
                     province = 699
                     color = { 231 193 88 }
                 }
             }
         }
-        d_duchy_39 = {
+        d_kostrykhom = {
             color = { 215 175 62 }
-            capital = c_county_169
+            capital = c_voyansky
 
-            c_county_169 = {
+            c_voyansky = {
                 color = { 215 175 62 }
 
-                b_province_686 = {
+                b_kumolan = {
                     province = 686
                     color = { 215 175 62 }
                 }
-                b_province_628 = {
+                b_myrmany = {
                     province = 628
                     color = { 125 97 19 }
                 }
-                b_province_676 = {
+                b_varzehy = {
                     province = 676
                     color = { 206 157 23 }
                 }
             }
-            c_county_170 = {
+            c_novyhrad = {
                 color = { 235 173 26 }
 
-                b_province_705 = {
+                b_mezyn = {
                     province = 705
                     color = { 235 173 26 }
                 }
-                b_province_623 = {
+                b_pysk = {
                     province = 623
                     color = { 100 85 40 }
                 }
-                b_province_657 = {
+                b_charodny_khyl = {
                     province = 657
                     color = { 186 141 33 }
                 }
             }
-            c_county_171 = {
+            c_homyl = {
                 color = { 171 143 63 }
 
-                b_province_650 = {
+                b_selyanets = {
                     province = 650
                     color = { 171 143 63 }
                 }
-                b_province_706 = {
+                b_lohynsk = {
                     province = 706
                     color = { 236 193 73 }
                 }
-                b_province_714 = {
+                b_baranovy = {
                     province = 714
                     color = { 246 193 44 }
                 }
             }
         }
-        d_duchy_40 = {
+        d_volhe = {
             color = { 143 112 26 }
-            capital = c_county_172
+            capital = c_vytevo
 
-            c_county_172 = {
+            c_vytevo = {
                 color = { 143 112 26 }
 
-                b_province_634 = {
+                b_vytevo = {
                     province = 634
                     color = { 143 112 26 }
                 }
-                b_province_639 = {
+                b_maydynsk = {
                     province = 639
                     color = { 151 122 45 }
                 }
-                b_province_641 = {
+                b_shuynsk = {
                     province = 641
                     color = { 158 120 15 }
                 }
             }
-            c_county_173 = {
+            c_bahrinopol = {
                 color = { 185 144 25 }
 
-                b_province_656 = {
+                b_bahrinopol = {
                     province = 656
                     color = { 185 144 25 }
                 }
             }
-            c_county_174 = {
+            c_lahensk = {
                 color = { 223 191 103 }
 
-                b_province_692 = {
+                b_lahensk = {
                     province = 692
                     color = { 223 191 103 }
                 }
-                b_province_621 = {
+                b_morozovy = {
                     province = 621
                     color = { 73 55 6 }
                 }
-                b_province_640 = {
+                b_zarets = {
                     province = 640
                     color = { 157 130 54 }
                 }
-                b_province_655 = {
+                b_zhtomyr = {
                     province = 655
                     color = { 184 159 89 }
                 }
             }
-            c_county_175 = {
+            c_zherkovo = {
                 color = { 226 178 47 }
 
-                b_province_695 = {
+                b_hlev = {
                     province = 695
                     color = { 226 178 47 }
                 }
-                b_province_671 = {
+                b_skolin = {
                     province = 671
                     color = { 199 155 34 }
                 }
-                b_province_672 = {
+                b_sesovo = {
                     province = 672
                     color = { 202 165 62 }
                 }
             }
-            c_county_176 = {
+            c_shalin = {
                 color = { 138 104 11 }
 
-                b_province_631 = {
+                b_baroshalin = {
                     province = 631
                     color = { 138 104 11 }
                 }
-                b_province_642 = {
+                b_stehyl = {
                     province = 642
                     color = { 158 126 35 }
                 }
-                b_province_644 = {
+                b_valdan = {
                     province = 644
                     color = { 162 131 42 }
                 }
             }
         }
-        d_duchy_41 = {
+        d_velky_vestyakh = {
             color = { 189 121 16 }
-            capital = c_county_177
+            capital = c_vestyakh
 
-            c_county_177 = {
+            c_vestyakh = {
                 color = { 189 121 16 }
 
-                b_province_660 = {
+                b_vestyakh = {
                     province = 660
                     color = { 189 121 16 }
                 }
-                b_province_654 = {
+                b_sylovy = {
                     province = 654
                     color = { 180 136 30 }
                 }
-                b_province_658 = {
+                b_bylykyvtar = {
                     province = 658
                     color = { 186 144 44 }
                 }
-                b_province_670 = {
+                b_chernyhyl = {
                     province = 670
                     color = { 199 153 43 }
                 }
-                b_province_678 = {
+                b_vynsk = {
                     province = 678
                     color = { 208 155 28 }
                 }
             }
-            c_county_178 = {
+            c_seleny = {
                 color = { 175 132 29 }
 
-                b_province_652 = {
+                b_sorosyl = {
                     province = 652
                     color = { 175 132 29 }
                 }
-                b_province_663 = {
+                b_tany = {
                     province = 663
                     color = { 193 151 52 }
                 }
-                b_province_664 = {
+                b_sylynopol = {
                     province = 664
                     color = { 194 155 62 }
                 }
-                b_province_666 = {
+                b_lehadsk = {
                     province = 666
                     color = { 198 152 42 }
                 }
-                b_province_677 = {
+                b_zenyly = {
                     province = 677
                     color = { 207 150 11 }
                 }
             }
-            c_county_179 = {
+            c_berokh_y_novysk = {
                 color = { 203 145 5 }
 
-                b_province_673 = {
+                b_novysk = {
                     province = 673
                     color = { 203 145 5 }
                 }
-                b_province_684 = {
+                b_berokh = {
                     province = 684
                     color = { 214 155 14 }
                 }
             }
-            c_county_180 = {
+            c_khatyn = {
                 color = { 232 153 28 }
 
-                b_province_702 = {
+                b_khatyn = {
                     province = 702
                     color = { 232 153 28 }
                 }
-                b_province_674 = {
+                b_venylyl = {
                     province = 674
                     color = { 205 136 27 }
                 }
-                b_province_703 = {
+                b_volykh = {
                     province = 703
                     color = { 233 149 16 }
                 }
-                b_province_717 = {
+                b_estevopol = {
                     province = 717
                     color = { 255 179 60 }
                 }
             }
         }
-        d_duchy_42 = {
+        d_vendynsk = {
             color = { 187 151 50 }
-            capital = c_county_181
+            capital = c_prahy
 
-            c_county_181 = {
+            c_prahy = {
                 color = { 187 151 50 }
 
-                b_province_659 = {
+                b_bohymsk = {
                     province = 659
                     color = { 187 151 50 }
                 }
-                b_province_630 = {
+                b_morovy = {
                     province = 630
                     color = { 132 105 30 }
                 }
-                b_province_637 = {
+                b_sylyshe = {
                     province = 637
                     color = { 146 118 39 }
                 }
             }
-            c_county_182 = {
+            c_vodz = {
                 color = { 164 123 13 }
 
-                b_province_645 = {
+                b_behansk = {
                     province = 645
                     color = { 164 123 13 }
                 }
-                b_province_624 = {
+                b_volshy = {
                     province = 624
                     color = { 109 82 9 }
                 }
-                b_province_627 = {
+                b_kurdyn = {
                     province = 627
                     color = { 124 99 30 }
                 }
-                b_province_636 = {
+                b_myroshka = {
                     province = 636
                     color = { 146 116 32 }
                 }
             }
-            c_county_183 = {
+            c_slovynsk = {
                 color = { 140 108 25 }
 
-                b_province_633 = {
+                b_melyve = {
                     province = 633
                     color = { 140 108 25 }
                 }
-                b_province_625 = {
+                b_krynsk = {
                     province = 625
                     color = { 111 85 14 }
                 }
-                b_province_638 = {
+                b_zhtorostylsk = {
                     province = 638
                     color = { 147 124 58 }
                 }
-                b_province_661 = {
+                b_servyl = {
                     province = 661
                     color = { 190 144 14 }
                 }
             }
-            c_county_184 = {
+            c_behavarysh = {
                 color = { 97 78 24 }
 
-                b_province_622 = {
+                b_behavarysh = {
                     province = 622
                     color = { 97 78 24 }
                 }
-                b_province_626 = {
+                b_smorohy = {
                     province = 626
                     color = { 115 88 14 }
                 }
-                b_province_662 = {
+                b_hradatsk = {
                     province = 662
                     color = { 193 148 25 }
                 }
             }
-            c_county_185 = {
+            c_velsk = {
                 color = { 224 170 22 }
 
-                b_province_693 = {
+                b_rodyn = {
                     province = 693
                     color = { 224 170 22 }
                 }
-                b_province_651 = {
+                b_starely = {
                     province = 651
                     color = { 174 136 31 }
                 }
             }
         }
-        d_duchy_43 = {
+        d_seversk = {
             color = { 213 152 6 }
-            capital = c_county_186
+            capital = c_seleshyn
 
-            c_county_186 = {
+            c_seleshyn = {
                 color = { 213 152 6 }
 
-                b_province_682 = {
+                b_pirot = {
                     province = 682
                     color = { 213 152 6 }
                 }
-                b_province_629 = {
+                b_hachen = {
                     province = 629
                     color = { 130 120 32 }
                 }
-                b_province_694 = {
+                b_lekh = {
                     province = 694
                     color = { 225 167 30 }
                 }
-                b_province_697 = {
+                b_nizhnypol = {
                     province = 697
                     color = { 230 162 0 }
                 }
             }
-            c_county_187 = {
+            c_zanktev = {
                 color = { 217 164 37 }
 
-                b_province_689 = {
+                b_zanktev = {
                     province = 689
                     color = { 217 164 37 }
                 }
-                b_province_635 = {
+                b_preskovo = {
                     province = 635
                     color = { 145 136 55 }
                 }
-                b_province_709 = {
+                b_horodny = {
                     province = 709
                     color = { 243 176 16 }
                 }
             }
-            c_county_188 = {
+            c_byla = {
                 color = { 168 134 53 }
 
-                b_province_649 = {
+                b_byla = {
                     province = 649
                     color = { 168 134 53 }
                 }
-                b_province_685 = {
+                b_slazevo = {
                     province = 685
                     color = { 214 169 44 }
                 }
-                b_province_713 = {
+                b_vyzhny_byla = {
                     province = 713
                     color = { 246 178 15 }
                 }
             }
-            c_county_189 = {
+            c_paradovets = {
                 color = { 234 174 31 }
 
-                b_province_704 = {
+                b_stylykyvtar = {
                     province = 704
                     color = { 234 174 31 }
                 }
-                b_province_707 = {
+                b_parensk = {
                     province = 707
                     color = { 238 170 8 }
                 }
-                b_province_715 = {
+                b_prestva = {
                     province = 715
                     color = { 249 185 31 }
                 }
             }
-            c_county_190 = {
+            c_roslynovo = {
                 color = { 228 162 57 }
 
-                b_province_696 = {
+                b_slena = {
                     province = 696
                     color = { 228 162 57 }
                 }
-                b_province_643 = {
+                b_kehovyl = {
                     province = 643
                     color = { 161 117 12 }
                 }
-                b_province_665 = {
+                b_stenkh = {
                     province = 665
                     color = { 196 142 12 }
                 }
             }
         }
-        d_duchy_44 = {
+        d_zahatny = {
             color = { 232 150 22 }
-            capital = c_county_191
+            capital = c_dazhyhrets
 
-            c_county_191 = {
+            c_dazhyhrets = {
                 color = { 232 150 22 }
 
-                b_province_701 = {
+                b_tsynahrad = {
                     province = 701
                     color = { 232 150 22 }
                 }
-                b_province_690 = {
+                b_tsylnysk = {
                     province = 690
                     color = { 221 136 2 }
                 }
-                b_province_700 = {
+                b_karatyn = {
                     province = 700
                     color = { 232 142 1 }
                 }
-                b_province_708 = {
+                b_pasadny = {
                     province = 708
                     color = { 243 166 46 }
                 }
-                b_province_710 = {
+                b_khlomy = {
                     province = 710
                     color = { 244 151 4 }
                 }
-                b_province_712 = {
+                b_pravypol = {
                     province = 712
                     color = { 245 161 29 }
                 }
-                b_province_716 = {
+                b_zlevypol = {
                     province = 716
                     color = { 255 174 47 }
                 }
             }
-            c_county_192 = {
+            c_taransk = {
                 color = { 212 130 0 }
 
-                b_province_681 = {
+                b_khlem = {
                     province = 681
                     color = { 212 130 0 }
                 }
-                b_province_683 = {
+                b_lahomsk = {
                     province = 683
                     color = { 214 145 36 }
                 }
-                b_province_691 = {
+                b_parin = {
                     province = 691
                     color = { 223 141 12 }
                 }
             }
-            c_county_193 = {
+            c_mahnetsk = {
                 color = { 231 148 17 }
 
-                b_province_698 = {
+                b_mahnetsk = {
                     province = 698
                     color = { 231 148 17 }
                 }
-                b_province_669 = {
+                b_bretsk = {
                     province = 669
                     color = { 199 125 10 }
                 }
-                b_province_675 = {
+                b_nagay = {
                     province = 675
                     color = { 206 141 40 }
                 }
             }
         }
     }
-	k_usovirasal = { # Usovírasal
+	k_zatysna = { # Satása - Anorothic
         color = { 121 24 65 }
-        capital = c_county_194
+        capital = c_zatysnahrad
 
-        d_duchy_45 = {
+        d_petrokovo = {
             color = { 121 24 65 }
-            capital = c_county_194
+            capital = c_zatysnahrad
 
-            c_county_194 = {
+            c_zatysnahrad = {
                 color = { 121 24 65 }
 
-                b_province_573 = {
+                b_zatysnahrad = {
                     province = 573
                     color = { 121 24 65 }
                 }
-                b_province_575 = {
+                b_mozov = {
                     province = 575
                     color = { 127 27 82 }
                 }
-                b_province_586 = {
+                b_orohevsk = {
                     province = 586
                     color = { 145 38 83 }
                 }
             }
-            c_county_195 = {
+            c_rada = {
                 color = { 138 33 82 }
 
-                b_province_579 = {
+                b_rada = {
                     province = 579
                     color = { 138 33 82 }
                 }
-                b_province_589 = {
+                b_mramovy = {
                     province = 589
                     color = { 150 18 87 }
                 }
-                b_province_593 = {
+                b_prenovo = {
                     province = 593
                     color = { 163 49 89 }
                 }
             }
-            c_county_196 = {
+            c_srahady = {
                 color = { 151 46 149 }
 
-                b_province_590 = {
+                b_atask = {
                     province = 590
                     color = { 151 46 149 }
                 }
-                b_province_576 = {
+                b_kurtovo = {
                     province = 576
                     color = { 127 63 103 }
                 }
-                b_province_594 = {
+                b_tylanovo = {
                     province = 594
                     color = { 164 64 104 }
                 }
-                b_province_605 = {
+                b_shahar = {
                     province = 605
                     color = { 181 45 88 }
                 }
             }
-            c_county_197 = {
+            c_behylov = {
                 color = { 203 44 105 }
 
-                b_province_618 = {
+                b_kratov = {
                     province = 618
                     color = { 203 44 105 }
                 }
-                b_province_607 = {
+                b_pretara = {
                     province = 607
                     color = { 185 59 151 }
                 }
-                b_province_615 = {
+                b_zatushka = {
                     province = 615
                     color = { 195 53 105 }
                 }
             }
         }
-        d_duchy_46 = {
+        d_orel_pridno = {
             color = { 250 70 109 }
-            capital = c_county_198
+            capital = c_ternov
 
-            c_county_198 = {
+            c_ternov = {
                 color = { 250 70 109 }
 
-                b_province_620 = {
+                b_pradevny = {
                     province = 620
                     color = { 250 70 109 }
                 }
-                b_province_596 = {
+                b_hylov = {
                     province = 596
                     color = { 166 105 115 }
                 }
-                b_province_611 = {
+                b_chertovo = {
                     province = 611
                     color = { 191 52 105 }
                 }
             }
-            c_county_199 = {
+            c_velky_kolev = {
                 color = { 202 74 109 }
 
-                b_province_617 = {
+                b_kolev = {
                     province = 617
                     color = { 202 74 109 }
                 }
-                b_province_609 = {
+                b_predimir = {
                     province = 609
                     color = { 190 84 110 }
                 }
-                b_province_614 = {
+                b_cherkov = {
                     province = 614
                     color = { 194 96 114 }
                 }
             }
-            c_county_200 = {
+            c_karhod = {
                 color = { 201 62 104 }
 
-                b_province_616 = {
+                b_selysh = {
                     province = 616
                     color = { 201 62 104 }
                 }
-                b_province_584 = {
+                b_lyka = {
                     province = 584
                     color = { 142 54 94 }
                 }
-                b_province_585 = {
+                b_stelno = {
                     province = 585
                     color = { 143 52 85 }
                 }
-                b_province_610 = {
+                b_koroprah = {
                     province = 610
                     color = { 191 28 103 }
                 }
             }
         }
-        d_duchy_47 = {
+        d_orel_khyl = {
             color = { 188 82 110 }
             capital = c_county_201
 
-            c_county_201 = {
+            c_kremov = {
                 color = { 188 82 110 }
 
-                b_province_608 = {
+                b_kremov = {
                     province = 608
                     color = { 188 82 110 }
                 }
-                b_province_580 = {
+                b_paratyn = {
                     province = 580
                     color = { 140 45 77 }
                 }
-                b_province_619 = {
+                b_slavets = {
                     province = 619
                     color = { 206 114 105 }
                 }
             }
-            c_county_202 = {
+            c_kylatyna = {
                 color = { 141 47 146 }
 
-                b_province_582 = {
+                b_predova = {
                     province = 582
                     color = { 141 47 146 }
                 }
-                b_province_574 = {
+                b_muroma = {
                     province = 574
                     color = { 126 74 134 }
                 }
-                b_province_604 = {
+                b_nevsk = {
                     province = 604
                     color = { 178 77 136 }
                 }
             }
-            c_county_203 = {
+            c_lynov = {
                 color = { 141 77 135 }
 
-                b_province_583 = {
+                b_lyna = {
                     province = 583
                     color = { 141 77 135 }
                 }
-                b_province_591 = {
+                b_shypka = {
                     province = 591
                     color = { 153 13 70 }
                 }
-                b_province_601 = {
+                b_bylynov = {
                     province = 601
                     color = { 172 57 135 }
                 }
             }
         }
-        d_duchy_48 = {
+        d_zatysh = {
             color = { 170 65 137 }
-            capital = c_county_204
+            capital = c_don
 
-            c_county_204 = {
+            c_don = {
                 color = { 170 65 137 }
 
-                b_province_598 = {
+                b_slanov = {
                     province = 598
                     color = { 170 65 137 }
                 }
-                b_province_578 = {
+                b_khlymynovo = {
                     province = 578
                     color = { 133 72 144 }
                 }
-                b_province_581 = {
+                b_atasha = {
                     province = 581
                     color = { 140 69 149 }
                 }
-                b_province_599 = {
+                b_haroskva = {
                     province = 599
                     color = { 171 47 148 }
                 }
             }
-            c_county_205 = {
+            c_limov = {
                 color = { 158 83 135 }
 
-                b_province_592 = {
+                b_tana = {
                     province = 592
                     color = { 158 83 135 }
                 }
-                b_province_577 = {
+                b_stalyna = {
                     province = 577
                     color = { 132 78 134 }
                 }
-                b_province_603 = {
+                b_nasynov = {
                     province = 603
                     color = { 177 101 105 }
                 }
             }
-            c_county_206 = {
+            c_predenovy = {
                 color = { 171 84 113 }
 
-                b_province_600 = {
+                b_predenovy = {
                     province = 600
                     color = { 171 84 113 }
                 }
-                b_province_606 = {
+                b_hylyvopol = {
                     province = 606
                     color = { 182 74 109 }
                 }
-                b_province_612 = {
+                b_khlemynsk = {
                     province = 612
                     color = { 191 53 113 }
                 }
             }
-            c_county_207 = {
+            c_muromov = {
                 color = { 177 69 151 }
 
-                b_province_602 = {
+                b_muromov = {
                     province = 602
                     color = { 177 69 151 }
                 }
-                b_province_587 = {
+                b_prelets = {
                     province = 587
                     color = { 145 63 149 }
                 }
-                b_province_597 = {
+                b_uskoy = {
                     province = 597
                     color = { 170 64 148 }
                 }
             }
-            c_county_208 = {
+            c_sredyn = {
                 color = { 194 54 134 }
 
-                b_province_613 = {
+                b_lyrovy = {
                     province = 613
                     color = { 194 54 134 }
                 }
-                b_province_588 = {
+                b_branobelov = {
                     province = 588
                     color = { 149 58 145 }
                 }
-                b_province_595 = {
+                b_truskogo = {
                     province = 595
                     color = { 166 67 135 }
                 }

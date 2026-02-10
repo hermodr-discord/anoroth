@@ -217,7 +217,7 @@ e_anoroth = {
 		holder = 0
 	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }
 
@@ -440,7 +440,7 @@ k_anorzehilas = {
 		holder = 0
 	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }
 
@@ -663,7 +663,7 @@ d_anorzehilas = {
 		holder = 0
 	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }
 
@@ -886,6 +886,6 @@ c_anorzehilas = {
 		holder = 0
 	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }

@@ -5,7 +5,7 @@
 	holding = castle_holding
 }
 23 = {	#
-	culture = funerathil
+	culture = funerathic
 	religion = anorath
 	holding = castle_holding
 }
@@ -23,7 +23,7 @@
 	holding = castle_holding
 }
 27 = {	#
-	culture = funerathil
+	culture = funerathic
 	religion = anorath
 	holding = castle_holding
 }
@@ -64,7 +64,7 @@
 	holding = castle_holding
 }
 40 = {	#
-	culture = funerathil
+	culture = funerathic
 	religion = anorath
 	holding = castle_holding
 }
@@ -77,7 +77,7 @@
 	holding = castle_holding
 }
 43 = {	#
-	culture = funerathil
+	culture = funerathic
 	religion = anorath
 	holding = castle_holding
 }

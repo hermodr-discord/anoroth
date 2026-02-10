@@ -1553,7 +1553,7 @@ saphyros28 = {
 }
 
 
-lineofanoroth_1 = {
+lineofanoroth1 = {
 	name = "Ouralon"
 	dynasty = anoroth6
 	religion = anorath

@@ -17,11 +17,7 @@
 		title = e_anoroth
 		government = feudal_government
 		culture = anorothic
-<<<<<<< Updated upstream
-		religion = "faith_anorath"
-=======
-		religion = "anorath"
->>>>>>> Stashed changes
+		religion = anorath
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		history_id = lineofanoroth_1
 		position = { 250 750 }

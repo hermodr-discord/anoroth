@@ -14,7 +14,7 @@
     holding = castle_holding
 }
 126 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }
@@ -31,7 +31,7 @@
     holding = castle_holding
 }
 131 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = funethresca
     holding = castle_holding
 }
@@ -52,11 +52,7 @@
 }
 137 = {	#
     culture = anorothic
-<<<<<<< Updated upstream
-    religion = faith_anorath
-=======
     religion = anorath
->>>>>>> Stashed changes
     holding = castle_holding
 }
 138 = {	#
@@ -70,23 +66,19 @@
 }
 141 = {	#
     culture = anorothic
-<<<<<<< Updated upstream
-    religion = faith_anorath
-=======
     religion = anorath
->>>>>>> Stashed changes
     holding = castle_holding
 }
 142 = {	#
     holding = castle_holding
 }
 143 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = funethresca
     holding = castle_holding
 }
 144 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }
@@ -97,7 +89,7 @@
     holding = castle_holding
 }
 147 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = funethresca
     holding = castle_holding
 }
@@ -109,15 +101,11 @@
 }
 150 = {	#
     culture = anorothic
-<<<<<<< Updated upstream
-    religion = faith_anorath
-=======
     religion = anorath
->>>>>>> Stashed changes
     holding = castle_holding
 }
 151 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = funethresca
     holding = castle_holding
 }
@@ -129,11 +117,7 @@
 }
 154 = {	#
     culture = anorothic
-<<<<<<< Updated upstream
-    religion = faith_anorath
-=======
     religion = anorath
->>>>>>> Stashed changes
     holding = castle_holding
 }
 155 = {	#
@@ -161,12 +145,12 @@
     holding = castle_holding
 }
 163 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }
 164 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }
@@ -202,15 +186,11 @@
 }
 175 = {	#
     culture = anorothic
-<<<<<<< Updated upstream
-    religion = faith_anorath
-=======
     religion = anorath
->>>>>>> Stashed changes
     holding = castle_holding
 }
 176 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = funethresca
     holding = castle_holding
 }
@@ -221,12 +201,12 @@
     holding = castle_holding
 }
 179 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = funethresca
     holding = castle_holding
 }
 180 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }
@@ -234,7 +214,7 @@
     holding = castle_holding
 }
 182 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }

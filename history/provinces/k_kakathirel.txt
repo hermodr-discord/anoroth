@@ -31,11 +31,7 @@
 }
 309 = {	#
     culture = anorothic
-<<<<<<< Updated upstream
-    religion = faith_anorath
-=======
     religion = anorath
->>>>>>> Stashed changes
     holding = castle_holding
 }
 310 = {	#

@@ -1,180 +1,100 @@
 1 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 2 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 3 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 4 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 5 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 6 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 7 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 8 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 9 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 10 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 11 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 12 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 13 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 14 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 15 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 16 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 17 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 18 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 19 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 20 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }

@@ -2,13 +2,8 @@
 	color = { 240 180 66 }
 	
 	ethos = ethos_courtly
-<<<<<<< Updated upstream:common/culture/cultures/anor_larrunic.txt
-	heritage = heritage_larrunic
-	language = language_larrunic
-=======
 	heritage = heritage_larrun
 	language = language_larrun
->>>>>>> Stashed changes:common/culture/cultures/anor_larrun.txt
 	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_horse_breeder

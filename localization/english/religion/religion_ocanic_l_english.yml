@@ -1,92 +1,5 @@
 ﻿l_english:
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
- #Isanara Localization
- isanara_religion:0 "Isanara"
- isanara_religion_adj:0 "Isanaran"
- isanara_religion_adherent:0 "Isanaran"
- isanara_religion_adherent_plural:0 "Isanarans"
- isanara_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
-
- isanara_high_god_name:0 "Isana"
- isanara_high_god_name_2:0 "$isanara_high_god_name$" # Optional translation alt
- isanara_high_god_name_possessive:0 "Isana's"
- isanara_high_god_name_alternate:0 "She of Ocean and Wind"
- isanara_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
- isanara_good_god_ancestors:0 "the ancestors"
- isanara_good_god_ancestors_posessive:0 "the ancestors'"
- isanara_good_god_spirits:0 "the spirits"
- isanara_good_god_spirits_possessive:0 "the spirits'"
- isanara_devil_name:0 "corruption"
- isanara_devil_name_possessive:0 "corruption's"
- isanara_devil_shehe:0 "it"
- isanara_devil_herselfhimself:0 "itself"
- isanara_devil_herhis:0 "its"
- isanara_evil_god_decay:0 "blight"
- isanara_evil_god_decay_possessive:0 "blight's"
- isanara_evil_god_drought:0 "drought"
- isanara_death_deity_name:0 "death"
- isanara_death_deity_name_possessive:0 "death's"
- isanara_death_deity_herhis:0 "its"
-
- isanara_creator_god_name:0 "$isanara_high_god_name$"
- isanara_creator_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_health_god_name:0 "$isanara_good_god_spirits_name$"
- isanara_health_god_name_possessive:0 "$isanara_good_god_spirits_name_possessive$"
- isanara_fertility_god_name:0 "$isanara_high_god_name$"
- isanara_fertility_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_wealth_god_name:0 "$isanara_high_god_name$"
- isanara_wealth_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_household_god_name:0 "$isanara_good_god_ancestors$"
- isanara_household_god_name_possessive:0 "$isanara_good_god_ancestors$"
- isanara_fate_god_name:0 "fate"
- isanara_fate_god_name_possessive:0 "fate's"
- isanara_knowledge_god_name:0 "$isanara_good_god_ancestors$"
- isanara_knowledge_god_name_possessive:0 "$isanara_good_god_ancestors$"
- isanara_war_god_name:0 "$isanara_high_god_name$"
- isanara_war_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_trickster_god_name:0 "$isanara_good_god_spirits_name$"
- isanara_trickster_god_name_possessive:0 "$isanara_good_god_spirits_name$"
- isanara_night_god_name:0 "$isanara_high_god_name$"
- isanara_night_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_water_god_name:0 "$isanara_high_god_name$"
- isanara_water_god_name_possessive:0 "$isanara_high_god_name_possessive$"
-
- isanara_house_of_worship:0 "temple"
- isanara_house_of_worship_2:0 "$isanara_house_of_worship$" # Optional translation alt
- isanara_house_of_worship_3:0 "$isanara_house_of_worship$" # Optional translation alt
- isanara_house_of_worship_plural:0 "temples"
- isanara_religious_symbol:0 "moon"
- isanara_religious_symbol_2:0 "$isanara_religious_symbol$" # Optional translation alt
- isanara_religious_symbol_3:0 "$isanara_religious_symbol$" # Optional translation alt
- isanara_religious_text:0 "Isana's teachings"
- isanara_religious_text_2:0 "$isanara_religious_text$" # Optional translation alt
- isanara_religious_text_3:0 "$isanara_religious_text$" # Optional translation alt
- isanara_religious_head_title:0 "High Shaman"
- isanara_religious_head_title_name:0 "Isana's Devoted"
- isanara_devotee:0 "devotee"
- isanara_devoteeplural:0 "devotees"
- isanara_priest:0 "shaman"
- isanara_priest_plural:0 "shamans"
- isanara_priest_alternate_plural:1 "elders"
- isanara_divine_realm:0 "Isana's Realm"
- isanara_divine_realm_2:0 "$isanara_divine_realm$" # Optional translation alt
- isanara_divine_realm_3:0 "$isanara_divine_realm$" # Optional translation alt
- isanara_afterlife:0 "Isana's embrace"
- isanara_afterlife_2:0 "$isanara_afterlife$" # Optional translation alt
- isanara_afterlife_3:0 "$isanara_afterlife$" # Optional translation alt
- isanara_witchgodname_the_spirits:0 "$isanara_good_god_spirits_name$"
- isanara_witchgodname_the_spirits_possessive:0 "$isanara_good_god_spirits_name_possessive$"
-
-
- isanara:0 "Isanara"
- isanara_adj:0 "Isanaran"
- isanara_adherent:0 "Isanaran"
- isanara_adherent_plural:0 "Isanarans"
-=======
-=======
->>>>>>> Stashed changes
  #ocanic Localization
  ocanic_religion:0 "Ocánic"
  ocanic_religion_adj:0 "Ocánic"
@@ -160,9 +73,4 @@
  atharfavrel_adj:0 "Athárfavrel"
  atharfavrel_adherent:0 "Athárfavrel"
  atharfavrel_adherent_plural:0 "Athárfavrels"
-<<<<<<< Updated upstream
  atharfavrel_religious_head_title:0 "Patriarch"
->>>>>>> Stashed changes
-=======
- atharfavrel_religious_head_title:0 "Patriarch"
->>>>>>> Stashed changes

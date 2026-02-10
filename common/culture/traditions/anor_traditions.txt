@@ -106,8 +106,6 @@ tradition_right_of_anor = { #Right of Anór
 	
 	is_shown = {
 		has_cultural_pillar = heritage_anorothic
-<<<<<<< Updated upstream
-=======
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -196,7 +194,6 @@ tradition_breniloric_aristocracy = { #Bréniloric Aristocracy
 	
 	is_shown = {
 		has_cultural_pillar = heritage_anorothil
->>>>>>> Stashed changes
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism

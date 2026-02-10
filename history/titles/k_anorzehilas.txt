@@ -1,11 +1,7 @@
 e_anoroth = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
-<<<<<<< Updated upstream
-	8166.1.1 = { government = feudal_government }
-=======
 	4514.1.1 = { government = feudal_government }
->>>>>>> Stashed changes
 
 	4514.1.1 = { # Calyreos Agrás I 'the Sun King' | 3A 1 - 3A 98
 		holder = anomar1
@@ -221,37 +217,675 @@ e_anoroth = {
 		holder = 0
 	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }
 
 k_anorzehilas = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
-	8166.1.1 = { government = feudal_government }
+	4514.1.1 = { government = feudal_government }
 
+	4514.1.1 = { # Calyreos Agrás I 'the Sun King' | 3A 1 - 3A 98
+		holder = anomar1
+	}
+	4611.1.1 = { # Calyreos Damaron I | 3A 98 - 3A 110
+		holder = anomar3
+	}
+	4623.1.1 = { # Calyreos Kastyas I | 3A 110 - 3A 136
+		holder = anomar4
+	}
+	4649.1.1 = { # Calyreos Myras I | 3A 136 - 3A 171
+		holder = anomar5
+	}
+	4684.1.1 = { # Calyreos Kaelon I | 3A 171 - 3A 198
+		holder = anomar6
+	}
+	4711.1.1 = { # Calyreos Damaron II | 3A 198 - 3A 237
+		holder = anomar7
+	}
+	4750.1.1 = { # Calyreos Damaron III | 3A 237 - 3A 244
+		holder = anomar8
+	}
+	4757.1.1 = { # Calyreos Ektaron I | 3A 244 - 3A 296
+		holder = anomar9
+	}
+	4809.1.1 = { # Calyreos Pheros I | 3A 296 - 3A 334
+		holder = anomar10
+	}
+	4847.1.1 = { # Calyreos Kastyas II | 3A 334 - 3A 352
+		holder = anomar11
+	}
+	4865.1.1 = { # Calyreos Lykas I | 3A 352 - 3A 377
+		holder = anomar12
+	}
+	4890.1.1 = { # Calyreos Myron I | 3A 377 - 3A 381
+		holder = anomar13
+	}
+	4894.1.1 = { # Calyreos Themara I | 3A 381 - 3A 458
+		holder = anomar15
+	}
+	4971.1.1 = { # Calyreos Ektaron II | 3A 458 - 3A 478
+		holder = anomar16
+	}
+	4991.1.1 = { # Calyreos Pylas I | 3A 478 - 3A 483
+		holder = anomar17
+	}
+	4996.1.1 = { # Calyreos Myron II | 3A 483 - 3A 535
+		holder = anomar19
+	}
+	5048.1.1 = { # Calyreos Kastyas III | 3A 535 - 3A 572
+		holder = anomar20
+	}
+	5085.1.1 = { # Calyreos Myraklon I | 3A 572 - 3A 581
+		holder = anomar21
+	}
+	5094.1.1 = { # Calyreos Kaelas I | 3A 581 - 3A 603
+		holder = anomar22
+	}
+	5116.1.1 = { # Calyreos Lykas II | 3A 603 - 3A 608
+		holder = anomar23
+	}
+	5121.1.1 = { # Calyreos Nikaron I | 3A 608 - 3A 676
+		holder = anomar25
+	}
+	5189.1.1 = { # Calyreos Andron I | 3A 676 - 3A 692
+		holder = anomar26
+	}
+	5205.1.1 = { # Calyreos Oraleon I | 3A 692 - 3A 725
+		holder = anomar27
+	}
+	5238.1.1 = { # Calyreos Phyron I | 3A 725 - 3A 759
+		holder = anomar28
+	}
+	5272.1.1 = { # Calyreos Myron III | 3A 759 - 3A 772
+		holder = anomar29
+	}
+	5285.1.1 = { # Calyreos Kaston I | 3A 772 - 3A 773
+		holder = anomar32
+	}
+	5286.4.1 = { # Calyreos Myron IV | 3A 773
+		holder = anomar33
+	}
+	5286.11.1 = { # Calyreos Andron II | 3A 773 - 3A 778
+		holder = anomar35
+	}
+	5291.1.1 = { # Calyreos Myron V | 3A 778 - 3A 786
+		holder = anomar36
+	}
+	5299.1.1 = { # Calyreos Pylas II | 3A 786 - 3A 800
+		holder = anomar37
+	}
+	5313.1.1 = { # Calyreos Rhion I | 3A 800 - 3A 836
+		holder = anomar38
+	}
+	5349.1.1 = { # Calyreos Damaron IV | 3A 836 - 3A 872
+		holder = anomar39
+	}
+	5385.1.1 = { # Calyreos Korydon I | 3A 872 - 3A 904
+		holder = anomar40
+	}
+	5417.1.1 = { # Calyreos Pylanes I | 3A 904 - 3A 923
+		holder = anomar41
+	}
+	5436.1.1 = { # Calyreos Kanon I | 3A 923 - 3A 931
+		holder = anomar42
+	}
+	5444.1.1 = { # Calyreos Orestas I | 3A 931 - 3A 976
+		holder = anomar43
+	}
+	5489.1.1 = { # Calyreos Kastyas IV | 3A 976 - 3A 998
+		holder = anomar44
+	}
+	5511.1.1 = { # Calyreos Lykas III | 3A 998 - 3A 1014
+		holder = anomar45
+	}
+	5527.1.1 = { # Calyreos Myron VI | 3A 1014 - 3A 1021
+		holder = anomar46
+	}
+	5534.1.1 = { # First Interregnum | 3A 1021 - 3A 1047
+		holder = 0
+	}
+	5560.1.1 = { # Calyreos Nikaron II 'the Restorer' | 3A 1047 - 3A 1085
+		holder = vasylidon1
+	}
+	5598.1.1 = { # Calyreos Theras I | 3A 1085 - 3A 1114
+		holder = vasylidon2
+	}
+	5627.1.1 = { # Calyreos Kylanon I | 3A 1114 - 3A 1127
+		holder = vasylidon3
+	}
+	5640.1.1 = { # Calyreos Nikaron III | 3A 1127 - 3A 1183
+		holder = vasylidon4
+	}
+	5696.1.1 = { # Calyreos Damaron V | 3A 1183 - 3A 1205
+		holder = vasylidon5
+	}
+	5718.1.1 = { # Calyreos Lykan I | 3A 1205 - 3A 1248
+		holder = vasylidon6
+	}
+	5761.1.1 = { # Calyreos Alenias I | 3A 1248 - 3A 1281
+		holder = vasylidon7
+	}
+	5794.1.1 = { # Calyreos Alkyon I | 3A 1281 - 3A 1315
+		holder = vasylidon8
+	}
+	5828.1.1 = { # Calyreos Kastylas I | 3A 1315 - 3A 1324
+		holder = vasylidon9
+	}
+	5837.1.1 = { # Calyreos Vasylas I | 3A 1324 - 3A 1367
+		holder = vasylidon11
+	}
+	5880.1.1 = { # Calyreos Grenas I | 3A 1367 - 3A 1385
+		holder = vasylidon12
+	}
+	5898.1.1 = { # Calyreos Andrakon I | 3A 1385 - 3A 1412
+		holder = vasylidon13
+	}
+	5925.1.1 = { # Calyreos Damaron VI | 3A 1412 - 3A 1440
+		holder = vasylidon14
+	}
+	5953.1.1 = { # Calyreos Damaron VII | 3A 1440 - 3A 1467
+		holder = vasylidon15
+	}
+	5980.1.1 = { # Calyreos Oryos I | 3A 1467 - 3A 1518
+		holder = vasylidon16
+	}
+	6031.1.1 = { # Calyreos Pylanes II | 3A 1518 - 3A 1532
+		holder = vasylidon17
+	}
+	6045.1.1 = { # Calyreos Kastanos I | 3A 1532 - 3A 1569
+		holder = vasylidon18
+	}
+	6082.1.1 = { # Calyreos Gelaros I | 3A 1569 - 3A 1578
+		holder = vasylidon19
+	}
+	6091.1.1 = { # Calyreos Heliane I | 3A 1578 - 3A 1627
+		holder = saphyros9
+	}
+	6140.1.1 = { # Calyreos Tauras I | 3A 1627 - 3A 1655
+		holder = saphyros10
+	}
+	6168.1.1 = { # Calyreos Oryos II | 3A 1655 - 3A 1684
+		holder = saphyros11
+	}
+	6197.1.1 = { # Calyreos Ikaron I | 3A 1684 - 3A 1718
+		holder = saphyros12
+	}
+	6231.1.1 = { # Calyreos Ouralon I | 3A 1718 - 3A 1749
+		holder = saphyros13
+	}
+	6262.1.1 = { # Calyreos Damaron VIII | 3A 1749 - 3A 1774
+		holder = saphyros14
+	}
+	6287.1.1 = { # Calyreos Pylanes III | 3A 1774 - 3A 1802
+		holder = saphyros15
+	}
+	6315.1.1 = { # Calyreos Argantes I | 3A 1802 - 3A 1877
+		holder = saphyros20
+	}
+	6390.1.1 = { # Calyreos Aeson I | 3A 1877 - 3A 1892
+		holder = saphyros21
+	}
+	6405.1.1 = { # Calyreos Gelaros II | 3A 1892 - 3A 1916
+		holder = saphyros22
+	}
+	6429.1.1 = { # Calyreos Myron VII | 3A 1916 - 3A 1939
+		holder = saphyros23
+	}
+	6452.1.1 = { # Calyreos Lynas I | 3A 1939 - 3A 1961
+		holder = saphyros24
+	}
+	6474.1.1 = { # Placeholder
+		holder = 0
+	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }
 
 d_anorzehilas = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
-	8166.1.1 = { government = feudal_government }
+	4514.1.1 = { government = feudal_government }
 
+	4514.1.1 = { # Calyreos Agrás I 'the Sun King' | 3A 1 - 3A 98
+		holder = anomar1
+	}
+	4611.1.1 = { # Calyreos Damaron I | 3A 98 - 3A 110
+		holder = anomar3
+	}
+	4623.1.1 = { # Calyreos Kastyas I | 3A 110 - 3A 136
+		holder = anomar4
+	}
+	4649.1.1 = { # Calyreos Myras I | 3A 136 - 3A 171
+		holder = anomar5
+	}
+	4684.1.1 = { # Calyreos Kaelon I | 3A 171 - 3A 198
+		holder = anomar6
+	}
+	4711.1.1 = { # Calyreos Damaron II | 3A 198 - 3A 237
+		holder = anomar7
+	}
+	4750.1.1 = { # Calyreos Damaron III | 3A 237 - 3A 244
+		holder = anomar8
+	}
+	4757.1.1 = { # Calyreos Ektaron I | 3A 244 - 3A 296
+		holder = anomar9
+	}
+	4809.1.1 = { # Calyreos Pheros I | 3A 296 - 3A 334
+		holder = anomar10
+	}
+	4847.1.1 = { # Calyreos Kastyas II | 3A 334 - 3A 352
+		holder = anomar11
+	}
+	4865.1.1 = { # Calyreos Lykas I | 3A 352 - 3A 377
+		holder = anomar12
+	}
+	4890.1.1 = { # Calyreos Myron I | 3A 377 - 3A 381
+		holder = anomar13
+	}
+	4894.1.1 = { # Calyreos Themara I | 3A 381 - 3A 458
+		holder = anomar15
+	}
+	4971.1.1 = { # Calyreos Ektaron II | 3A 458 - 3A 478
+		holder = anomar16
+	}
+	4991.1.1 = { # Calyreos Pylas I | 3A 478 - 3A 483
+		holder = anomar17
+	}
+	4996.1.1 = { # Calyreos Myron II | 3A 483 - 3A 535
+		holder = anomar19
+	}
+	5048.1.1 = { # Calyreos Kastyas III | 3A 535 - 3A 572
+		holder = anomar20
+	}
+	5085.1.1 = { # Calyreos Myraklon I | 3A 572 - 3A 581
+		holder = anomar21
+	}
+	5094.1.1 = { # Calyreos Kaelas I | 3A 581 - 3A 603
+		holder = anomar22
+	}
+	5116.1.1 = { # Calyreos Lykas II | 3A 603 - 3A 608
+		holder = anomar23
+	}
+	5121.1.1 = { # Calyreos Nikaron I | 3A 608 - 3A 676
+		holder = anomar25
+	}
+	5189.1.1 = { # Calyreos Andron I | 3A 676 - 3A 692
+		holder = anomar26
+	}
+	5205.1.1 = { # Calyreos Oraleon I | 3A 692 - 3A 725
+		holder = anomar27
+	}
+	5238.1.1 = { # Calyreos Phyron I | 3A 725 - 3A 759
+		holder = anomar28
+	}
+	5272.1.1 = { # Calyreos Myron III | 3A 759 - 3A 772
+		holder = anomar29
+	}
+	5285.1.1 = { # Calyreos Kaston I | 3A 772 - 3A 773
+		holder = anomar32
+	}
+	5286.4.1 = { # Calyreos Myron IV | 3A 773
+		holder = anomar33
+	}
+	5286.11.1 = { # Calyreos Andron II | 3A 773 - 3A 778
+		holder = anomar35
+	}
+	5291.1.1 = { # Calyreos Myron V | 3A 778 - 3A 786
+		holder = anomar36
+	}
+	5299.1.1 = { # Calyreos Pylas II | 3A 786 - 3A 800
+		holder = anomar37
+	}
+	5313.1.1 = { # Calyreos Rhion I | 3A 800 - 3A 836
+		holder = anomar38
+	}
+	5349.1.1 = { # Calyreos Damaron IV | 3A 836 - 3A 872
+		holder = anomar39
+	}
+	5385.1.1 = { # Calyreos Korydon I | 3A 872 - 3A 904
+		holder = anomar40
+	}
+	5417.1.1 = { # Calyreos Pylanes I | 3A 904 - 3A 923
+		holder = anomar41
+	}
+	5436.1.1 = { # Calyreos Kanon I | 3A 923 - 3A 931
+		holder = anomar42
+	}
+	5444.1.1 = { # Calyreos Orestas I | 3A 931 - 3A 976
+		holder = anomar43
+	}
+	5489.1.1 = { # Calyreos Kastyas IV | 3A 976 - 3A 998
+		holder = anomar44
+	}
+	5511.1.1 = { # Calyreos Lykas III | 3A 998 - 3A 1014
+		holder = anomar45
+	}
+	5527.1.1 = { # Calyreos Myron VI | 3A 1014 - 3A 1021
+		holder = anomar46
+	}
+	5534.1.1 = { # First Interregnum | 3A 1021 - 3A 1047
+		holder = 0
+	}
+	5560.1.1 = { # Calyreos Nikaron II 'the Restorer' | 3A 1047 - 3A 1085
+		holder = vasylidon1
+	}
+	5598.1.1 = { # Calyreos Theras I | 3A 1085 - 3A 1114
+		holder = vasylidon2
+	}
+	5627.1.1 = { # Calyreos Kylanon I | 3A 1114 - 3A 1127
+		holder = vasylidon3
+	}
+	5640.1.1 = { # Calyreos Nikaron III | 3A 1127 - 3A 1183
+		holder = vasylidon4
+	}
+	5696.1.1 = { # Calyreos Damaron V | 3A 1183 - 3A 1205
+		holder = vasylidon5
+	}
+	5718.1.1 = { # Calyreos Lykan I | 3A 1205 - 3A 1248
+		holder = vasylidon6
+	}
+	5761.1.1 = { # Calyreos Alenias I | 3A 1248 - 3A 1281
+		holder = vasylidon7
+	}
+	5794.1.1 = { # Calyreos Alkyon I | 3A 1281 - 3A 1315
+		holder = vasylidon8
+	}
+	5828.1.1 = { # Calyreos Kastylas I | 3A 1315 - 3A 1324
+		holder = vasylidon9
+	}
+	5837.1.1 = { # Calyreos Vasylas I | 3A 1324 - 3A 1367
+		holder = vasylidon11
+	}
+	5880.1.1 = { # Calyreos Grenas I | 3A 1367 - 3A 1385
+		holder = vasylidon12
+	}
+	5898.1.1 = { # Calyreos Andrakon I | 3A 1385 - 3A 1412
+		holder = vasylidon13
+	}
+	5925.1.1 = { # Calyreos Damaron VI | 3A 1412 - 3A 1440
+		holder = vasylidon14
+	}
+	5953.1.1 = { # Calyreos Damaron VII | 3A 1440 - 3A 1467
+		holder = vasylidon15
+	}
+	5980.1.1 = { # Calyreos Oryos I | 3A 1467 - 3A 1518
+		holder = vasylidon16
+	}
+	6031.1.1 = { # Calyreos Pylanes II | 3A 1518 - 3A 1532
+		holder = vasylidon17
+	}
+	6045.1.1 = { # Calyreos Kastanos I | 3A 1532 - 3A 1569
+		holder = vasylidon18
+	}
+	6082.1.1 = { # Calyreos Gelaros I | 3A 1569 - 3A 1578
+		holder = vasylidon19
+	}
+	6091.1.1 = { # Calyreos Heliane I | 3A 1578 - 3A 1627
+		holder = saphyros9
+	}
+	6140.1.1 = { # Calyreos Tauras I | 3A 1627 - 3A 1655
+		holder = saphyros10
+	}
+	6168.1.1 = { # Calyreos Oryos II | 3A 1655 - 3A 1684
+		holder = saphyros11
+	}
+	6197.1.1 = { # Calyreos Ikaron I | 3A 1684 - 3A 1718
+		holder = saphyros12
+	}
+	6231.1.1 = { # Calyreos Ouralon I | 3A 1718 - 3A 1749
+		holder = saphyros13
+	}
+	6262.1.1 = { # Calyreos Damaron VIII | 3A 1749 - 3A 1774
+		holder = saphyros14
+	}
+	6287.1.1 = { # Calyreos Pylanes III | 3A 1774 - 3A 1802
+		holder = saphyros15
+	}
+	6315.1.1 = { # Calyreos Argantes I | 3A 1802 - 3A 1877
+		holder = saphyros20
+	}
+	6390.1.1 = { # Calyreos Aeson I | 3A 1877 - 3A 1892
+		holder = saphyros21
+	}
+	6405.1.1 = { # Calyreos Gelaros II | 3A 1892 - 3A 1916
+		holder = saphyros22
+	}
+	6429.1.1 = { # Calyreos Myron VII | 3A 1916 - 3A 1939
+		holder = saphyros23
+	}
+	6452.1.1 = { # Calyreos Lynas I | 3A 1939 - 3A 1961
+		holder = saphyros24
+	}
+	6474.1.1 = { # Placeholder
+		holder = 0
+	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }
 
 c_anorzehilas = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
-	767.1.1 = { government = tribal_government }
-	8166.1.1 = { government = feudal_government }
+	4514.1.1 = { government = feudal_government }
 
+	4514.1.1 = { # Calyreos Agrás I 'the Sun King' | 3A 1 - 3A 98
+		holder = anomar1
+	}
+	4611.1.1 = { # Calyreos Damaron I | 3A 98 - 3A 110
+		holder = anomar3
+	}
+	4623.1.1 = { # Calyreos Kastyas I | 3A 110 - 3A 136
+		holder = anomar4
+	}
+	4649.1.1 = { # Calyreos Myras I | 3A 136 - 3A 171
+		holder = anomar5
+	}
+	4684.1.1 = { # Calyreos Kaelon I | 3A 171 - 3A 198
+		holder = anomar6
+	}
+	4711.1.1 = { # Calyreos Damaron II | 3A 198 - 3A 237
+		holder = anomar7
+	}
+	4750.1.1 = { # Calyreos Damaron III | 3A 237 - 3A 244
+		holder = anomar8
+	}
+	4757.1.1 = { # Calyreos Ektaron I | 3A 244 - 3A 296
+		holder = anomar9
+	}
+	4809.1.1 = { # Calyreos Pheros I | 3A 296 - 3A 334
+		holder = anomar10
+	}
+	4847.1.1 = { # Calyreos Kastyas II | 3A 334 - 3A 352
+		holder = anomar11
+	}
+	4865.1.1 = { # Calyreos Lykas I | 3A 352 - 3A 377
+		holder = anomar12
+	}
+	4890.1.1 = { # Calyreos Myron I | 3A 377 - 3A 381
+		holder = anomar13
+	}
+	4894.1.1 = { # Calyreos Themara I | 3A 381 - 3A 458
+		holder = anomar15
+	}
+	4971.1.1 = { # Calyreos Ektaron II | 3A 458 - 3A 478
+		holder = anomar16
+	}
+	4991.1.1 = { # Calyreos Pylas I | 3A 478 - 3A 483
+		holder = anomar17
+	}
+	4996.1.1 = { # Calyreos Myron II | 3A 483 - 3A 535
+		holder = anomar19
+	}
+	5048.1.1 = { # Calyreos Kastyas III | 3A 535 - 3A 572
+		holder = anomar20
+	}
+	5085.1.1 = { # Calyreos Myraklon I | 3A 572 - 3A 581
+		holder = anomar21
+	}
+	5094.1.1 = { # Calyreos Kaelas I | 3A 581 - 3A 603
+		holder = anomar22
+	}
+	5116.1.1 = { # Calyreos Lykas II | 3A 603 - 3A 608
+		holder = anomar23
+	}
+	5121.1.1 = { # Calyreos Nikaron I | 3A 608 - 3A 676
+		holder = anomar25
+	}
+	5189.1.1 = { # Calyreos Andron I | 3A 676 - 3A 692
+		holder = anomar26
+	}
+	5205.1.1 = { # Calyreos Oraleon I | 3A 692 - 3A 725
+		holder = anomar27
+	}
+	5238.1.1 = { # Calyreos Phyron I | 3A 725 - 3A 759
+		holder = anomar28
+	}
+	5272.1.1 = { # Calyreos Myron III | 3A 759 - 3A 772
+		holder = anomar29
+	}
+	5285.1.1 = { # Calyreos Kaston I | 3A 772 - 3A 773
+		holder = anomar32
+	}
+	5286.4.1 = { # Calyreos Myron IV | 3A 773
+		holder = anomar33
+	}
+	5286.11.1 = { # Calyreos Andron II | 3A 773 - 3A 778
+		holder = anomar35
+	}
+	5291.1.1 = { # Calyreos Myron V | 3A 778 - 3A 786
+		holder = anomar36
+	}
+	5299.1.1 = { # Calyreos Pylas II | 3A 786 - 3A 800
+		holder = anomar37
+	}
+	5313.1.1 = { # Calyreos Rhion I | 3A 800 - 3A 836
+		holder = anomar38
+	}
+	5349.1.1 = { # Calyreos Damaron IV | 3A 836 - 3A 872
+		holder = anomar39
+	}
+	5385.1.1 = { # Calyreos Korydon I | 3A 872 - 3A 904
+		holder = anomar40
+	}
+	5417.1.1 = { # Calyreos Pylanes I | 3A 904 - 3A 923
+		holder = anomar41
+	}
+	5436.1.1 = { # Calyreos Kanon I | 3A 923 - 3A 931
+		holder = anomar42
+	}
+	5444.1.1 = { # Calyreos Orestas I | 3A 931 - 3A 976
+		holder = anomar43
+	}
+	5489.1.1 = { # Calyreos Kastyas IV | 3A 976 - 3A 998
+		holder = anomar44
+	}
+	5511.1.1 = { # Calyreos Lykas III | 3A 998 - 3A 1014
+		holder = anomar45
+	}
+	5527.1.1 = { # Calyreos Myron VI | 3A 1014 - 3A 1021
+		holder = anomar46
+	}
+	5534.1.1 = { # First Interregnum | 3A 1021 - 3A 1047
+		holder = 0
+	}
+	5560.1.1 = { # Calyreos Nikaron II 'the Restorer' | 3A 1047 - 3A 1085
+		holder = vasylidon1
+	}
+	5598.1.1 = { # Calyreos Theras I | 3A 1085 - 3A 1114
+		holder = vasylidon2
+	}
+	5627.1.1 = { # Calyreos Kylanon I | 3A 1114 - 3A 1127
+		holder = vasylidon3
+	}
+	5640.1.1 = { # Calyreos Nikaron III | 3A 1127 - 3A 1183
+		holder = vasylidon4
+	}
+	5696.1.1 = { # Calyreos Damaron V | 3A 1183 - 3A 1205
+		holder = vasylidon5
+	}
+	5718.1.1 = { # Calyreos Lykan I | 3A 1205 - 3A 1248
+		holder = vasylidon6
+	}
+	5761.1.1 = { # Calyreos Alenias I | 3A 1248 - 3A 1281
+		holder = vasylidon7
+	}
+	5794.1.1 = { # Calyreos Alkyon I | 3A 1281 - 3A 1315
+		holder = vasylidon8
+	}
+	5828.1.1 = { # Calyreos Kastylas I | 3A 1315 - 3A 1324
+		holder = vasylidon9
+	}
+	5837.1.1 = { # Calyreos Vasylas I | 3A 1324 - 3A 1367
+		holder = vasylidon11
+	}
+	5880.1.1 = { # Calyreos Grenas I | 3A 1367 - 3A 1385
+		holder = vasylidon12
+	}
+	5898.1.1 = { # Calyreos Andrakon I | 3A 1385 - 3A 1412
+		holder = vasylidon13
+	}
+	5925.1.1 = { # Calyreos Damaron VI | 3A 1412 - 3A 1440
+		holder = vasylidon14
+	}
+	5953.1.1 = { # Calyreos Damaron VII | 3A 1440 - 3A 1467
+		holder = vasylidon15
+	}
+	5980.1.1 = { # Calyreos Oryos I | 3A 1467 - 3A 1518
+		holder = vasylidon16
+	}
+	6031.1.1 = { # Calyreos Pylanes II | 3A 1518 - 3A 1532
+		holder = vasylidon17
+	}
+	6045.1.1 = { # Calyreos Kastanos I | 3A 1532 - 3A 1569
+		holder = vasylidon18
+	}
+	6082.1.1 = { # Calyreos Gelaros I | 3A 1569 - 3A 1578
+		holder = vasylidon19
+	}
+	6091.1.1 = { # Calyreos Heliane I | 3A 1578 - 3A 1627
+		holder = saphyros9
+	}
+	6140.1.1 = { # Calyreos Tauras I | 3A 1627 - 3A 1655
+		holder = saphyros10
+	}
+	6168.1.1 = { # Calyreos Oryos II | 3A 1655 - 3A 1684
+		holder = saphyros11
+	}
+	6197.1.1 = { # Calyreos Ikaron I | 3A 1684 - 3A 1718
+		holder = saphyros12
+	}
+	6231.1.1 = { # Calyreos Ouralon I | 3A 1718 - 3A 1749
+		holder = saphyros13
+	}
+	6262.1.1 = { # Calyreos Damaron VIII | 3A 1749 - 3A 1774
+		holder = saphyros14
+	}
+	6287.1.1 = { # Calyreos Pylanes III | 3A 1774 - 3A 1802
+		holder = saphyros15
+	}
+	6315.1.1 = { # Calyreos Argantes I | 3A 1802 - 3A 1877
+		holder = saphyros20
+	}
+	6390.1.1 = { # Calyreos Aeson I | 3A 1877 - 3A 1892
+		holder = saphyros21
+	}
+	6405.1.1 = { # Calyreos Gelaros II | 3A 1892 - 3A 1916
+		holder = saphyros22
+	}
+	6429.1.1 = { # Calyreos Myron VII | 3A 1916 - 3A 1939
+		holder = saphyros23
+	}
+	6452.1.1 = { # Calyreos Lynas I | 3A 1939 - 3A 1961
+		holder = saphyros24
+	}
+	6474.1.1 = { # Placeholder
+		holder = 0
+	}
 	8107.1.1 = {
-		holder = lineofanoroth_1
+		holder = lineofanoroth1
 	}
 }

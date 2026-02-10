@@ -1,5 +1,5 @@
 83 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }
@@ -18,7 +18,7 @@
     holding = castle_holding
 }
 88 = {	#
-    culture = funerathil
+    culture = funerathic
     religion = anorath
     holding = castle_holding
 }

@@ -55,11 +55,7 @@
 }
 202 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 203 = {	#
@@ -113,20 +109,12 @@
 }
 218 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 219 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 220 = {	#
@@ -142,11 +130,7 @@
 }
 223 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 224 = {	#
@@ -197,20 +181,12 @@
 }
 238 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 239 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 240 = {	#
@@ -218,11 +194,7 @@
 }
 241 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 242 = {	#
@@ -247,11 +219,7 @@
 }
 248 = {	#
 	culture = anorothic
-<<<<<<< Updated upstream
-	religion = faith_anorath
-=======
 	religion = anorath
->>>>>>> Stashed changes
 	holding = castle_holding
 }
 249 = {	#

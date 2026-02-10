@@ -193,7 +193,7 @@ tradition_breniloric_aristocracy = { #Bréniloric Aristocracy
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_anorothil
+		has_cultural_pillar = heritage_anorothic
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism

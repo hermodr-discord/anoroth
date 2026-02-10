@@ -6,7 +6,7 @@
 }
 257 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 258 = {	#
@@ -22,8 +22,8 @@
     holding = castle_holding
 }
 262 = {	#
-    culture = anorothil
-    religion = anorath
+    culture = anorothic
+    religion = faith_anorath
     holding = castle_holding
 }
 263 = {	#
@@ -37,7 +37,7 @@
 }
 266 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 267 = {	#
@@ -51,7 +51,7 @@
 }
 270 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 271 = {	#
@@ -76,8 +76,8 @@
     holding = castle_holding
 }
 278 = {	#
-    culture = anorothil
-    religion = anorath
+    culture = anorothic
+    religion = faith_anorath
     holding = castle_holding
 }
 279 = {	#
@@ -88,25 +88,25 @@
 }
 281 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 282 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 283 = {	#
     holding = castle_holding
 }
 284 = {	#
-    culture = anorothil
-    religion = anorath
+    culture = anorothic
+    religion = faith_anorath
     holding = castle_holding
 }
 285 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 286 = {	#
@@ -120,7 +120,7 @@
 }
 289 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 290 = {	#
@@ -134,17 +134,17 @@
 }
 293 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 294 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 295 = {	#
     culture = ourimetanath
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 296 = {	#

@@ -7,7 +7,7 @@
 		value = 0
 	}
 
-	# Ourágon
+	# Calyreos Ouralon IV Atyrin
 	character = {
 		name = "bookmark_anoroth_emperor_ouranovor"
 		dynasty = anoroth6
@@ -16,8 +16,8 @@
 		birth = 8078.1.1
 		title = e_anoroth
 		government = feudal_government
-		culture = anorothil
-		religion = "faith_anoril"
+		culture = anorothic
+		religion = "faith_anorath"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		history_id = lineofanoroth_1
 		position = { 250 750 }

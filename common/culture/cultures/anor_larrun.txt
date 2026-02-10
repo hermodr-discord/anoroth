@@ -2,8 +2,13 @@
 	color = { 240 180 66 }
 	
 	ethos = ethos_courtly
+<<<<<<< Updated upstream:common/culture/cultures/anor_larrunic.txt
 	heritage = heritage_larrunic
 	language = language_larrunic
+=======
+	heritage = heritage_larrun
+	language = language_larrun
+>>>>>>> Stashed changes:common/culture/cultures/anor_larrun.txt
 	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_horse_breeder
@@ -12,7 +17,7 @@
 		tradition_sacred_hunts
 	}
 	
-	name_list = name_list_larrunic
+	name_list = name_list_larrun
 
 	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
 	building_gfx = { western_building_gfx } 
@@ -32,8 +37,8 @@ kintir = {
 	color = { 212 129 55 }
 	
 	ethos = ethos_stoic
-	heritage = heritage_larrunic
-	language = language_larrunic
+	heritage = heritage_larrun
+	language = language_larrun
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_sorcerous_metallurgy
@@ -41,7 +46,7 @@ kintir = {
 		tradition_talent_acquisition
 	}
 	
-	name_list = name_list_larrunic
+	name_list = name_list_larrun
 
 	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
 	building_gfx = { western_building_gfx } 

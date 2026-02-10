@@ -67,7 +67,7 @@ heritage_oreg_garna = {
 	audio_parameter = european
 }
 
-heritage_larrunic = {
+heritage_larrun = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {

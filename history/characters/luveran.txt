@@ -37,6 +37,10 @@ lineofluveran1 = {
 	dna = lyslsyan
 	female = yes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+	nickname = nick_the_navigator
+>>>>>>> Stashed changes
 =======
 	nickname = nick_the_navigator
 >>>>>>> Stashed changes

@@ -1,4 +1,34 @@
 ﻿l_english:
  heritage_generic_label_desc:0 "Each [heritage|E] defines a common origin for related [cultures|E]' customs and mannerisms, either as something they descend from or have wholesale adopted."
+<<<<<<< Updated upstream
  heritage_anorothic_name:0 "Anórothic"
  heritage_anorothic_collective_noun:0 "Anórothics"
+=======
+
+ heritage_anorothic_name:0 "Anórothic"
+ heritage_anorothic_collective_noun:0 "Anórothics"
+
+ heritage_larrun_name:0 "Larrun"
+ heritage_larrun_collective_noun:0 "Larrun"
+
+ heritage_behatyn_name:0 "Behatyn"
+ heritage_behatyn_collective_noun:0 "Behatyna"
+
+ heritage_luveran_name:0 "Luveran"
+ heritage_luveran_collective_noun:0 "Luverans"
+
+ heritage_agalrian_name:0 "Agalrian"
+ heritage_agalrian_collective_noun:0 "Agalrian"
+
+ heritage_helyv_name:0 "Helyv"
+ heritage_heylv_collective_noun:0 "Helyvites"
+
+ heritage_tharun_name:0 "Tharun"
+ heritage_tharun_collective_noun:0 "Tharunur"
+
+ heritage_shidonem_name:0 "Shidonem"
+ heritage_shidonem_collective_noun:0 "Shidonemans"
+
+ heritage_oreg_garna_name:0 "Oreg-Garna"
+ heritage_oreg_garna_collective_noun:0 "Oreg-Garnan"
+>>>>>>> Stashed changes

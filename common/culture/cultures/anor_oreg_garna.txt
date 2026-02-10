@@ -3,10 +3,10 @@
 	
 	ethos = ethos_stoic
 	heritage = heritage_oreg_garna
-	language = language_oreg_al
+	language = language_oreg_garna
 	martial_custom = martial_custom_equal
 	traditions = {
-		#Children of Oreg-Garna
+		tradition_children_of_oreg_garna
 		tradition_strength_in_numbers
 		tradition_zealous_people
 		tradition_staunch_traditionalists
@@ -33,10 +33,10 @@ oreg_bagat = {
 	
 	ethos = ethos_communal
 	heritage = heritage_oreg_garna
-	language = language_oreg_al
+	language = language_oreg_garna
 	martial_custom = martial_custom_equal
 	traditions = {
-		#Children of Oreg-Garna
+		tradition_children_of_oreg_garna
 		tradition_strength_in_numbers
 		tradition_storytellers
 		tradition_medicinal_plants
@@ -63,10 +63,10 @@ oreg_suran = {
 	
 	ethos = ethos_stoic
 	heritage = heritage_oreg_garna
-	language = language_oreg_al
+	language = language_oreg_garnag
 	martial_custom = martial_custom_equal
 	traditions = {
-		#Children of Oreg-Garna
+		tradition_children_of_oreg_garna
 		tradition_strength_in_numbers
 		tradition_tribe_unity
 		tradition_artisans

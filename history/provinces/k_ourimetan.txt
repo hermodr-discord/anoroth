@@ -6,7 +6,7 @@
 }
 257 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 258 = {	#
@@ -23,7 +23,11 @@
 }
 262 = {	#
     culture = anorothic
+<<<<<<< Updated upstream
     religion = faith_anorath
+=======
+    religion = anorath
+>>>>>>> Stashed changes
     holding = castle_holding
 }
 263 = {	#
@@ -37,7 +41,7 @@
 }
 266 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 267 = {	#
@@ -51,7 +55,7 @@
 }
 270 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 271 = {	#
@@ -77,7 +81,11 @@
 }
 278 = {	#
     culture = anorothic
+<<<<<<< Updated upstream
     religion = faith_anorath
+=======
+    religion = anorath
+>>>>>>> Stashed changes
     holding = castle_holding
 }
 279 = {	#
@@ -88,12 +96,12 @@
 }
 281 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 282 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 283 = {	#
@@ -101,12 +109,16 @@
 }
 284 = {	#
     culture = anorothic
+<<<<<<< Updated upstream
     religion = faith_anorath
+=======
+    religion = anorath
+>>>>>>> Stashed changes
     holding = castle_holding
 }
 285 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 286 = {	#
@@ -120,7 +132,7 @@
 }
 289 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 290 = {	#
@@ -134,17 +146,17 @@
 }
 293 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 294 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 295 = {	#
     culture = ourimetanath
-    religion = faith_anorath
+    religion = anorath
     holding = castle_holding
 }
 296 = {	#

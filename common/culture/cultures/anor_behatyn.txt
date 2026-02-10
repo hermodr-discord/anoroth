@@ -33,7 +33,7 @@ zatyshyn = {
 	
 	ethos = ethos_spiritual
 	heritage = heritage_behatyn
-	language = language_behatyn
+	language = language_zatyshyn
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_agrarian

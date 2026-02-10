@@ -1,13 +1,13 @@
-﻿anorothil = {
+﻿anorothic = {
 	color = { 199 2 17 }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_anorothil
-	language = language_anorothil
+	heritage = heritage_anorothic
+	language = language_anorothic
 	martial_custom = martial_custom_male_only
 	
 	traditions = {
-		tradition_vathirin_ourapivelis
+		tradition_imperial_soldiers
 		tradition_right_of_anor
 		tradition_staunch_traditionalists
 		tradition_ruling_caste
@@ -20,7 +20,7 @@
 		fallback = tradition_roman_legacy
 	}
 	
-	name_list = name_list_anorothil
+	name_list = name_list_anorothic
 	
 	coa_gfx = { byzantine_group_coa_gfx }
 	building_gfx = { byzantine_building_gfx }
@@ -36,7 +36,7 @@ anorosyn = {
 	color = { 127 0 0 }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_anorothil
+	heritage = heritage_anorothic
 	language = language_behatyn
 	martial_custom = martial_custom_male_only
 	
@@ -53,7 +53,7 @@ anorosyn = {
 		fallback = tradition_roman_legacy
 	}
 	
-	name_list = name_list_anorothil
+	name_list = name_list_anorothic
 	
 	coa_gfx = { byzantine_group_coa_gfx }
 	building_gfx = { byzantine_building_gfx }
@@ -69,15 +69,20 @@ brenilor = {
 	color = { 189 51 56 }
 	
 	ethos = ethos_courtly
+<<<<<<< Updated upstream
 	heritage = heritage_anorothil
 	language = language_anorothil
+=======
+	heritage = heritage_anorothic
+	language = language_anorothic
+>>>>>>> Stashed changes
 	martial_custom = martial_custom_male_only
 	
 	traditions = {
+		tradition_breniloric_aristocracy
 		tradition_astute_diplomats
 		tradition_agrarian
 		tradition_hereditary_hierarchy
-		#Unique Cultivated Sophistication (???)
 	}
 	dlc_tradition = {
 		trait = tradition_ep3_imperial_tagmata
@@ -85,7 +90,7 @@ brenilor = {
 		fallback = tradition_roman_legacy
 	}
 	
-	name_list = name_list_anorothil
+	name_list = name_list_anorothic
 	
 	coa_gfx = { byzantine_group_coa_gfx }
 	building_gfx = { byzantine_building_gfx }
@@ -101,8 +106,13 @@ ourimetanath = {
 	color = { 163 29 10 }
 	
 	ethos = ethos_courtly
+<<<<<<< Updated upstream
 	heritage = heritage_anorothil
 	language = language_anorothil
+=======
+	heritage = heritage_anorothic
+	language = language_anorothic
+>>>>>>> Stashed changes
 	martial_custom = martial_custom_male_only
 	
 	traditions = {
@@ -117,7 +127,7 @@ ourimetanath = {
 		fallback = tradition_roman_legacy
 	}
 	
-	name_list = name_list_anorothil
+	name_list = name_list_anorothic
 	
 	coa_gfx = { byzantine_group_coa_gfx }
 	building_gfx = { byzantine_building_gfx }

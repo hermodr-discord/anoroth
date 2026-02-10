@@ -3,7 +3,7 @@
 	
 	ethos = ethos_bellicose
 	heritage = heritage_tharun
-	language = language_tharunur
+	language = language_tharun
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fp1_coastal_warriors
@@ -32,7 +32,7 @@ brynor = {
 	
 	ethos = ethos_stoic
 	heritage = heritage_tharun
-	language = language_tharunur
+	language = language_tharun
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_isolationist

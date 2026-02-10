@@ -1,7 +1,165 @@
 ﻿l_english:
+<<<<<<< Updated upstream
  #Anorothic group
+=======
+
+ ethos_isolationist_name:0 "Isolationist"
+ ethos_isolationist_desc:0 "ISOLATIONIST DESC"
+ #Anórothil group
+>>>>>>> Stashed changes
  anorothic_group:0 "Anórothic"
  anorothic_group_collective_noun:1 "Anórothics"
  anorothic:0 "Anórothic"
  anorothic_prefix:0 "Anórothic"
+<<<<<<< Updated upstream
  anorothic_collective_noun:1 "Anórothics"
+=======
+ anorothic_collective_noun:1 "Anórothics"
+
+ anorosyn:0 "Anorosyn"
+ anorosyn_prefix:0 "Anorosyn"
+ anorosyn_collective_noun:1 "Anorosyn"
+
+ brenilor:0 "Bréniloric"
+ brenilor_prefix:0 "Bréniloric"
+ brenilor_collective_noun:1 "Brénilorics"
+
+ ourimetanath:0 "Ourimetanath"
+ ourimetanath_prefix:0 "Ourimetan"
+ ourimetanath_collective_noun:1 "Ourimetans"
+
+ #Behatyn group
+ behatyn_group:0 "Behatyn"
+ behatyn_group_collective_noun:1 "Behatyna"
+ behatyn:0 "Behatyn"
+ behatyn_prefix:0 "Behatyna"
+ behatyn_collective_noun:1 "Behatyna"
+
+ zatyshyn:0 "Zatyshyn"
+ zatyshyn_prefix:0 "Zatysh"
+ zatyshyn_collective_noun:1 "Zatyshyna"
+
+ #Agalrian group
+ agalrian_group:0 "Agalrian"
+ agalrian_group_collective_noun:1 "Agalrians"
+ agalrian:0 "Agalrian"
+ agalrian_prefix:0 "Agalrian"
+ agalrian_collective_noun:1 "Agalrians"
+
+ bregan:0 "Bregan"
+ bregan_prefix:0 "Bregan"
+ bregan_collective_noun:1 "Bregans"
+
+ tunorar:0 "Tunorar"
+ tunorar_prefix:0 "Tunor"
+ tunorar_collective_noun:1 "Tunorans"
+
+ mehenan:0 "Mehenan"
+ mehenan_prefix:0 "Mehen"
+ mehenan_collective_noun:1 "Mehenans"
+
+ #Helyv group
+ helyv_group:0 "Helyv"
+ helyv_group_collective_noun:1 "Helyvans"
+ helyv:0 "Helyv"
+ helyv_prefix:0 "Helyv"
+ helyv_collective_noun:1 "Helyvans"
+
+ helesz:0 "Helesz"
+ helesz_prefix:0 "Heleszite"
+ helesz_collective_noun:1 "Heleszites"
+
+ zsorag:0 "Zsorag"
+ zsorag_prefix:0 "Zsorag"
+ zsorag_collective_noun:1 "Zsorags"
+
+ heszo:0 "Heszo"
+ heszo_prefix:0 "Heszo"
+ heszo_collective_noun:1 "Heszo"
+
+ vogyd:0 "Vogyd"
+ vogyd_prefix:0 "Vogyd"
+ vogyd_collective_noun:1 "Vogydans"
+
+ halavath:0 "Halavath"
+ halavath_prefix:0 "Halavath"
+ halavath_collective_noun:1 "Halavaths"
+
+ #Larrun group
+ larrunic_group:0 "Larrun"
+ larrunic_group_collective_noun:1 "Larrun"
+ larrun:0 "Larrun"
+ larrun_prefix:0 "Larrun"
+ larrun_collective_noun:1 "Larrun"
+
+ kintir:0 "Kintir"
+ kintir_prefix:0 "Kintir"
+ kintir_collective_noun:1 "Kintir"
+
+ #Luveran group
+ luveran_group:0 "Luveran"
+ luveran_group_collective_noun:1 "Luverans"
+ luveran:0 "Luveran"
+ luveran_prefix:0 "Luveran"
+ luveran_collective_noun:1 "Luverans"
+
+ #Oreg group
+ oreg_garna_group:0 "Oreg-Garna"
+ oreg_garna_group_collective_noun:1 "Oreg-Garnans"
+ oreg_hagan:0 "Oreg-Hagan"
+ oreg_hagan_prefix:0 "Oreg-Hagan"
+ oreg_hagan_collective_noun:1 "Oreg-Hagans"
+
+ oreg_bagat:0 "Oreg-Bagat"
+ oreg_bagat_prefix:0 "Oreg-Bagat"
+ oreg_bagat_collective_noun:1 "Oreg-Bagats"
+
+ oreg_suran:0 "Oreg-Suran"
+ oreg_suran_prefix:0 "Oreg-Suran"
+ oreg_suran_collective_noun:1 "Oreg-Surans"
+
+ #Shidonem group
+ shidonem_group:0 "Shidonem"
+ shidonem_group_collective_noun:1 "Shidonemans"
+ qaratan:0 "Qaratan"
+ qaratan_prefix:0 "Qarat"
+ qaratan_collective_noun:1 "Qaratans"
+
+ argaman:0 "Argaman"
+ argaman_prefix:0 "Argam"
+ argaman_collective_noun:1 "Argamans"
+
+ #Tharun group
+ tharun_group:0 "Tharun"
+ tharun_group_collective_noun:1 "Tharuni"
+ eyarir:0 "Eyarir"
+ eyarir_prefix:0 "Eyar"
+ eyarir_collective_noun:1 "Eyari"
+
+ brynor:0 "Brynor"
+ brynor_prefix:0 "Bryn"
+ brynor_collective_noun:1 "Brynori"
+
+ funerathil:0 "Funérathic"
+ funerathil_prefix:0 "Funérathic"
+ funerathil_collective_noun:1 "Funérathics"
+
+ ### TRADITIONS
+
+ tradition_imperial_soldiers_name:0 "Imperial Soldiers"
+ tradition_imperial_soldiers_desc:0 "IMPERIAL SOLDIERS DESC"
+ tradition_right_of_anor_name:0 "Right of Anór"
+ tradition_right_of_anor_desc:0 "RIGHT OF ANÓR DESC"
+
+ tradition_the_golden_strait_name:0 "The Golden Strait"
+ tradition_the_golden_strait_name:0 "The Golden Strait"
+
+ tradition_people_of_the_tides_name:0 "People of the Tides"
+ tradition_people_of_the_tides_desc:0 "PEOPLE OF THE TIDES DESC"
+
+ tradition_children_of_oreg_garna_name:0 "Children of Oreg-Garna"
+ tradition_children_of_oreg_garna_desc:0 "CHILDREN OF OREG-GARNA DESC"
+
+ tradition_breniloric_aristocracy_name:0 "Bréniloric Aristocracy"
+ tradition_breniloric_aristocracy_desc:0 "BRÉNILORIC ARISTOCRACY"
+>>>>>>> Stashed changes

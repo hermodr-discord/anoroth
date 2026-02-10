@@ -1,6 +1,7 @@
 ﻿l_english:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  #Isanara Localization
  isanara_religion:0 "Isanara"
  isanara_religion_adj:0 "Isanaran"
@@ -84,6 +85,8 @@
  isanara_adherent:0 "Isanaran"
  isanara_adherent_plural:0 "Isanarans"
 =======
+=======
+>>>>>>> Stashed changes
  #ocanic Localization
  ocanic_religion:0 "Ocánic"
  ocanic_religion_adj:0 "Ocánic"
@@ -157,5 +160,9 @@
  atharfavrel_adj:0 "Athárfavrel"
  atharfavrel_adherent:0 "Athárfavrel"
  atharfavrel_adherent_plural:0 "Athárfavrels"
+<<<<<<< Updated upstream
+ atharfavrel_religious_head_title:0 "Patriarch"
+>>>>>>> Stashed changes
+=======
  atharfavrel_religious_head_title:0 "Patriarch"
 >>>>>>> Stashed changes

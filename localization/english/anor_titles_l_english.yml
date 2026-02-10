@@ -37,7 +37,14 @@
 
  k_meruyar:0 "Meruyar"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  k_meruyar_adj:0 "Meruyar"
+=======
+ k_meruyar_adj:0 "Meruyar"
+
+ k_eclipsed_realm:0 "The Eclipsed Realm"
+ k_eclipsed_realm_adj:0 "Eclipsed"
+>>>>>>> Stashed changes
 =======
  k_meruyar_adj:0 "Meruyar"
 

@@ -9,7 +9,7 @@
 }
 190 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 191 = {	#
@@ -29,12 +29,12 @@
 }
 196 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 197 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 198 = {	#
@@ -45,17 +45,21 @@
 }
 200 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 201 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 202 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 203 = {	#
@@ -63,7 +67,7 @@
 }
 204 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 205 = {	#
@@ -101,7 +105,7 @@
 }
 216 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 217 = {	#
@@ -109,17 +113,25 @@
 }
 218 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 219 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 220 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 221 = {	#
@@ -130,7 +142,11 @@
 }
 223 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 224 = {	#
@@ -156,7 +172,7 @@
 }
 231 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 232 = {	#
@@ -164,7 +180,7 @@
 }
 233 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 234 = {	#
@@ -181,12 +197,20 @@
 }
 238 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 239 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 240 = {	#
@@ -194,7 +218,11 @@
 }
 241 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 242 = {	#
@@ -211,7 +239,7 @@
 }
 246 = {	#
 	culture = helesz
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 247 = {	#
@@ -219,7 +247,11 @@
 }
 248 = {	#
 	culture = anorothic
+<<<<<<< Updated upstream
 	religion = faith_anorath
+=======
+	religion = anorath
+>>>>>>> Stashed changes
 	holding = castle_holding
 }
 249 = {	#
@@ -227,12 +259,12 @@
 }
 250 = {	#
 	culture = brenilor
-	religion = faith_anorath
+	religion = anorath
 	holding = castle_holding
 }
 251 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = oszeseg
 	holding = castle_holding
 }
 252 = {	#

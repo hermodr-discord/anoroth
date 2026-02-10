@@ -52,17 +52,17 @@ language_luveran = {
 	color = { 47 177 186 }
 }
 
-language_tharunur = {
+language_tharun = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_tharunur
+			LANGUAGE = language_tharun
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_tharunur }
+			limit = { has_cultural_pillar = language_tharun }
 			multiply = 10
 		}
 	}
@@ -70,17 +70,17 @@ language_tharunur = {
 	color = { 47 177 186 }
 }
 
-language_larrunic = {
+language_larrun = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_larrunic
+			LANGUAGE = language_larrun
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_larrunic }
+			limit = { has_cultural_pillar = language_larrun }
 			multiply = 10
 		}
 	}
@@ -106,17 +106,17 @@ language_helyv = {
 	color = { 47 177 186 }
 }
 
-language_oreg_al = {
+language_oreg_garna = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_oreg_al
+			LANGUAGE = language_oreg_garna
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_oreg_al }
+			limit = { has_cultural_pillar = language_oreg_garna }
 			multiply = 10
 		}
 	}
@@ -171,6 +171,24 @@ language_behatyn = {
 		value = 10
 		if = {
 			limit = { has_cultural_pillar = language_behatyn }
+			multiply = 10
+		}
+	}
+	
+	color = { 47 177 186 }
+}
+
+language_zatyshyn = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_zatyshyn
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_zatyshyn }
 			multiply = 10
 		}
 	}

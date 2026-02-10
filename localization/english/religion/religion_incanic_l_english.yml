@@ -1,6 +1,7 @@
 ﻿l_english:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  #Isanara Localization
  isanara_religion:0 "Isanara"
  isanara_religion_adj:0 "Isanaran"
@@ -84,6 +85,8 @@
  isanara_adherent:0 "Isanaran"
  isanara_adherent_plural:0 "Isanarans"
 =======
+=======
+>>>>>>> Stashed changes
  #incanic Localization
  incanic_religion:0 "Incánic"
  incanic_religion_adj:0 "Incánic"
@@ -125,4 +128,7 @@
  telasatz_religious_head_title_name:0 "Incánic Church"
  tekasatz_desc:0 "TELASATZ DESCRIPTION"
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

@@ -1,3 +1,20 @@
 ﻿l_english:
  language_generic_label_desc:0 "A [culture_possessive|E] dominant [language|E] includes a broad selection of dialects, vernaculars, creoles, and related minor tongues which are often (though not necessarily) mutually intelligible or easier to learn."
+<<<<<<< Updated upstream
  language_anorothic_name:0 "Anórothic"
+=======
+
+ language_anorothic_name:0 "Anórothic"
+ language_larrun_name:0 "Larrun"
+ language_behatyn_name:0 "Behat"
+ language_zatyshyn_name:0 "Zatysh"
+ language_luveran_name:0 "Luveran"
+ language_agalrian_name:0 "Agalrian"
+ language_argaman_name:0 "Argaman"
+ language_qaratan_name:0 "Qarat"
+ language_tharun_name:0 "Tharunur"
+ language_helyv_name:0 "Helyv"
+ #language_mehenan_name:0 "Mehen"
+ #language_vogyd_name:0 "Vogydan"
+ language_oreg_name:0 "Oreg-Al"
+>>>>>>> Stashed changes

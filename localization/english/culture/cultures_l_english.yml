@@ -1,19 +1,12 @@
 ﻿l_english:
-<<<<<<< Updated upstream
- #Anorothic group
-=======
 
  ethos_isolationist_name:0 "Isolationist"
  ethos_isolationist_desc:0 "ISOLATIONIST DESC"
  #Anórothil group
->>>>>>> Stashed changes
  anorothic_group:0 "Anórothic"
  anorothic_group_collective_noun:1 "Anórothics"
  anorothic:0 "Anórothic"
  anorothic_prefix:0 "Anórothic"
-<<<<<<< Updated upstream
- anorothic_collective_noun:1 "Anórothics"
-=======
  anorothic_collective_noun:1 "Anórothics"
 
  anorosyn:0 "Anorosyn"
@@ -162,4 +155,3 @@
 
  tradition_breniloric_aristocracy_name:0 "Bréniloric Aristocracy"
  tradition_breniloric_aristocracy_desc:0 "BRÉNILORIC ARISTOCRACY"
->>>>>>> Stashed changes

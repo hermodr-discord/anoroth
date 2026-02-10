@@ -69,13 +69,8 @@ brenilor = {
 	color = { 189 51 56 }
 	
 	ethos = ethos_courtly
-<<<<<<< Updated upstream
-	heritage = heritage_anorothil
-	language = language_anorothil
-=======
 	heritage = heritage_anorothic
 	language = language_anorothic
->>>>>>> Stashed changes
 	martial_custom = martial_custom_male_only
 	
 	traditions = {
@@ -106,13 +101,8 @@ ourimetanath = {
 	color = { 163 29 10 }
 	
 	ethos = ethos_courtly
-<<<<<<< Updated upstream
-	heritage = heritage_anorothil
-	language = language_anorothil
-=======
 	heritage = heritage_anorothic
 	language = language_anorothic
->>>>>>> Stashed changes
 	martial_custom = martial_custom_male_only
 	
 	traditions = {

@@ -40,18 +40,8 @@
  #anoric_bishop:0 "prelate"
  #anoric_bishop_plural:0 "prelates"
  #anoric_afterlife:0 "the abyss"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
- #anoric_witchgodname_the_horned_god:0 "Avtórea"
- #anoric_witchgodname_the_horned_god_possessive:0 "Avtórea's"
-=======
  #anoric_witchgodname_avtorea:0 "Avtórea"
  #anoric_witchgodname_avtorea_possessive:0 "Avtórea's"
->>>>>>> Stashed changes
-=======
- #anoric_witchgodname_avtorea:0 "Avtórea"
- #anoric_witchgodname_avtorea_possessive:0 "Avtórea's"
->>>>>>> Stashed changes
 
  #anoric_creator_god_name:0 "$anoric_high_god_name$"
  #anoric_creator_god_name_possessive:0 "$anoric_high_god_name_possessive$"
@@ -81,12 +71,12 @@
  anorath_adherent:0 "Anórath"
  anorath_adherent_plural:0 "Anóraths"
  anorath_desc:0 "Codified in 3A 6 by the great decree of Emperor Agrás 'the Sun King', the Anórath faith was forged from the disparate ancient beliefs of the Anorothic Empire into a singular devotion to Anór, Firstborn of the Gods. As the divine embodiment of the Sun and War, Anór's worship became inextricably linked to the Empire's identity and purpose. From this point, the Anōrath faith served as the guiding light and justification for imperial authority, cultural dominance, and the relentless expansion of the Empire across Anáthis."
- anorath_high_god_name:0 "Anór yippee"
+ anorath_high_god_name:0 "Anór"
  anorath_high_god_name_2:0 "$anoric_high_god_name$" # Optional translation alt
  anorath_high_god_name_3:0 "$anoric_high_god_name$" # Optional translation alt
- anorath_high_god_name_possessive:0 "Anóri yippee"
- anorath_high_god_name_alternate:0 "The Lightbringer yippee"
- anorath_high_god_name_alternate_possessive:0 "The Lightbringer's yippee"
+ anorath_high_god_name_possessive:0 "Anór's"
+ anorath_high_god_name_alternate:0 "The Lightbringer"
+ anorath_high_god_name_alternate_possessive:0 "The Lightbringer's"
  anorath_religious_text:0 "Themaran Creed"
  anorath_religious_text_2:0 "$anoric_religious_text$" # Optional translation alt
  anorath_religious_text_3:0 "$anoric_religious_text$" # Optional translation alt

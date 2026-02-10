@@ -1,9 +1,5 @@
 ﻿l_english:
  heritage_generic_label_desc:0 "Each [heritage|E] defines a common origin for related [cultures|E]' customs and mannerisms, either as something they descend from or have wholesale adopted."
-<<<<<<< Updated upstream
- heritage_anorothic_name:0 "Anórothic"
- heritage_anorothic_collective_noun:0 "Anórothics"
-=======
 
  heritage_anorothic_name:0 "Anórothic"
  heritage_anorothic_collective_noun:0 "Anórothics"
@@ -31,4 +27,3 @@
 
  heritage_oreg_garna_name:0 "Oreg-Garna"
  heritage_oreg_garna_collective_noun:0 "Oreg-Garnan"
->>>>>>> Stashed changes

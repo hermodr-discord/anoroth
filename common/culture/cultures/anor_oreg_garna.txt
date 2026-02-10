@@ -63,7 +63,7 @@ oreg_suran = {
 	
 	ethos = ethos_stoic
 	heritage = heritage_oreg_garna
-	language = language_oreg_garnag
+	language = language_oreg_garna
 	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_children_of_oreg_garna

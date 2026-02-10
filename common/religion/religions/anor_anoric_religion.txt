@@ -245,15 +245,8 @@
 		celavath = {
 			color = { 127 0 0 }
 			icon = hellenic
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-			religious_head = e_anoroth
-=======
+
 			religious_head = e_anoroth # d_celavath
->>>>>>> Stashed changes
-=======
-			religious_head = e_anoroth # d_celavath
->>>>>>> Stashed changes
 
 			holy_site = anorzehilas
 
@@ -333,27 +326,12 @@
 				NightGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WaterGod
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-				WaterGodName = pantheonic_water_god_name
-				WaterGodNamePossessive = pantheonic_water_god_name_possessive
-=======
 				WaterGodName = celavath_water_god_name
 				WaterGodNamePossessive = celavath_water_god_name_possessive
->>>>>>> Stashed changes
-=======
-				WaterGodName = celavath_water_god_name
-				WaterGodNamePossessive = celavath_water_god_name_possessive
->>>>>>> Stashed changes
 				WaterGodSheHe = CHARACTER_SHEHE_HE
 				WaterGodHerHis = CHARACTER_HERHIS_HIS
 				WaterGodHerHim = CHARACTER_HERHIM_HIM
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
 				ReligiousHeadName = anorath_religious_head_title
 				DevilName = pantheonic_night_god_name
 				DevilNamePossessive = pantheonic_night_god_name_possessive
@@ -361,10 +339,6 @@
 				DevilHerHis = CHARACTER_HERHIS_HIS
 				DevilHerselfHimself = CHARACTER_HERHIM_HIM
 				EvilGodNames = { pantheonic_good_god_ipane pantheonic_water_god_name pantheonic_good_god_incanas pantheonic_good_god_aethervas pantheonic_good_god_aethlem pantheonic_wealth_god_name pantheonic_fertility_god_name pantheonic_health_god_name pantheonic_evil_god_dhiani pantheonic_trickster_god_name }
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 			}
 		}
 		sobranorye = {

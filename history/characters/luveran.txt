@@ -36,14 +36,8 @@ lineofluveran1 = {
 	culture = luveran
 	dna = lyslsyan
 	female = yes
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-	nickname = nick_the_navigator
->>>>>>> Stashed changes
-=======
-	nickname = nick_the_navigator
->>>>>>> Stashed changes
+
+	nickname = nick_the_navigator #DOESNT WORK - FIX!
 
 	diplomacy = 8
 	martial = 4

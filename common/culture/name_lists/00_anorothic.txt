@@ -1,4 +1,4 @@
-﻿name_list_anorothil = {
+﻿name_list_anorothic = {
 
 	cadet_dynasty_names = {
 		"dynn_Adhil"

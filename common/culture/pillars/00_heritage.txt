@@ -1,8 +1,8 @@
-﻿heritage_anorothil = {
+﻿heritage_anorothic = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_anorothil
+			HERITAGE = heritage_anorothic
 		}
 	}
 	audio_parameter = european

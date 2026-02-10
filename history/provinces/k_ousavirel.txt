@@ -51,7 +51,7 @@
     holding = castle_holding
 }
 137 = {	#
-    culture = anorothil
+    culture = anorothic
     religion = faith_anorath
     holding = castle_holding
 }
@@ -65,7 +65,7 @@
     holding = castle_holding
 }
 141 = {	#
-    culture = anorothil
+    culture = anorothic
     religion = faith_anorath
     holding = castle_holding
 }
@@ -100,7 +100,7 @@
     holding = castle_holding
 }
 150 = {	#
-    culture = anorothil
+    culture = anorothic
     religion = faith_anorath
     holding = castle_holding
 }
@@ -116,7 +116,7 @@
     holding = castle_holding
 }
 154 = {	#
-    culture = anorothil
+    culture = anorothic
     religion = faith_anorath
     holding = castle_holding
 }
@@ -185,7 +185,7 @@
     holding = castle_holding
 }
 175 = {	#
-    culture = anorothil
+    culture = anorothic
     religion = faith_anorath
     holding = castle_holding
 }

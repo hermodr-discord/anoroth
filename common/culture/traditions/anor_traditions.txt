@@ -19,7 +19,7 @@ tradition_vathirin_ourapivelis = { #Vathîrin Oúrapivêlis
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_anorothil
+		has_cultural_pillar = heritage_anorothic
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -27,7 +27,7 @@ tradition_vathirin_ourapivelis = { #Vathîrin Oúrapivêlis
 		}
 	}
 	can_pick = {
-		has_cultural_pillar = heritage_anorothil
+		has_cultural_pillar = heritage_anorothic
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -105,7 +105,7 @@ tradition_right_of_anor = { #Right of Anór
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_anorothil
+		has_cultural_pillar = heritage_anorothic
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -113,7 +113,7 @@ tradition_right_of_anor = { #Right of Anór
 		}
 	}
 	can_pick = {
-		has_cultural_pillar = heritage_anorothil
+		has_cultural_pillar = heritage_anorothic
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism

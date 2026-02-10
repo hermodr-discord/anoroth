@@ -111,7 +111,7 @@
 	holding = tribal_holding
 }
 874 = {	#
-	culture = anorothil
+	culture = anorothic
 	religion = faith_anorath
 	holding = castle_holding
 }
@@ -134,7 +134,7 @@
 	holding = none
 }
 881 = {	#
-	culture = anorothil
+	culture = anorothic
 	religion = faith_atharfavrel
 	holding = church_holding
 }

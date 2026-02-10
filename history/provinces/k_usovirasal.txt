@@ -194,7 +194,7 @@
 	holding = castle_holding
 }
 612 = {	#
-	culture = anorothil
+	culture = anorothic
 	religion = faith_beronovy
 	holding = castle_holding
 }

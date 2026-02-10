@@ -179,6 +179,42 @@ e_anoroth = {
 	6091.1.1 = { # Calyreos Heliane I | 3A 1578 - 3A 1627
 		holder = saphyros9
 	}
+	6140.1.1 = { # Calyreos Tauras I | 3A 1627 - 3A 1655
+		holder = saphyros10
+	}
+	6168.1.1 = { # Calyreos Oryos II | 3A 1655 - 3A 1684
+		holder = saphyros11
+	}
+	6197.1.1 = { # Calyreos Ikaron I | 3A 1684 - 3A 1718
+		holder = saphyros12
+	}
+	6231.1.1 = { # Calyreos Ouralon I | 3A 1718 - 3A 1749
+		holder = saphyros13
+	}
+	6262.1.1 = { # Calyreos Damaron VIII | 3A 1749 - 3A 1774
+		holder = saphyros14
+	}
+	6287.1.1 = { # Calyreos Pylanes III | 3A 1774 - 3A 1802
+		holder = saphyros15
+	}
+	6315.1.1 = { # Calyreos Argantes I | 3A 1802 - 3A 1877
+		holder = saphyros20
+	}
+	6390.1.1 = { # Calyreos Aeson I | 3A 1877 - 3A 1892
+		holder = saphyros21
+	}
+	6405.1.1 = { # Calyreos Gelaros II | 3A 1892 - 3A 1916
+		holder = saphyros22
+	}
+	6429.1.1 = { # Calyreos Myron VII | 3A 1916 - 3A 1939
+		holder = saphyros23
+	}
+	6452.1.1 = { # Calyreos Lynas I | 3A 1939 - 3A 1961
+		holder = saphyros24
+	}
+	6474.1.1 = { # Placeholder
+		holder = 0
+	}
 	8107.1.1 = {
 		holder = lineofanoroth_1
 	}

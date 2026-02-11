@@ -15,40 +15,39 @@ tradition_imperial_soldiers = { #Vathîrin Oúrapivêlis (OLD NAME)
 	layers = {
 		0 = martial
 		1 = mena
-		4 = soldiers.dds
+		4 = knight.dds
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_anorothic
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+		OR = {
+			this = culture:anorothic
+			any_parent_culture_or_above = {
+				this = culture:anorothic
+			}
 		}
 	}
 	can_pick = {
-		has_cultural_pillar = heritage_anorothic
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+		OR = {
+			this = culture:anorothic
+			any_parent_culture_or_above = {
+				this = culture:anorothic
+			}
 		}
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
+		unlock_maa_anoroth_sun_knights = yes
+		unlock_maa_anoroth_legionnaires = yes
 		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
 	}
 	character_modifier = {
+		heavy_cavalry_max_size_add = 2
+		heavy_infantry_max_size_add = 2
+		counter_efficiency = 0.1
 		knight_limit = 2
 		negate_prowess_penalty_add = 5
 		accolade_glory_gain_mult = 0.2
+		glory_hound_opinion = 20
 	}
 	
 	cost = {
@@ -101,40 +100,45 @@ tradition_right_of_anor = { #Right of Anór
 	layers = {
 		0 = martial
 		1 = mena
-		4 = soldiers.dds
+		4 = speech.dds
 	}
 	
 	is_shown = {
 		has_cultural_pillar = heritage_anorothic
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+			has_cultural_tradition = tradition_ruling_caste
+			has_cultural_tradition = tradition_staunch_traditionalists
+			has_cultural_tradition = tradition_zealous_people
 		}
 	}
 	can_pick = {
 		has_cultural_pillar = heritage_anorothic
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+			has_cultural_tradition = tradition_ruling_caste
+			has_cultural_tradition = tradition_staunch_traditionalists
+			has_cultural_tradition = tradition_zealous_people
 		}
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
-		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
+		peasant_and_populist_factions_less_common = yes
+		expensive_convert_to_local_culture = yes
+		less_likely_to_promote_culture = yes
+		zealous_trait_more_common = yes
+		harder_to_convert_character_faith = yes
+		harder_to_convert_county_faith = yes
+	}
+	culture_modifier = {
+		cultural_acceptance_gain_mult = -0.25
 	}
 	character_modifier = {
-		knight_limit = 2
-		negate_prowess_penalty_add = 5
-		accolade_glory_gain_mult = 0.2
+		dread_baseline_add = 10
+		dread_decay_mult = -0.3
+		opinion_of_different_faith = -25
+		opinion_of_different_culture = -5
+		cultural_head_fascination_mult = -0.1
+		ai_zeal = 25
+		ai_boldness = 25
 	}
 	
 	cost = {

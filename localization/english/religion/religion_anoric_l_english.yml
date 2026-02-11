@@ -80,7 +80,9 @@
  anorath_religious_text:0 "Themaran Creed"
  anorath_religious_text_2:0 "$anoric_religious_text$" # Optional translation alt
  anorath_religious_text_3:0 "$anoric_religious_text$" # Optional translation alt
- anorath_religious_head_title:0 "Calyreos"
+ anorath_religious_head_title:0 "Calyreos" # Unsure if this is still needed with flavorization existing now, will keep anyway just in case because im lazy - Ramos
+ anorath_religious_head_male:0 "Calyreos"
+ anorath_religious_head_female:0 "Calyreos"
  #anorath_religious_head_title_name:0 "Anórath Church"
  anorath_devotee_male:0 "anórath"
  anorath_devotee_male_plural:0 "anóraths"

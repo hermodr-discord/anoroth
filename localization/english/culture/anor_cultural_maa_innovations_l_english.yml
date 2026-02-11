@@ -1,0 +1,5 @@
+﻿l_english:
+
+ culture_parameter_unlock_maa_anoroth_sun_knights:0 "Can recruit [GetMaA('anoroth_sun_knights').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_anoroth_legionnaires:0 "Can recruit [GetMaA('anoroth_legionnaires').GetName] as [men_at_arms|E]"
+ 

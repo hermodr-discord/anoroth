@@ -35,6 +35,7 @@ huscarl = {
 	
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 		archers = 1
 	}
 
@@ -76,6 +77,7 @@ landsknecht = {
 
 	counters = {
 		pikemen = 0.5
+		peasant_militia = 1
 		light_cavalry = 2
 		heavy_cavalry = 2
 	}
@@ -163,6 +165,7 @@ gendarme = {
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -200,6 +203,7 @@ chasseur = {
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -257,6 +261,7 @@ praetorian = {
 	
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 	}
 	
 	buy_cost = { gold = praetorian_recruitment_cost }
@@ -288,6 +293,7 @@ caballero = {
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -321,6 +327,7 @@ monaspa = {
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -364,6 +371,7 @@ cataphract = {
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -406,6 +414,7 @@ hobelar = {
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -491,8 +500,8 @@ metsanvartija = {
 horse_archers = {
 	type = archer_cavalry
 	
-	damage = 45
-	toughness = 20
+	damage = 36
+	toughness = 18
 	pursuit = 40
 	screen = 30
 	
@@ -512,7 +521,15 @@ horse_archers = {
 	}
 
 	can_recruit = {
-		valid_for_maa_trigger = { PARAMETER = unlock_maa_horse_archers }
+		OR = {
+			AND = {
+				is_landless_adventurer = yes
+				has_perk = planned_cultivation_perk
+				location.county.culture ?= { culture_has_archer_cavalry_maa = yes }
+			}
+			culture = { has_cultural_parameter = unlock_maa_horse_archers }
+			mpo_can_recruit_nomad_maa_trigger = yes
+		}
 	}
 
 	buy_cost = { gold = horse_archers_recruitment_cost }
@@ -521,7 +538,10 @@ horse_archers = {
 	provision_cost = @provisions_cost_cavalry_cheap
 	
 	stack = 100
-	ai_quality = { value = @cultural_maa_extra_ai_score }
+	ai_quality = {
+		value = @cultural_maa_extra_ai_score
+		add = 60 #I mean... they're horse archers
+	}
 	icon = horse_archers
 }
 
@@ -535,6 +555,7 @@ ayyar = {
 	
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 	}
 
 	can_recruit = {
@@ -564,6 +585,7 @@ mubarizun = {
 
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 		heavy_infantry = 1
 	}
 	
@@ -606,6 +628,7 @@ mulaththamun = { #Murabit Cavalry
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -684,7 +707,8 @@ paiks = { #Indian Footmen - carrying bows but also swords and spears.
 	
 	stack = 100
 	ai_quality = { value = @[cultural_maa_extra_ai_score - 40] }
-	icon = bowmen
+
+	icon = paiks
 }
 
 druzhina = {
@@ -697,6 +721,7 @@ druzhina = {
 	
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 	}
 
 	can_recruit = {
@@ -735,6 +760,7 @@ hussar = {
 
 	counters = {
 		archers = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -860,6 +886,7 @@ garudas = {
 	
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 		archers = 1
 	}
 	
@@ -880,7 +907,8 @@ garudas = {
 	
 	stack = 100
 	ai_quality = { value = @cultural_maa_extra_ai_score }
-	icon = heavy_infantry
+
+	icon = garudas
 }
 
 khandayat = {
@@ -898,6 +926,7 @@ khandayat = {
 	counters = {
 		light_cavalry = 1
 		pikemen = 1
+		peasant_militia = 2
 	}
 	
 	can_recruit = {
@@ -914,7 +943,8 @@ khandayat = {
 	
 	stack = 100
 	ai_quality = { value = @cultural_maa_extra_ai_score }
-	icon = heavy_infantry
+
+	icon = khandayat
 }
 
 mountaineer = {
@@ -932,6 +962,7 @@ mountaineer = {
 	
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 	}
 
 	winter_bonus = {
@@ -953,7 +984,8 @@ mountaineer = {
 	
 	stack = 100
 	ai_quality = { value = @cultural_maa_extra_ai_score }
-	icon = heavy_infantry
+
+	icon = mountaineer
 }
 
 sahel_horsemen = {
@@ -978,6 +1010,7 @@ sahel_horsemen = {
 	counters = {
 		archers = 1
 		heavy_infantry = 1
+		gunpowder = 1
 	}
 
 	winter_bonus = {
@@ -1107,6 +1140,7 @@ zbrojnosh = {
 
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 		archers = 1
 	}
 	
@@ -1142,6 +1176,7 @@ palace_guards = {
 	
 	counters = {
 		pikemen = 2
+		peasant_militia = 4
 	}
 
 	can_recruit = {
@@ -1158,36 +1193,46 @@ palace_guards = {
 	
 	stack = 100
 	ai_quality = { value = @cultural_maa_extra_ai_score }
-	icon = heavy_infantry
+
+	icon = palace_guards
 }
 
-chu_ko_nu = {
+shenbigong = {
 	type = archers
 	
-	damage = 30
-	toughness = 20
+	damage = 44
+	toughness = 18
 	pursuit = 0
 	screen = 0
 	
 	terrain_bonus = {
 		hills = { damage = 10 toughness = 4 }
 		mountains = { damage = 8 toughness = 2 }
-		desert_mountains = { damage = 8 toughness = 2 }
+		plains = { toughness = -8 }
+		drylands = { toughness = -8 }
+		desert = { toughness = -8 }
+		steppe = { toughness = -8 }
 	}
 	
 	counters = {
-		skirmishers = 1
-		archer_cavalry = 0.5
+		heavy_infantry = 1.25
+		heavy_cavalry = 1.25
+		pikemen = 1
+		peasant_militia = 2
 	}
 	
-	buy_cost = { gold = chu_ko_nu_recruitment_cost }
-	low_maintenance_cost = { gold = chu_ko_nu_low_maint_cost }
-	high_maintenance_cost = { gold = chu_ko_nu_high_maint_cost }
+	buy_cost = { gold = shenbigong_recruitment_cost }
+	low_maintenance_cost = { gold = shenbigong_low_maint_cost }
+	high_maintenance_cost = { gold = shenbigong_high_maint_cost }
 	provision_cost = @provisions_cost_infantry_expensive
 	
 	stack = 100
-	ai_quality = { value = @cultural_maa_extra_ai_score }
-	icon = crossbowmen
+	ai_quality = {
+		value = counter_synergy_ai_weight_crossbowmen
+		add = @cultural_maa_extra_ai_score
+	}
+
+	icon = shenbigong
 }
 
 guanch_vaulter = {

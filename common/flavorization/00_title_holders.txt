@@ -2,6 +2,30 @@
 #############################################
 
 # Religious Titles
+
+anorath_religious_head_male = {
+	type = character
+	gender = male
+	special = head_of_faith
+	priority = 5000
+	flavourization_rules = { 
+		top_liege = no
+	}
+	faith = anorath
+}
+
+anorath_religious_head_female = {
+	type = character
+	gender = female
+	special = head_of_faith
+	priority = 5000
+	flavourization_rules = { 
+		top_liege = no
+	}
+	faith = anorath
+}
+
+
 head_of_faith_male = {
 	type = character
 	gender = male

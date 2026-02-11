@@ -291,6 +291,93 @@ e_anoroth = {
 	7084.1.1 = { # Second Interregnum | 3A 2571 - 3A 2624
 		holder = 0
 	}
+	7137.1.1 = { # Calyreos Argyros I | 3A 2624 - 3A 2662
+		holder = argyrian1
+	}
+	7175.1.1 = { # Calyreos Pylon I | 3A 2662 - 3A 2683
+		holder = argyrian2
+	}
+	7196.1.1 = { # Calyreos Theras II | 3A 2683 - 3A 2707
+		holder = argyrian3
+	}
+	7220.1.1 = { # Calyreos Valos II | 3A 2707 - 3A 2722
+		holder = argyrian4
+	}
+	7235.1.1 = { # Calyreos Ektaron IV | 3A 2722 - 3A 2747
+		holder = argyrian5
+	}
+	7260.1.1 = { # Calyreos Ouralon III | 3A 2747 - 3A 2772
+		holder = argyrian6
+	}
+	7285.1.1 = { # Calyreos Damaron XII | 3A 2772 - 3A 2793
+		holder = argyrian7
+	}
+	7306.1.1 = { # Calyreos Ceneros I | 3A 2793 - 3A 2822
+		holder = argyrian8
+	}
+	7335.1.1 = { # Calyreos Iaron II | 3A 2822 - 3A 2841
+		holder = argyrian9
+	}
+	7354.1.1 = { # Calyreos Lyranos I | 3A 2841 - 3A 2855
+		holder = argyrian10
+	}
+	7368.1.1 = { # Calyreos Lykan V | 3A 2855 - 3A 2902
+		holder = argyrian11
+	}
+	7415.1.1 = { # Calyreos Valeron II | 3A 2902 - 3A 2922
+		holder = argyrian12
+	}
+	7435.1.1 = { # Calyreos Aeson III | 3A 2922 - 3A 2948
+		holder = argyrian13
+	}
+	7461.1.1 = { # Calyreos Chaeron I | 3A 2948 - 3A 2979
+		holder = argyrian14
+	}
+	7492.1.1 = { # Calyreos Rymon I | 3A 2979 - 3A 2988
+		holder = argyrian15
+	}
+	7501.1.1 = { # Calyreos Lyranos II | 3A 2988 - 3A 3012
+		holder = argyrian16
+	}
+	7525.1.1 = { # Calyreos Aphyron I | 3A 3012 - 3A 3018
+		holder = argyrian17
+	}
+	7531.1.1 = { # Calyreos Aphyron II | 3A 3018 - 3A 3073
+		holder = argyrian18
+	}
+	7586.1.1 = { # Calyreos Eryon I | 3A 3073 - 3A 3087
+		holder = argyrian19
+	}
+	7600.1.1 = { # Calyreos Nyros I | 3A 3087 - 3A 3114
+		holder = argyrian20
+	}
+	7627.1.1 = { # Calyreos Damaron XIII | 3A 3114 - 3A 3132
+		holder = argyrian21
+	}
+	7645.1.1 = { # Calyreos Kastanos III | 3A 3132 - 3A 3137
+		holder = argyrian22
+	}
+	7650.1.1 = { # Calyreos Lykaron I | 3A 3137 - 3A 3174
+		holder = argyrian23
+	}
+	7687.1.1 = { # Calyreos Arthanes I | 3A 3174 - 3A 3177
+		holder = argyrian24
+	}
+	7690.1.1 = { # Calyreos Damaron XIV | 3A 3177 - 3A 3189
+		holder = argyrian25
+	}
+	7702.1.1 = { # Calyreos Zephyron I | 3A 3189 - 3A 3191
+		holder = argyrian26
+	}
+	7704.1.1 = { # Calyreos Nikaron IV | 3A 3191 - 3A 3202
+		holder = argyrian36
+	}
+	7715.1.1 = { # Calyreos Estaros I | 3A 3202 - 3A 3209
+		holder = argyrian40
+	}
+	7722.1.1 = { # Third Interregnum | 3A 3209 - 3A 3291
+		holder = 0
+	}
 	8107.1.1 = {
 		holder = lineofanoroth1
 	}
@@ -587,6 +674,93 @@ k_anorzehilas = {
 		holder = arcerin45
 	}
 	7084.1.1 = { # Second Interregnum | 3A 2571 - 3A 2624
+		holder = 0
+	}
+	7137.1.1 = { # Calyreos Argyros I | 3A 2624 - 3A 2662
+		holder = argyrian1
+	}
+	7175.1.1 = { # Calyreos Pylon I | 3A 2662 - 3A 2683
+		holder = argyrian2
+	}
+	7196.1.1 = { # Calyreos Theras II | 3A 2683 - 3A 2707
+		holder = argyrian3
+	}
+	7220.1.1 = { # Calyreos Valos II | 3A 2707 - 3A 2722
+		holder = argyrian4
+	}
+	7235.1.1 = { # Calyreos Ektaron IV | 3A 2722 - 3A 2747
+		holder = argyrian5
+	}
+	7260.1.1 = { # Calyreos Ouralon III | 3A 2747 - 3A 2772
+		holder = argyrian6
+	}
+	7285.1.1 = { # Calyreos Damaron XII | 3A 2772 - 3A 2793
+		holder = argyrian7
+	}
+	7306.1.1 = { # Calyreos Ceneros I | 3A 2793 - 3A 2822
+		holder = argyrian8
+	}
+	7335.1.1 = { # Calyreos Iaron II | 3A 2822 - 3A 2841
+		holder = argyrian9
+	}
+	7354.1.1 = { # Calyreos Lyranos I | 3A 2841 - 3A 2855
+		holder = argyrian10
+	}
+	7368.1.1 = { # Calyreos Lykan V | 3A 2855 - 3A 2902
+		holder = argyrian11
+	}
+	7415.1.1 = { # Calyreos Valeron II | 3A 2902 - 3A 2922
+		holder = argyrian12
+	}
+	7435.1.1 = { # Calyreos Aeson III | 3A 2922 - 3A 2948
+		holder = argyrian13
+	}
+	7461.1.1 = { # Calyreos Chaeron I | 3A 2948 - 3A 2979
+		holder = argyrian14
+	}
+	7492.1.1 = { # Calyreos Rymon I | 3A 2979 - 3A 2988
+		holder = argyrian15
+	}
+	7501.1.1 = { # Calyreos Lyranos II | 3A 2988 - 3A 3012
+		holder = argyrian16
+	}
+	7525.1.1 = { # Calyreos Aphyron I | 3A 3012 - 3A 3018
+		holder = argyrian17
+	}
+	7531.1.1 = { # Calyreos Aphyron II | 3A 3018 - 3A 3073
+		holder = argyrian18
+	}
+	7586.1.1 = { # Calyreos Eryon I | 3A 3073 - 3A 3087
+		holder = argyrian19
+	}
+	7600.1.1 = { # Calyreos Nyros I | 3A 3087 - 3A 3114
+		holder = argyrian20
+	}
+	7627.1.1 = { # Calyreos Damaron XIII | 3A 3114 - 3A 3132
+		holder = argyrian21
+	}
+	7645.1.1 = { # Calyreos Kastanos III | 3A 3132 - 3A 3137
+		holder = argyrian22
+	}
+	7650.1.1 = { # Calyreos Lykaron I | 3A 3137 - 3A 3174
+		holder = argyrian23
+	}
+	7687.1.1 = { # Calyreos Arthanes I | 3A 3174 - 3A 3177
+		holder = argyrian24
+	}
+	7690.1.1 = { # Calyreos Damaron XIV | 3A 3177 - 3A 3189
+		holder = argyrian25
+	}
+	7702.1.1 = { # Calyreos Zephyron I | 3A 3189 - 3A 3191
+		holder = argyrian26
+	}
+	7704.1.1 = { # Calyreos Nikaron IV | 3A 3191 - 3A 3202
+		holder = argyrian36
+	}
+	7715.1.1 = { # Calyreos Estaros I | 3A 3202 - 3A 3209
+		holder = argyrian40
+	}
+	7722.1.1 = { # Third Interregnum | 3A 3209 - 3A 3291
 		holder = 0
 	}
 	8107.1.1 = {
@@ -887,6 +1061,93 @@ d_anorzehilas = {
 	7084.1.1 = { # Second Interregnum | 3A 2571 - 3A 2624
 		holder = 0
 	}
+	7137.1.1 = { # Calyreos Argyros I | 3A 2624 - 3A 2662
+		holder = argyrian1
+	}
+	7175.1.1 = { # Calyreos Pylon I | 3A 2662 - 3A 2683
+		holder = argyrian2
+	}
+	7196.1.1 = { # Calyreos Theras II | 3A 2683 - 3A 2707
+		holder = argyrian3
+	}
+	7220.1.1 = { # Calyreos Valos II | 3A 2707 - 3A 2722
+		holder = argyrian4
+	}
+	7235.1.1 = { # Calyreos Ektaron IV | 3A 2722 - 3A 2747
+		holder = argyrian5
+	}
+	7260.1.1 = { # Calyreos Ouralon III | 3A 2747 - 3A 2772
+		holder = argyrian6
+	}
+	7285.1.1 = { # Calyreos Damaron XII | 3A 2772 - 3A 2793
+		holder = argyrian7
+	}
+	7306.1.1 = { # Calyreos Ceneros I | 3A 2793 - 3A 2822
+		holder = argyrian8
+	}
+	7335.1.1 = { # Calyreos Iaron II | 3A 2822 - 3A 2841
+		holder = argyrian9
+	}
+	7354.1.1 = { # Calyreos Lyranos I | 3A 2841 - 3A 2855
+		holder = argyrian10
+	}
+	7368.1.1 = { # Calyreos Lykan V | 3A 2855 - 3A 2902
+		holder = argyrian11
+	}
+	7415.1.1 = { # Calyreos Valeron II | 3A 2902 - 3A 2922
+		holder = argyrian12
+	}
+	7435.1.1 = { # Calyreos Aeson III | 3A 2922 - 3A 2948
+		holder = argyrian13
+	}
+	7461.1.1 = { # Calyreos Chaeron I | 3A 2948 - 3A 2979
+		holder = argyrian14
+	}
+	7492.1.1 = { # Calyreos Rymon I | 3A 2979 - 3A 2988
+		holder = argyrian15
+	}
+	7501.1.1 = { # Calyreos Lyranos II | 3A 2988 - 3A 3012
+		holder = argyrian16
+	}
+	7525.1.1 = { # Calyreos Aphyron I | 3A 3012 - 3A 3018
+		holder = argyrian17
+	}
+	7531.1.1 = { # Calyreos Aphyron II | 3A 3018 - 3A 3073
+		holder = argyrian18
+	}
+	7586.1.1 = { # Calyreos Eryon I | 3A 3073 - 3A 3087
+		holder = argyrian19
+	}
+	7600.1.1 = { # Calyreos Nyros I | 3A 3087 - 3A 3114
+		holder = argyrian20
+	}
+	7627.1.1 = { # Calyreos Damaron XIII | 3A 3114 - 3A 3132
+		holder = argyrian21
+	}
+	7645.1.1 = { # Calyreos Kastanos III | 3A 3132 - 3A 3137
+		holder = argyrian22
+	}
+	7650.1.1 = { # Calyreos Lykaron I | 3A 3137 - 3A 3174
+		holder = argyrian23
+	}
+	7687.1.1 = { # Calyreos Arthanes I | 3A 3174 - 3A 3177
+		holder = argyrian24
+	}
+	7690.1.1 = { # Calyreos Damaron XIV | 3A 3177 - 3A 3189
+		holder = argyrian25
+	}
+	7702.1.1 = { # Calyreos Zephyron I | 3A 3189 - 3A 3191
+		holder = argyrian26
+	}
+	7704.1.1 = { # Calyreos Nikaron IV | 3A 3191 - 3A 3202
+		holder = argyrian36
+	}
+	7715.1.1 = { # Calyreos Estaros I | 3A 3202 - 3A 3209
+		holder = argyrian40
+	}
+	7722.1.1 = { # Third Interregnum | 3A 3209 - 3A 3291
+		holder = 0
+	}
 	8107.1.1 = {
 		holder = lineofanoroth1
 	}
@@ -1183,6 +1444,93 @@ c_anorzehilas = {
 		holder = arcerin45
 	}
 	7084.1.1 = { # Second Interregnum | 3A 2571 - 3A 2624
+		holder = 0
+	}
+	7137.1.1 = { # Calyreos Argyros I | 3A 2624 - 3A 2662
+		holder = argyrian1
+	}
+	7175.1.1 = { # Calyreos Pylon I | 3A 2662 - 3A 2683
+		holder = argyrian2
+	}
+	7196.1.1 = { # Calyreos Theras II | 3A 2683 - 3A 2707
+		holder = argyrian3
+	}
+	7220.1.1 = { # Calyreos Valos II | 3A 2707 - 3A 2722
+		holder = argyrian4
+	}
+	7235.1.1 = { # Calyreos Ektaron IV | 3A 2722 - 3A 2747
+		holder = argyrian5
+	}
+	7260.1.1 = { # Calyreos Ouralon III | 3A 2747 - 3A 2772
+		holder = argyrian6
+	}
+	7285.1.1 = { # Calyreos Damaron XII | 3A 2772 - 3A 2793
+		holder = argyrian7
+	}
+	7306.1.1 = { # Calyreos Ceneros I | 3A 2793 - 3A 2822
+		holder = argyrian8
+	}
+	7335.1.1 = { # Calyreos Iaron II | 3A 2822 - 3A 2841
+		holder = argyrian9
+	}
+	7354.1.1 = { # Calyreos Lyranos I | 3A 2841 - 3A 2855
+		holder = argyrian10
+	}
+	7368.1.1 = { # Calyreos Lykan V | 3A 2855 - 3A 2902
+		holder = argyrian11
+	}
+	7415.1.1 = { # Calyreos Valeron II | 3A 2902 - 3A 2922
+		holder = argyrian12
+	}
+	7435.1.1 = { # Calyreos Aeson III | 3A 2922 - 3A 2948
+		holder = argyrian13
+	}
+	7461.1.1 = { # Calyreos Chaeron I | 3A 2948 - 3A 2979
+		holder = argyrian14
+	}
+	7492.1.1 = { # Calyreos Rymon I | 3A 2979 - 3A 2988
+		holder = argyrian15
+	}
+	7501.1.1 = { # Calyreos Lyranos II | 3A 2988 - 3A 3012
+		holder = argyrian16
+	}
+	7525.1.1 = { # Calyreos Aphyron I | 3A 3012 - 3A 3018
+		holder = argyrian17
+	}
+	7531.1.1 = { # Calyreos Aphyron II | 3A 3018 - 3A 3073
+		holder = argyrian18
+	}
+	7586.1.1 = { # Calyreos Eryon I | 3A 3073 - 3A 3087
+		holder = argyrian19
+	}
+	7600.1.1 = { # Calyreos Nyros I | 3A 3087 - 3A 3114
+		holder = argyrian20
+	}
+	7627.1.1 = { # Calyreos Damaron XIII | 3A 3114 - 3A 3132
+		holder = argyrian21
+	}
+	7645.1.1 = { # Calyreos Kastanos III | 3A 3132 - 3A 3137
+		holder = argyrian22
+	}
+	7650.1.1 = { # Calyreos Lykaron I | 3A 3137 - 3A 3174
+		holder = argyrian23
+	}
+	7687.1.1 = { # Calyreos Arthanes I | 3A 3174 - 3A 3177
+		holder = argyrian24
+	}
+	7690.1.1 = { # Calyreos Damaron XIV | 3A 3177 - 3A 3189
+		holder = argyrian25
+	}
+	7702.1.1 = { # Calyreos Zephyron I | 3A 3189 - 3A 3191
+		holder = argyrian26
+	}
+	7704.1.1 = { # Calyreos Nikaron IV | 3A 3191 - 3A 3202
+		holder = argyrian36
+	}
+	7715.1.1 = { # Calyreos Estaros I | 3A 3202 - 3A 3209
+		holder = argyrian40
+	}
+	7722.1.1 = { # Third Interregnum | 3A 3209 - 3A 3291
 		holder = 0
 	}
 	8107.1.1 = {

@@ -1123,6 +1123,66 @@ vasylidon19 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
+vasylidon20 = {
+	name = Lykan
+	dynasty = vasylidon
+	religion = anorath
+	culture = anorothic
+
+	father = vasylidon15
+
+	5948.1.1 = {
+		birth = yes
+	}
+	6000.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+vasylidon21 = {
+	name = Alkaros
+	dynasty = vasylidon
+	religion = anorath
+	culture = anorothic
+
+	father = vasylidon20
+
+	5965.1.1 = {
+		birth = yes
+	}
+	6026.1.1 = {
+		death = { death_reason = death_stress }
+	}
+}
+vasylidon22 = {
+	name = Myron
+	dynasty = vasylidon
+	religion = anorath
+	culture = anorothic
+
+	father = vasylidon21
+
+	5982.1.1 = {
+		birth = yes
+	}
+	6008.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+vasylidon23 = {
+	name = Ektaron
+	dynasty = vasylidon
+	religion = anorath
+	culture = anorothic
+
+	father = vasylidon22
+
+	5998.1.1 = {
+		birth = yes
+	}
+	6077.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
 ## House Saphyros (Emperors 3A 1578 - 3A 1961)
 saphyros1 = {
 	name = Saphyras
@@ -1551,7 +1611,684 @@ saphyros28 = {
 		death = { death_reason = death_execution }
 	}
 }
+## House Arcerin (Emperors 3A 1961 - 3A 2571)
+arcerin1 = {
+	name = Ophyron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
 
+	father = vasylidon23
+
+	6030.1.1 = {
+		birth = yes
+	}
+	6103.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin2 = {
+	name = Talyron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin1
+
+	6053.1.1 = {
+		birth = yes
+	}
+	6121.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin3 = {
+	name = Lynas
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin2
+
+	6081.1.1 = {
+		birth = yes
+	}
+	6164.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin4 = {
+	name = Damaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin3
+
+	6102.1.1 = {
+		birth = yes
+	}
+	6176.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin5 = {
+	name = Aeson
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin4
+
+	6126.1.1 = {
+		birth = yes
+	}
+	6197.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin6 = {
+	name = Ikaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin5
+
+	6149.1.1 = {
+		birth = yes
+	}
+	6223.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin7 = {
+	name = Damaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin6
+
+	6170.1.1 = {
+		birth = yes
+	}
+	6239.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin8 = {
+	name = Ektaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin7
+
+	6193.1.1 = {
+		birth = yes
+	}
+	6271.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin9 = {
+	name = Tyros
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin8
+
+	6229.1.1 = {
+		birth = yes
+	}
+	6301.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin10 = {
+	name = Myron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin9
+
+	6250.1.1 = {
+		birth = yes
+	}
+	6326.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin11 = {
+	name = Estaros
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin10
+
+	6279.1.1 = {
+		birth = yes
+	}
+	6347.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin12 = {
+	name = Valeron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin11
+
+	6305.1.1 = {
+		birth = yes
+	}
+	6383.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin13 = {
+	name = Arthanes
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin12
+
+	6326.1.1 = {
+		birth = yes
+	}
+	6400.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin14 = {
+	name = Alkaros
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin13
+
+	6355.1.1 = {
+		birth = yes
+	}
+	6428.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin15 = {
+	name = Ophyron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin14
+
+	6387.1.1 = {
+		birth = yes
+	}
+	6458.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin16 = {
+	name = Tyran
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin15
+
+	6410.1.1 = {
+		birth = yes
+	}
+	6484.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin17 = {
+	name = Damaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin16
+
+	6432.1.1 = {
+		birth = yes
+	}
+	6511.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin18 = {
+	name = Lysaros
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin17
+
+	6467.1.1 = {
+		birth = yes
+	}
+	6540.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin19 = {
+	name = Ouralon
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin18
+
+	6498.1.1 = {
+		birth = yes
+	}
+	6551.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin20 = {
+	name = Valeron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin19
+
+	6525.1.1 = {
+		birth = yes
+	}
+	6597.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin21 = {
+	name = Theron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin20
+
+	6552.1.1 = {
+		birth = yes
+	}
+	6628.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin22 = {
+	name = Nikaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin21
+
+	6584.1.1 = {
+		birth = yes
+	}
+	6661.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin23 = {
+	name = Lyrandos
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin22
+
+	6616.1.1 = {
+		birth = yes
+	}
+	6690.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin24 = {
+	name = Aeson
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin23
+
+	6648.1.1 = {
+		birth = yes
+	}
+	6704.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin25 = {
+	name = Kastanos
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin24
+
+	6681.1.1 = {
+		birth = yes
+	}
+	6715.1.1 = {
+		death = { death_reason = death_ill }
+	}
+}
+arcerin26 = {
+	name = Lykan
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin24
+
+	6684.1.1 = {
+		birth = yes
+	}
+	6756.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin27 = {
+	name = Valos
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin26
+
+	6712.1.1 = {
+		birth = yes
+	}
+	6790.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin28 = {
+	name = Korylas
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin27
+
+	6734.1.1 = {
+		birth = yes
+	}
+	6804.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin29 = {
+	name = Eryon
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin28
+
+	6765.1.1 = {
+		birth = yes
+	}
+	6823.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin30 = {
+	name = Damaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin29
+
+	6794.1.1 = {
+		birth = yes
+	}
+	6875.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin31 = {
+	name = Ektaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin30
+
+	6820.1.1 = {
+		birth = yes
+	}
+	6893.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin32 = {
+	name = Eratos
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin31
+
+	6845.1.1 = {
+		birth = yes
+	}
+	6920.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin33 = {
+	name = Lykan
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin32
+
+	6867.1.1 = {
+		birth = yes
+	}
+	6946.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin34 = {
+	name = Lysaros
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin33
+
+	6897.1.1 = {
+		birth = yes
+	}
+	6969.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin35 = {
+	name = Lykan
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin34
+
+	6924.1.1 = {
+		birth = yes
+	}
+	6981.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin36 = {
+	name = Tyran
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin35
+
+	6946.1.1 = {
+		birth = yes
+	}
+	6968.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin37 = {
+	name = Ophyron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin35
+
+	6949.1.1 = {
+		birth = yes
+	}
+	6974.1.1 = {
+		death = { death_reason = death_suicide }
+	}
+}
+arcerin38 = {
+	name = Eryon
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin35
+
+	6955.1.1 = {
+		birth = yes
+	}
+	6972.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin39 = {
+	name = Karythia
+	female = yes
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin33
+
+	6901.1.1 = {
+		birth = yes
+	}
+	6980.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin40 = {
+	name = Nikara
+	female = yes
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	mother = arcerin39
+
+	6932.1.1 = {
+		birth = yes
+	}
+	7020.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin41 = {
+	name = Iaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	mother = arcerin40
+
+	6954.1.1 = {
+		birth = yes
+	}
+	7031.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin42 = {
+	name = Damaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin41
+
+	6980.1.1 = {
+		birth = yes
+	}
+	7052.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+arcerin43 = {
+	name = Sanaron
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin42
+
+	7009.1.1 = {
+		birth = yes
+	}
+	7058.1.1 = {
+		death = { death_reason = death_assassination }
+	}
+}
+arcerin44 = {
+	name = Rynatos
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin43
+
+	7034.1.1 = {
+		birth = yes
+	}
+	7076.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+arcerin45 = {
+	name = Eratos
+	dynasty = arcerin
+	religion = anorath
+	culture = anorothic
+
+	father = arcerin44
+
+	7060.1.1 = {
+		birth = yes
+	}
+	7084.1.1 = {
+		death = { death_reason = death_assassination }
+	}
+}
 
 lineofanoroth1 = {
 	name = "Ouralon"

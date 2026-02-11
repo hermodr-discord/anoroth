@@ -6,6 +6,18 @@ vasylidon = { # Second Imperial Dynasty of Anóroth | Reigned 3A 1047 - 3A 1578
 	name = "dynn_Vasylidon"
 	culture = "anorothic"
 }
+arcerin = { # Fourth Imperial Dynasty of Anóroth | Reigned 3A 1961 - 3A 2571
+	name = "dynn_Arcerin"
+	culture = "anorothic"
+}
+argyrian = { # Fifth Imperial Dynasty of Anóroth | Reigned 3A 2624 - 3A 3207
+	name = "dynn_Argyrian"
+	culture = "anorothic"
+}
+atyrin = { # Sixth Imperial Dynasty of Anóroth | Reigned 3A 3291 - 3A 3719
+	name = "dynn_Atyrin"
+	culture = "anorothic"
+}
 
 anoroth6 = {
 	name = "dynn_Ourimetanil"

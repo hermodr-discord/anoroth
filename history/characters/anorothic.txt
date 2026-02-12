@@ -3051,13 +3051,349 @@ argyrian40 = {
 		death = { death_reason = death_murder }
 	}
 }
+argyrian41 = {
+	name = Arthanes
+	dynasty = argyrian
+	religion = anorath
+	culture = anorothic
 
-lineofanoroth1 = {
-	name = "Ouralon"
-	dynasty = anoroth6
+	father = argyrian20
+
+	7589.1.1 = {
+		birth = yes
+	}
+	7660.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+argyrian42 = {
+	name = Aphyron
+	dynasty = argyrian
+	religion = anorath
+	culture = anorothic
+
+	father = argyrian41
+
+	7614.1.1 = {
+		birth = yes
+	}
+	7687.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+argyrian43 = {
+	name = Aeson
+	dynasty = argyrian
+	religion = anorath
+	culture = anorothic
+
+	father = argyrian42
+
+	7639.1.1 = {
+		birth = yes
+	}
+	7717.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+argyrian44 = {
+	name = Lykan
+	dynasty = argyrian
+	religion = anorath
+	culture = anorothic
+
+	father = argyrian43
+
+	7672.1.1 = {
+		birth = yes
+	}
+	7746.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+argyrian45 = {
+	name = Valeros
+	dynasty = argyrian
+	religion = anorath
+	culture = anorothic
+
+	father = argyrian44
+
+	7705.1.1 = {
+		birth = yes
+	}
+	7787.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+argyrian46 = {
+	name = Ekarios
+	dynasty = argyrian
+	religion = anorath
+	culture = anorothic
+
+	father = argyrian45
+
+	7729.1.1 = {
+		birth = yes
+	}
+	7775.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+
+## House Atyrin (Emperors 3A 3291 - 3A 3719)
+atyrin1 = {
+	name = Kaesaros
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = argyrian46
+
+	7755.1.1 = {
+		birth = yes
+	}
+	7829.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+atyrin2 = {
+	name = Thalanes
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin1
+
+	7789.1.1 = {
+		birth = yes
+	}
+	7865.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+atyrin3 = {
+	name = Aphyron
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin2
+
+	7814.1.1 = {
+		birth = yes
+	}
+	7872.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin4 = {
+	name = Damaron
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin2
+
+	7817.1.1 = {
+		birth = yes
+	}
+	7872.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin5 = {
+	name = Kaesaros
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin3
+
+	7840.1.1 = {
+		birth = yes
+	}
+	7872.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin6 = {
+	name = Taryas
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin3
+
+	7844.1.1 = {
+		birth = yes
+	}
+	7872.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin7 = {
+	name = Lykan
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin3
+
+	7853.1.1 = {
+		birth = yes
+	}
+	7926.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+atyrin8 = {
+	name = Kyros
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin7
+
+	trait = smallpox
+
+	7879.1.1 = {
+		birth = yes
+	}
+	7942.1.1 = {
+		death = { death_reason = death_smallpox }
+	}
+}
+atyrin9 = {
+	name = Arthanos
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin8
+
+	7904.1.1 = {
+		birth = yes
+	}
+	7953.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin10 = {
+	name = Ektaron
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin9
+
+	7934.1.1 = {
+		birth = yes
+	}
+	7972.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin11 = {
+	name = Aphyron
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin9
+
+	7936.1.1 = {
+		birth = yes
+	}
+	7953.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin12 = {
+	name = Damaron
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin10
+
+	7960.1.1 = {
+		birth = yes
+	}
+	8021.1.1 = {
+		death = { death_reason = death_assassination }
+	}
+}
+atyrin13 = {
+	name = Valos
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin12
+
+	7983.1.1 = {
+		birth = yes
+	}
+	8059.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+atyrin14 = {
+	name = Taryas
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin13
+
+	8005.1.1 = {
+		birth = yes
+	}
+	8075.1.1 = {
+		death = { death_reason = death_natural_causes }
+	}
+}
+atyrin15 = {
+	name = Damaron
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin14
+
+	8029.1.1 = {
+		birth = yes
+	}
+	8086.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin16 = {
+	name = Kalthara
+	female = yes
+	dynasty = atyrin
+	religion = anorath
+	culture = anorothic
+
+	father = atyrin15
+
+	8052.1.1 = {
+		birth = yes
+	}
+	8107.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+atyrin17 = {
+	name = Ouralon
+	dynasty = atyrin
 	religion = anorath
 	culture = anorothic
 	dna = ouranovor
+
+	mother = atyrin16
 
 	diplomacy = 8
 	martial = 10

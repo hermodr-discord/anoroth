@@ -10,7 +10,7 @@
 	# Calyreos Ouralon IV Atyrin
 	character = {
 		name = "bookmark_anoroth_emperor_ouranovor"
-		dynasty = anoroth6
+		dynasty = atyrin
 		dynasty_splendor_level = 1
 		type = male
 		birth = 8078.1.1
@@ -19,7 +19,7 @@
 		culture = anorothic
 		religion = anorath
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
-		history_id = lineofanoroth_1
+		history_id = atyrin17
 		position = { 250 750 }
 
 		animation = happiness

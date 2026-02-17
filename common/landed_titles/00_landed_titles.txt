@@ -6,459 +6,477 @@
 e_anoroth = { # Anóroth
     color = { 199 2 17 }
 
-    capital = c_anorzehilas
+    capital = c_anorcedia
 
-    k_anorzehilas = { # Anórzehílas
+    k_anorcedia = { # Anórcedia
         color = { 199 2 17 }
 
-        capital = c_anorzehilas
+        capital = c_anorcedia
 
-        d_anorzehilas = { # Anórzehílas
+        d_anorcedia = { # Anórcedia
             color = { 199 2 17 }
 
-            capital = c_anorzehilas
+            capital = c_anorcedia
 
-            c_anorzehilas = { # Anórzehílas
+            c_anorcedia = { # Anórcedia
                 color = { 199 2 17 }
 
-                b_anorzehilas = { # Anórzehílas
+                b_anorcedia = { # Anórcedia
                     province = 1
                     color = { 199 2 17 }
                 }
-                b_athelzehilas = { # Athélzehílas
+                b_helioreia = { # Helioreia
                     province = 2
                     color = { 220 17 7 }
                 }
-                b_province_3 = {
+                b_melethyon = { # Meléthyon
                     province = 3
                     color = { 230 49 77 }
                 }
-                b_province_4 = {
+                b_ilyselos = { # Ilyselos
                     province = 4
                     color = { 212 17 65 }
                 }
-                b_selthavae = { # Selthavaë
+                b_panthalos = { # Panthalos
                     province = 5
                     color = { 246 18 51 }
                 }
-                b_isfaroth = { # Isfároth
+                b_thessadia = { # Thessadia
                     province = 6
                     color = { 212 17 38 }
                 }
-                b_thronevonur = { # Bálgrenvónur
+                b_erytheia = { # Erytheia
                     province = 7
                     color = { 239 17 65 }
                 }
             }
-			c_county_1 = {
+			c_anthelyon = { # Anthelyon
 				color = { 133 21 30 }
 
-				b_province_10 = {
+				b_anthelyon = { # Anthelyon
 					province = 10
 					color = { 133 21 30 }
 				}
-				b_province_8 = {
+				b_tharothos = { # Tharothos
 					province = 8
 					color = { 140 47 64 }
 				}
-				b_province_9 = {
+				b_panolythos = { # Panolythos
 					province = 9
 					color = { 225 48 48 }
 				}
-				b_province_11 = {
+				b_erythora = { # Erythora
 					province = 11
 					color = { 174 0 59 }
 				}
 			}
-			c_county_2 = {
+			c_herasyon = { # Herásyon
 				color = { 241 18 57 }
 			
-				b_province_14 = {
+				b_herasyon = { # Herásyon
 					province = 14
 					color = { 241 18 57 }
 				}
-				b_province_12 = {
+				b_anoloros = { # Anoloros
 					province = 12
 					color = { 220 27 16 }
 				}
-				b_province_13 = {
+				b_orantheia = { # Orantheia
 					province = 13
 					color = { 241 21 16 }
 				}
-				b_province_15 = {
+				b_kalasyon = { # Kalasyon
 					province = 15
 					color = { 229 9 31 }
 				}
-				b_province_16 = {
+				b_syphasyon = { # Syphasyon
 					province = 16
 					color = { 246 18 24 }
 				}
 			}
-			c_county_3 = {
+			c_thyrelos = { # Thyrelos
 				color = { 241 17 32 }
 			
-				b_province_20 = {
+				b_thyrelos = { # Thyrelos
 					province = 20
 					color = { 241 17 32 }
 				}
-				b_province_17 = {
+				b_helora = { # Hélora
 					province = 17
 					color = { 226 29 44 }
 				}
-				b_province_18 = {
+				b_anorethion = { # Anórethion
 					province = 18
 					color = { 239 44 65 }
 				}
-				b_province_19 = {
+				b_ilythekaros = { # Ilythekaros
 					province = 19
 					color = { 229 5 20 }
 				}
 			}
         }
     }
-	k_fimorilan = { # Fimorílan
+	k_artoneia = { # Artoneia
         color = { 176 76 147 }
-        capital = c_county_4
+        capital = c_syphoreion
+        cultural_names = {
+            name_list_helyv = cn_erdohaj
+        }
 
-        d_duchy_1 = {
+        d_syphoreia = { # Syphoreia
             color = { 125 10 89 }
-            capital = c_county_4
+            capital = c_syphoreion
 
-            c_county_4 = {
+            c_syphoreion = { # Syphoreion
                 color = { 125 10 89 }
 
-                b_province_27 = {
+                b_syphoreion = { # Syphoreion
                     province = 27
                     color = { 125 10 89 }
                 }
-                b_province_62 = {
+                b_selassa = { # Selássa
                     province = 62
                     color = { 173 83 142 }
                 }
-                b_province_77 = {
+                b_krytheoi = { # Krytheoi
                     province = 77
                     color = { 197 71 151 }
                 }
             }
-            c_county_5 = {
+            c_thesalios = { # Thesálios
                 color = { 150 43 146 }
 
-                b_province_40 = {
+                b_thesalios = { # Thesálios
                     province = 40
                     color = { 150 43 146 }
                 }
-                b_province_28 = {
+                b_veladon = { # Veladon
                     province = 28
                     color = { 130 38 145 }
                 }
-                b_province_36 = {
+                b_argalania = { # Argalania
                     province = 36
                     color = { 146 74 150 }
                 }
             }
-            c_county_6 = {
+            c_pavala = { # Pavala
                 color = { 101 7 69 }
 
-                b_province_23 = {
+                b_pavala = { # Pavala
                     province = 23
                     color = { 101 7 69 }
                 }
-                b_province_21 = {
+                b_athon = { # Athon
                     province = 21
                     color = { 94 1 59 }
                 }
-                b_province_34 = {
+                b_kalimnea = { # Kalimnea
                     province = 34
                     color = { 144 61 147 }
                 }
             }
-            c_county_7 = {
+            c_sidothason = { # Sidothason
                 color = { 153 0 91 }
 
-                b_province_43 = {
+                b_sidothason = { # Sidothason
                     province = 43
                     color = { 153 0 91 }
                 }
-                b_province_24 = {
+                b_ianasmos = { # Ianasmos
                     province = 24
                     color = { 108 10 80 }
                 }
-                b_province_79 = {
+                b_togarioi = { # Togarioi
                     province = 79
                     color = { 203 0 120 }
                 }
             }
-            c_county_8 = {
+            c_nagyerug = { # Nagyerug
                 color = { 175 0 103 }
+                cultural_names = {
+                    name_list_anorothic = cn_neothason # Neothason
+                }
 
-                b_province_64 = {
+                b_nagyerug = { # Nageryug
                     province = 64
                     color = { 175 0 103 }
+
+                    cultural_names = {
+                        name_list_anorothic = cn_neothason # Neothason
+                    }
                 }
-                b_province_45 = {
+                b_korosom = { # Körösom
                     province = 45
                     color = { 154 81 155 }
+
+                    cultural_names = {
+                        name_list_anorothic = cn_agia # Agia
+                    }
                 }
-                b_province_56 = {
+                b_szarvasz = { # Szarvasz
                     province = 56
                     color = { 168 14 125 }
+
+                    cultural_names = {
+                        name_list_anorothic = cn_kalassos # Kalassos
+                    }
                 }
             }
         }
-        d_duchy_2 = {
+        d_lameia = { # Lameia
             color = { 198 6 119 }
             capital = c_county_9
 
-            c_county_10 = {
+            c_lameia = { # Lameia
                 color = { 168 62 140 }
 
-                b_province_57 = {
+                b_lameia = { # Lameia
                     province = 57
                     color = { 168 62 140 }
                 }
-                b_province_39 = {
+                b_aseion = { # Aseion
                     province = 39
                     color = { 148 70 153 }
                 }
-                b_province_60 = {
+                b_iroia = { # Iroia
                     province = 60
                     color = { 172 62 149 }
                 }
             }
-            c_county_11 = {
+            c_ermirios = { # Ermirios
                 color = { 162 17 148 }
 
-                b_province_52 = {
+                b_ermirios = { # Ermirios
                     province = 52
                     color = { 162 17 148 }
                 }
-                b_province_35 = {
+                b_lykanopoli = { # Lykanopoli
                     province = 35
                     color = { 144 65 142 }
                 }
-                b_province_51 = {
+                b_saroneia = { # Saroneia
                     province = 51
                     color = { 160 41 149 }
                 }
-                b_province_61 = {
+                b_evrideia = { # Evrideia
                     province = 61
                     color = { 173 69 162 }
                 }
             }
-            c_county_12 = {
+            c_acrokephys = { # Acrokephys
                 color = { 220 78 164 }
 
-                b_province_82 = {
+                b_acrokephys = { # Acrokephys
                     province = 82
                     color = { 220 78 164 }
                 }
-                b_province_29 = {
+                b_arkethon = { # Arkethon
                     province = 29
                     color = { 130 54 158 }
                 }
-                b_province_46 = {
+                b_ilythene = { # Ilythene
                     province = 46
                     color = { 155 61 172 }
                 }
-                b_province_54 = {
+                b_olmythra = { # Olmythra
                     province = 54
                     color = { 165 48 162 }
                 }
             }
-            c_county_9 = {
+            c_lyrianthe = { # Lyrianthe
                 color = { 198 6 119 }
 
-                b_province_78 = {
+                b_lyrianthe = { # Lyrianthe
                     province = 78
                     color = { 198 6 119 }
                 }
-                b_province_38 = {
+                b_thalmyros = { # Thalmyros
                     province = 38
                     color = { 148 5 94 }
                 }
-                b_province_69 = {
+                b_caldyreia = { # Caldyreia
                     province = 69
                     color = { 178 19 126 }
                 }
             }
         }
-        d_duchy_3 = {
+        d_valas = { # Valas
             color = { 114 10 84 }
-            capital = c_county_13
+            capital = c_valas
 
-            c_county_13 = {
+            c_valassos = { # Valassos
                 color = { 114 10 84 }
 
-                b_province_26 = {
+                b_valassos = { # Valassos
                     province = 26
                     color = { 114 10 84 }
                 }
-                b_province_31 = {
+                b_eidisos = { # Eidisos
                     province = 31
                     color = { 141 6 95 }
                 }
-                b_province_63 = {
+                b_siathis = { # Siathis
                     province = 63
                     color = { 174 48 154 }
                 }
             }
-            c_county_14 = {
+            c_olyrea = { # Olyrea
                 color = { 190 32 141 }
 
-                b_province_71 = {
+                b_olyrea = { # Olyrea
                     province = 71
                     color = { 190 32 141 }
                 }
-                b_province_49 = {
+                b_antopoli = { # Antópoli
                     province = 49
                     color = { 156 13 117 }
                 }
-                b_province_50 = {
+                b_pirassa = { # Pirassa
                     province = 50
                     color = { 157 58 148 }
                 }
-                b_province_75 = {
+                b_tinas = { # Tinas
                     province = 75
                     color = { 195 54 161 }
                 }
             }
-            c_county_15 = {
+            c_kasoria = { # Kasoria
                 color = { 169 53 142 }
 
-                b_province_58 = {
+                b_kasoria = { # Kasoria
                     province = 58
                     color = { 169 53 142 }
                 }
-                b_province_33 = {
+                b_keanikis = { # Keanikis
                     province = 33
                     color = { 143 76 142 }
                 }
-                b_province_47 = {
+                b_salevinas = { # Salévinas
                     province = 47
                     color = { 155 68 147 }
                 }
             }
-            c_county_16 = {
+            c_elassos = { # Elássos
                 color = { 112 9 83 }
 
-                b_province_25 = {
+                b_elassos = { # Elássos
                     province = 25
                     color = { 112 9 83 }
                 }
-                b_province_30 = {
+                b_mira = { # Mira
                     province = 30
                     color = { 137 72 145 }
                 }
-                b_province_41 = {
+                b_incanorath = { # Incánorath
                     province = 41
                     color = { 150 53 150 }
                 }
-                b_province_74 = {
+                b_siathon = { # Siathon
                     province = 74
                     color = { 192 70 174 }
                 }
             }
-            c_county_17 = {
+            c_szarony = { # Szárony
                 color = { 192 54 151 }
 
-                b_province_73 = {
+                b_szarony = { # Szárony
                     province = 73
                     color = { 192 54 151 }
                 }
-                b_province_22 = {
+                b_vecs = { # Vecs
                     province = 22
                     color = { 101 3 63 }
                 }
-                b_province_53 = {
+                b_paszes = { # Paszés
                     province = 53
                     color = { 165 15 121 }
                 }
             }
         }
-        d_duchy_4 = {
+        d_tavasar = { # Tavasár
             color = { 153 12 108 }
-            capital = c_county_18
+            capital = c_tavasar
 
-            c_county_18 = {
+            c_tavasar = { # Tavasár
                 color = { 153 12 108 }
 
-                b_province_44 = {
+                b_tavasar = { # Tavasár
                     province = 44
                     color = { 153 12 108 }
                 }
-                b_province_48 = {
+                b_sarvolgy = { # Sarvölgy
                     province = 48
                     color = { 156 0 92 }
                 }
-                b_province_55 = {
+                b_alsoszeg = { # Alsoszeg
                     province = 55
                     color = { 166 0 97 }
                 }
-                b_province_76 = {
+                b_kormosret = { # Kormosret
                     province = 76
                     color = { 197 0 116 }
                 }
             }
-            c_county_19 = {
+            c_nagyhajlas = { # Nagyhajlás
                 color = { 151 0 88 }
 
-                b_province_42 = {
+                b_nagyhajlas = { # Nagyhajlás
                     province = 42
                     color = { 151 0 88 }
                 }
-                b_province_80 = {
+                b_hatarfold = { # Határfold
                     province = 80
                     color = { 205 0 120 }
                 }
             }
-            c_county_20 = {
+            c_feketehalom = { # Feketehalom
                 color = { 208 3 125 }
 
-                b_province_81 = {
+                b_feketehalom = { # Feketehalom
                     province = 81
                     color = { 208 3 125 }
                 }
-                b_province_32 = {
+                b_alsomezo = { # Alsómezö
                     province = 32
                     color = { 141 11 96 }
                 }
-                b_province_59 = {
+                b_mohosret = { # Mohosrét
                     province = 59
                     color = { 170 0 101 }
                 }
             }
-            c_county_21 = {
+            c_nagyszinet = { # Nagyszinet
                 color = { 176 76 147 }
 
-                b_province_68 = {
+                b_nagyszinet = { # Nagyszinet
                     province = 68
                     color = { 176 76 147 }
                 }
-                b_province_67 = {
+                b_nagyberek = { # Nagyberek
                     province = 67
                     color = { 176 43 127 }
                 }
-                b_province_70 = {
+                b_hatarzug = { # Határzug
                     province = 70
                     color = { 183 17 130 }
                 }
             }
-            c_county_22 = {
+            c_nyarogos = { # Nyarögös
                 color = { 191 34 147 }
 
-                b_province_72 = {
+                b_nyarogos = { # Nyarögös
                     province = 72
                     color = { 191 34 147 }
                 }
-                b_province_37 = {
+                b_koponyasor = { # Koponyásor
                     province = 37
                     color = { 147 42 115 }
                 }
-                b_province_65 = {
+                b_venhatar = { # Vénhatár
                     province = 65
                     color = { 175 17 130 }
                 }
-                b_province_66 = {
+                b_vadvolta = { # Vadvolta
                     province = 66
                     color = { 176 31 119 }
                 }

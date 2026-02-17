@@ -7,11 +7,162 @@
  TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME_DEFINITE_FORM:0 "the $NAME$ $TIER|U$ #F ($BASE_NAME$) #!"
  TITLE_TIER_AS_NAME:0 "$TIER|U$"
 
- # Default title names
+ # Empire of Anóroth
+ ## Kingdom of Anórcedia
+ ### Duchy of Anórcedia
+ #### County of Anórcedia
  e_anoroth:0 "Anóroth"
- k_anorzehilas:0 "Anórzehis"
- d_anorzehilas:0 "Anórzehis"
- c_anorzehilas:0 "Anórzehis"
+ e_anoroth_adj:0 "Anórothic"
+ k_anorcedia:0 "Anórcedia"
+ k_anorcedia_adj:0 "Anórcedian"
+ d_anorcedia:0 "Anórcedia"
+ c_anorcedia:0 "Anórcedia"
+ b_anorcedia:0 "Anórcedia"
+ b_helioreia:0 "Helioreia"
+ b_melethyon:0 "Meléthyon"
+ b_ilyselos:0 "Ilyselos"
+ b_panthalos:0 "Panthalos"
+ b_thessadia:0 "Thessadia"
+ b_erytheia:0 "Erytheia"
+ #### County of Anthelyon
+ c_anthelyon:0 "Anthelyon"
+ b_anthelyon:0 "Anthelyon"
+ b_tharothos:0 "Tharothos"
+ b_panolythos:0 "Panolythos"
+ b_erythora:0 "Erythora"
+ #### County of Herásyon
+ c_herasyon:0 "Herásyon"
+ b_herasyon:0 "Herásyon"
+ b_anoloros:0 "Anoloros"
+ b_orantheia:0 "Orantheia"
+ b_kalasyon:0 "Kalasyon"
+ b_syphasyon:0 "Syphasyon"
+ #### County of Thyrelos
+ c_thyrelos:0 "Thyrelos"
+ b_thyrelos:0 "Thyrelos"
+ b_helora:0 "Hélora"
+ b_anorethion:0 "Anórethion"
+ b_ilythekaros:0 "Ilythekaros"
+ ## Kingdom of Artoneia
+ ### Duchy of Syphoreia
+ #### County of Syphoreion
+ k_artoneia:0 "Artoneia"
+ k_artoneia_adj:0 "Artoneian"
+ d_syphoreia:0 "Syphoreia"
+ c_syphoreion:0 "Syphoreion"
+ b_syphoreion:0 "Syphoreion"
+ b_selassa:0 "Selássa"
+ b_krytheoi:0 "Krytheoi"
+ #### County of Thesálios
+ c_thesalios:0 "Thesálios"
+ b_thesalios:0 "Thesálios"
+ b_veladon:0 "Veladon"
+ b_argalania:0 "Argalania"
+ #### County of Pavala
+ c_pavala:0 "Pavala"
+ b_pavala:0 "Pavala"
+ b_athon:0 "Athon"
+ b_kalimnea:0 "Kalimnea"
+ #### County of Sidothason
+ c_sidothason:0 "Sidothason"
+ b_sidothason:0 "Sidothason"
+ b_ianasmos:0 "Ianasmos"
+ b_togarioi:0 "Togarioi"
+ #### County of Nagyerug
+ c_nagyerug:0 "Nagyerug"
+ b_nagyerug:0 "Nagyerug"
+ b_korosom:0 "Körösom"
+ b_szarvasz:0 "Szarvasz"
+ ### Duchy of Lameia
+ #### County of Lameia
+ d_lameia:0 "Lameia"
+ c_lameia:0 "Lameia"
+ b_lameia:0 "Lameia"
+ b_aseion:0 "Aseion"
+ b_iroia:0 "Iroia"
+ #### County of Ermirios
+ c_ermirios:0 "Ermirios"
+ b_ermirios:0 "Ermirios"
+ b_lykanopoli:0 "Lykanopoli"
+ b_saroneia:0 "Saroneia"
+ b_evrideia:0 "Evrideia"
+ #### County of Lyrianthe
+ c_lyrianthe:0 "Lyrianthe"
+ b_lyrianthe:0 "Lyrianthe"
+ b_thalmyros:0 "Thalmyros"
+ b_caldyreia:0 "Caldyreia"
+ #### County of Acrokephys
+ c_acrokephys:0 "Acrokephys"
+ b_acrokephys:0 "Acrokephys"
+ b_arkethon:0 "Arkethon"
+ b_ilythene:0 "Ilythene"
+ b_olmythra:0 "Olmythra"
+ ### Duchy of Valas
+ #### County of Valassos
+ d_valas:0 "Valas"
+ c_valassos:0 "Valassos"
+ b_valassos:0 "Valassos"
+ b_eidisos:0 "Eidisos"
+ b_siathis:0 "Siathis"
+ #### County of Olyrea
+ c_olyrea:0 "Olyrea"
+ b_olyrea:0 "Olyrea"
+ b_antopoli:0 "Antópoli"
+ b_pirassa:0 "Pirassa"
+ b_tinas:0 "Tinas"
+ #### County of Kasoria
+ c_kasoria:0 "Kasoria"
+ b_kasoria:0 "Kasoria"
+ b_keanikis:0 "Keanikis"
+ b_salevinas:0 "Salévinas"
+ #### County of Elássos
+ c_elassos:0 "Elássos"
+ b_elassos:0 "Elássos"
+ b_mira:0 "Mira"
+ b_incanorath:0 "Incánorath"
+ b_siathon:0 "Siathon"
+ #### County of Szárony
+ c_szarony:0 "Szárony"
+ b_szarony:0 "Szárony"
+ b_vecs:0 "Vecs"
+ b_paszes:0 "Paszés"
+ ### Duchy of Tavasár
+ #### County of Tavasár
+ d_tavasar:0 "Tavasár"
+ c_tavasar:0 "Tavasár"
+ b_tavasar:0 "Tavasár"
+ b_sarvolgy:0 "Sarvölgy"
+ b_alsoszeg:0 "Alsoszeg"
+ b_kormosret:0 "Kormosret"
+ #### County of Nagyhajlás
+ c_nagyhajlas:0 "Nagyhajlás"
+ b_nagyhajlas:0 "Nagyhajlás"
+ b_hatarfold:0 "Határfold"
+ #### County of Feketehalom
+ c_feketehalom:0 "Feketehalom"
+ b_feketehalom:0 "Feketehalom"
+ b_alsomezo:0 "Alsómezö"
+ b_mohosret:0 "Mohosrét"
+ #### County of Nagyszinet
+ c_nagyszinet:0 "Nagyszinet"
+ b_nagyszinet:0 "Nagyszinet"
+ b_nagyberek:0 "Nagyberek"
+ b_hatarzug:0 "Határzug"
+ #### County of Nyarögös
+ c_nyarogos:0 "Nyarögös"
+ b_nyarogos:0 "Nyarögös"
+ b_koponyasor:0 "Koponyásor"
+ b_venhatar:0 "Vénhatár"
+ b_vadvolta:0 "Vadvolta"
+
+
+
+
+
+
+
+
+
 
  k_zatysna:0 "Zatysna"
  k_zatysna_adj:0 "Zatysni"

@@ -1,99 +1,99 @@
-1 = {	#
+1 = {	# Anórcedia
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-2 = {	#
+2 = {	# Helioreia
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-3 = {	#
+3 = {	# Meléthyon
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-4 = {	#
+4 = {	# Ilyselos
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-5 = {	#
+5 = {	# Panthalos
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-6 = {	#
+6 = {	# Thessadia
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-7 = {	#
+7 = {	# Erytheia
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-8 = {	#
+8 = {	# Tharothos
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-9 = {	#
+9 = {	# Panolythos
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-10 = {	#
+10 = {	# Anthelyon
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-11 = {	#
+11 = {	# Erythora
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-12 = {	#
+12 = {	# Anoloros
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-13 = {	#
+13 = {	# Orantheia
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-14 = {	#
+14 = {	# Herásyon
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-15 = {	#
+15 = {	# Kalasyon
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-16 = {	#
+16 = {	# Syphasyon
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-17 = {	#
+17 = {	# Hélora
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-18 = {	#
+18 = {	# Anórethion
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-19 = {	#
+19 = {	# Ilythekaros
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding
 }
-20 = {	#
+20 = {	# Thyrelos
 	culture = anorothic
 	religion = anorath
 	holding = castle_holding

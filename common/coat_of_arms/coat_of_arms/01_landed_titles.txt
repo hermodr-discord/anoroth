@@ -6,14 +6,28 @@
 
 e_anoroth = {
 	pattern = "pattern_solid.dds"
-	color1 = "pink"
-	color2 = "pink"
+	color1 = red
+	color2 = yellow
 	colored_emblem = {
-		texture = "ce_tree.dds"
-		color1 = "yellow"
-		color2 = "yellow"
+		color1 = yellow
+		color2 = yellow
+		texture = "ce_pagan_star_04.dds"
+		instance = { position = { 0.5 0.55 } scale = { 0.55 0.55 } }
+		instance = { position = { 0.5 0.55 } scale = { 0.45 0.45 } rotation = 45 }
+	}
+	colored_emblem = {
+		color1 = red
+		texture = "ce_circle.dds"
+		instance = { position = { 0.5 0.55 } scale = { 0.65 0.65 } depth = 1.01 }
+	}
+	colored_emblem = {
+		color1 = yellow
+		color2 = yellow
+		texture = "ce_flaming_jewel.dds"
+		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } depth = 2.01 }
 	}
 }
+
 c_county_213 = {
 	pattern = "pattern_solid.dds"
 	color1 = "blue"

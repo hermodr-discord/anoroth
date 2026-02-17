@@ -419,7 +419,7 @@ e_anoroth = {
 	}
 }
 
-k_anorzehilas = {
+k_anorcedia = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 	4514.1.1 = { government = feudal_government }
@@ -840,7 +840,7 @@ k_anorzehilas = {
 	}
 }
 
-d_anorzehilas = {
+d_anorcedia = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 	4514.1.1 = { government = feudal_government }
@@ -1261,7 +1261,7 @@ d_anorzehilas = {
 	}
 }
 
-c_anorzehilas = {
+c_anorcedia = {
 	867.1.1 = { change_development_level = 3 }
 	1066.1.1 = { change_development_level = 6 }
 	4514.1.1 = { government = feudal_government }

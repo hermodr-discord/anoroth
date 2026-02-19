@@ -9,9 +9,9 @@
 
 	# Calyreos Ouralon IV Atyrin
 	character = {
-		name = "bookmark_anoroth_emperor_ouranovor"
+		name = "anor_bookmark_calyreos_ouralonIV"
 		dynasty = atyrin
-		dynasty_splendor_level = 1
+		dynasty_splendor_level = 6
 		type = male
 		birth = 8078.1.1
 		title = e_anoroth
@@ -22,6 +22,6 @@
 		history_id = atyrin17
 		position = { 250 750 }
 
-		animation = happiness
+		animation = marshal
 	}
 }

@@ -1,0 +1,8 @@
+﻿l_english:
+ bm_8166_anoroth: "The Setting Sun"
+ bm_8166_anoroth_desc:0 "Placeholder Description - "The Setting Sun" Bookmark, 3A 3653"
+
+ # Calyreos Ouralon IV Atyrin of Anóroth
+ anor_bookmark_calyreos_ouralonIV:0 "Calyreos Ouralon IV"
+ anor_bookmark_calyreos_ouralonIV_subheading: "$BOOKMARK_SUBHEADING_DEFAULT$"
+ anor_bookmark_calyreos_ouralonIV_desc:0 "Placeholder Description - Calyreos Ouralon IV Atyrin - 3A 3653"

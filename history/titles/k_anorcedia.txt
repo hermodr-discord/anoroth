@@ -1383,9 +1383,6 @@ c_anorcedia = {
 	5527.1.1 = { # Calyreos Myron VI | 3A 1014 - 3A 1021
 		holder = anomar46
 	}
-	5534.1.1 = { # First Interregnum | 3A 1021 - 3A 1047
-		holder = 0
-	}
 	5560.1.1 = { # Calyreos Nikaron II 'the Restorer' | 3A 1047 - 3A 1085
 		holder = vasylidon1
 	}
@@ -1551,9 +1548,6 @@ c_anorcedia = {
 	7076.1.1 = { # Calyreos Eratos II | 3A 2563 - 3A 2571
 		holder = arcerin45
 	}
-	7084.1.1 = { # Second Interregnum | 3A 2571 - 3A 2624
-		holder = 0
-	}
 	7137.1.1 = { # Calyreos Argyros I | 3A 2624 - 3A 2662
 		holder = argyrian1
 	}
@@ -1637,9 +1631,6 @@ c_anorcedia = {
 	}
 	7715.1.1 = { # Calyreos Estaros I | 3A 3202 - 3A 3209
 		holder = argyrian40
-	}
-	7722.1.1 = { # Third Interregnum | 3A 3209 - 3A 3291
-		holder = 0
 	}
 	7804.1.1 = { # Calyreos Kaesaros I | 3A 3291 - 3A 3316
 		holder = atyrin1

@@ -19,11 +19,6 @@ atyrin = { # Sixth Imperial Dynasty of Anóroth | Reigned 3A 3291 - 3A 3719
 	culture = "anorothic"
 }
 
-anoroth6 = {
-	name = "dynn_Ourimetanil"
-	culture = "anorothic"
-}
-
 luveran1 = {
 	name = "dynn_Lysan"
 	culture = "luveran"
@@ -32,10 +27,4 @@ luveran1 = {
 luveran2 = {
 	name = "dynn_Dovalin"
 	culture = "luveran"
-}
-
-# Keeping Prydain to dodge a stubborn error.
-1029001 = {
-	name = "dynn_Prydain"
-	culture = "welsh"
 }

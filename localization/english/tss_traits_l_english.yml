@@ -1,0 +1,9 @@
+﻿l_english: 
+
+# Demigod Traits
+ trait_demigod_1:0 "Lesser Demigod"
+ trait_demigod_1_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the direct child of a God, though [ROOT.GetCharacter.GetHerHis] divine blood runs thin. Still, they stand a cut above ordinary mortals."
+ trait_demigod_2:0 "Greater Demigod"
+ trait_demigod_2_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the direct child of a God, [ROOT.GetCharacter.GetHerHis] divine blood running strong and true. Few mortals can hope to match [ROOT.GetCharacter.GetHerHim]."
+ trait_demigod_3:0 "Exalted Demigod"
+ trait_demigod_3_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the direct child of a God, blessed with a share of divine power that places [ROOT.GetCharacter.GetHerHim] above any mortal."

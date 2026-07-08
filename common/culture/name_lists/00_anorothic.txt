@@ -1,158 +1,210 @@
 ﻿name_list_anorothic = {
 
 	cadet_dynasty_names = {
-		"dynn_Adhil"
-		"dynn_Aethemenar"
-		"dynn_Aethorin"
-		"dynn_Agrath"
-		"dynn_Amasethor"
-		"dynn_Anavrin"
-		"dynn_Aratil"
-		"dynn_Arcerin"
-		"dynn_Avethorin"
-		"dynn_Balgramor"
-		"dynn_Balgramorath"
-		"dynn_Brennath"
-		"dynn_Caperil"
-		"dynn_Cevamar"
-		"dynn_Ciril"
-		"dynn_Codhorin"
-		"dynn_Dherath"
-		"dynn_Dheronath"
-		"dynn_Dhoronil"
-		"dynn_Dornil"
-		"dynn_Dremar"
-		"dynn_Edemor"
-		"dynn_Endolemar"
-		"dynn_Evenil"
-		"dynn_Falasil"
-		"dynn_Falcamar"
-		"dynn_Fuledhath"
-		"dynn_Galarathelrin"
-		"dynn_Gathrimar"
-		"dynn_Gerath"
-		"dynn_Gevarin"
-		"dynn_Grimath"
-		"dynn_Ifil"
-		"dynn_Iosorin"
-		"dynn_Jenath"
-		"dynn_Kaivilath"
-		"dynn_Kalorin"
-		"dynn_Kethanil"
-		"dynn_Ledhemar"
-		"dynn_Linorin"
-		"dynn_Minil"
-		"dynn_Noril"
-		"dynn_Ourathelrin"
-		"dynn_Predhor"
-		"dynn_Ramath"
-		"dynn_Ranavethil"
-		"dynn_Rasil"
-		"dynn_Rinmar"
-		"dynn_Sellath"
-		"dynn_Seranmar"
-		"dynn_Shelevil"
-		"dynn_Taurin"
-		"dynn_Tsalmenthavil"
-		"dynn_Tulcath"
-		"dynn_Uluren"
-		"dynn_Valethil"
-		"dynn_Vulrinmar"
-		"dynn_Zethamar"
-		"dynn_Zilthavil"
-		{ "dynnp_ul" "dynn_Ambar" }
-		{ "dynnp_ul" "dynn_Cel" }
-		{ "dynnp_ul" "dynn_Dre" }
-		{ "dynnp_ul" "dynn_Eredh" }
-		{ "dynnp_ul" "dynn_Grim" }
-		{ "dynnp_ul" "dynn_Kathav" }
-		{ "dynnp_ul" "dynn_Rin" }
-		{ "dynnp_ul" "dynn_Taur" }
-		{ "dynnp_ul" "dynn_Thanis" }
-		{ "dynnp_ul" "dynn_Vathil" }
+		"dynn_Aegres"
+		"dynn_Aegyras"
+		"dynn_Aegyros"
+		"dynn_Airos"
+		"dynn_Akarion"
+		"dynn_Akrathenes"
+		"dynn_Akravonidos"
+		"dynn_Akrides"
+		"dynn_Almyridos"
+		"dynn_Anephytes"
+		"dynn_Arkonas"
+		"dynn_Atheros"
+		"dynn_Athon"
+		"dynn_Calyron"
+		"dynn_Chorynthes"
+		"dynn_Cyranthos"
+		"dynn_Cyrathos"
+		"dynn_Cyris"
+		"dynn_Damaras"
+		"dynn_Damarion"
+		"dynn_Damaros"
+		"dynn_Delos"
+		"dynn_Dorathes"
+		"dynn_Ekrathymnos"
+		"dynn_Ephyros"
+		"dynn_Ephystratos"
+		"dynn_Halion"
+		"dynn_Ikramenes"
+		"dynn_Ilystragos"
+		"dynn_Ilyrenos"
+		"dynn_Iros"
+		"dynn_Istramnon"
+		"dynn_Ithas"
+		"dynn_Kallion"
+		"dynn_Karyon"
+		"dynn_Kelyras"
+		"dynn_Kyrathion"
+		"dynn_Kyrenas"
+		"dynn_Kyrenos"
+		"dynn_Lykanes"
+		"dynn_Lytheras"
+		"dynn_Melanthes"
+		"dynn_Mylenas"
+		"dynn_Myrakes"
+		"dynn_Myrdakon"
+		"dynn_Myrones"
+		"dynn_Myras"
+		"dynn_Myres"
+		"dynn_Myrin"
+		"dynn_Myros"
+		"dynn_Nyros"
+		"dynn_Okrathenes"
+		"dynn_Ondrakion"
+		"dynn_Ores"
+		"dynn_Orynthalos"
+		"dynn_Oskalyon"
+		"dynn_Ostramnon"
+		"dynn_Phaelon"
+		"dynn_Phrados"
+		"dynn_Renos"
+		"dynn_Saryon"
+		"dynn_Syrenos"
+		"dynn_Talassos"
+		"dynn_Talax"
+		"dynn_Talos"
+		"dynn_Tavros"
+		"dynn_Telos"
+		"dynn_Therys"
+		"dynn_Tyranes"
+		"dynn_Tyranos"
+		"dynn_Tyrin"
+		"dynn_Varos"
+		"dynn_Veloras"
+		{ "dynnp_tou" "dynn_Ardamnos" }
+		{ "dynnp_tou" "dynn_Asterikon" }
+		{ "dynnp_tou" "dynn_Dernos" }
+		{ "dynnp_tou" "dynn_Elkarides" }
+		{ "dynnp_tou" "dynn_Elystrenes" }
+		{ "dynnp_tou" "dynn_Iskaphasyon" }
+		{ "dynnp_tou" "dynn_Istrakles" }
+		{ "dynnp_tou" "dynn_Karnos" }
+		{ "dynnp_tou" "dynn_Kestros" }
+		{ "dynnp_tou" "dynn_Kymnos" }
+		{ "dynnp_tou" "dynn_Kynthos" }
+		{ "dynnp_tou" "dynn_Marnes" }
+		{ "dynnp_tou" "dynn_Melkor" }
+		{ "dynnp_tou" "dynn_Neron" }
+		{ "dynnp_tou" "dynn_Olystrenes" }
+		{ "dynnp_tou" "dynn_Othras" }
+		{ "dynnp_tou" "dynn_Pelithenes" }
+		{ "dynnp_tou" "dynn_Rethos" }
+		{ "dynnp_tou" "dynn_Sarmion" }
+		{ "dynnp_tou" "dynn_Tarnos" }
+		{ "dynnp_tou" "dynn_Thalosyn" }
+		{ "dynnp_tou" "dynn_Vyras" }
 	}
 
 	dynasty_names = {
-		"dynn_Adhil"
-		"dynn_Aethemenar"
-		"dynn_Aethorin"
-		"dynn_Agrath"
-		"dynn_Amasethor"
-		"dynn_Anavrin"
-		"dynn_Aratil"
-		"dynn_Arcerin"
-		"dynn_Avethorin"
-		"dynn_Balgramor"
-		"dynn_Balgramorath"
-		"dynn_Brennath"
-		"dynn_Caperil"
-		"dynn_Cevamar"
-		"dynn_Ciril"
-		"dynn_Codhorin"
-		"dynn_Dherath"
-		"dynn_Dheronath"
-		"dynn_Dhoronil"
-		"dynn_Dornil"
-		"dynn_Dremar"
-		"dynn_Edemor"
-		"dynn_Endolemar"
-		"dynn_Evenil"
-		"dynn_Falasil"
-		"dynn_Falcamar"
-		"dynn_Fuledhath"
-		"dynn_Galarathelrin"
-		"dynn_Gathrimar"
-		"dynn_Gerath"
-		"dynn_Gevarin"
-		"dynn_Grimath"
-		"dynn_Ifil"
-		"dynn_Iosorin"
-		"dynn_Jenath"
-		"dynn_Kaivilath"
-		"dynn_Kalorin"
-		"dynn_Kethanil"
-		"dynn_Ledhemar"
-		"dynn_Linorin"
-		"dynn_Minil"
-		"dynn_Noril"
-		"dynn_Ourathelrin"
-		"dynn_Predhor"
-		"dynn_Ramath"
-		"dynn_Ranavethil"
-		"dynn_Rasil"
-		"dynn_Rinmar"
-		"dynn_Sellath"
-		"dynn_Seranmar"
-		"dynn_Shelevil"
-		"dynn_Taurin"
-		"dynn_Tsalmenthavil"
-		"dynn_Tulcath"
-		"dynn_Uluren"
-		"dynn_Valethil"
-		"dynn_Vulrinmar"
-		"dynn_Zethamar"
-		"dynn_Zilthavil"
-		{ "dynnp_ul" "dynn_Ambar" }
-		{ "dynnp_ul" "dynn_Cel" }
-		{ "dynnp_ul" "dynn_Dre" }
-		{ "dynnp_ul" "dynn_Eredh" }
-		{ "dynnp_ul" "dynn_Grim" }
-		{ "dynnp_ul" "dynn_Kathav" }
-		{ "dynnp_ul" "dynn_Rin" }
-		{ "dynnp_ul" "dynn_Taur" }
-		{ "dynnp_ul" "dynn_Thanis" }
-		{ "dynnp_ul" "dynn_Vathil" }
+		"dynn_Aegres"
+		"dynn_Aegyras"
+		"dynn_Aegyros"
+		"dynn_Airos"
+		"dynn_Akarion"
+		"dynn_Akrathenes"
+		"dynn_Akravonidos"
+		"dynn_Akrides"
+		"dynn_Almyridos"
+		"dynn_Anephytes"
+		"dynn_Arkonas"
+		"dynn_Atheros"
+		"dynn_Athon"
+		"dynn_Calyron"
+		"dynn_Chorynthes"
+		"dynn_Cyranthos"
+		"dynn_Cyrathos"
+		"dynn_Cyris"
+		"dynn_Damaras"
+		"dynn_Damarion"
+		"dynn_Damaros"
+		"dynn_Delos"
+		"dynn_Dorathes"
+		"dynn_Ekrathymnos"
+		"dynn_Ephyros"
+		"dynn_Ephystratos"
+		"dynn_Halion"
+		"dynn_Ikramenes"
+		"dynn_Ilystragos"
+		"dynn_Ilyrenos"
+		"dynn_Iros"
+		"dynn_Istramnon"
+		"dynn_Ithas"
+		"dynn_Kallion"
+		"dynn_Karyon"
+		"dynn_Kelyras"
+		"dynn_Kyrathion"
+		"dynn_Kyrenas"
+		"dynn_Kyrenos"
+		"dynn_Lykanes"
+		"dynn_Lytheras"
+		"dynn_Melanthes"
+		"dynn_Mylenas"
+		"dynn_Myrakes"
+		"dynn_Myrdakon"
+		"dynn_Myrones"
+		"dynn_Myras"
+		"dynn_Myres"
+		"dynn_Myrin"
+		"dynn_Myros"
+		"dynn_Nyros"
+		"dynn_Okrathenes"
+		"dynn_Ondrakion"
+		"dynn_Ores"
+		"dynn_Orynthalos"
+		"dynn_Oskalyon"
+		"dynn_Ostramnon"
+		"dynn_Phaelon"
+		"dynn_Phrados"
+		"dynn_Renos"
+		"dynn_Saryon"
+		"dynn_Syrenos"
+		"dynn_Talassos"
+		"dynn_Talax"
+		"dynn_Talos"
+		"dynn_Tavros"
+		"dynn_Telos"
+		"dynn_Therys"
+		"dynn_Tyranes"
+		"dynn_Tyranos"
+		"dynn_Tyrin"
+		"dynn_Varos"
+		"dynn_Veloras"
+		{ "dynnp_tou" "dynn_Ardamnos" }
+		{ "dynnp_tou" "dynn_Asterikon" }
+		{ "dynnp_tou" "dynn_Dernos" }
+		{ "dynnp_tou" "dynn_Elkarides" }
+		{ "dynnp_tou" "dynn_Elystrenes" }
+		{ "dynnp_tou" "dynn_Iskaphasyon" }
+		{ "dynnp_tou" "dynn_Istrakles" }
+		{ "dynnp_tou" "dynn_Karnos" }
+		{ "dynnp_tou" "dynn_Kestros" }
+		{ "dynnp_tou" "dynn_Kymnos" }
+		{ "dynnp_tou" "dynn_Kynthos" }
+		{ "dynnp_tou" "dynn_Marnes" }
+		{ "dynnp_tou" "dynn_Melkor" }
+		{ "dynnp_tou" "dynn_Neron" }
+		{ "dynnp_tou" "dynn_Olystrenes" }
+		{ "dynnp_tou" "dynn_Othras" }
+		{ "dynnp_tou" "dynn_Pelithenes" }
+		{ "dynnp_tou" "dynn_Rethos" }
+		{ "dynnp_tou" "dynn_Sarmion" }
+		{ "dynnp_tou" "dynn_Tarnos" }
+		{ "dynnp_tou" "dynn_Thalosyn" }
+		{ "dynnp_tou" "dynn_Vyras" }
 	}
 
 	male_names = {
-		AcavthO_ras AcetA_r AE_celrim AE_nor AE_thirarin AgrA_nis AgrA_rces AgrA_savel Althon An_Athir AncO_rias AnO_rvathis ArA_drin ArcE_nev ArcE_thavU_l ArcE_vath ArcE_vun ArdhU_rel AthanO_r BalranO_r BalthanO_r BalthE_viO_n BorvA_nis BrevdrE_l BrevE_thos BrevthO_ras CaranO_r Carthir CelavanO_r Celrin CethapE_ras CethA_vimor CE_thavI_on CethA_vrin CevA_thil CevA_thimor ConA_ris CovA_nas CurE_nas DhavethO_ras DhiA_nor DrA_rces DrE_nev EA_rE_rin EsethU_nor EthavA_lthav EthavA_rces EthavA_thimor EthavO_r EthE_lan EviA_rcen EvthA_nor GathU_lvor GrevA_nas Havriun HavthiO_n IkathA_nis IkA_thir IlanO_r IncA_rin IpA_nithor JathA_nis KuraE_nor Kurelmatias KurE_rin LanO_r LorvA_nas LuthrU_n MetI_rav NuvE_ras OkA_viO_s OU_rA_novor PalI_mor PanthA_rdhul PreshO_lor RhodhanO_r RI_lanO_r RilmE_nvor SA_leveris Skavrin SuvE_ras TagI_nor TalA_rdhul TalA_vor ThaleO_sor ThalE_risor ThivA_nas VA_naE_s VA_napre VA_narevor VA_niO_svor VathI_lunev VetalaI_as VunA_thos ZhelanO_r ZhelA_rdhul ZhelcO_s ZhelthI_ras ZhesE_thunuv
+		Aelynos Aerynon Aesaros Aeson Aetharos Aethyron Alenaros Alenias Alkanos Alkaros Alkyon Alkyron Andrakon Andron Antharos Anthyron Apheron Aphyrelos Aphyron Arganelos Argantes Argyrelos Argyros Arkalon Arkaros Arkeron Arthanes Arthanos Arthelos Astaros Asteron Astyron Athyron Atrakos Atranon Atreos Ceneros Chaeron Charanos Cyran Cyras Dalaros Damakon Damaron Depharos Depheros Drakanos Ekarios Ekaryon Ektaron Eosanon Eosaros Eosenon Epharos Ephyron Eratos Eryadros Eryelos Eryon Estaros Euryaros Euryenon Eurygas Galaros Galeron Gelaros Grenas Iarelos Iaron Ikaron Kaelas Kaelon Kaesaros Kalanthos Kalaron Kalaros Kaleron Kalyron Kanaros Kanon Kastanos Kastaros Kastelos Kastianos Kaston Kastyas Kastylas Koralos Korydon Korylas Krynaros Kylanon Kyralos Kyranos Larichos Lykan Lykaron Lykas Lynas Lyranaros Lyrandos Lyranos Lysaron Lysaros Mepharon Mepharos Mikalos Myraklon Myraros Myras Myrelos Myron Nemaron Nemaros Nephyron Nikanor Nyradros Nyraros Nyrelos Nyros Ophyrelos Ophyron Oraleon Ordanos Orestas Ormaros Ormelos Oryaros Oryelos Oryos Ouralon Pheros Phyron Pylanes Pylas Pylon Rhion Rymon Rynatos Salaros Sanaron Sanaros Saphyras Selaron Seryos Talaros Talyron Taryaros Taryas Tauran Tauras Tauron Tauros Thalanes Theras Theron Tyran Tyros Valaros Valeron Valeros Valos Vareos Vasylas Velaros Zephyron
 	}
 	
 	female_names = {
-		AE_ile AE_tA_riel AE_thile AE_thipA_niel AE_thlemiel AE_thlI_s AE_wen AmacalE_ne Amalain AmamI_re Anathiel AncO_viel AnO_riel Calenile CavthO_riel EA_reile Epelile Epelwen Evenile EviO_nile GacavthO_riel GalA_rseron IloranO_r IncA_niel IpA_niel IzI_le Lainwen LisanO_r LiswE_n LodhI_le LuvE_thile LuvI_le MI_reile MI_rewen NA_reile NI_sile NI_swen PathA_niel Rhoile Rhowen RilmE_nile Rilvenile SalE_viel Seronile TagA_riel TalA_sile ThanO_viel UrU_thile UrU_thwen ValaE_ ValanO_riel Valcalen Valepel VallI_s ValmI_re Vaneile VA_niel Veile VelepA_ne
+		Althaia Althea Amanthia Amaraia Amare Amareia Amaryse Ambrosia Antheia Ariadne Chrysanthe Chryseia Chrysiane Damara Damaraia Damareia Danae Daphneia Daphnia Diona Dione Eirenaia Eirene Erienia Eudokia Euphemia Euphyra Euphyrane Euphyreia Euratia Hekaria Helene Heliane Heloseia Heraia Hesteia Iris Kalthara Kareia Karethia Karytheia Karythia Kassandra Kassia Koryneia Laketheia Lykiane Lyratheia Lyrathia Lysiane Lysiara Lysiare Meliara Melyneia Myrathaia Myratheia Myrathiane Myreia Myriane Nerysaia Neryse Neryseia Nerysiane Nikaia Nikara Nikareia Nikaria Nikarysia Nysiane Nysiara Nysiare Oryneia Ourea Oureia Ouriane Ouryse Rheia Saniane Saryneia Selaia Seleia Seliane Selyse Seratheia Serathia Tareia Tariane Tarysia Taureia Tauriane Themara Thesana Tyreia Tyriane Valereia VanA_sia Valysia
 	}
 
-	dynasty_of_location_prefix = "dynnp_ul"
+	dynasty_of_location_prefix = "dynnp_tou"
 
 	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 	pat_grf_name_chance = 40

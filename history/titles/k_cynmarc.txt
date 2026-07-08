@@ -1,0 +1,16 @@
+﻿k_eclipsed_realm = {
+	7500.1.1 = { government = theocracy_government }
+
+	8166.1.1 = {
+		holder = evilguy1
+	}
+}
+
+c_tarwicbona = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+
+	8166.1.1 = {
+		holder = evilguy1
+	}
+}

@@ -1,0 +1,143 @@
+### Duchy of Verynthos
+d_verynthos = {
+	4514.1.1 = { change_development_level = 16 }
+	
+	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+		holder = rhyceros1
+		liege = e_anoroth
+		government = feudal_government
+	}
+	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+		holder = rhyceros2
+	}
+	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
+		holder = rhyceros11
+	}
+	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
+		holder = rhyceros15
+	}
+}
+c_verynthos = {
+	4514.1.1 = { change_development_level = 28 }
+	
+	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+		holder = rhyceros1
+		liege = d_verynthos
+		government = feudal_government
+	}
+	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+		holder = rhyceros2
+	}
+	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
+		holder = rhyceros11
+	}
+	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
+		holder = rhyceros15
+	}
+}
+c_calythra = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+		holder = rhyceros1
+		liege = d_verynthos
+		government = feudal_government
+	}
+	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+		holder = rhyceros2
+	}
+	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
+		holder = rhyceros11
+	}
+	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
+		holder = rhyceros15
+	}
+}
+c_sarmessa = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+		holder = rhyceros1
+		liege = d_verynthos
+		government = feudal_government
+	}
+	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+		holder = rhyceros2
+	}
+	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
+		holder = rhyceros11
+	}
+	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
+		holder = rhyceros15
+	}
+}
+c_gessikon = {
+	4514.1.1 = { change_development_level = 20 }
+
+	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+		holder = rhyceros1
+		liege = d_verynthos
+		government = feudal_government
+	}
+	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+		holder = rhyceros2
+	}
+	8107.1.1 = { # Count Ceneros I | 3A 3594 - 3A 3654
+		holder = rhyceros13
+	}
+}
+
+### Duchy of Ornethia
+d_ornethia = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = orophastes2
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_vanathra = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = orophastes2
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_castrynon = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = orophastes2
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_elarissos = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = astramon24
+		liege = d_ornethia
+		government = feudal_government
+	}
+}
+c_kaloryn = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = atyrin17
+		government = feudal_government
+	}
+}
+c_ilythelon = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = argenor7
+		liege = d_ornethia
+		government = feudal_government
+	}
+}

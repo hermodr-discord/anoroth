@@ -6,3 +6,16 @@
  cn_neothason:0 "Neothason"
  cn_agia:0 "Agia"
  cn_kalassos:0 "Kalassos"
+ ## Kingdom of Kataun
+ cn_cathenan:0 "Cathenan"
+ cn_cathenan_adj:0 "Cathenani"
+ #### County of Ourios
+ cn_arretza:0 "Arretza"
+ cn_erragun:0 "Erragun"
+ cn_zubeta:0 "Zubeta"
+ 
+ # Empire of Eburomarc
+ cn_agalreman:0 "Agalreman"
+ #### County of Kallioros
+ cn_brennholt:0 "Brennholt"
+ cn_brennhurst:0 "Brennhurst"

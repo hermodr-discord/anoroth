@@ -1,4 +1,19 @@
-﻿saphyros = { # Third Imperial Dynasty of Anóroth | Reigned 3A 1578 - 3A 1961
+﻿saphyros = { # Cadet Branch of House Vasylidon | Third Imperial Dynasty of Anóroth | Reigned 3A 1578 - 3A 1961
 	name = "dynn_Saphyros"
 	dynasty = vasylidon # House Vasylidon, Second Imperial Dynasty of Anóroth
+}
+
+tarenas = { # Cadet Branch of House Argyrian, founded by Tyros, son of Calyreos Damaron XII Argyrian
+	name = "dynn_Tarenas"
+	dynasty = argyrian
+}
+
+rhyceros = { # Cadet Branch of House Atyrin, founded by Andron, son of Calyreos Taryas I Atyrin
+	name = "dynn_Rhyceros"
+	dynasty = atyrin # House Atyrin, Sixth Imperial Dynasty of Anóroth
+}
+
+derinan = { # Cadet Branch of House Ilmenas, founded by Nikaron, son of Duke Lyranos Ilmenas
+	name = "dynn_Derinan"
+	dynasty = ilmenas
 }

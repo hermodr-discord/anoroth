@@ -1,0 +1,211 @@
+### Duchy of Syphoreia
+d_syphoreia = {
+	4514.1.1 = { change_development_level = 14 }
+	
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+		holder = ilmenas26
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_syphoreion = {
+	4514.1.1 = { change_development_level = 26 }
+	
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+		holder = ilmenas26
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_thesalios = {
+	4514.1.1 = { change_development_level = 19 }
+	
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+		holder = ilmenas26
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_pavala = {
+	4514.1.1 = { change_development_level = 17 }
+	
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+		holder = ilmenas26
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_nagyerug = {
+	4514.1.1 = { change_development_level = 13 }
+	
+	8166.1.1 = { # Lord Kaelas I Derinan | 3A 3642 - 3A 3671
+		holder = derinan10
+		liege = d_syphoreia
+		government = feudal_government
+	}
+}
+c_sidothason = {
+	4514.1.1 = { change_development_level = 14 }
+	
+	8166.1.1 = { # Lord Kaelas I Derinan | 3A 3642 - 3A 3671
+		holder = derinan10
+		liege = d_syphoreia
+		government = feudal_government
+	}
+}
+### Duchy of Lameia
+d_lameia = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Duke Lykas I Olyran
+		holder = olyran18
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_lameia = {
+	4514.1.1 = { change_development_level = 20 }
+
+	8166.1.1 = { # Duke Lykas I Olyran
+		holder = olyran18
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_lyrianthe = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Duke Lykas I Olyran
+		holder = olyran18
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ermirios = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Lord Pheros I Cerinas
+		holder = cerinas6
+		liege = d_lameia
+		government = feudal_government
+	}
+}
+c_acrokephys = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Lord Cyran I Krynarias
+		holder = krynarias8
+		liege = d_valas
+		government = feudal_government
+	}
+}
+### Duchy of Valas
+d_valas = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Nemaron I Cykras
+		holder = cykras15
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_valassos = {
+	4514.1.1 = { change_development_level = 23 }
+
+	8166.1.1 = { # Duke Nemaron I Cykras
+		holder = cykras15
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_olyrea = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Lord Pheros I Garosin
+		holder = garosin10
+		liege = d_valas
+		government = feudal_government
+	}
+}
+c_kasoria = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Lord Cyran I Krynarias
+		holder = krynarias8
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_elassos = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Lord Gelaros I Korthavan
+		holder = korthavan4
+		liege = d_valas
+		government = feudal_government
+	}
+}
+c_szarony = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = atyrin17
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+### Duchy of Tavasár
+d_tavasar = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = krysanon6
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_tavasar = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = krysanon6
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_feketehalom = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = krysanon6
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_nagyhajlas = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = krysanon6
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_nagyszinet = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = krysanon6
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_nyarogos = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = {
+		holder = atyrin17
+		liege = e_anoroth
+		government = feudal_government
+	}
+}

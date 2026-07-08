@@ -1,0 +1,44 @@
+k_aranygar = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8107.1.1 = {
+		holder = borsan1
+		government = tribal_government
+	}
+}
+
+d_duchy_32 = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8107.1.1 = {
+		holder = borsan1
+		government = tribal_government
+	}
+}
+
+c_county_140 = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8107.1.1 = {
+		holder = borsan1
+		government = tribal_government
+	}
+}
+
+c_county_141 = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8107.1.1 = {
+		holder = borsan1
+		government = tribal_government
+	}
+}
+
+c_county_142 = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8107.1.1 = {
+		holder = borsan1
+		government = tribal_government
+	}
+}

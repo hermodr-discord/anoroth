@@ -1,0 +1,19 @@
+d_thanovia = {
+	4514.1.1 = { change_development_level = 15 }
+	
+	8166.1.1 = { # Duke Kaston I Tarenas | 3A 3642 - 3A 3671
+		holder = tarenas28
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+
+c_mesaia = {
+	4514.1.1 = { change_development_level = 23 }
+	
+	8166.1.1 = { # Duke Kaston I Tarenas | 3A 3642 - 3A 3671
+		holder = tarenas28
+		liege = e_anoroth
+		government = feudal_government
+	}
+}

@@ -75,11 +75,11 @@ world_india_bengal = {}
 world_india_rajastan = {}
 world_africa_north_west = {
 	duchies = {
-		d_anorzehilas
-		d_duchy_1
-		d_duchy_2
-		d_duchy_3
-		d_duchy_4
+		d_anorcedia
+		d_syphoreia
+		d_lameia
+		d_valas
+		d_tavasar
 		d_duchy_5
 		d_duchy_6
 		d_duchy_7
@@ -587,7 +587,7 @@ dlc_ep1_southwest_silk_road_trade_region = {}
 
 divergence_island_regions = {
 	duchies = {
-		d_anorzehilas
+		d_anorcedia
 	}
 }
 

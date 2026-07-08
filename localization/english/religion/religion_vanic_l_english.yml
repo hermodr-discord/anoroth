@@ -1,84 +1,84 @@
 ﻿l_english:
 
- #Isanara Localization
- isanara_religion:0 "Isanara"
- isanara_religion_adj:0 "Isanaran"
- isanara_religion_adherent:0 "Isanaran"
- isanara_religion_adherent_plural:0 "Isanarans"
- isanara_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+ #vanic Localization
+ vanic_religion:0 "vanic"
+ vanic_religion_adj:0 "vanicn"
+ vanic_religion_adherent:0 "vanicn"
+ vanic_religion_adherent_plural:0 "vanicns"
+ vanic_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
 
- isanara_high_god_name:0 "Isana"
- isanara_high_god_name_2:0 "$isanara_high_god_name$" # Optional translation alt
- isanara_high_god_name_possessive:0 "Isana's"
- isanara_high_god_name_alternate:0 "She of Ocean and Wind"
- isanara_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
- isanara_good_god_ancestors:0 "the ancestors"
- isanara_good_god_ancestors_posessive:0 "the ancestors'"
- isanara_good_god_spirits:0 "the spirits"
- isanara_good_god_spirits_possessive:0 "the spirits'"
- isanara_devil_name:0 "corruption"
- isanara_devil_name_possessive:0 "corruption's"
- isanara_devil_shehe:0 "it"
- isanara_devil_herselfhimself:0 "itself"
- isanara_devil_herhis:0 "its"
- isanara_evil_god_decay:0 "blight"
- isanara_evil_god_decay_possessive:0 "blight's"
- isanara_evil_god_drought:0 "drought"
- isanara_death_deity_name:0 "death"
- isanara_death_deity_name_possessive:0 "death's"
- isanara_death_deity_herhis:0 "its"
+ vanic_high_god_name:0 "Isana"
+ vanic_high_god_name_2:0 "$vanic_high_god_name$" # Optional translation alt
+ vanic_high_god_name_possessive:0 "Isana's"
+ vanic_high_god_name_alternate:0 "She of Ocean and Wind"
+ vanic_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
+ vanic_good_god_ancestors:0 "the ancestors"
+ vanic_good_god_ancestors_posessive:0 "the ancestors'"
+ vanic_good_god_spirits:0 "the spirits"
+ vanic_good_god_spirits_possessive:0 "the spirits'"
+ vanic_devil_name:0 "corruption"
+ vanic_devil_name_possessive:0 "corruption's"
+ vanic_devil_shehe:0 "it"
+ vanic_devil_herselfhimself:0 "itself"
+ vanic_devil_herhis:0 "its"
+ vanic_evil_god_decay:0 "blight"
+ vanic_evil_god_decay_possessive:0 "blight's"
+ vanic_evil_god_drought:0 "drought"
+ vanic_death_deity_name:0 "death"
+ vanic_death_deity_name_possessive:0 "death's"
+ vanic_death_deity_herhis:0 "its"
 
- isanara_creator_god_name:0 "$isanara_high_god_name$"
- isanara_creator_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_health_god_name:0 "$isanara_good_god_spirits_name$"
- isanara_health_god_name_possessive:0 "$isanara_good_god_spirits_name_possessive$"
- isanara_fertility_god_name:0 "$isanara_high_god_name$"
- isanara_fertility_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_wealth_god_name:0 "$isanara_high_god_name$"
- isanara_wealth_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_household_god_name:0 "$isanara_good_god_ancestors$"
- isanara_household_god_name_possessive:0 "$isanara_good_god_ancestors$"
- isanara_fate_god_name:0 "fate"
- isanara_fate_god_name_possessive:0 "fate's"
- isanara_knowledge_god_name:0 "$isanara_good_god_ancestors$"
- isanara_knowledge_god_name_possessive:0 "$isanara_good_god_ancestors$"
- isanara_war_god_name:0 "$isanara_high_god_name$"
- isanara_war_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_trickster_god_name:0 "$isanara_good_god_spirits_name$"
- isanara_trickster_god_name_possessive:0 "$isanara_good_god_spirits_name$"
- isanara_night_god_name:0 "$isanara_high_god_name$"
- isanara_night_god_name_possessive:0 "$isanara_high_god_name_possessive$"
- isanara_water_god_name:0 "$isanara_high_god_name$"
- isanara_water_god_name_possessive:0 "$isanara_high_god_name_possessive$"
+ vanic_creator_god_name:0 "$vanic_high_god_name$"
+ vanic_creator_god_name_possessive:0 "$vanic_high_god_name_possessive$"
+ vanic_health_god_name:0 "$vanic_good_god_spirits_name$"
+ vanic_health_god_name_possessive:0 "$vanic_good_god_spirits_name_possessive$"
+ vanic_fertility_god_name:0 "$vanic_high_god_name$"
+ vanic_fertility_god_name_possessive:0 "$vanic_high_god_name_possessive$"
+ vanic_wealth_god_name:0 "$vanic_high_god_name$"
+ vanic_wealth_god_name_possessive:0 "$vanic_high_god_name_possessive$"
+ vanic_household_god_name:0 "$vanic_good_god_ancestors$"
+ vanic_household_god_name_possessive:0 "$vanic_good_god_ancestors$"
+ vanic_fate_god_name:0 "fate"
+ vanic_fate_god_name_possessive:0 "fate's"
+ vanic_knowledge_god_name:0 "$vanic_good_god_ancestors$"
+ vanic_knowledge_god_name_possessive:0 "$vanic_good_god_ancestors$"
+ vanic_war_god_name:0 "$vanic_high_god_name$"
+ vanic_war_god_name_possessive:0 "$vanic_high_god_name_possessive$"
+ vanic_trickster_god_name:0 "$vanic_good_god_spirits_name$"
+ vanic_trickster_god_name_possessive:0 "$vanic_good_god_spirits_name$"
+ vanic_night_god_name:0 "$vanic_high_god_name$"
+ vanic_night_god_name_possessive:0 "$vanic_high_god_name_possessive$"
+ vanic_water_god_name:0 "$vanic_high_god_name$"
+ vanic_water_god_name_possessive:0 "$vanic_high_god_name_possessive$"
 
- isanara_house_of_worship:0 "temple"
- isanara_house_of_worship_2:0 "$isanara_house_of_worship$" # Optional translation alt
- isanara_house_of_worship_3:0 "$isanara_house_of_worship$" # Optional translation alt
- isanara_house_of_worship_plural:0 "temples"
- isanara_religious_symbol:0 "moon"
- isanara_religious_symbol_2:0 "$isanara_religious_symbol$" # Optional translation alt
- isanara_religious_symbol_3:0 "$isanara_religious_symbol$" # Optional translation alt
- isanara_religious_text:0 "Isana's teachings"
- isanara_religious_text_2:0 "$isanara_religious_text$" # Optional translation alt
- isanara_religious_text_3:0 "$isanara_religious_text$" # Optional translation alt
- isanara_religious_head_title:0 "High Shaman"
- isanara_religious_head_title_name:0 "Isana's Devoted"
- isanara_devotee:0 "devotee"
- isanara_devoteeplural:0 "devotees"
- isanara_priest:0 "shaman"
- isanara_priest_plural:0 "shamans"
- isanara_priest_alternate_plural:1 "elders"
- isanara_divine_realm:0 "Isana's Realm"
- isanara_divine_realm_2:0 "$isanara_divine_realm$" # Optional translation alt
- isanara_divine_realm_3:0 "$isanara_divine_realm$" # Optional translation alt
- isanara_afterlife:0 "Isana's embrace"
- isanara_afterlife_2:0 "$isanara_afterlife$" # Optional translation alt
- isanara_afterlife_3:0 "$isanara_afterlife$" # Optional translation alt
- isanara_witchgodname_the_spirits:0 "$isanara_good_god_spirits_name$"
- isanara_witchgodname_the_spirits_possessive:0 "$isanara_good_god_spirits_name_possessive$"
+ vanic_house_of_worship:0 "temple"
+ vanic_house_of_worship_2:0 "$vanic_house_of_worship$" # Optional translation alt
+ vanic_house_of_worship_3:0 "$vanic_house_of_worship$" # Optional translation alt
+ vanic_house_of_worship_plural:0 "temples"
+ vanic_religious_symbol:0 "moon"
+ vanic_religious_symbol_2:0 "$vanic_religious_symbol$" # Optional translation alt
+ vanic_religious_symbol_3:0 "$vanic_religious_symbol$" # Optional translation alt
+ vanic_religious_text:0 "Isana's teachings"
+ vanic_religious_text_2:0 "$vanic_religious_text$" # Optional translation alt
+ vanic_religious_text_3:0 "$vanic_religious_text$" # Optional translation alt
+ vanic_religious_head_title:0 "High Shaman"
+ vanic_religious_head_title_name:0 "Isana's Devoted"
+ vanic_devotee:0 "devotee"
+ vanic_devoteeplural:0 "devotees"
+ vanic_priest:0 "shaman"
+ vanic_priest_plural:0 "shamans"
+ vanic_priest_alternate_plural:1 "elders"
+ vanic_divine_realm:0 "Isana's Realm"
+ vanic_divine_realm_2:0 "$vanic_divine_realm$" # Optional translation alt
+ vanic_divine_realm_3:0 "$vanic_divine_realm$" # Optional translation alt
+ vanic_afterlife:0 "Isana's embrace"
+ vanic_afterlife_2:0 "$vanic_afterlife$" # Optional translation alt
+ vanic_afterlife_3:0 "$vanic_afterlife$" # Optional translation alt
+ vanic_witchgodname_the_spirits:0 "$vanic_good_god_spirits_name$"
+ vanic_witchgodname_the_spirits_possessive:0 "$vanic_good_god_spirits_name_possessive$"
 
 
- isanara:0 "Isanara"
- isanara_adj:0 "Isanaran"
- isanara_adherent:0 "Isanaran"
- isanara_adherent_plural:0 "Isanarans"
+ vanic:0 "vanic"
+ vanic_adj:0 "vanicn"
+ vanic_adherent:0 "vanicn"
+ vanic_adherent_plural:0 "vanicns"

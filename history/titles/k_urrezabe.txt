@@ -1,0 +1,21 @@
+k_urrezabe = {
+	
+}
+
+c_askarain = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8107.1.1 = {
+		holder = borsan1
+		government = tribal_government
+	}
+}
+
+c_arzabal = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8107.1.1 = {
+		holder = borsan1
+		government = tribal_government
+	}
+}

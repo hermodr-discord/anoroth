@@ -1,0 +1,44 @@
+﻿# Geographical regions for Natural Disasters
+
+global_flood_region = {
+	regions = {
+		### ANOROTH
+		river_1_region river_2_region river_3_region river_4_region river_5_region river_6_region river_7_region
+	}
+}
+### ANOROTH
+river_1_region = { # Unnamed
+	counties = {
+		c_county_194 c_county_195 c_county_200 c_county_203 c_county_204 c_county_205 c_county_206 c_county_207
+	}
+}
+river_2_region = { # Unnamed
+	counties = {
+		c_county_165 c_county_166 c_county_169 c_county_172 c_county_174 c_county_175
+	}
+}
+river_3_region = { # Unnamed
+	counties = {
+		c_county_247 c_county_248 c_county_249 c_county_255 c_county_256 c_county_267
+	}
+}
+river_4_region = { # Unnamed
+	counties = {
+		c_kallioros c_county_246 c_county_257 c_county_259 c_county_280 c_county_281 c_county_282
+	}
+}
+river_5_region = { # Unnamed
+	counties = {
+		c_county_67 c_county_68 c_county_70 c_county_113 c_county_122 c_county_123 c_county_309
+	}
+}
+river_6_region = { # Unnamed
+	counties = {
+		c_county_149 c_county_150 c_county_151 c_county_152 c_county_159 c_county_160 c_county_161
+	}
+}
+river_7_region = { # Unnamed
+	counties = {
+		c_county_296 c_county_298 c_county_299 c_county_300 c_county_301 c_county_302 c_county_303 c_county_304 c_county_305
+	}
+}

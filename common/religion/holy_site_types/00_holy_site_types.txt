@@ -1,0 +1,8 @@
+﻿anorcedia = {
+	county = c_anorcedia
+	barony = b_anorcedia
+	
+	character_modifier = {
+		martial = 2
+	}
+}

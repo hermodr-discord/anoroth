@@ -1,0 +1,81 @@
+﻿@provisions_cost_minimal = 25
+@provisions_cost_light = 50
+@provisions_cost_medium = 80
+@provisions_cost_high = 100
+@provisions_cost_extreme = 150
+
+urban = {
+	color = { 80 120 200 }
+	travel_danger_color = { 80 120 200 }
+	travel_danger_score = 10
+	provision_cost = 25
+	county_fertility = 5
+
+	province_modifier = {
+		supply_limit_mult = 0.5
+		travel_danger = 10
+		county_fertility_growth_add = 0.02
+	}
+
+	county_capital_modifier = {
+		development_growth_factor = 0.5
+	}
+
+	defender_combat_effects = {
+		name = combat_hills
+		image = combat_hills
+		advantage = 5
+	}
+
+	attacker_modifier = {
+		retreat_losses = -0.1
+	}
+
+	defender_modifier = {
+		retreat_losses = 0.4
+	}
+
+	movement_speed = 0.50
+	combat_width = 0.50
+
+	audio_parameter = 1.00
+}
+
+deep_marsh = {
+	color = { 0 80 40 }
+	travel_danger_color = { 0 80 40 }
+	travel_danger_score = 50
+	provision_cost = 150
+	county_fertility = 10
+
+	province_modifier = {
+		supply_limit_mult = -0.75
+		travel_danger = 50
+		county_fertility_growth_add = 0.1
+	}
+
+	county_capital_modifier = {
+		development_growth_factor = -0.60
+	}
+
+	defender_combat_effects = {
+		name = combat_wetlands
+		image = defender_wetlands
+		advantage = 10
+	}
+
+	attacker_modifier = {
+		hard_casualty_modifier = 0.25
+		retreat_losses = 0.5
+	}
+
+	defender_modifier = {
+		hard_casualty_modifier = 0.25
+		retreat_losses = 0.5
+	}
+
+	movement_speed = 0.25
+	combat_width = 0.10
+
+	audio_parameter = 3.00
+}

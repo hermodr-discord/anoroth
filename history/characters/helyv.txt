@@ -1,0 +1,33 @@
+﻿borsan1 = { 
+	name = KegyU_r
+	dynasty = borsan
+	religion = oszeseg
+	culture = helyv
+
+	diplomacy = 7
+	martial = 11
+	stewardship = 7
+	intrigue = 6
+	learning = 5
+	prowess = 10
+	health = 1.0
+
+	trait = ambitious
+	trait = brave
+	trait = generous
+	trait = stubborn
+	trait = education_martial_4
+	trait = organizer
+	trait = rough_terrain_expert
+	trait = strong
+	trait = lifestyle_blademaster
+	sexuality = heterosexual
+	disallow_random_traits = yes
+
+	8085.1.1 = { # 3A 3572
+		birth = yes
+	}
+	8169.1.1 = { # 3A 3656
+		death = yes
+	}
+}

@@ -1,11 +1,4 @@
 ﻿l_english:
- TITLE_NAME:1 "$NAME|U$"
- TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
- TITLE_DEFINITIVE_NAME:0 "the $TIER|U$ of $NAME$"
- TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
- TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
- TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME_DEFINITE_FORM:0 "the $NAME$ $TIER|U$ #F ($BASE_NAME$) #!"
- TITLE_TIER_AS_NAME:0 "$TIER|U$"
 
  # Empire of Anóroth
  ## Kingdom of Anórcedia
@@ -154,41 +147,1925 @@
  b_koponyasor:0 "Koponyásor"
  b_venhatar:0 "Vénhatár"
  b_vadvolta:0 "Vadvolta"
+ ## Kingdom of Húrnavn
+ ### Duchy of Marvikir
+ #### County of Rúnvatn
+ k_hurnavn:0 "Húrnavn"
+ k_hurnavn_adj:0 "Húrnavnir"
+ d_marvikir:0 "Marvikir"
+ c_runvatn:0 "Rúnvatn"
+ b_runvatn:0 "Rúnvatn"
+ b_larneska:0 "Larneska"
+ b_kjornfellr:0 "Kjórnfellr"
+ b_havollin:0 "Havollin"
+ #### County of Nandrvik
+ c_nandrvik:0 "Nandrvik"
+ b_nandrvik:0 "Nandrvik"
+ b_nafjornir:0 "Nafjornir"
+ b_eyrskinn:0 "Eyrskinn"
+ b_crunnholm:0 "Crunnholm"
+ #### County of Forynthos
+ c_forynthos:0 "Forynthos"
+ b_forynthia:0 "Forynthia"
+ b_ilystron:0 "Ilystron"
+ b_belandros:0 "Belandros"
+ #### County of Delphyra
+ c_delphyra:0 "Delphyra"
+ b_delphyra:0 "Delphyra"
+ b_vanadicos:0 "Vanádicos"
+ b_koryn:0 "Koryn"
+ b_olyskalon:0 "Olyskalon"
+ b_astrephon:0 "Astrephon"
+ #### County of Roskettir
+ c_roskettir:0 "Roskettir"
+ b_roskettir:0 "Roskettir"
+ b_syrnholt:0 "Syrnholt"
+ b_tavresund:0 "Taversund"
+ b_kjalavett:0 "Kjalavett"
+ ### Duchy of Nyrrkann
+ #### County of Nyrrungar
+ d_nyrrkann:0 "Nyrrkann"
+ c_nyrrungar:0 "Nyrrungar"
+ b_nyrrungar:0 "Nyrrungar"
+ b_nirskjorn:0 "Nirskjorn"
+ b_varsundar:0 "Varsundar"
+ b_urvik:0 "Urvik"
+ #### County of Baskrinn
+ c_baskrinn:0 "Baskrinn"
+ b_baskrinn:0 "Baskrinn"
+ b_crunsettir:0 "Crunsettir"
+ b_aldherva:0 "Aldherva"
+ #### County of Arnskett
+ c_arnskett:0 "Arnskett"
+ b_arnskett:0 "Arnskett"
+ b_eldravik:0 "Eldravik"
+ b_fennhult:0 "Fennhult"
+ #### County of Ilvanger
+ c_ilvanger:0 "Ilvanger"
+ b_ilvanger:0 "Ilvanger"
+ b_gjalvyrna:0 "Gjalvyrna"
+ b_fravollin:0 "Fravollin"
+ #### County of Kyrngard
+ c_kyrngard:0 "Kyrngard"
+ b_kyrngard:0 "Kyrngard"
+ b_raskvik:0 "Raskvik"
+ b_sovreheim:0 "Sovreheim"
+ #### County of Alduinn
+ c_alduinn:0 "Alduinn"
+ b_alduinn:0 "Alduinn"
+ b_troskeldarik:0 "Troskeldarik"
+ ## Kingdom of Ourávelas
+ ### Duchy of Verynthos
+ #### County of Verynthos
+ k_ouravelas:0 "Ourávelas"
+ k_ouravelas_adj:0 "Ourávelan"
+ d_verynthos:0 "Verynthos"
+ c_verynthos:0 "Verynthos"
+ b_verynthia:0 "Verynthia"
+ b_boryllon:0 "Boryllon"
+ b_anorestra:0 "Anórestra"
+ b_istrassa:0 "Istrassa"
+ #### County of Gessikon
+ c_gessikon:0 "Gessikon"
+ b_kerymnos:0 "Kerymnos"
+ b_esmatha:0 "Esmatha"
+ b_olythara:0 "Olythara"
+ b_ulathron:0 "Ulathron"
+ #### County of Calythra
+ c_calythra:0 "Calythra"
+ b_calythra:0 "Calythra"
+ b_dathrassa:0 "Dathrassa"
+ b_melykon:0 "Melykon"
+ b_noryphra:0 "Noryphra"
+ #### County of Sarmessa
+ c_sarmessa:0 "Sarmessa"
+ b_sarmessa:0 "Sarmessa"
+ b_toryllon:0 "Toryllon"
+ b_ardellos:0 "Ardellos"
+ ### Duchy of Korthanór
+ #### County of Korthanór
+ d_korthanor:0 "Korthanór"
+ c_korthanor:0 "Korthanór"
+ b_korthanor:0 "Korthanór"
+ b_armenyra:0 "Armenyra"
+ b_anoryas:0 "Anóryas"
+ b_alkyone:0 "Alkyone"
+ b_myros:0 "Myros"
+ #### County of Anórakos
+ c_anorakos:0 "Anórakos"
+ b_anorakos:0 "Anórakos"
+ b_adryon:0 "Adryon"
+ b_damarion:0 "Damarion"
+ b_phyronon:0 "Phyronon"
+ #### County of Neryn
+ c_neryn:0 "Neryn"
+ b_neryn:0 "Neryn"
+ b_thalon:0 "Thalon"
+ b_apharion:0 "Apharion"
+ b_phraxas:0 "Phraxas"
+ ### Duchy of Korthon
+ #### County of Argon
+ d_korthon:0 "Korthon"
+ c_argon:0 "Argon"
+ b_argoneia:0 "Argoneia"
+ b_orythos:0 "Orythos"
+ b_kythas:0 "Kythas"
+ #### County of Selys
+ c_selys:0 "Selys"
+ b_selys:0 "Selys"
+ b_phalar:0 "Phalar"
+ b_aerythas:0 "Aerythas"
+ b_velanthion:0 "Velanthion"
+ b_astion:0 "Astion"
+ #### County of Aphanis
+ c_aphanis:0 "Aphanis"
+ b_aphanis:0 "Aphanis"
+ b_loryn:0 "Loryn"
+ b_akrokesan:0 "Akrokesan"
+ #### County of Velasson
+ c_velasson:0 "Velasson"
+ b_velasson:0 "Velasson"
+ b_melanth:0 "Melanth"
+ b_darynas:0 "Darynas"
+ #### County of Vyzantios
+ c_vyzantios:0 "Vyzantios"
+ b_vyzantios:0 "Vyzantios"
+ b_phelas:0 "Phelas"
+ b_orthalyos:0 "Orthalyos"
+ b_kelathon:0 "Kelathon"
+ ### Duchy of Ornethia
+ #### County of Vanáthra
+ d_ornethia:0 "Ornethia"
+ c_vanathra:0 "Vanáthra"
+ b_vanathra:0 "Vanáthra"
+ b_delyndros:0 "Delyndros"
+ b_cyrandessa:0 "Cyrandessa"
+ b_pharys:0 "Pharys"
+ b_calesyra:0 "Calesyra"
+ #### County of Elarissos
+ c_elarissos:0 "Elarissos"
+ b_elarissos:0 "Elarissos"
+ b_ephylla:0 "Ephylla"
+ #### County of Castrynon
+ c_castrynon:0 "Castrynon"
+ b_castrynios:0 "Castrynios"
+ b_falestra:0 "Falestra"
+ b_karmessos:0 "Karmessos"
+ b_massanos:0 "Massanos"
+ #### County of Ilythelon
+ c_ilythelon:0 "Ilythelon"
+ b_ilythelon:0 "Ilythelon"
+ b_sorythos:0 "Sorythos"
+ b_syrralon:0 "Syrralon"
+ b_ornoryn:0 "Ornoryn"
+ b_thesmyra:0 "Thesmyra"
+ #### County of Kaloryn
+ c_kaloryn:0 "Kaloryn"
+ b_kaloryn:0 "Kaloryn"
+ b_elymoros:0 "Elymoros"
+ b_vessania:0 "Vessania"
+ b_aegoras:0 "Aegoras"
+ ## Kingdom of Thanóvaren
+ ### Duchy of Myrathos
+ #### County of Calantheia
+ k_thanovaren:0 "Thanóvaren"
+ k_thanovaren_adj:0 "Thanóvarian"
+ d_myrathos:0 "Myrathos"
+ c_calantheia:0 "Calantheia"
+ b_calantheia:0 "Calantheia"
+ b_erythalon:0 "Erythalon"
+ b_syrelion:0 "Syrelion"
+ b_melkarion:0 "Melkarion"
+ #### County of Pelanthe
+ c_pelanthe:0 "Pelanthe"
+ b_pelanthe:0 "Pelanthe"
+ b_syrranthos:0 "Syrranthos"
+ b_orynthis:0 "Orynthis"
+ #### County of Aethrion
+ c_aethrion:0 "Aethrion"
+ b_aethrion:0 "Aethrion"
+ b_kalethys:0 "Kalethys"
+ b_velanthra:0 "Velanthra"
+ b_orasson:0 "Orasson"
+ #### County of Thanóvyra
+ c_thanovyra:0 "Thanóvyra"
+ b_thanovyra:0 "Thanóvyra"
+ b_keryssos:0 "Keryssos"
+ ### Duchy of Lytheron
+ #### County of Panelyon
+ d_lytheron:0 "Lytheron"
+ c_panelyon:0 "Panelyon"
+ b_panelyon:0 "Panelyon"
+ b_vessaron:0 "Vessaron"
+ b_ornassos:0 "Ornassos"
+ #### County of Darossia
+ c_darossia:0 "Darossia"
+ b_daros:0 "Daros"
+ b_elyndra:0 "Elyndra"
+ b_ilyros:0 "Ilyros"
+ #### County of Ornyros
+ c_ornyros:0 "Ornyros"
+ b_ornyros:0 "Orynros"
+ b_theryssa:0 "Theryssa"
+ b_syrelon:0 "Syrelon"
+ ### Duchy of Oranthor
+ #### County of Darion
+ d_oranthor:0 "Oranthor"
+ c_darion:0 "Darion"
+ b_darion:0 "Darion"
+ b_veloryn:0 "Veloryn"
+ b_ilasson:0 "Ilasson"
+ #### County of Thyralos
+ c_thyralos:0 "Thyralos"
+ b_thyralos:0 "Thyralos"
+ b_ornen:0 "Ornen"
+ b_thyros:0 "Thyros"
+ #### County of Syrnos
+ c_syrnos:0 "Syrnos"
+ b_syrnos:0 "Syrnos"
+ b_velon:0 "Velon"
+ b_kasorion:0 "Kasorion"
+ b_almon:0 "Almon"
+ #### County of Verony
+ c_verony:0 "Verony"
+ b_verony:0 "Verony"
+ b_togovar:0 "Togovár"
+ b_kortoban:0 "Kortobán"
+ ### Duchy of Drezdány
+ #### County of Voltorvár
+ d_drezdany:0 "Drezdány"
+ c_voltorvar:0 "Voltorvár"
+ b_voltorvar:0 "Voltorvár"
+ b_kosztar:0 "Kosztár"
+ b_nevisz:0 "Nevisz"
+ b_nyorvany:0 "Nyorvany"
+ #### County of Detrász
+ c_detrasz:0 "Detrász"
+ b_detrasz:0 "Detrász"
+ b_zalnoslak:0 "Zalnoslak"
+ b_helnyik:0 "Helnyik"
+ b_varsony:0 "Varsony"
+ #### County of Karacsas
+ c_karacsas:0 "Karacsas"
+ b_karacsas:0 "Karacsas"
+ b_santyag:0 "Santyág"
+ b_torontos:0 "Torontös"
+ b_dunarhat:0 "Dunarhát"
+ #### County of Phyrna
+ c_phyrna:0 "Phyrna"
+ b_phyrna:0 "Phyrna"
+ b_dareia:0 "Dareia"
+ b_ermyrion:0 "Ermyrion"
+ #### County of Almyros
+ c_almyros:0 "Almyros"
+ b_almyros:0 "Almyros"
+ b_dorion:0 "Dorion"
+ b_antephys:0 "Antephys"
+ b_thyrassa:0 "Thyrassa"
+ ### Duchy of Thanóvia
+ #### County of Mesaia
+ d_thanovia:0 "Thanóvia"
+ c_mesaia:0 "Mesaia"
+ b_tagareos:0 "Tagáreos"
+ b_ornios:0 "Ornios"
+ b_pelna:0 "Pelna"
+ b_delphos:0 "Delphos"
+ #### County of Kelsareia
+ c_kelsareia:0 "Kelsareia"
+ b_kelsareia:0 "Kelsareia"
+ b_ophyreas:0 "Ophyreas"
+ #### County of Ossaros
+ c_ossaros:0 "Ossaros"
+ b_ossaros:0 "Ossaros"
+ b_daran:0 "Daran"
+ b_myronopoli:0 "Myronopoli"
+ #### County of Anachi
+ c_anachi:0 "Anachi"
+ b_anachi:0 "Anachi"
+ b_essiros:0 "Essiros"
+ #### County of Achinos
+ c_achinos:0 "Achinos"
+ b_achinos:0 "Achinos"
+ b_thalas:0 "Thalas"
+ b_serrani:0 "Serrani"
+ ## Kingdom of Ourátan
+ ### Duchy of Ilynath
+ #### County of Incánathar
+ k_ouratan:0 "Ourátan"
+ k_ouratan_adj:0 "Ourátani"
+ d_ilynath:0 "Ilynath"
+ c_incanathar:0 "Incánathar"
+ b_incanathar:0 "Incánathar"
+ b_ornarion:0 "Ornarion"
+ b_krathon:0 "Krathon"
+ b_arsaiath:0 "Arsaiath"
+ b_orthaknos:0 "Orthaknos"
+ b_valathon:0 "Valathon"
+ #### County of Velomasson
+ c_velomasson:0 "Velomasson"
+ b_velomasson:0 "Velomasson"
+ b_ophyn:0 "Ophyn"
+ b_acrokyon:0 "Acrokyon"
+ b_cananthos:0 "Cananthos"
+ #### County of Karandros
+ c_karandros:0 "Karandros"
+ b_karandros:0 "Karandros"
+ b_damaretheia:0 "Damaretheia"
+ #### County of Myraphasyon
+ c_myraphasyon:0 "Myraphasyon"
+ b_myraphasyon:0 "Myraphasyon"
+ b_kalanath:0 "Kalanath"
+ b_tharanta:0 "Tharanta"
+ b_zygonis:0 "Zygonis"
+ ### Duchy of Antakonos
+ #### County of Arthaneis
+ d_antakonos:0 "Antakonos"
+ c_arthaneis:0 "Arthaneis"
+ b_arthaneis:0 "Arthaneis"
+ b_ornyrion:0 "Ornyrion"
+ b_calanon:0 "Calanon"
+ b_pharas:0 "Pharas"
+ #### County of Ancóvarath
+ c_ancovarath:0 "Ancóvarath"
+ b_ancovarath:0 "Ancóvarath"
+ b_avaron:0 "Avaron"
+ b_caleria:0 "Caleria"
+ b_penitarkhos:0 "Penitarkhos"
+ #### County of Cethaphasyon
+ c_cethaphasyon:0 "Cethaphasyon"
+ b_cethaphasyon:0 "Cethaphasyon"
+ b_akthos:0 "Akthos"
+ b_sathon:0 "Sathon"
+ b_kastlyeia:0 "Kastyleia"
+ #### County of Ornesson
+ c_ornesson:0 "Ornesson"
+ b_ornesson:0 "Ornesson"
+ b_varathos:0 "Varathos"
+ b_aphoria:0 "Aphoria"
+ ### Duchy of Orthacos
+ #### County of Vartharos
+ d_orthacos:0 "Orthacos"
+ c_vartharos:0 "Vartharos"
+ b_vartharos:0 "Vartharos"
+ b_darantheia:0 "Darantheia"
+ b_caleth:0 "Caleth"
+ #### County of Incánareia
+ c_incanareia:0 "Incánareia"
+ b_incanareia:0 "Incánareia"
+ b_ornelas:0 "Ornelas"
+ b_ironeios:0 "Ironeios"
+ #### County of Seuneas
+ c_seuneas:0 "Seuneas"
+ b_seuneas:0 "Seuneas"
+ b_acrothas:0 "Acrothas"
+ b_orcenon:0 "Orcenon"
+ #### County of Tharalaon
+ c_tharalaon:0 "Tharalaon"
+ b_tharalaon:0 "Tharalaon"
+ b_orymnos:0 "Orymnos"
+ #### County of Ilyamnos
+ c_ilyamnos:0 "Ilyamnos"
+ b_ilyamnos:0 "Ilyamnos"
+ b_tharason:0 "Tharason"
+ b_kalos:0 "Kalos"
+ ## Kingdom of Kataun
+ ### Duchy of Karrezun
+ #### County of Arretza
+ k_kataun:0 "Kataun"
+ k_kataun_adj:0 "Katauna"
+ d_karrezun:0 "Karrezun"
+ c_ourios:0 "Ourios"
+ b_ourios:0 "Ourios"
+ b_erycaron:0 "Erycaron"
+ b_syrnis:0 "Syrnis"
+ #### County of Urrazun
+ c_urrazun:0 "Urrazun"
+ b_urrazun:0 "Urrazun"
+ b_aldarre:0 "Aldarre"
+ b_ertzibar:0 "Ertzibar"
+ b_aldazun:0 "Aldazun"
+ #### County of Harain
+ c_harain:0 "Harain"
+ b_harain:0 "Harain"
+ b_ameza:0 "Ameza"
+ b_uztibar:0 "Uztibar"
+ #### County of Kalune
+ c_kalune:0 "Kalune"
+ b_kalune:0 "Kalune"
+ b_lutain:0 "Lutain"
+ b_katalen:0 "Katalen"
+ #### County of Garreta
+ c_garreta:0 "Garreta"
+ b_garreta:0 "Garreta"
+ b_arzeta:0 "Arzeta"
+ b_talibar:0 "Talibar"
+ #### County of Orren
+ c_orren:0 "Orren"
+ b_orren:0 "Orren"
+ b_amezte:0 "Amezte"
+ b_larratzun:0 "Larratzun"
+ ### Duchy of Taregora
+ #### County of Ariben
+ d_taregora:0 "Taregora"
+ c_ariben:0 "Ariben"
+ b_ariben:0 "Ariben"
+ b_gorrun:0 "Gorrun"
+ b_valatz:0 "Valatz"
+ #### County of Kataga
+ c_kataga:0 "Kataga"
+ b_kataga:0 "Kataga"
+ b_garrega:0 "Garrega"
+ b_avereta:0 "Avereta"
+ b_ostane:0 "Ostane"
+ #### County of Torran
+ c_torran:0 "Torran"
+ b_torran:0 "Torran"
+ b_katalibar:0 "Katalibar"
+ b_beralin:0 "Beralin"
+ #### County of Endagor
+ c_endagor:0 "Endagor"
+ b_endagor:0 "Endagor"
+ b_ulan:0 "Ulan"
+ b_kautorran:0 "Kautorran"
+ ### Duchy of Larrezain
+ #### County of Larrain
+ d_larrezain:0 "Larrezain"
+ c_larrain:0 "Larrain"
+ b_larrain:0 "Larrain"
+ b_arzalin:0 "Arzalin"
+ b_karrezal:0 "Karrezal"
+ b_avergor:0 "Avergor"
+ #### County of Almeth
+ c_almeth:0 "Almeth"
+ b_almeth:0 "Almeth"
+ b_ouracan:0 "Ouracan"
+ b_kessyros:0 "Kessyros"
+ #### County of Ilabar
+ c_ilabar:0 "Ilabar"
+ b_ilabar:0 "Ilabar"
+ b_averika:0 "Averika"
+ b_endika:0 "Endika"
+ #### County of Malain
+ c_malain:0 "Malain"
+ b_malain:0 "Malain"
+ b_ilakar:0 "Ilakar"
+ b_senaga:0 "Senaga"
+ b_morrune:0 "Morrune"
+ ### Duchy of Zerrun
+ #### County of Karran
+ d_zerrun:0 "Zerrun"
+ c_karran:0 "Karran"
+ b_karran:0 "Karran"
+ b_autorrain:0 "Autorrain"
+ b_abarzune:0 "Abarzune"
+ b_gorotza:0 "Gorotza"
+ #### County of Idantza
+ c_idantza:0 "Idantza"
+ b_idantza:0 "Idantza"
+ b_derralde:0 "Derralde"
+ b_mankarre:0 "Mankarre"
+ b_bordain:0 "Bordain"
+ #### County of Ornoss
+ c_ornoss:0 "Ornoss"
+ b_ornoss:0 "Ornoss"
+ b_lyros:0 "Lyros"
+ b_thesseth:0 "Thesseth"
+ b_taranion:0 "Taranion"
+ #### County of Ornamion
+ c_ornamion:0 "Ornamion"
+ b_ornamion:0 "Ornamion"
+ b_pelanthos:0 "Pelanthos"
+ b_almelos:0 "Almelos"
+ #### County of Morzeta
+ c_morzeta:0 "Morzeta"
+ b_morzeta:0 "Morzeta"
+ b_sebantza:0 "Sebantza"
+ b_tabarre:0 "Tabarre"
+ ## Kingdom of Oreg-Garna
+ ### Duchy of Suran
+ #### County of Ag-Surna
+ k_oreg_garna:0 "Oreg-Garna"
+ k_oreg_garna_adj:0 "Oreg-Garnan"
+ d_suran:0 "Suran"
+ c_ag_surna:0 "Ag-Surna"
+ b_ag_surna:0 "Ag-Surna"
+ b_ilgaru:0 "Ilgaru"
+ b_murneg:0 "Murneg"
+ #### County of Slorag
+ c_slorag:0 "Slorag"
+ b_slorag:0 "Slorag"
+ b_orgeln:0 "Orgeln"
+ b_braguln:0 "Braguln"
+ #### County of Orna-Siret
+ c_orna_siret:0 "Orna-Siret"
+ b_orna_siret:0 "Orna-Siret"
+ b_cregun:0 "Cregun"
+ b_amlig:0 "Amlig"
+ b_gresha:0 "Gresha"
+ ### Duchy of Bagat
+ #### County of Yurnagul
+ d_bagat:0 "Bagat"
+ c_yurnagul:0 "Yurnagul"
+ b_yurnagul:0 "Yurnagul"
+ b_suraeth:0 "Suraeth"
+ b_nuresh:0 "Nuresh"
+ #### County of Elsha-Goru
+ c_elsha_goru:0 "Elsha-Goru"
+ b_elsha_goru:0 "Elsha-Goru"
+ b_selarna:0 "Selarna"
+ b_bralun:0 "Bralun"
+ #### County of Bragan
+ c_bragan:0 "Bragan"
+ b_orun_bragan:0 "Orun-Bragan"
+ b_hurnet:0 "Hurnet"
+ b_bral_sigen:0 "Bral-Sigen"
+ b_drunel:0 "Drunel"
+ b_sargan:0 "Sargan"
+ ### Duchy of Hagan
+ #### County of Oru-Gareth
+ d_hagan:0 "Hagan"
+ c_oru_gareth:0 "Oru-Gareth"
+ b_oru_gareth:0 "Oru-Gareth"
+ b_ulgaresh:0 "Ulgaresh"
+ b_ilgasun:0 "Ilgasun"
+ b_ores:0 "Ores"
+ #### County of Surnegul
+ c_surnegul:0 "Surnegul"
+ b_surnegul:0 "Surnegul"
+ b_bral_surnegul:0 "Bral-Surnegul"
+ b_othun:0 "Othun"
+ #### County of Irulnath
+ c_irulnath:0 "Irulnath"
+ b_irulnath:0 "Irulnath"
+ b_belthur:0 "Belthur"
+ b_thuneg:0 "Thuneg"
+ ### Duchy of Irul
+ #### County of Irul
+ d_irul:0 "Irul"
+ c_irul:0 "Irul"
+ b_alg_irul:0 "Alg-Irul"
+ b_curnag:0 "Curnag"
+ b_alguren:0 "Alguren"
+ b_ernesul:0 "Ernesul"
+ b_ilg_saret:0 "Ilg-Saret"
+ b_leth_gora:0 "Leth-Gora"
+ #### County of Ulg-Rasan
+ c_ulg_rasan:0 "Ulg-Rasan"
+ b_ulg_rasan:0 "Ulg-Rasan"
+ b_vargora:0 "Vargora"
+ b_larai:0 "Larai"
+ b_bralorn:0 "Bralorn"
+ #### County of Ulg-Surnai
+ c_ulg_surnai:0 "Ulg-Surnai"
+ b_ulg_surnai:0 "Ulg-Surnai"
+ b_ilthagora:0 "Ilthagora"
+ b_belthun:0 "Belthun"
+ b_toran:0 "Toran"
+ #### County of Drelun
+ c_drelun:0 "Drelun"
+ b_drelun:0 "Drelun"
+ b_ilrath:0 "Ilrath"
+ b_relun:0 "Relun"
+ b_ilgoraen:0 "Ilgoraen"
+ ## Kingdom of Asáresal
+ ### Duchy of Taranion
+ #### County of Taranion
+ k_asaresal:0 "Asáresal"
+ k_asaresal_adj:0 "Asáresalan"
+ d_taranion:0 "Taranion"
+ c_taranion:0 "Taranion"
+ b_taraneioi:0 "Taraneioi"
+ b_ornaros:0 "Ornaros"
+ b_thanoveia:0 "Thanóveia"
+ b_syrelos:0 "Syrelos"
+ #### County of Astossa
+ c_astossa:0 "Astossa"
+ b_astossa:0 "Astossa"
+ b_phornos:0 "Phornos"
+ b_pyrenon:0 "Pyrenon"
+ #### County of Nerelos
+ c_nerelos:0 "Nerelos"
+ b_nerelos:0 "Nerelos"
+ b_kalenthe:0 "Kalenthe"
+ b_alvorelos:0 "Alvorelos"
+ #### County of Lymnos
+ c_lymnos:0 "Lymnos"
+ b_lymnos:0 "Lymnos"
+ b_ervossa:0 "Ervossa"
+ b_tyrion:0 "Tyrion"
+ #### County of Seranon
+ c_seranon:0 "Seranon"
+ b_seranon:0 "Seranon"
+ b_velkanon:0 "Velkanon"
+ #### County of Ipánon
+ c_ipanon:0 "Ipánon"
+ b_ipanon:0 "Ipánon"
+ b_ilyaros:0 "Ilyaros"
+ b_ermaros:0 "Ermaros"
+ #### County of Syranion
+ c_syranion:0 "Syranion"
+ b_syranion:0 "Syranion"
+ b_thesselos:0 "Thesselos"
+ b_kessareth:0 "Kessareth"
+ ### Duchy of Syration
+ #### County of Orvethos
+ d_syration:0 "Syration"
+ c_orvethos:0 "Orvethos"
+ b_orvethos:0 "Orvethos"
+ b_serarion:0 "Serarion"
+ b_tyreth:0 "Tyreth"
+ b_almarion:0 "Almarion"
+ #### County of Ornyn
+ c_ornyn:0 "Ornyn"
+ b_ornyn:0 "Ornyn"
+ b_tharanthos:0 "Tharanthos"
+ b_pelornos:0 "Pelornos"
+ b_kessalon:0 "Kessalon"
+ #### County of Miríeneia
+ c_mirieneia:0 "Miríeneia"
+ b_mirieneia:0 "Miríeneia"
+ b_aldorion:0 "Aldorion"
+ b_dalyrios:0 "Dalyrios"
+ b_elvorias:0 "Elvorias"
+ ### Duchy of Arrizabal
+ #### County of Urdazuri
+ d_arrizabal:0 "Arrizabal"
+ c_urdazuri:0 "Urdazuri"
+ b_urdazuri:0 "Urdazuri"
+ b_larraga:0 "Larraga"
+ b_elizoa:0 "Elizoa"
+ b_arieta:0 "Arieta"
+ #### County of Berroeta
+ c_berroeta:0 "Berroeta"
+ b_berroeta:0 "Berroeta"
+ b_lezaun:0 "Lezaun"
+ b_lesarra:0 "Lessara"
+ b_etxarra:0 "Etxarra"
+ #### County of Irurtzun
+ c_irurtzun:0 "Irurtzun"
+ b_irurtzun:0 "Irurtzun"
+ b_ezkurra:0 "Ezkurra"
+ b_lerantz:0 "Lerantz"
+ #### County of Harralde
+ c_harralde:0 "Harralde"
+ b_harralde:0 "Harralde"
+ b_otzahar:0 "Otzahar"
+ b_urdalur:0 "Urdalur"
+ b_berasko:0 "Berasko"
+ b_soroa:0 "Soroa"
+ #### County of Zuralde
+ c_zuralde:0 "Zuralde"
+ b_zuralde:0 "Zuralde"
+ b_luretxe:0 "Luretxe"
+ b_elorripea:0 "Elorripea"
+ b_zurberri:0 "Zurberri"
+ ### Duchy of Ephyreia
+ #### County of Aldoros
+ d_ephyreia:0 "Ephyreia"
+ c_aldoros:0 "Aldoros"
+ b_aldoros:0 "Aldoros"
+ b_kervelos:0 "Kervelos"
+ b_soryneia:0 "Soryneia"
+ b_calesion:0 "Calesion"
+ b_kessoran:0 "Kessoran"
+ #### County of Arizketa
+ c_arizketa:0 "Arizketa"
+ b_arizketa:0 "Arizketa"
+ b_sorogain:0 "Sorogain"
+ b_lurriaga:0 "Lurriaga"
+ #### County of Almareia
+ c_almareia:0 "Almareia"
+ b_almareia:0 "Almareia"
+ b_ornanthon:0 "Ornanthon"
+ b_tyrethos:0 "Tyrethos"
+ b_pheronos:0 "Pheronos"
+ #### County of Aldoranon
+ c_aldoranon:0 "Aldoranon"
+ b_aldoranon:0 "Aldoranon"
+ b_kalyn:0 "Kalyn"
+ b_solvath:0 "Solvath"
+ b_nerynos:0 "Nerynos"
+ ### Duchy of Caleseia
+ #### County of Anessoros
+ d_caleseia:0 "Caleseia"
+ c_anessoros:0 "Anessoros"
+ b_anessoros:0 "Anessoros"
+ b_kessyran:0 "Kessyran"
+ b_ilyoss:0 "Ilyoss"
+ b_karvenon:0 "Karvenon"
+ b_dalyreia:0 "Dalyreia"
+ #### County of Ornyreia
+ c_ornyreia:0 "Ornyreia"
+ b_ornyreia:0 "Ornyreia"
+ b_syramass:0 "Syramass"
+ b_metaran:0 "Metaran"
+ #### County of Kervoria
+ c_kervoria:0 "Kervoria"
+ b_kervoria:0 "Kervoria"
+ b_sorynoss:0 "Sorynoss"
+ b_astarion:0 "Astarion"
+ #### County of Metírasson
+ c_metirasson:0 "Metírasson"
+ b_metirasson:0 "Metírasson"
+ b_ephyreia:0 "Ephyreia"
+ b_orymnalos:0 "Orymnalos"
+ ## Kingdom of Aranygar
+ ### Duchy of Uyföld
+ #### County of Elsörendés
+ k_aranygar:0 "Aranygar"
+ k_aranygar_adj:0 "Aranygan"
+ d_uyfold:0 "Uyföld"
+ c_elsorendes:0 "Elsörendés"
+ b_elsorendes:0 "Elsörendés"
+ b_boltayvar:0 "Boltáyvar"
+ b_firencs:0 "Firencs"
+ b_milanos:0 "Milános"
+ #### County of Gatzalde
+ c_gatzalde:0 "Gatzalde"
+ b_gatzalde:0 "Gatzalde"
+ b_birraga:0 "Birraga"
+ #### County of Tolszen
+ c_tolszen:0 "Tolszen"
+ b_tolszen:0 "Tolszen"
+ b_miamlak:0 "Miamlak"
+ b_kajrohat:0 "Kajrohát"
+ #### County of Arran
+ c_arran:0 "Arran"
+ b_arran:0 "Arran"
+ b_azerigain:0 "Azerigain"
+ b_sonnatz:0 "Sonnatz"
+ #### County of Lorrantz
+ c_lorrantz:0 "Lorrantz"
+ b_lorrantz:0 "Lorrantz"
+ b_sorran:0 "Sorran"
+ b_abissa:0 "Abissa"
+ b_notina:0 "Notina"
+ #### County of Urdin
+ c_urdin:0 "Urdin"
+ b_urdin:0 "Urdin"
+ b_zelai:0 "Zelai"
+ ### Duchy of Zegorri
+ #### County of Haizetxe
+ d_zegorri:0 "Zegorri"
+ c_haizetxe:0 "Haizetxe"
+ b_haizetxe:0 "Haizetxe"
+ b_gatzeta:0 "Gatzeta"
+ b_hareata:0 "Hareata"
+ #### County of Axkarain
+ c_axkarain:0 "Axkarain"
+ b_axkarain:0 "Axkarain"
+ b_lorrzaban:0 "Lorrzaban"
+ b_marros:0 "Marros"
+ b_erretz:0 "Erretz"
+ #### County of Irretz
+ c_irretz:0 "Irretz"
+ b_irretz:0 "Irretz"
+ b_ixkain:0 "Ixkain"
+ b_atzarrain:0 "Atzarrain"
+ ## Kingdom of Urrezabe
+ ### Duchy of Rabirne
+ #### County of Larreia
+ k_urrezabe:0 "Urrezabe"
+ k_urrezabe_adj:0 "Urrezabe"
+ d_rabirne:0 "Rabirne"
+ c_larreia:0 "Larreia"
+ b_argassos:0 "Argassos"
+ b_syrathos:0 "Syrathos"
+ b_ornorion:0 "Ornorion"
+ b_phyreth:0 "Phyreth"
+ #### County of Askarain
+ c_askarain:0 "Askarain"
+ b_askarain:0 "Askarain"
+ b_otzain:0 "Otzain"
+ b_iskarra:0 "Iskarra"
+ #### County of Arzabal
+ c_arzabal:0 "Arzabal"
+ b_arzabal:0 "Arzabal"
+ b_atzarain:0 "Atzarain"
+ b_erkatz:0 "Erkatz"
+ b_urrez:0 "Urrez"
+ ### Duchy of Morannos
+ #### County of Morzain
+ d_morannos:0 "Morannos"
+ c_morzain:0 "Morzain"
+ b_morzain:0 "Morzain"
+ b_urrezondo:0 "Urrezondo"
+ b_anzain:0 "Anzain"
+ #### County of Etzarra
+ c_etzarra:0 "Etzarra"
+ b_etzarra:0 "Etzarra"
+ b_batzan:0 "Batzan"
+ b_beharra:0 "Beharra"
+ #### County of Arrtan
+ c_arrtan:0 "Arrtan"
+ b_arrtan:0 "Arrtan"
+ b_eutza:0 "Eutza"
+ #### County of Erromara
+ c_erromara:0 "Erromara"
+ b_erromara:0 "Erromara"
+ b_zizuten:0 "Zizuten"
+ b_emanna:0 "Emanna"
+ b_eskatz:0 "Eskatz"
+ ### Duchy of Belvatz
+ #### County of Beltrava
+ d_belvatz:0 "Belvatz"
+ c_beltrava:0 "Beltrava"
+ b_beltrava:0 "Beltrava"
+ b_uskavel:0 "Uskavel"
+ b_morvanz:0 "Morvanz"
+ #### County of Syralion
+ c_syralion:0 "Syralion"
+ b_syralion:0 "Syralion"
+ b_kessonath:0 "Kessonath"
+ b_kessos:0 "Kessos"
+ #### County of Zurzona
+ c_zurzona:0 "Zurzona"
+ b_zurzona:0 "Zurzona"
+ b_gotzorrein:0 "Gotzorrein"
+ b_keltravaz:0 "Keltravaz"
+ ### Duchy of Ulvorna
+ #### County of Eskuren
+ d_ulvorna:0 "Ulvorna"
+ c_eskuren:0 "Eskuren"
+ b_eskuren:0 "Eskuren"
+ b_dolvena:0 "Dolvena"
+ b_kulvatz:0 "Kulvatz"
+ #### County of Dorzuven
+ c_dorzuven:0 "Dorzuven"
+ b_dorzuven:0 "Dorzuven"
+ b_bortzan:0 "Bortzan"
+ b_natzoval:0 "Natzoval"
+ #### County of Veltrana
+ c_veltrana:0 "Veltrana"
+ b_veltrana:0 "Veltrana"
+ b_oskvorn:0 "Oskvorn"
+ b_sulvetz:0 "Sulvetz"
+ #### County of Betzovan
+ c_betzovan:0 "Betzovan"
+ b_betzovan:0 "Betzovan"
+ b_nazkvorn:0 "Nazkvorn"
+ b_olvetza:0 "Olvetza"
+ #### County of Kretzuna
+ c_kretzuna:0 "Kretzuna"
+ b_kretzuna:0 "Kretzuna"
+ b_belzuren:0 "Belzuren"
+ b_korzal:0 "Korzal"
+ #### County of Nortzavel
+ c_nortzavel:0 "Nortzavel"
+ b_nortzavel:0 "Nortzavel"
+ b_urvaltz:0 "Urvaltz"
 
-
-
-
-
-
-
-
-
-
- k_zatysna:0 "Zatysna"
- k_zatysna_adj:0 "Zatysni"
-
+ # Empire of Verodyska
+ ## Kingdom of Behtava
+ ### Duchy of Lehyansk
+ #### County of Sobryn
+ e_verodyska:0 "Verodyska"
+ e_verodyska_adj:0 "Verodyskan"
  k_behtava:0 "Behtava"
  k_behtava_adj:0 "Behtavan"
-
- k_agalrian:0 "Agalrian"
- k_agalrian_adj:0 "Agalrian"
-
- k_seiwecan:0 "Seiwecan"
- k_seiwecan_adj:0 "Seiwecan"
- 
- k_luveran:0 "Luveran"
- k_luveran_adj:0 "Luveran"
- 
- c_lysan:0 "Lysan"
- b_lysan_castle:0 "Lysan Castle"
- b_lysan_city:0 "Lysan"
-
- k_saraalan:0 "Saraalan"
- k_saraalan_adj:0 "Saraalan"
-
+ d_lehyansk:0 "Lehyansk"
+ c_sobryn:0 "Sobryn"
+ b_sobryn:0 "Sobryn"
+ b_mohylev:0 "Mohylev"
+ b_verkhalny:0 "Verkhalny"
+ #### County of Vradybehy
+ c_vradybehy:0 "Vradybehy"
+ b_vradybehy:0 "Vradybehy"
+ b_lehynsk:0 "Lehynsk"
+ b_solyn:0 "Solyn"
+ #### County of Ursk
+ c_ursk:0 "Ursk"
+ b_ursk:0 "Ursk"
+ b_selyhrad:0 "Selyhrad"
+ b_marylsk:0 "Marylsk"
+ #### County of Kelevsk
+ c_kelevsk:0 "Kelevsk"
+ b_novy_anorzehylsk:0 "Novy Anorzehylsk"
+ b_kelevsk:0 "Kelevsk"
+ b_polansk:0 "Polansk"
+ b_chyvytsk:0 "Chyvytsk"
+ ### Duchy of Kostrykhom
+ #### County of Voyansky
+ d_kostrykhom:0 "Kostrykhom"
+ c_voyansky:0 "Voyansky"
+ b_kumolan:0 "Kumolan"
+ b_myrmany:0 "Myrmany"
+ b_varzehy:0 "Varzehy"
+ #### County of Novyhrad
+ c_novyhrad:0 "Novyhrad"
+ b_mezyn:0 "Mezyn"
+ b_pysk:0 "Pysk"
+ b_charodny_khyl:0 "Charodny Khyl"
+ #### County of Homyl
+ c_homyl:0 "Homyl"
+ b_selyanets:0 "Selyanets"
+ b_lohynsk:0 "Lohynsk"
+ b_baranovy:0 "Baranovy"
+ ### Duchy of Volhe
+ #### County of Vytevo
+ d_volhe:0 "Volhe"
+ c_vytevo:0 "Vytevo"
+ b_vytevo:0 "Vytevo"
+ b_maydynsk:0 "Maydynsk"
+ b_shuynsk:0 "Shuynsk"
+ #### County of Bahrinopol
+ c_bahrinopol:0 "Bahrinopol"
+ b_bahrinopol:0 "Bahrinopol"
+ #### County of Lahensk
+ c_lahensk:0 "Lahensk"
+ b_lahensk:0 "Lahensk"
+ b_morozovy:0 "Morozovy"
+ b_zarets:0 "Zarets"
+ b_zhtomyr:0 "Zhtomyr"
+ #### County of Zherkovo
+ c_zherkovo:0 "Zherkovo"
+ b_hlev:0 "Hlev"
+ b_skolin:0 "Skolin"
+ b_sesovo:0 "Sesovo"
+ #### County of Shalin
+ c_shalin:0 "Shalin"
+ b_baroshalin:0 "Baroshalin"
+ b_stehyl:0 "Stehyl"
+ b_valdan:0 "Valdan"
+ ### Duchy of Velky Vestyakh
+ #### County of Vestyakh
+ d_velky_vestyakh:0 "Velky Vestyakh"
+ c_vestyakh:0 "Vestyakh"
+ b_vestyakh:0 "Vestyakh"
+ b_sylovy:0 "Sylovy"
+ b_bylykyvtar:0 "Bylykyvtar"
+ b_chernyhyl:0 "Chernyhyl"
+ b_vynsk:0 "Vynsk"
+ #### County of Seleny
+ c_seleny:0 "Seleny"
+ b_sorosyl:0 "Sorosyl"
+ b_tany:0 "Tany"
+ b_sylynopol:0 "Sylynopol"
+ b_lehadsk:0 "Lehadsk"
+ b_zenyly:0 "Zenyly"
+ #### County of Berokh y Novysk
+ c_berokh_y_novysk:0 "Berokh y Novysk"
+ b_berokh:0 "Berokh"
+ b_novysk:0 "Novysk"
+ #### County of Khatyn
+ c_khatyn:0 "Khatyn"
+ b_khatyn:0 "Khatyn"
+ b_venylyl:0 "Venylyl"
+ b_volykh:0 "Volykh"
+ b_estevopol:0 "Estevopol"
+ ### Duchy of Zahatny
+ #### County of Dazhyhrets
+ d_zahatny:0 "Zahatny"
+ c_dazhyhrets:0 "Dazhyhrets"
+ b_tsynahrad:0 "Tsynahrad"
+ b_tsylnysk:0 "Tsylnysk"
+ b_karatyn:0 "Karatyn"
+ b_pasadny:0 "Padadny"
+ b_khlomy:0 "Khlomy"
+ b_pravypol:0 "Pravypol"
+ b_zlevypol:0 "Zlevypol"
+ #### County of Taransk
+ c_taransk:0 "Taransk"
+ b_khlem:0 "Khlem"
+ b_lahomsk:0 "Lahomsk"
+ b_parin:0 "Parin"
+ #### County of Mahnetsk
+ c_mahnetsk:0 "Mahnetsk"
+ b_mahnetsk:0 "Mahnetsk"
+ b_bretsk:0 "Bretsk"
+ b_nagay:0 "Nagay"
+ ### Duchy of Seversk
+ #### County of Seleshyn
+ d_seversk:0 "Seversk"
+ c_seleshyn:0 "Seleshyn"
+ b_pirot:0 "Pirot"
+ b_hachen:0 "Hachen"
+ b_lekh:0 "Lekh"
+ b_nizhnypol:0 "Nizhnypol"
+ #### County of Zanktev
+ c_zanktev:0 "Zanktev"
+ b_zanktev:0 "Zanktev"
+ b_preskovo:0 "Preskovo"
+ b_horodny:0 "Horodny"
+ #### County of Byla
+ c_byla:0 "Byla"
+ b_byla:0 "Byla"
+ b_slazevo:0 "Slazevo"
+ b_vyzhny_byla:0 "Vyzhny Byla"
+ #### County of Paradovets
+ c_paradovets:0 "Paradovets"
+ b_stylykyvtar:0 "Stylykyvtar"
+ b_parensk:0 "Parensk"
+ b_prestva:0 "Prestva"
+ #### County of Roslynovo
+ c_roslynovo:0 "Roslynovo"
+ b_slena:0 "Slena"
+ b_kehovyl:0 "Kehovyl"
+ b_stenkh:0 "Stenkh"
+ ### Duchy of Vendynsk
+ #### County of Prahy
+ d_vendynsk:0 "Vendynsk"
+ c_prahy:0 "Prahy"
+ b_bohymsk:0 "Bohymsk"
+ b_morovy:0 "Morovy"
+ b_sylyshe:0 "Sylyshe"
+ #### County of Vodz
+ c_vodz:0 "Vodz"
+ b_behansk:0 "Behansk"
+ b_volshy:0 "Volshy"
+ b_kurdyn:0 "Kurdyn"
+ b_myroshka:0 "Myroshka"
+ #### County of Slovynsk
+ c_slovynsk:0 "Slovynsk"
+ b_melyve:0 "Melyve"
+ b_krynsk:0 "Krynsk"
+ b_zhtorostylsk:0 "Zhtorostylsk"
+ b_servyl:0 "Servyl"
+ #### County of Behavarysh
+ c_behavarysh:0 "Behavarysh"
+ b_behavarysh:0 "Behavarysh"
+ b_smorohy:0 "Smorohy"
+ b_hradatsk:0 "Hradatsk"
+ #### County of Velsk
+ c_velsk:0 "Velsk"
+ b_rodyn:0 "Rodyn"
+ b_starely:0 "Starely"
+ ## Kingdom of Zatysna
+ ### Duchy of Petrokovo
+ #### County of Zatyshyhrad
+ k_zatysna:0 "Zatysna"
+ k_zatysna_adj:0 "Zatysni"
+ d_petrokovo:0 "Petrokovo"
+ c_zatyshyhrad:0 "Zatyshyhrad"
+ b_zatyshyhrad:0 "Zatyshyhrad"
+ b_mozov:0 "Mozov"
+ b_orohevsk:0 "Orohevsk"
+ #### County of Rada
+ c_rada:0 "Rada"
+ b_rada:0 "Rada"
+ b_mramovy:0 "Mramovy"
+ b_prenovo:0 "Prenovo"
+ #### County of Srahady
+ c_srahady:0 "Srahady"
+ b_atask:0 "Atask"
+ b_kurtovo:0 "Kurtovo"
+ b_tylanovo:0 "Tylanovo"
+ b_shahar:0 "Shahar"
+ #### County of Behylov
+ c_behylov:0 "Behylov"
+ b_kratov:0 "Kratov"
+ b_pretara:0 "Pretara"
+ b_zatushka:0 "Zatushka"
+ ### Duchy of Orel Pridno
+ #### County of Ternov
+ d_orel_pridno:0 "Orel Pridno"
+ c_ternov:0 "Ternov"
+ b_pradevny:0 "Pradevny"
+ b_hylov:0 "Hylov"
+ b_chertovo:0 "Chertovo"
+ #### County of Velky Kolev
+ c_velky_kolev:0 "Velky Kolev"
+ b_kolev:0 "Kolev"
+ b_predimir:0 "Predimir"
+ b_cherkov:0 "Cherkov"
+ #### County of Karhod
+ c_karhod:0 "Karhod"
+ b_selysh:0 "Selysh"
+ b_lyka:0 "Lyka"
+ b_stelno:0 "Stelno"
+ b_koroprah:0 "Koroprah"
+ ### Duchy of Orel Khyl
+ #### County of Kremov
+ d_orel_khyl:0 "Orel Khyl"
+ c_kremov:0 "Kremov"
+ b_kremov:0 "Kremov"
+ b_paratyn:0 "Paratyn"
+ b_slavets:0 "Slavets"
+ #### County of Kylatyna
+ c_kylatyna:0 "Kylatyna"
+ b_predova:0 "Predova"
+ b_muroma:0 "Muroma"
+ b_nevsk:0 "Nevsk"
+ #### County of Lynov
+ c_lynov:0 "Lynov"
+ b_lyna:0 "Lyna"
+ b_shypka:0 "Shypka"
+ b_bylynov:0 "Bylynov"
+ ### Duchy of Zatysh
+ #### County of Don
+ d_zatysh:0 "Zatysh"
+ c_don:0 "Don"
+ b_slanov:0 "Slanov"
+ b_khlymynovo:0 "Khlymynovo"
+ b_atasha:0 "Atasha"
+ b_haroskva:0 "Haroskva"
+ #### County of Limov
+ c_limov:0 "Limov"
+ b_tana:0 "Tana"
+ b_stalyna:0 "Stalyna"
+ b_nasynov:0 "Nasynov"
+ #### County of Predenovy
+ c_predenovy:0 "Predenovy"
+ b_predenovy:0 "Predenovy"
+ b_hylyvopol:0 "Hylyvopol"
+ b_khlemynsk:0 "Khlemynsk"
+ #### County of Muromov
+ c_muromov:0 "Muromov"
+ b_muromov:0 "Muromov"
+ b_prelets:0 "Prelets"
+ b_uskoy:0 "Uskoy"
+ #### County of Sredyn
+ c_sredyn:0 "Sredyn"
+ b_lyrovy:0 "Lyrovy"
+ b_branobelov:0 "Branobelov"
+ b_truskogo:0 "Truskogo"
+ ## Kingdom of Meruyar
+ ### Duchy of Hageland
+ #### County of Tharor
  k_meruyar:0 "Meruyar"
  k_meruyar_adj:0 "Meruyar"
- k_meruyar_adj:0 "Meruyar"
+ d_hageland:0 "Hageland"
+ c_tharor:0 "Tharor"
+ b_tharor:0 "Tharor"
+ b_alar:0 "Ålar"
+ b_stromtea:0 "Stromteå"
+ #### County of Theivr
+ c_theivr:0 "Theivr"
+ b_theivring:0 "Theivring"
+ b_rorikar:0 "Rorikar"
+ #### County of Konning
+ c_konning:0 "Konning"
+ b_konning:0 "Konning"
+ b_orlanstad:0 "Orlanstad"
+ b_malo:0 "Målo"
+ #### County of Rjovik
+ c_rjovik:0 "Rjovik"
+ b_rjovik:0 "Rjovik"
+ b_renaring:0 "Renaring"
+ b_albon:0 "Ålbon"
+ #### County of Midgar
+ c_midgar:0 "Midgar"
+ b_midgaring:0 "Midgaring"
+ b_trevijk:0 "Trevijk"
+ b_tors:0 "Tors"
+ b_vimberling:0 "Vimberling"
+ b_udval:0 "Udval"
+ ### Duchy of Ljundland
+ #### County of Ljund
+ d_ljundland:0 "Ljundland"
+ c_ljund:0 "Ljund"
+ b_ljunding:0 "Ljunding"
+ b_sveg:0 "Sveg"
+ b_idring:0 "Idring"
+ #### County of Venstre
+ c_venstre:0 "Venstre"
+ b_venstring:0 "Venstring"
+ b_ustinvijk:0 "Ustinvijk"
+ b_koperring:0 "Koperring"
+ b_lyngsonn:0 "Lyngsonn"
+ #### County of Sejvik
+ c_sejvik:0 "Sejvik"
+ b_sejvik:0 "Sejvik"
+ b_brigholm:0 "Brigholm"
+ b_javo:0 "Jåvo"
+ b_skaling:0 "Skåling"
+ #### County of Vidarr
+ c_vidarr:0 "Vidarr"
+ b_vidarring:0 "Vidarring"
+ b_vogjalur:0 "Vogjalur"
+ b_haralving:0 "Haralving"
+ #### County of Kalfarl
+ c_kalfarl:0 "Kalfarl"
+ b_kalfarling:0 "Kalfarling"
+ b_rejkaldr:0 "Rejkaldr"
+ b_varmalur:0 "Varmalur"
+ b_thindr:0 "Thindr"
+ ### Duchy of Balisunnland
+ #### County of Helgisunn
+ d_balisunnland:0 "Bålisunnland"
+ c_helgisunn:0 "Helgisunn"
+ b_mansvall:0 "Mansvåll"
+ b_hejdvin:0 "Hejdvin"
+ b_elvarur:0 "Elvarur"
+ b_valinborg:0 "Valinborg"
+ b_tharsten:0 "Tharsten"
+ #### County of Eidarr
+ c_eidarr:0 "Eidarr"
+ b_eidarring:0 "Eidarring"
+ b_ljunby:0 "Ljunby"
+ b_nykopur:0 "Nykopur"
+ b_ratling:0 "Råtling"
+ #### County of Harnur
+ c_harnur:0 "Harnur"
+ b_harnur:0 "Harnur"
+ b_dalen:0 "Dålen"
+ b_vund:0 "Vund"
+ b_tharrheim:0 "Tharrheim"
+ b_midring:0 "Midring"
+ b_strand:0 "Strand"
+ #### County of Barlå
+ c_barla:0 "Barlå"
+ b_barla:0 "Barlå"
+ b_ruding:0 "Ruding"
+ b_kevralur:0 "Kevralur"
+ b_mirgard:0 "Mirgard"
+ ### Duchy of Sharatayn
+ #### County of Saras
+ d_sharatayn:0 "Sharatayn"
+ c_saras:0 "Saras"
+ b_qel_mari:0 "Qel Mari"
+ b_gebi_saras:0 "Gebi Saras"
+ b_suri_saras:0 "Suri Saras"
+ #### County of Sher
+ c_sher:0 "Sher"
+ b_sher:0 "Sher"
+ b_sabaas:0 "Sabaas"
+ b_bar_kaabed:0 "Bar Kaabed"
+ b_sedt:0 "Sedt"
+ #### County of Merd Gebal
+ c_merd_gebal:0 "Merd Gebal"
+ b_garb_hadat:0 "Garb Hadat"
+ b_darmal:0 "Darmal"
+ b_ubal:0 "Ubal"
+ b_meru:0 "Meru"
+ #### County of Qal Sarban
+ c_qal_sarban:0 "Qal Sarban"
+ b_sarban:0 "Sarban"
+ b_taba:0 "Taba"
+ b_sur_sadesht:0 "Sur Sadesht"
+ #### County of Qarash
+ c_qarash:0 "Qarash"
+ b_qarash:0 "Qarash"
+ b_bath_sebtur:0 "Bath Sebtur"
+ b_habal:0 "Habal"
+ b_barash:0 "Barash"
+ #### County of Qal Bedad
+ c_qal_bedad:0 "Qal Bedad"
+ b_bedad:0 "Bedad"
+ ### Duchy of Egresht
+ #### County of Qal Hedayt
+ d_egresht:0 "Egresht"
+ c_qal_hedayt:0 "Qal Hedayt"
+ b_hedayt:0 "Hedayt"
+ b_bal_habar:0 "Bal Habar"
+ b_shar:0 "Shar"
+ b_babek:0 "Babek"
+ b_taran:0 "Taran"
+ #### County of Shadat
+ c_shadat:0 "Shadat"
+ b_shadat:0 "Shadat"
+ b_bar_had:0 "Bar Had"
+ #### County of Dama
+ c_dama:0 "Dama"
+ b_dama:0 "Dama"
+ b_qeral:0 "Qeral"
+ b_gebal:0 "Gebal"
+ ## Kingdom of Saraalan
+ ### Duchy of Shidal
+ #### County of Qal Saraal
+ k_saraalan:0 "Saraalan"
+ k_saraalan_adj:0 "Saraalani"
+ d_shidal:0 "Shidal"
+ c_qal_saraal:0 "Qal Saraal"
+ b_saraal:0 "Saraal"
+ b_qash_hebet:0 "Qash Hebet"
+ b_redan:0 "Redan"
+ b_haman:0 "Haman"
+ #### County of Shamaat
+ c_shamaat:0 "Shamaat"
+ b_shamaat:0 "Shamaat"
+ b_melash:0 "Melash"
+ b_qathen:0 "Qathen"
+ #### County of Hadram
+ c_hadram:0 "Hadram"
+ b_hadramet:0 "Hadramet"
+ b_bath_nashet:0 "Bath Nashet"
+ b_bar_beran:0 "Bar Beran"
+ b_bar_dash:0 "Bar Dash"
+ ### Duchy of Qalamatayn
+ #### County of Qal Shalan
+ d_qalamatayn:0 "Qalamatayn"
+ c_qal_shalan:0 "Qal Shalan"
+ b_shalan:0 "Shalani"
+ b_or:0 "Or"
+ b_suri_shalan:0 "Suri Shalan"
+ b_gebi_shalan:0 "Gebi Shalan"
+ #### County of Hamesh
+ c_hamesh:0 "Hamesh"
+ b_alesh:0 "Alesh"
+ b_hameshet:0 "Hameshet"
+ b_deth:0 "Deth"
+ b_balar:0 "Balar"
+ b_bar_shin:0 "Bar Shin"
+ b_qalath:0 "Qalath"
+ #### County of Saluth
+ c_saluth:0 "Saluth"
+ b_saluth:0 "Saluth"
+ b_biden:0 "Biden"
+ b_alad:0 "Alad"
+ #### County of Shid Hadam
+ c_shid_hadam:0 "Shid Hadam"
+ b_hadam:0 "Hadam"
+ b_qadanet:0 "Qadanet"
+ b_keth_baram:0 "Keth Baram"
+ ### Duchy of Avanal
+ #### County of Tiron
+ d_avanal:0 "Avanal"
+ c_tiron:0 "Tiron"
+ b_tiron:0 "Tiron"
+ b_hamebal:0 "Hamebal"
+ b_anabal:0 "Anabal"
+ b_talaabal:0 "Talaabal"
+ #### County of Hanno
+ c_hanno:0 "Hanno"
+ b_hanno:0 "Hanno"
+ b_bar_kabaal:0 "Bar Kabaal"
+ b_egremet:0 "Egremet"
+ b_barshet:0 "Barshet"
+ #### County of Orbal
+ c_orbal:0 "Orbal"
+ b_bar_orbal:0 "Bar Orbal"
+ b_sharaman:0 "Sharaman"
+ b_aman:0 "Aman"
+ b_keth_bered:0 "Keth Bered"
+ b_shibaal:0 "Shibaal"
+ #### County of Qal Sebtad
+ c_qal_sebtad:0 "Qal Sebtad"
+ b_sebtad:0 "Sebtad"
+ b_leban:0 "Leban"
+ b_ramom:0 "Ramom"
+ b_bar_gedar:0 "Bar Gedar"
+
+ # Empire of Orömseger
+ ## Kingdom of Nagyvolen
+ ### Duchy of Ködvölgy
+ #### County of Fehérpart
+ e_oromseger:0 "Orömseger"
+ e_oromseger_adj:0 "Orömsegeran"
+ k_nagyvolen:0 "Nagyvolen"
+ k_nagyvolen_adj:0 "Nagyvolen"
+ d_kodvolgy:0 "Ködvölgy"
+ c_feherpart:0 "Fehérpart"
+ b_feherszeg:0 "Fehérszeg"
+ b_veresret:0 "Veresrét"
+ b_tolgylak:0 "Tölgylak"
+ b_volgyesvany:0 "Völgyesvany"
+ #### County of Halomhát
+ c_halomhat:0 "Halomhát"
+ b_halomhat:0 "Halomhát"
+ b_hegyrev:0 "Hegyrév"
+ b_tohalom:0 "Tóhalom"
+ b_toronyhat:0 "Toronyhát"
+ #### County of Áldaszeg
+ c_aldaszeg:0 "Áldaszeg"
+ b_aldaszeg:0 "Áldaszeg"
+ b_borzsom:0 "Borzsom"
+ b_batyor:0 "Bátyor"
+ #### County of Dörvös
+ c_dorvos:0 "Dörvös"
+ b_dorvos:0 "Dörvös"
+ b_folmer:0 "Fölmér"
+ b_czirgeny:0 "Czirgény"
+ #### County of Vadászfok
+ c_vadaszfok:0 "Vadászfok"
+ b_vadaszfok:0 "Vadászfok"
+ b_kapurev:0 "Kapurév"
+ b_cserhalom:0 "Cserhalom"
+ ### Duchy of Mocsárhát
+ #### County of Györhalom
+ d_moscarhat:0 "Mocsárhát"
+ c_gyorhalom:0 "Györhalom"
+ b_gyorhalom:0 "Györhalom"
+ b_harszeg:0 "Hárszeg"
+ b_imrat:0 "Imrát"
+ #### County of Márszeg
+ c_marszeg:0 "Márszeg"
+ b_marszeg:0 "Márszeg"
+ b_lanszeg:0 "Lánszeg"
+ b_kalvony:0 "Kálvony"
+ b_iszvar:0 "Iszvár"
+ #### County of Tüszeg
+ c_tuszeg:0 "Tüszeg"
+ b_tuszeg:0 "Tüszeg"
+ b_sasorom:0 "Sasorom"
+ b_olomhat:0 "Olomhát"
+ b_koparpart:0 "Kopárpart"
+ ### Duchy of Olómfészek
+ #### County of Sólyomliget
+ d_olomfeszek:0 "Olómfészek"
+ c_solyomliget:0 "Sólyomliget"
+ b_solyomliget:0 "Sólyomliget"
+ b_sasalja:0 "Sasalja"
+ b_gorbehat:0 "Görbehát"
+ b_magasret:0 "Magasrét"
+ b_vadret:0 "Vadrét"
+ #### County of Rozsdálak
+ c_rozsdalak:0 "Rozsdálak"
+ b_rozsdalak:0 "Rozsdálak"
+ b_olomhasz:0 "Ólomhász"
+ b_nyestfeszek:0 "Nyestfészek"
+ #### County of Récerét
+ c_receret:0 "Récerét"
+ b_receret:0 "Récerét"
+ b_golyaret:0 "Gólyarét"
+ b_bikarev:0 "Bikarév"
+ b_szeleshat:0 "Széleshát"
+ ## Kingdom of Orömsehát
+ ### Duchy of Darurét
+ #### County of Hószeg
+ k_oromsehat:0 "Orömsehát"
+ k_oromsehat_adj:0 "Orömsehátan"
+ d_daruret:0 "Darurét"
+ c_hoszeg:0 "Hószeg"
+ b_vadhatar:0 "Vadhatár"
+ b_tolgyhat:0 "Tölgyhát"
+ b_meregto:0 "Méregtó"
+ b_koparhat:0 "Kopárhát"
+ #### County of Mélytó
+ c_melyto:0 "Mélytó"
+ b_melyto:0 "Mélytó"
+ b_verespart:0 "Verespart"
+ b_veresvar:0 "Veresvár"
+ #### County of Daruvár
+ c_daruvar:0 "Daruvár"
+ b_daruvar:0 "Daruvár"
+ b_hohegy:0 "Hóhegy" 
+ b_edeshat:0 "Édeshát"
+ ### Duchy of Farkashát
+ #### County of Hollóberek
+ d_farkashat:0 "Farkashát"
+ c_holloberek:0 "Hollóberek"
+ b_holloberek:0 "Hollóberek"
+ b_medverev:0 "Medverév"
+ b_sziklakapu:0 "Sziklakapu"
+ #### County of Mocsárszeg
+ c_mocsarszeg:0 "Mocsárszeg"
+ b_mocsarszeg:0 "Mocsárszeg"
+ b_jegorom:0 "Jégorom"
+ #### County of Vashát
+ c_vashat:0 "Vashát"
+ b_vashat:0 "Vashát"
+ b_korev:0 "Körév"
+ b_szilorom:0 "Szilorom"
+ #### County of Csertetö
+ c_cserteto:0 "Csertetö"
+ b_cserteto:0 "Csertetö"
+ b_vadaszpart:0 "Vadászpart"
+ b_kapuszeg:0 "Kapuszeg"
+ ### Duchy of Ménhegy
+ #### County of Nyúlberek
+ d_menhegy:0 "Ménhegy"
+ c_nyulberek:0 "Nyúlberek"
+ b_nyulberek:0 "Nyúlberek"
+ b_menhaza:0 "Ménháza"
+ b_varjulak:0 "Varjúlak"
+ #### County of Agyaghát
+ c_agyaghat:0 "Agyaghát"
+ b_agyaghat:0 "Agyaghát"
+ b_bolenylak:0 "Bölénylak"
+ b_varjuszeg:0 "Varjúszeg"
+ b_almaszeg:0 "Almaszeg"
+ #### County of Somháza
+ c_somhaza:0 "Somháza"
+ b_somhaza:0 "Somháza"
+ b_javordomb:0 "Jávordomb"
+ b_cserhaza:0 "Cserháza"
+ #### County of Málszeg
+ c_malszeg:0 "Málszeg"
+ b_malszeg:0 "Málszeg"
+ b_onszahat:0 "Ónszahát"
+ b_meszhalom:0 "Mészhalom"
+ ### Duchy of Bányavár
+ #### County of Érpatak
+ d_banyavar:0 "Bányavár"
+ c_erpatak:0 "Érpatak"
+ b_erpatak:0 "Érpatak"
+ b_menszeg:0 "Ménszeg"
+ b_bolenyhaza:0 "Bölényháza"
+ b_zergefok:0 "Zergefok"
+ #### County of Ónszeg
+ c_onszeg:0 "Ónszeg"
+ b_onszeg:0 "Ónszeg"
+ b_mentelke:0 "Méntelke"
+ b_bolenyfalva:0 "Bölényfalva"
+ #### County of Szurdokszeg
+ c_szurdokszeg:0 "Szurdokszeg"
+ b_szurdokszeg:0 "Szurdokszeg"
+ b_zergevolgye:0 "Zergevölgye"
+ b_bagolyhaza:0 "Bagolyháza"
+ ## Kingdom of Hészeyes
+ ### Duchy of Agyagvár
+ #### County of Varjúrét
+ k_heszeyes:0 "Hészeyes"
+ k_heszeyes_adj:0 "Hészeyen"
+ d_agyagvar:0 "Agyagvár"
+ c_varjuret:0 "Varjúrét"
+ b_agyafold:0 "Agyaföld"
+ b_kokenykert:0 "Kökénykert"
+ b_javorszeg:0 "Jávorszeg"
+ b_javorpart:0 "Jávorpart"
+ #### County of Ónhát
+ c_onhat:0 "Ónhát"
+ b_onhat:0 "Ónhát"
+ b_banyaszeg:0 "Bányaszeg"
+ b_komorhat:0 "Komorhát"
+ #### County of Hiúzszeg
+ c_hiuzszeg:0 "Hiúzszeg"
+ b_hiuzszeg:0 "Hiúzszeg"
+ b_hodhalom:0 "Hódhalom"
+ b_hejavolgye:0 "Héjavölgye"
+ ### Duchy of Somvár
+ #### County of Körteháza
+ d_somvar:0 "Somvár"
+ c_kortehaza:0 "Körteháza"
+ b_kortehaza:0 "Körteháza"
+ b_javorfok:0 "Jávorfok"
+ b_egertelke:0 "Égertelke"
+ b_nyirfalva:0 "Nyírfalva"
+ #### County of Csertelke
+ c_csertelke:0 "Csertelke"
+ b_csertelke:0 "Csertelke"
+ b_ervolgye:0 "Érvölgye"
+ b_kanyarhaza:0 "Kanyarháza"
+ b_kanyarhalom:0 "Kanyarhalom"
+ #### County of Kovaháza
+ c_kovahaza:0 "Kovaháza"
+ b_kovahaza:0 "Kovaháza"
+ b_morgofok:0 "Morgófok"
+ b_fodroshat:0 "Fodroshát"
+ b_komorvolgy:0 "Komorvölgy"
+ #### County of Éleshát
+ c_eleshat:0 "Éleshát"
+ b_eleshat:0 "Éleshát"
+ b_tompahat:0 "Tompahát"
+ ## Kingdom of Ezushag
+ ### Duchy of Czukarév
+ #### County of Bekaszeg
+ k_ezushag:0 "Ezushag"
+ k_ezushag_adj:0 "Ezushagan"
+ d_csukarev:0 "Csukarév"
+ c_bekaszeg:0 "Békaszeg"
+ b_bekaszeg:0 "Békaszeg"
+ b_kocsaghat:0 "Kócsaghát"
+ b_csukapart:0 "Csukapart"
+ b_borzvolgye:0 "Borzvölgye"
+ #### County of Sóslak
+ c_soslak:0 "Sóslak"
+ b_soslak:0 "Sóslak"
+ b_kecskelak:0 "Kecskélak"
+ b_borzhaza:0 "Borzháza"
+ #### County of Viharhegy
+ c_viharhegy:0 "Viharhegy"
+ b_viharhegy:0 "Viharhegy"
+ b_pernyehat:0 "Pernyehát"
+ b_kocsagfeszek:0 "Kócsagfészek"
+ #### County of Nádszeg
+ c_nadszeg:0 "Nádszeg"
+ b_nadszeg:0 "Nádszeg"
+ b_mokushat:0 "Mókushát"
+ b_gorenyszeg:0 "Görényszeg"
+ b_loszeg:0 "Lószeg"
+ b_nadhalom:0 "Nádhalom"
+ ### Duchy of Kócsagvár
+ #### County of Kigyószeg
+ d_kocsagvar:0 "Kócsagvár"
+ c_kigyoszeg:0 "Kigyószeg"
+ b_kigyoszeg:0 "Kigyószeg"
+ b_pontyszeg:0 "Pontyhát"
+ b_hattyufok:0 "Hattyúfok"
+ #### County of Sárgavölgye
+ c_sargavolgye:0 "Sárgavölgye"
+ b_sargavolgye:0 "Sárgavölgye"
+ b_gorenyberek:0 "Görényberek"
+ b_juhszeg:0 "Juhszeg"
+ #### County of Ilkony
+ c_ilkony:0 "Ilkony"
+ b_ilkony:0 "Ilkony"
+ b_oltvar:0 "Oltvár"
+ b_reszvar:0 "Részvár"
+ #### County of Szárdony
+ c_szardony:0 "Szárdony"
+ b_szardony:0 "Szárdony"
+ b_szomtor:0 "Szomtor"
+ b_udvarny:0 "Udvárny"
+ #### County of Cséreg
+ c_csereg:0 "Cséreg"
+ b_csereg:0 "Cséreg"
+ b_arvony:0 "Arvony"
+
+ # Empire of Eburomarc
+ ## Kingdom of Cynmarc
+ ### Duchy of Brennmere
+ #### County of Kallioros
+ e_eburomarc:0 "Eburomarc"
+ e_eburomarc_adj:0 "Eburomarcer"
+ k_cynmarc:0 "Cynmarc"
+ k_cynmarc_adj:0 "Cynmarcer"
+ d_brennmere:0 "Brennmere"
+ c_kallioros:0 "Kallioros"
+ b_kallioros:0 "Kallioros"
+ b_heahwic:0 "Heahwic"
+ b_kallichora:0 "Kallichora"
+ #### County of Hyseden
+ c_hyseden:0 "Hyseden"
+ b_hyseden:0 "Hyseden"
+ b_eorlsted:0 "Eorlsted"
+ b_steynfeld:0 "Steynfeld"
+ b_hwitborn:0 "Hwitborn"
+ #### County of Ingmere
+ c_ingmere:0 "Ingmere"
+ b_ingmere:0 "Ingmere"
+ b_helmwic:0 "Helmwic"
+ b_wyrmdale:0 "Wyrmdale"
+ #### County of Aldercroft
+ c_aldercroft:0 "Aldercroft"
+ b_aldercroft:0 "Aldercroft"
+ b_caldmoor:0 "Caldmoor"
+ b_wicfeld:0 "Wicfeld"
+ b_coppersted:0 "Coppersted"
+ ### Duchy of Fenweald
+ #### County of Arvamagos
+ d_fenweald:0 "Fenweald"
+ c_arvamagos:0 "Arvamagos"
+ b_arvamagos:0 "Arvamagos"
+ b_moridunum:0 "Moridunum"
+ #### County of Beornric
+ c_beornric:0 "Beornric"
+ b_beornric:0 "Beornric"
+ b_cynwald:0 "Cynwald"
+ b_thornsted:0 "Thornsted"
+ b_ealhmere:0 "Ealhmere"
+ #### County of Hohden
+ c_hohden:0 "Hohden"
+ b_hohden:0 "Hohden"
+ b_wyrmfeld:0 "Wyrmfeld"
+ b_hwitrycg:0 "Hwitrycg"
+ b_ingbeorg:0 "Ingbeorg"
+ b_grimdun:0 "Grimdun"
+ #### County of Eoferwic
+ c_eoferwic:0 "Eoferwic"
+ b_eoferwic:0 "Eoferwic"
+ b_cynedun:0 "Cynedun"
+ b_hringmarc:0 "Hringmarc"
+ #### County of Wulfryc
+ c_wulfryc:0 "Wulfryc"
+ b_wulfryc:0 "Wulfryc"
+ b_stanfeld:0 "Stanfeld"
+ b_uhtmere:0 "Uhtmere"
+ b_hralham:0 "Hralham"
+ #### County of Iserngeld
+ c_iserngeld:0 "Iserngeld"
+ b_iserngeld:0 "Iserngeld"
+ ### Duchy of Caldunon
+ #### County of Eburomere
+ d_caldunon:0 "Caldunon"
+ c_eburomere:0 "Eburomere"
+ b_eburomere:0 "Eburomere"
+ b_eorlobriga:0 "Eorlobriga"
+ b_beordunum:0 "Beordunum"
+ b_virofeld:0 "Virofeld"
+ #### County of Segodun
+ c_segodun:0 "Segodun"
+ b_segodun:0 "Segodun"
+ b_eburowic:0 "Eburowic"
+ b_dumnosted:0 "Dumnosted"
+ #### County of Swainmarc
+ c_swainmarc:0 "Swainmarc"
+ b_swainmarc:0 "Swainmarc"
+ b_wulfham:0 "Wulfham"
+ b_ecgbeorn:0 "Ecgbeorn"
+ b_cyneric:0 "Cyneric"
+ #### County of Ecgodunum
+ c_ecgodunum:0 "Ecgodunum"
+ b_ecgodunum:0 "Ecgodunum"
+ b_dunomere:0 "Dunomere"
+ b_alaunholt:0 "Alaunholt"
+ ### Duchy of Sivowald
+ #### County of Daromoor
+ d_sivowald:0 "Sivowald"
+ c_daromoor:0 "Daromoor"
+ b_daromoor:0 "Daromoor"
+ b_carnowald:0 "Carnowald"
+ b_ordacum:0 "Ordacum"
+ #### County of Vernobeorg
+ c_vernobeorg:0 "Vernobeorg"
+ b_vernobeorg:0 "Vernobeorg"
+ b_toutowald:0 "Toutowald"
+ #### County of Stanoacum
+ c_stanoacum:0 "Stanoacum"
+ b_stanoacum:0 "Stanoacum"
+ b_wulforitum:0 "Wulforitum"
+ b_alder_briga:0 "Alder Briga"
+ ### Duchy of Daroweald
+ #### County of Alaunmere
+ d_daroweald:0 "Daroweald"
+ c_alaunmere:0 "Alaunmere"
+ b_alaunmere:0 "Alaunmere"
+ b_arvadun:0 "Arvadun"
+ b_cantomere:0 "Cantomere"
+ b_bodumarc:0 "Bodumarc"
+ #### County of Dumnodun
+ c_dumnodun:0 "Dumnodun"
+ b_dumnodun:0 "Dumnodun"
+ b_eburobeorg:0 "Eburobearg"
+ b_nantodun:0 "Nantodun"
+ #### County of Tarvoweald
+ c_tarvoweald:0 "Tarvoweald"
+ b_tarvoweald:0 "Tarvoweald"
+ b_moridearn:0 "Moridearn"
+ #### County of Velladunum
+ c_velladunum:0 "Velladunum"
+ b_velladunum:0 "Velladunum"
+ b_marcomana:0 "Marcomana"
+ ### Duchy of Rigowic
+ #### County of Tarwicbona
+ d_rigowic:0 "Rigowic"
+ c_tarwicbona:0 "Tarwicbona"
+ b_tarwicbona:0 "Tarwicbona"
+ b_sceaftmagos:0 "Sceaftmagos"
+ #### County of Litavoholt
+ c_litavoholt:0 "Litavoholt"
+ b_litavoholt:0 "Litavoholt"
+ b_cambostan:0 "Cambostan"
+ b_hraefnodunum:0 "Hraefnodunum"
+ #### County of Waelobona
+ c_waelobona:0 "Waelobona"
+ b_waelobona:0 "Waelobona"
+ b_rigoford:0 "Rigoford"
+ b_tarvowic:0 "Tarvowic"
+ ### Duchy of Carnutacon
+ #### County of Catumagos
+ d_carnutacon:0 "Carnutacon"
+ c_catumagos:0 "Catumagos"
+ b_catumagos:0 "Catumagos"
+ b_vellauno:0 "Vellauno"
+ b_cassiacon:0 "Cassiacon"
+ #### County of Nemetobriga
+ c_nemetobriga:0 "Nemetobriga"
+ b_nemetobriga:0 "Nemetobriga"
+ b_bibractacon:0 "Bibractacon"
+ b_nemetacon:0 "Nemetacon"
+ #### County of Senmagon
+ c_senmagon:0 "Senmagon"
+ b_senmagon:0 "Senmagon"
+ b_lugoritos:0 "Lugoritos"
+ b_andebriga:0 "Andebriga"
+ #### County of Uxellovanum
+ c_uxellovanum:0 "Uxellovanum"
+ b_uxellovanum:0 "Uxellovanum"
+ b_suconna:0 "Suconna"
+ b_tolobona:0 "Tolobona"
+ b_mediobona:0 "Mediobona"
+ #### County of Camboritos
+ c_camboritos:0 "Camboritos"
+ b_camboritos:0 "Camboritos"
+ b_ambiodunon:0 "Ambiodunon"
+ b_verconium:0 "Verconium"
+ b_segomagon:0 "Segomagon"
+ ## Kingdom of Seiwecan
+ ### Duchy of Ombrewic
+ #### County of Sunnandene
+ k_seiwecan:0 "Seiwecan"
+ k_seiwecan_adj:0 "Seiwecan"
+ d_ombrewic:0 "Ombrewic"
+ c_sunnandene:0 "Sunnandene"
+ b_ravensburh:0 "Ravensburh"
+ b_orcneas_hollow:0 "Orcneas Hollow"
+ #### County of Haewenstan
+ c_haewenstan:0 "Haewenstan"
+ b_haewenstan:0 "Haewenstan"
+ b_myrewatch:0 "Myrewatch"
+ b_grendelfen:0 "Grendelfen"
+ b_saehelm:0 "Saehelm"
+ #### County of Wynstable
+ c_wynstable:0 "Wynstable"
+ b_wynstable:0 "Wynstable"
+ b_hringdal:0 "Hringdal"
+ b_thornscar:0 "Thornscar"
+ ### Duchy of Orcynhelm
+ #### County of Wulfhaethen
+ d_orcynhelm:0 "Orcynhelm"
+ c_wulfhaethen:0 "Wulfhaethen"
+ b_wulfhaethen:0 "Wulfhaethen"
+ b_bregowic:0 "Bregowic"
+ b_grimwald:0 "Grimwald"
+ b_sorrowfen:0 "Sorrowfen"
+ #### County of Scyldbourne
+ c_scyldbourne:0 "Scyldbourne"
+ b_scyldbourne:0 "Scyldbourne"
+ b_wulfscar:0 "Wulfscar"
+ b_carrionwic:0 "Carrionwic"
+ b_wynnmoor:0 "Wynnmoor"
+ #### County of Bricgstan
+ c_bricgstan:0 "Bricgstan"
+ b_bricgstan:0 "Bricgstan"
+ b_deorham:0 "Deorham"
+ b_aescford:0 "Aescford"
+ ### Duchy of Eoforhelm
+ #### County of Middangeard
+ d_eoforhelm:0 "Eoforhelm"
+ c_middangeard:0 "Middangeard"
+ b_middangeard:0 "Middangeard"
+ b_haligstede:0 "Haligstede"
+ b_morthorwic:0 "Morthorwic"
+ #### County of Myrcwood
+ c_myrcwood:0 "Myrcwood"
+ b_myrcwood:0 "Myrcwood"
+ b_hrimigdal:0 "Hrimigdal"
+ b_wintercroft:0 "Wintercroft"
+ #### County of Ashwolde
+ c_ashwolde:0 "Ashwolde"
+ b_ashwolde:0 "Ashwolde"
+ b_grymesby:0 "Grymesby"
+ b_cwicstan:0 "Cwicstan"
+ b_wodnesleah:0 "Wodnesleah"
+ #### County of Thrimsceat
+ c_thrimsceat:0 "Thrimsceat"
+ b_thrimsceat:0 "Thrimsceat"
+ b_dreorigham:0 "Dreorigham"
+ b_hollowmere:0 "Hollowmere"
+ #### County of Dunmoral
+ c_dunmoral:0 "Dunmoral"
+ b_dunmoral:0 "Dunmoral"
+ b_moldweorc:0 "Moldweorc"
+ b_eldreth:0 "Eldreth"
+ #### County of Grimscythe
+ c_grimscythe:0 "Grimscythe"
+ b_grimscythe:0 "Grimscythe"
+ b_wodenscar:0 "Wodenscar"
+ b_darrowfen:0 "Darrowfen"
+ b_wyrdstow:0 "Wyrdstow"
+ ## Kingdom of Luveran
+ ### Duchy of Lysendra
+ #### County of Lysan
+ k_luveran:0 "Luveran"
+ k_luveran_adj:0 "Luveran"
+ d_lysendra:0 "Lysendra"
+ c_lysan:0 "Lysan"
+ b_lysan_castle:0 "Lysan Castle"
+ b_lysan:0 "Lysan"
+ b_aran:0 "Aran"
+ b_vorean:0 "Vorean"
+ b_kartes:0 "Kartes"
+ #### County of Aila
+ c_aila:0 "Aila"
+ b_aila:0 "Aila"
+ b_zeva:0 "Zeva"
+ b_isathen:0 "Isathen"
+ #### County of Tiaran
+ c_tiaran:0 "Tiaran"
+ b_tiaran:0 "Tiaran"
+ b_ganeal:0 "Ganeal"
+ ### Duchy of Ganathen
+ #### County of Rineala
+ d_ganathen:0 "Ganathen"
+ c_rineala:0 "Rineala"
+ b_rineala:0 "Rineala"
+ b_osafira:0 "Osafira"
+ b_aisenta:0 "Aisenta"
+ b_ceolavi:0 "Ceolavi"
+ #### County of Isar
+ c_isar:0 "Isar"
+ b_isar:0 "Isar"
+ b_lyana:0 "Lyana"
+ b_isanea:0 "Isanea"
+ #### County of Rian
+ c_rian:0 "Rian"
+ b_rian:0 "Rian"
+ b_vona:0 "Vona"
+ b_arutel:0 "Arutel"
+ #### County of Venatha
+ c_venatha:0 "Venatha"
+ b_venatha:0 "Venatha"
+ b_alen:0 "Alen"
+ ### Duchy of Osan
+ #### County of Keala
+ d_osan:0 "Osan"
+ c_keala:0 "Keala"
+ b_keala:0 "Keala"
+ b_lianta:0 "Lianta"
+ b_isara:0 "Isara"
+ #### County of Ilona
+ c_ilona:0 "Ilona"
+ b_ilona:0 "Ilona"
+ b_taren:0 "Taren"
+ ### Duchy of Venara
+ #### County of Isotera
+ d_venara:0 "Venara"
+ c_isotera:0 "Isotera"
+ b_isotera:0 "Isotera"
+ b_tesava:0 "Tesava"
+ b_essai:0 "Essai"
+ #### County of Arvei
+ c_arvei:0 "Arvei"
+ b_arvei:0 "Arvei"
+ b_vosel:0 "Vosel"
+ #### County of Rina
+ c_rina:0 "Rina"
+ b_rina:0 "Rina"
+ b_lyera:0 "Lyera"
+ b_teana:0 "Teana"
+ 
 
  k_eclipsed_realm:0 "The Eclipsed Realm"
  k_eclipsed_realm_adj:0 "Eclipsed"

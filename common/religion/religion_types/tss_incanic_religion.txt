@@ -1,13 +1,13 @@
-﻿anoric_religion = {
+﻿incanic_religion = {
 	family = rf_pantheonic
 
 	doctrine = pagan_hostility_doctrine
 
 	#Main Group
-	doctrine = doctrine_temporal_head
+	doctrine = doctrine_no_head
 	doctrine = doctrine_gender_male_dominated
 	doctrine = doctrine_pluralism_pluralistic
-	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_theocracy_temporal
 
 	#Marriage
 	doctrine = doctrine_concubines
@@ -53,14 +53,14 @@
 
 	localization = {
 		#High God Name
-		HighGodName = anoric_high_god_name
-		HighGodName2 = anoric_high_god_name_2
-		HighGodNamePossessive = anoric_high_god_name_possessive
+		HighGodName = incanic_high_god_name
+		HighGodName2 = incanic_high_god_name_2
+		HighGodNamePossessive = incanic_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
 		HighGodHerHis = CHARACTER_HERHIS_HIS
-		HighGodNameAlternate = anoric_high_god_name_alternate
-		HighGodNameAlternatePossessive = anoric_high_god_name_alternate_possessive
+		HighGodNameAlternate = incanic_high_god_name_alternate
+		HighGodNameAlternatePossessive = incanic_high_god_name_alternate_possessive
 
 		#Creator
 		CreatorName = pantheonic_creator_god_name
@@ -146,8 +146,8 @@
 		PantheonTerm3 = religion_the_gods_3
 		PantheonTermHasHave = pantheon_term_have
 		GoodGodNames = { pantheonic_good_god_aetarion pantheonic_good_god_miriel pantheonic_good_god_ancoveris pantheonic_good_god_iunava pantheonic_good_god_ipane pantheonic_good_god_incanas pantheonic_good_god_aethervas pantheonic_good_god_aethlem }
-		DevilName = anoric_devil_name
-		DevilNamePossessive = anoric_devil_name_possessive
+		DevilName = incanic_devil_name
+		DevilNamePossessive = incanic_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_IT
 		DevilHerHis = CHARACTER_HERHIS_ITS
 		DevilHerselfHimself = CHARACTER_HERHIM_IT
@@ -156,20 +156,20 @@
 		HouseOfWorship2 = paganism_house_of_worship_2
 		HouseOfWorship3 = paganism_house_of_worship_3
 		HouseOfWorshipPlural = paganism_house_of_worship_plural
-		ReligiousSymbol = anoric_religious_symbol
-		ReligiousSymbol2 = anoric_religious_symbol_2
-		ReligiousSymbol3 = anoric_religious_symbol_3
-		ReligiousText = anoric_religious_text
-		ReligiousText2 = anoric_religious_text_2
-		ReligiousText3 = anoric_religious_text_3
-		ReligiousHeadName = anoric_religious_head_title
-		ReligiousHeadTitleName = anoric_religious_head_title_name
-		DevoteeMale = anoric_devotee
-		DevoteeMalePlural = anoric_devoteeplural
-		DevoteeFemale = anoric_devotee
-		DevoteeFemalePlural = anoric_devoteeplural
-		DevoteeNeuter = anoric_devotee
-		DevoteeNeuterPlural = anoric_devoteeplural
+		ReligiousSymbol = incanic_religious_symbol
+		ReligiousSymbol2 = incanic_religious_symbol_2
+		ReligiousSymbol3 = incanic_religious_symbol_3
+		ReligiousText = incanic_religious_text
+		ReligiousText2 = incanic_religious_text_2
+		ReligiousText3 = incanic_religious_text_3
+		ReligiousHeadName = incanic_religious_head_title
+		ReligiousHeadTitleName = incanic_religious_head_title_name
+		DevoteeMale = incanic_devotee
+		DevoteeMalePlural = incanic_devoteeplural
+		DevoteeFemale = incanic_devotee
+		DevoteeFemalePlural = incanic_devoteeplural
+		DevoteeNeuter = incanic_devotee
+		DevoteeNeuterPlural = incanic_devoteeplural
 		PriestMale = christianity_priest_male
 		PriestMalePlural = christianity_priest_male_plural
 		PriestFemale = christianity_priest_female
@@ -211,26 +211,10 @@
 	}
 
 	faiths = {
-		anorath = {
-			color = { 199 2 17 }
+		faith_telasatz = {
+			color = { 154 29 34 }
 			icon = hellenic
-			religious_head = e_anoroth
-
-			holy_site = anorcedia
-
-			doctrine = tenet_anor_children_of_the_sun
-			doctrine = tenet_unrelenting_faith
-			doctrine = tenet_religious_legal_pronouncements
-
-			localization = {
-				ReligiousHeadName = anorath_religious_head_title
-			}
-		}
-		
-		funethresca = {
-			color = { 149 40 49 }
-			icon = hellenic
-			religious_head = e_anoroth
+			religious_head = d_telasatz
 
 			holy_site = anorcedia
 
@@ -239,130 +223,8 @@
 			doctrine = tenet_esotericism
 
 			localization = {
-				ReligiousHeadName = anorath_religious_head_title
-			}
-		}
-		celavath = {
-			color = { 127 0 0 }
-			icon = hellenic
-
-			religious_head = e_anoroth # d_celavath
-
-			holy_site = anorcedia
-
-			doctrine = tenet_astrology
-			doctrine = tenet_communal_identity
-			doctrine = tenet_esotericism
-
-			localization = {
-				#Creator
-				CreatorName = pantheonic_creator_god_name
-				CreatorNamePossessive = pantheonic_creator_god_name_possessive
-				CreatorSheHe = CHARACTER_SHEHE_IT
-				CreatorHerHis = CHARACTER_HERHIS_ITS
-				CreatorHerHim = CHARACTER_HERHIM_IT
-
-				#HealthGod
-				HealthGodName = celavath_health_god_name
-				HealthGodNamePossessive = celavath_health_god_name_possessive
-				HealthGodSheHe = CHARACTER_SHEHE_HE
-				HealthGodHerHis = CHARACTER_HERHIS_HIS
-				HealthGodHerHim = CHARACTER_HERHIM_HIM
-		
-				#FertilityGod
-				FertilityGodName = celavath_fertility_god_name
-				FertilityGodNamePossessive = celavath_fertility_god_name_possessive
-				FertilityGodSheHe = CHARACTER_SHEHE_HE
-				FertilityGodHerHis = CHARACTER_HERHIS_HIS
-				FertilityGodHerHim = CHARACTER_HERHIM_HIM
-
-				#WealthGod
-				WealthGodName = celavath_wealth_god_name
-				WealthGodNamePossessive = celavath_wealth_god_name_possessive
-				WealthGodSheHe = CHARACTER_SHEHE_SHE
-				WealthGodHerHis = CHARACTER_HERHIS_HER
-				WealthGodHerHim = CHARACTER_HERHIM_HER
-
-				#HouseholdGod
-				HouseholdGodName = celavath_household_god_name
-				HouseholdGodNamePossessive = celavath_household_god_name_possessive
-				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
-				HouseholdGodHerHis = CHARACTER_HERHIS_HER
-				HouseholdGodHerHim = CHARACTER_HERHIM_HER
-
-				#FateGod
-				FateGodName = pantheonic_fate_god_name
-				FateGodNamePossessive = pantheonic_fate_god_name_possessive
-				FateGodSheHe = CHARACTER_SHEHE_IT
-				FateGodHerHis = CHARACTER_HERHIS_ITS
-				FateGodHerHim = CHARACTER_HERHIM_ITS
-
-				#KnowledgeGod
-				KnowledgeGodName = celavath_knowledge_god_name
-				KnowledgeGodNamePossessive = celavath_knowledge_god_name_possessive
-				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
-				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
-				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
-
-				#WarGod
-				WarGodName = pantheonic_war_god_name
-				WarGodNamePossessive = pantheonic_war_god_name_possessive
-				WarGodSheHe = CHARACTER_SHEHE_HE
-				WarGodHerHis = CHARACTER_HERHIS_HIS
-				WarGodHerHim = CHARACTER_HERHIM_HIM
-
-				#TricksterGod
-				TricksterGodName = celavath_trickster_god_name
-				TricksterGodNamePossessive = celavath_trickster_god_name_possessive
-				TricksterGodSheHe = CHARACTER_SHEHE_HE
-				TricksterGodHerHis = CHARACTER_HERHIS_HIS
-				TricksterGodHerHim = CHARACTER_HERHIM_HIM
-
-				#NightGod
-				NightGodName = pantheonic_night_god_name
-				NightGodNamePossessive = pantheonic_night_god_name_possessive
-				NightGodSheHe = CHARACTER_SHEHE_HE
-				NightGodHerHis = CHARACTER_HERHIS_HIS
-				NightGodHerHim = CHARACTER_HERHIM_HIM
-
-				#WaterGod
-				WaterGodName = celavath_water_god_name
-				WaterGodNamePossessive = celavath_water_god_name_possessive
-				WaterGodSheHe = CHARACTER_SHEHE_HE
-				WaterGodHerHis = CHARACTER_HERHIS_HIS
-				WaterGodHerHim = CHARACTER_HERHIM_HIM
-
-				ReligiousHeadName = anorath_religious_head_title
-				DevilName = pantheonic_night_god_name
-				DevilNamePossessive = pantheonic_night_god_name_possessive
-				DevilSheHe = CHARACTER_SHEHE_HE
-				DevilHerHis = CHARACTER_HERHIS_HIS
-				DevilHerselfHimself = CHARACTER_HERHIM_HIM
-				EvilGodNames = { pantheonic_good_god_ipane pantheonic_water_god_name pantheonic_good_god_incanas pantheonic_good_god_aethervas pantheonic_good_god_aethlem pantheonic_wealth_god_name pantheonic_fertility_god_name pantheonic_health_god_name pantheonic_evil_god_dhiani pantheonic_trickster_god_name }
-			}
-		}
-		sobranorye = {
-			color = { 141 77 135 }
-			icon = hellenic
-
-			holy_site = anorcedia
-
-			doctrine = tenet_astrology
-			doctrine = tenet_communal_identity
-			doctrine = tenet_esotericism
-		}
-		anatzeve = {
-			color = { 210 48 12 }
-			icon = hellenic
-			religious_head = e_anoroth
-
-			holy_site = anorcedia
-
-			doctrine = tenet_astrology
-			doctrine = tenet_communal_identity
-			doctrine = tenet_esotericism
-			localization = {
-				ReligiousHeadName = anorath_religious_head_title
+				ReligiousHeadName = telasatz_religious_head_title
+				ReligiousHeadTitleName = telasatz_religious_head_title_name
 			}
 		}
 	}

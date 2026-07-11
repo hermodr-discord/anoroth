@@ -69,8 +69,8 @@
  ocanic_witchgodname_the_spirits_possessive:0 "$ocanic_good_god_spirits_name_possessive$"
 
 
- atharfavrel:0 "Athárfavrel"
- atharfavrel_adj:0 "Athárfavrel"
- atharfavrel_adherent:0 "Athárfavrel"
- atharfavrel_adherent_plural:0 "Athárfavrels"
- atharfavrel_religious_head_title:0 "Patriarch"
+ faith_atharfavrel:0 "Athárfavrel"
+ faith_atharfavrel_adj:0 "Athárfavrel"
+ faith_atharfavrel_adherent:0 "Athárfavrel"
+ faith_atharfavrel_adherent_plural:0 "Athárfavrels"
+ faith_atharfavrel_religious_head_title:0 "Patriarch"

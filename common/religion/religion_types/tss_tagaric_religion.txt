@@ -1,4 +1,4 @@
-﻿patharanic_religion = {
+﻿tagaric_religion = {
 	family = rf_pantheonic
 
 	doctrine = pagan_hostility_doctrine
@@ -211,8 +211,8 @@
 	}
 
 	faiths = {
-		beronovy = {
-			color = { 80 80 160 }
+		faith_toqarut = {
+			color = { 232 150 22 }
 			icon = hellenic
 
 			holy_site = anorcedia

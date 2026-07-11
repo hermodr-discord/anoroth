@@ -1,5 +1,5 @@
-﻿oreg_religion = {
-	family = rf_isolate
+﻿patharanic_religion = {
+	family = rf_pantheonic
 
 	doctrine = pagan_hostility_doctrine
 
@@ -211,10 +211,9 @@
 	}
 
 	faiths = {
-		ilg_e_garna = {
-			color = { 0 64 6 }
+		faith_beronovy = {
+			color = { 80 80 160 }
 			icon = hellenic
-			reformed_icon = hellenic_reformed
 
 			holy_site = anorcedia
 

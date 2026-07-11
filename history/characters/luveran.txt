@@ -1,7 +1,7 @@
 ﻿lineofluveran5 = {
 	name = Ganas
 	dynasty = luveran2
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 	dna = ganasdovalin
 
@@ -32,7 +32,7 @@
 lineofluveran1 = {
 	name = Lys
 	dynasty = luveran1
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 	dna = lyslsyan
 	female = yes

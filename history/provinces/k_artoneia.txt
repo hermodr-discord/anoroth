@@ -73,7 +73,7 @@
 }
 42 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 43 = {	#
@@ -83,7 +83,7 @@
 }
 44 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 45 = {	#
@@ -151,7 +151,7 @@
 }
 64 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 65 = {	#
@@ -165,7 +165,7 @@
 }
 68 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 69 = {	#
@@ -181,7 +181,7 @@
 }
 72 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 73 = {	#
@@ -214,7 +214,7 @@
 }
 81 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 82 = {	#

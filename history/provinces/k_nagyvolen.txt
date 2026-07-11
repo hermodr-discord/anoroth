@@ -54,7 +54,7 @@
 }
 1079 = {	#
     culture = vogyd
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1080 = {	#
@@ -95,12 +95,12 @@
 }
 1090 = {	#
     culture = vogyd
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1091 = {	#
     culture = vogyd
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1092 = {	#
@@ -131,7 +131,7 @@
 }
 1100 = {	#
     culture = vogyd
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1101 = {	#

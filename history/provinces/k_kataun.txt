@@ -39,7 +39,7 @@
 }
 311 = {	#
     culture = kintir
-    religion = telasatz
+    religion = faith_telasatz
     holding = castle_holding
 }
 312 = {	#
@@ -108,7 +108,7 @@
 }
 330 = {	#
     culture = kintir
-    religion = telasatz
+    religion = faith_telasatz
     holding = castle_holding
 }
 331 = {	#
@@ -140,7 +140,7 @@
 }
 338 = {	#
     culture = kintir
-    religion = telasatz
+    religion = faith_telasatz
     holding = castle_holding
 }
 339 = {	#
@@ -185,7 +185,7 @@
 }
 351 = {	#
     culture = kintir
-    religion = telasatz
+    religion = faith_telasatz
     holding = castle_holding
 }
 352 = {	#

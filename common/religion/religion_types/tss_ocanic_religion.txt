@@ -211,7 +211,7 @@
 	}
 
 	faiths = {
-		atharfavrel = {
+		faith_atharfavrel = {
 			color = { 30 30 70 }
 			icon = hellenic
 			religious_head = k_eclipsed_realm

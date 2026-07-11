@@ -79,7 +79,7 @@
  isanara_witchgodname_the_spirits_possessive:0 "$isanara_good_god_spirits_name_possessive$"
 
 
- isanara:0 "Isanara"
- isanara_adj:0 "Isanaran"
- isanara_adherent:0 "Isanaran"
- isanara_adherent_plural:0 "Isanarans"
+ faith_isanara:0 "Isanara"
+ faith_isanara_adj:0 "Isanaran"
+ faith_isanara_adherent:0 "Isanaran"
+ faith_isanara_adherent_plural:0 "Isanarans"

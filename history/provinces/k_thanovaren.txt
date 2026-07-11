@@ -101,7 +101,7 @@
 }
 216 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 217 = {	#
@@ -164,7 +164,7 @@
 }
 233 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 234 = {	#
@@ -232,7 +232,7 @@
 }
 251 = {	#
 	culture = helesz
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 252 = {	#

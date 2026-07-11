@@ -9,12 +9,12 @@
 }
 1042 = {	#
     culture = heszo
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1043 = {	#
     culture = heszo
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1044 = {	#
@@ -22,7 +22,7 @@
 }
 1045 = {	#
     culture = heszo
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1046 = {	#
@@ -41,7 +41,7 @@
 }
 1050 = {	#
     culture = heszo
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1051 = {	#
@@ -49,12 +49,12 @@
 }
 1052 = {	#
     culture = heszo
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1053 = {	#
     culture = heszo
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1054 = {	#

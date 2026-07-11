@@ -27,7 +27,7 @@
 }
 503 = {	#
     culture = helyv
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 504 = {	#
@@ -40,7 +40,7 @@
 }
 506 = {	#
     culture = helyv
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 507 = {	#

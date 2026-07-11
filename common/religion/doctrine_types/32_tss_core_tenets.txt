@@ -1,0 +1,81 @@
+﻿#######################
+# ANATHIS CORE TENETS #
+#######################
+
+tenet_children_of_the_sun = {
+	icon = core_tenet_sun_worship
+
+	piety_cost = {
+		value = faith_tenet_cost_massive
+
+		# Multiplier for keeping same tenet
+		if = {
+			limit = { has_doctrine = tenet_children_of_the_sun }
+			multiply = faith_unchanged_doctrine_cost_mult
+		}
+	}
+
+	is_shown = {
+		OR = {
+			religion_tag = anoric_religion
+			has_doctrine = tenet_children_of_the_sun #If you already have it
+		}
+	}
+
+	parameters = {
+		conquest_cb_enabled = yes
+		invasion_cb_enabled = yes
+		trial_by_sun_active = yes
+		warmonger = yes
+	}
+
+	character_modifier = {
+		accolade_glory_gain_mult = 0.15
+	}
+}
+
+########################
+# Empty Template Tenet #
+########################
+
+#tenets = {
+#	icon = ""
+#
+#	is_shown = {
+#		always = no
+#	}
+#	can_pick = {
+#		always = yes
+#	}
+
+#	piety_cost = {
+#		if = {
+#			limit = {
+#				always = no
+#			}
+#			value = faith_tenet_cost_low
+#		}
+#		else = {
+#			value = faith_tenet_cost_massive
+#		}
+
+#		# Multiplier for keeping same tenet
+#		if = {
+#			limit = { has_doctrine = tenets }
+#			multiply = faith_unchanged_doctrine_cost_mult
+#		}
+#	}
+
+#	parameters = {
+#		tenets_active = yes
+#	}
+
+#	character_modifier = {
+
+#	}
+
+#	traits = {
+#		virtues = { brave = 2}
+#		sins = { craven = 2}
+#	}
+#}

@@ -1,4 +1,4 @@
-﻿tagaric_religion = {
+﻿vanic_religion = {
 	family = rf_pantheonic
 
 	doctrine = pagan_hostility_doctrine
@@ -211,9 +211,10 @@
 	}
 
 	faiths = {
-		toqarut = {
-			color = { 232 150 22 }
+		faith_ronarvir = {
+			color = { 103 54 103 }
 			icon = hellenic
+			reformed_icon = hellenic_reformed
 
 			holy_site = anorcedia
 

@@ -78,7 +78,7 @@
  agalrian_witchgodname_the_spirits_possessive:0 "$agalrian_good_god_spirits_name_possessive$"
 
 
- gaileth:0 "Gaileth"
- gaileth_adj:0 "Gaileth"
- gaileth_adherent:0 "Gaileth"
- gaileth_adherent_plural:0 "Gaileths"
+ faith_gaileth:0 "Gaileth"
+ faith_gaileth_adj:0 "Gaileth"
+ faith_gaileth_adherent:0 "Gaileth"
+ faith_gaileth_adherent_plural:0 "Gaileths"

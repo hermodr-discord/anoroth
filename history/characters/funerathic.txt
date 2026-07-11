@@ -2,7 +2,7 @@
 orophastes1 = {
 	name = Valeron
 	dynasty = orophastes
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	diplomacy = 8
@@ -30,7 +30,7 @@ orophastes1 = {
 orophastes2 = {
 	name = Pheros
 	dynasty = orophastes
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = orophastes1
@@ -61,7 +61,7 @@ orophastes3 = {
 	name = Kalthara
 	female = yes
 	dynasty = orophastes
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = orophastes2
@@ -92,7 +92,7 @@ orophastes3 = {
 orophastes4 = {
 	name = Kaelas
 	dynasty = orophastes
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = orophastes2
@@ -122,7 +122,7 @@ orophastes4 = {
 orophastes5 = {
 	name = Valaros
 	dynasty = orophastes
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = orophastes4
@@ -151,7 +151,7 @@ orophastes5 = {
 argenor1 = {
 	name = Valeros
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	diplomacy = 5
@@ -178,7 +178,7 @@ argenor1 = {
 argenor2 = {
 	name = Atrakos
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = argenor1
@@ -208,7 +208,7 @@ argenor2 = {
 argenor3 = {
 	name = Pylanes
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = argenor2
@@ -237,7 +237,7 @@ argenor3 = {
 argenor4 = {
 	name = Myraros
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = argenor3
@@ -267,7 +267,7 @@ argenor4 = {
 argenor5 = {
 	name = Grenas
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = argenor4
@@ -297,7 +297,7 @@ argenor5 = {
 argenor6 = {
 	name = Myron
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = argenor5
@@ -326,7 +326,7 @@ argenor6 = {
 argenor7 = {
 	name = Kyranos
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = argenor6
@@ -355,7 +355,7 @@ argenor7 = {
 argenor8 = {
 	name = Chaeron
 	dynasty = argenor
-	religion = funethresca
+	religion = faith_funethresca
 	culture = funerathic
 
 	father = argenor7

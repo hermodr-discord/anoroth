@@ -78,7 +78,7 @@
  helyv_witchgodname_the_spirits_possessive:0 "$helyv_good_god_spirits_name_possessive$"
 
 
- oszeseg:0 "Oszeseg"
- oszeseg_adj:0 "Oszeseg"
- oszeseg_adherent:0 "Oszeseg"
- oszeseg_adherent_plural:0 "Oszesegs"
+ faith_oszeseg:0 "Oszeseg"
+ faith_oszeseg_adj:0 "Oszeseg"
+ faith_oszeseg_adherent:0 "Oszeseg"
+ faith_oszeseg_adherent_plural:0 "Oszesegs"

@@ -1,0 +1,141 @@
+﻿l_english:
+
+ ### Anoric Religions
+ anoric_religion:0 "Anóric"
+ anoric_religion_adj:0 "Anóric"
+ anoric_religion_adherent:0 "Anóric"
+ anoric_religion_adherent_plural:0 "Anórics"
+ anoric_religion_desc:0 "The Anóric faiths are a loose family of creeds bound only by a shared belief: that Anór, whatever name he wears in a given land, sits above all other powers as the true Lord of the Sun and Lord of War. Some accept the wider Pantheon as lesser kin of their God, other deny the other Gods any legitimacy at all. Wherever the Sun is called a throne and war called sacred, the hand of Anór is said to be at work, even where his true name has been long forgotten."
+
+ anoric_house_of_worship:0 "sun temple"
+ anoric_house_of_worship_2:0 "$anoric_house_of_worship$" # Optional translation alt
+ anoric_house_of_worship_3:0 "$anoric_house_of_worship$" # Optional translation alt
+ anoric_house_of_worship_plural:0 "sun temples"
+ anoric_religious_symbol:0 "the Sun"
+ anoric_religious_symbol_2:0 "$anoric_religious_symbol$" # Optional translation alt
+ anoric_religious_symbol_3:0 "$anoric_religious_symbol$" # Optional translation alt
+ anoric_religious_text:0 "Codices of the Sun-King"
+ anoric_religious_text_2:0 "Themaran Creed" # Optional translation alt
+ anoric_religious_text_3:0 "Argyrian Creed" # Optional translation alt
+
+ anoric_religious_head_title:0 "Sun-Herald"
+ anoric_religious_head_title_name:0 "Church of the Sun"
+
+ anoric_bishop:0 "Magistrate"
+ anoric_bishop_plural:0 "Magistrates"
+
+ anoric_priest:0 "Priest"
+ anoric_priest_plural:0 "Priests"
+ anoric_priest_alternate_plural:0 "Clergy"
+
+ anoric_devotee:0 "anóric"
+ anoric_devotee_plural:0 "anórics"
+
+ anoric_divine_realm:0 "the Sun"
+
+ ### Anórath
+ faith_anorath:0 "Anórath"
+ faith_anorath_adj:0 "Anórath"
+ faith_anorath_adherent:0 "Anórath"
+ faith_anorath_adherent_plural:0 "Anóraths"
+ faith_anorath_desc:0 "Codified in 3A 42 by the great decree of Calyreos Agrás 'the Sun King' Anómar, the Anórath faith was forged from the disparate and ancient beliefs of the Anórothil peoples into a singular devotion to Anór, All-King, Firstborn of the Gods. The Anórath Church holds that Anór is not merely first among the Gods, but their rightful sovereign, with the rest of the Pantheon honored as noble kin subordinate to His will. The Sun is regarded as the literal seat of divine power, and law is treated as an extension of that same authority, to defy the crown's law is the defy Anór himself. Worship favors open skies over enclosed buildings, and its highest clergy surrender their sight to the Sun as proof of devotion."
+
+ faith_anorath_religious_head_male:0 "Calyreos"
+ faith_anorath_religious_head_female:0 "Calyreos"
+
+ faith_anorath_devotee:0 "anórath"
+ faith_anorath_devotee_plural:0 "anóraths"
+
+ ### Anórcastos
+ faith_anorcastos:0 "Anórcastos"
+ faith_anorcastos_adj:0 "Anórcastan"
+ faith_anorcastos_adherent:0 "Anórcasten"
+ faith_anorcastos_adherent_plural:0 "Anórcastenes"
+ faith_anorcastos_desc:0 "The Anórcastos Church splintered from the Imperial Anórath Church in 3A 2914 in the wake of the Anórath Reforms set forth by Calyreos Valeron II Argyrian, viewing the Calyreos's reforms to have strayed from the intended path of Anór, though they still nominally recognize the Calyreos as the Voice of Anór in the mortal world. The Anórcastenes allow no accomodation for the wider Pantheon, holding Anór as the only power worth worship, all others dismissed as servants, fictions, or distractions from true devotion. They scorn the compromises and modifications to the Sun King's original Church, prizing zealotry and harship as marks of sincerity rather than excess."
+
+ faith_anorcastos_religious_text:0 "Codices of the Sun-King"
+ faith_anorcastos_religious_text_2:0 "Themaran Creed" # Optional translation alt
+ faith_anorcastos_religious_text_3:0 "Decree of the Pylarchs" # Optional translation alt
+
+ faith_anorcastos_devotee:0 "anórcastos"
+ faith_anorcastos_devotee_plural:0 "anórcastenes"
+
+ ### Sobranorye
+ faith_sobranorye:0 "Sobranorye"
+ faith_sobranorye_adj:0 "Sobranorye"
+ faith_sobranorye_adherent:0 "Sobranorye"
+ faith_sobranorye_adherent_plural:0 "Sobranorye"
+ faith_sobranorye_desc:0 "The Sobranorye faith holds the Sun and Moon as equal and interdependent powers, each incomplete without the other. Anór's fire tempered by Patharán's restraint, war balanced by peace. Its rites come in mirrored pairs, a rite of daylight answered by a rite of moonlight, and its clergy walk in pairs aswell, one voice speaking for each God. The faith emerged as the highly Anór-worshipping ruling elite intermarried and interweaved with the local Beron-worshipping Behatyn populace."
+
+ faith_sobranorye_house_of_worship:0 "temple"
+ faith_sobranorye_house_of_worship_2:0 "$faith_sobranorye_house_of_worship$" # Optional translation alt
+ faith_sobranorye_house_of_worship_3:0 "$faith_sobranorye_house_of_worship$" # Optional translation alt
+ faith_sobranorye_house_of_worship_plural:0 "temples"
+ faith_sobranorye_religious_symbol:0 "the Sun and Moon"
+ faith_sobranorye_religious_symbol_2:0 "$faith_sobranorye_religious_symbol$" # Optional translation alt
+ faith_sobranorye_religious_symbol_3:0 "$faith_sobranorye_religious_symbol$" # Optional translation alt
+ faith_sobranorye_religious_text:0 "Decree of the Pylarchs"
+ faith_sobranorye_religious_text_2:0 "$faith_sobranorye_religious_text$" # Optional translation alt
+ faith_sobranorye_religious_text_3:0 "$faith_sobranorye_religious_text$" # Optional translation alt
+
+ faith_sobranorye_religious_head_title:0 "Ravnyvog"
+ faith_sobranorye_religious_head_title_name:0 "Dvoyovloye"
+
+ faith_sobranorye_bishop:0 "Myrovaya"
+ faith_sobranorye_bishop_plural:0 "Myrovayi"
+
+ faith_sobranorye_priest:0 "Zhrytsa"
+ faith_sobranorye_priest_plural:0 "Zhrytsi"
+ faith_sobranorye_priest_alternate_plural:0 "Zhrytysi"
+
+ faith_sobranorye_devotee:0 "sobranorye"
+ faith_sobranorye_devotee_plural:0 "sobranorye"
+
+ faith_sobranorye_positive_afterlife:0 "Vezdnya"
+
+ ### Anatzeve
+ faith_anatzeve:0 "Anatzeve"
+ faith_anatzeve_adj:0 "Anatzeve"
+ faith_anatzeve_adherent:0 "Anatzeve"
+ faith_anatzeve_adherent_plural:0 "Anatzeves"
+ faith_anatzeve_desc:0 "The Anatzeve hold to the same core conviction as Anórath, that Onor sits above all else as Lord of the Sun and Lord of War. Outwardly its doctrine mirrors Anórath in nearly every way; beneath it, the hearth-rites and ancestral customs of the Larrunic people continue much as they did before the Empire stepped foot in their lands. To be Anatzeve is not to set aside the ways of one's forebears for the God of one's conquerors, but to carry both beneath the same roof."
+
+ faith_anatzeve_house_of_worship:0 "eguzkitegi"
+ faith_anatzeve_house_of_worship_2:0 "$faith_anatzeve_house_of_worship$" # Optional translation alt
+ faith_anatzeve_house_of_worship_3:0 "$faith_anatzeve_house_of_worship$" # Optional translation alt
+ faith_anatzeve_house_of_worship_plural:0 "eguzkitegiak"
+
+ faith_anatzeve_bishop:0 "Apaizburu"
+ faith_anatzeve_bishop_plural:0 "Apaizburus"
+
+ faith_anatzeve_priest:0 "Apaitzale"
+ faith_anatzeve_priest_plural:0 "Apaitzales"
+ faith_anatzeve_priest_alternate_plural:0 "Apaitzalenes"
+
+ faith_anatzeve_devotee:0 "anatzeve"
+ faith_anatzeve_devotee_plural:0 "anatzeves"
+
+ ### Funéthresca
+ faith_funethresca:0 "Funéthresca"
+ faith_funethresca_adj:0 "Funéthresca"
+ faith_funethresca_adherent:0 "Funéthresca"
+ faith_funethresca_adherent_plural:0 "Funéthresces"
+ faith_funethresca_desc:0 "Founded from the mixing of Vanás-worshipping Tharun settlers and the local Anórath populace, the Funéthresca holds Anór above all else, yet have never let the sea slip from memory. Vanás remains honored as a power owed respect, and Anór's fire is spoken of as having made an uneasy peace with the tides. Doctrine and hierarchy alike are drawn from the Anórath Church, but its rites and people always keep one foot in the seas, sailors and farmers alike know better than to leave the tide unappeased."
+
+ faith_funethresca_house_of_worship:0 "týrholt"
+ faith_funethresca_house_of_worship_2:0 "$faith_funethresca_house_of_worship$" # Optional translation alt
+ faith_funethresca_house_of_worship_3:0 "$faith_funethresca_house_of_worship$" # Optional translation alt
+ faith_funethresca_house_of_worship_plural:0 "týrholtar"
+ faith_funethresca_religious_text:0 "Codices of the Sun-King"
+ faith_funethresca_religious_text_2:0 "Themaran Creed" # Optional translation alt
+ faith_funethresca_religious_text_3:0 "Vánnarsaga" # Optional translation alt
+
+ faith_funethresca_bishop:0 "Warden"
+ faith_funethresca_bishop_plural:0 "Wardens"
+
+ faith_funethresca_priest:0 "Hallkeeper"
+ faith_funethresca_priest_plural:0 "Hallkeepers"
+ faith_funethresca_priest_alternate_plural:0 "Clergy"
+
+ faith_funethresca_devotee:0 "funéthresca"
+ faith_funethresca_devotee_plural:0 "funéthresces"

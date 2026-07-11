@@ -16,7 +16,7 @@
 }
 722 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 723 = {	#
@@ -24,7 +24,7 @@
 }
 724 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 725 = {	#
@@ -32,7 +32,7 @@
 }
 726 = {	#
 	culture = behatyn
-	religion = beronovy
+	religion = faith_beronovy
     holding = castle_holding
 }
 727 = {	#
@@ -49,7 +49,7 @@
 }
 731 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 732 = {	#
@@ -59,7 +59,7 @@
 }
 733 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 734 = {	#
@@ -67,7 +67,7 @@
 }
 735 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 736 = {	#
@@ -75,7 +75,7 @@
 }
 737 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 738 = {	#
@@ -86,7 +86,7 @@
 }
 740 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 741 = {	#
@@ -94,7 +94,7 @@
 }
 742 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 743 = {	#
@@ -102,7 +102,7 @@
 }
 744 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 745 = {	#
@@ -143,7 +143,7 @@
 }
 757 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 758 = {	#
@@ -172,7 +172,7 @@
 }
 766 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 767 = {	#
@@ -195,12 +195,12 @@
 }
 773 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 774 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 775 = {	#
@@ -214,12 +214,12 @@
 }
 778 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 779 = {	#
     culture = qaratan
-    religion = toqarut
+    religion = faith_toqarut
     holding = castle_holding
 }
 780 = {	#
@@ -248,7 +248,7 @@
 }
 788 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 789 = {	#
@@ -265,7 +265,7 @@
 }
 793 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 794 = {	#
@@ -273,7 +273,7 @@
 }
 795 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 796 = {	#
@@ -284,7 +284,7 @@
 }
 798 = {	#
     culture = eyarir
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 799 = {	#

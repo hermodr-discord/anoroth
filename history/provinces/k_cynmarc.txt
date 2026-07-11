@@ -3,7 +3,7 @@
 }
 845 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 846 = {	#
@@ -17,12 +17,12 @@
 }
 849 = {	#
 	culture = tunorar
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 850 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 851 = {	#
@@ -42,7 +42,7 @@
 }
 856 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 857 = {	#
@@ -50,7 +50,7 @@
 }
 858 = {	#
 	culture = tunorar
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 859 = {	#
@@ -61,12 +61,12 @@
 }
 861 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 862 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 863 = {	#
@@ -88,7 +88,7 @@
 }
 868 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 869 = {	#
@@ -102,12 +102,12 @@
 }
 872 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 873 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 874 = {	#
@@ -135,7 +135,7 @@
 }
 881 = {	#
 	culture = anorothic
-	religion = atharfavrel
+	religion = faith_atharfavrel
 	holding = church_holding
 }
 882 = {	#
@@ -170,7 +170,7 @@
 }
 892 = {	#
 	culture = tunorar
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 893 = {	#
@@ -190,7 +190,7 @@
 }
 898 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 899 = {	#
@@ -201,7 +201,7 @@
 }
 901 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 902 = {	#
@@ -209,7 +209,7 @@
 }
 903 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 904 = {	#
@@ -217,7 +217,7 @@
 }
 905 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 906 = {	#
@@ -234,7 +234,7 @@
 }
 910 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 911 = {	#
@@ -245,7 +245,7 @@
 }
 913 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 914 = {	#
@@ -253,7 +253,7 @@
 }
 915 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 916 = {	#
@@ -261,7 +261,7 @@
 }
 917 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 918 = {	#
@@ -272,7 +272,7 @@
 }
 920 = {	#
 	culture = tunorar
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 921 = {	#
@@ -291,7 +291,7 @@
 }
 925 = {	#
 	culture = agalrian
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 926 = {	#
@@ -302,7 +302,7 @@
 }
 928 = {	#
 	culture = bregan
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 929 = {	#
@@ -310,12 +310,12 @@
 }
 930 = {	#
 	culture = tunorar
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 931 = {	#
 	culture = tunorar
-	religion = gaileth
+	religion = faith_gaileth
 	holding = tribal_holding
 }
 932 = {	#

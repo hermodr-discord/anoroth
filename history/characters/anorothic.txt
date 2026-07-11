@@ -3,7 +3,7 @@
 anomar1 = {
 	name = AgrA_s
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 10
@@ -36,7 +36,7 @@ anomar1 = {
 anomar2 = {
 	name = Ektaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar1
@@ -51,7 +51,7 @@ anomar2 = {
 anomar3 = {
 	name = Damaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar2
@@ -66,7 +66,7 @@ anomar3 = {
 anomar4 = {
 	name = Kastyas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar3
@@ -81,7 +81,7 @@ anomar4 = {
 anomar5 = {
 	name = Myras
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar4
@@ -96,7 +96,7 @@ anomar5 = {
 anomar6 = {
 	name = Kaelon
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar5
@@ -111,7 +111,7 @@ anomar6 = {
 anomar7 = {
 	name = Damaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar6
@@ -126,7 +126,7 @@ anomar7 = {
 anomar8 = {
 	name = Damaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar7
@@ -141,7 +141,7 @@ anomar8 = {
 anomar9 = {
 	name = Ektaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar8
@@ -156,7 +156,7 @@ anomar9 = {
 anomar10 = {
 	name = Pheros
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar9
@@ -171,7 +171,7 @@ anomar10 = {
 anomar11 = {
 	name = Kastyas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar10
@@ -186,7 +186,7 @@ anomar11 = {
 anomar12 = {
 	name = Lykas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar11
@@ -201,7 +201,7 @@ anomar12 = {
 anomar13 = {
 	name = Myron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar12
@@ -217,7 +217,7 @@ anomar14 = {
 	name = Amare
 	female = yes
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar12
@@ -233,7 +233,7 @@ anomar15 = {
 	name = Themara
 	female = yes
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = anomar14
@@ -248,7 +248,7 @@ anomar15 = {
 anomar16 = {
 	name = Ektaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = anomar15
@@ -263,7 +263,7 @@ anomar16 = {
 anomar17 = {
 	name = Pylas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar16
@@ -278,7 +278,7 @@ anomar17 = {
 anomar18 = {
 	name = Kaelas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar17
@@ -293,7 +293,7 @@ anomar18 = {
 anomar19 = {
 	name = Myron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar17
@@ -308,7 +308,7 @@ anomar19 = {
 anomar20 = {
 	name = Kastyas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar19
@@ -323,7 +323,7 @@ anomar20 = {
 anomar21 = {
 	name = Myraklon
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar20
@@ -338,7 +338,7 @@ anomar21 = {
 anomar22 = {
 	name = Kaelas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar21
@@ -353,7 +353,7 @@ anomar22 = {
 anomar23 = {
 	name = Lykas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar22
@@ -372,7 +372,7 @@ anomar24 = {
 	name = Damara
 	female = yes
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar20
@@ -387,7 +387,7 @@ anomar24 = {
 anomar25 = {
 	name = Nikaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = anomar24
@@ -402,7 +402,7 @@ anomar25 = {
 anomar26 = {
 	name = Andron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar25
@@ -417,7 +417,7 @@ anomar26 = {
 anomar27 = {
 	name = Oraleon
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar26
@@ -432,7 +432,7 @@ anomar27 = {
 anomar28 = {
 	name = Phyron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar27
@@ -447,7 +447,7 @@ anomar28 = {
 anomar29 = {
 	name = Myron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar28
@@ -464,7 +464,7 @@ anomar29 = {
 anomar30 = {
 	name = Damaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar29
@@ -481,7 +481,7 @@ anomar30 = {
 anomar31 = {
 	name = Theras
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar29
@@ -498,7 +498,7 @@ anomar31 = {
 anomar32 = {
 	name = Kaston
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar29
@@ -515,7 +515,7 @@ anomar32 = {
 anomar33 = {
 	name = Myron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar32
@@ -532,7 +532,7 @@ anomar33 = {
 anomar34 = {
 	name = Ektaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar29
@@ -549,7 +549,7 @@ anomar34 = {
 anomar35 = {
 	name = Andron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar29
@@ -564,7 +564,7 @@ anomar35 = {
 anomar36 = {
 	name = Myron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar35
@@ -579,7 +579,7 @@ anomar36 = {
 anomar37 = {
 	name = Pylas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar28
@@ -594,7 +594,7 @@ anomar37 = {
 anomar38 = {
 	name = Rhion
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar37
@@ -609,7 +609,7 @@ anomar38 = {
 anomar39 = {
 	name = Damaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar38
@@ -624,7 +624,7 @@ anomar39 = {
 anomar40 = {
 	name = Korydon
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar39
@@ -639,7 +639,7 @@ anomar40 = {
 anomar41 = {
 	name = Pylanes
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar40
@@ -654,7 +654,7 @@ anomar41 = {
 anomar42 = {
 	name = Kanon
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar41
@@ -669,7 +669,7 @@ anomar42 = {
 anomar43 = {
 	name = Orestas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar42
@@ -684,7 +684,7 @@ anomar43 = {
 anomar44 = {
 	name = Kastyas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar43
@@ -699,7 +699,7 @@ anomar44 = {
 anomar45 = {
 	name = Lykas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar44
@@ -714,7 +714,7 @@ anomar45 = {
 anomar46 = {
 	name = Myron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar45
@@ -729,7 +729,7 @@ anomar46 = {
 anomar47 = {
 	name = Rhion
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar39
@@ -744,7 +744,7 @@ anomar47 = {
 anomar48 = {
 	name = Kaelas
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar47
@@ -759,7 +759,7 @@ anomar48 = {
 anomar49 = {
 	name = Damaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar48
@@ -774,7 +774,7 @@ anomar49 = {
 anomar50 = {
 	name = Damaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar49
@@ -789,7 +789,7 @@ anomar50 = {
 anomar51 = {
 	name = Nikaron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar50
@@ -804,7 +804,7 @@ anomar51 = {
 anomar52 = {
 	name = Phyron
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar51
@@ -819,7 +819,7 @@ anomar52 = {
 anomar53 = {
 	name = Lykan
 	dynasty = anomar
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar52
@@ -835,7 +835,7 @@ anomar53 = {
 vasylidon1 = {
 	name = Nikaron
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = anomar53
@@ -850,7 +850,7 @@ vasylidon1 = {
 vasylidon2 = {
 	name = Theras
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon1
@@ -865,7 +865,7 @@ vasylidon2 = {
 vasylidon3 = {
 	name = Kylanon
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon2
@@ -880,7 +880,7 @@ vasylidon3 = {
 vasylidon4 = {
 	name = Nikaron
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon3
@@ -895,7 +895,7 @@ vasylidon4 = {
 vasylidon5 = {
 	name = Damaron
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon4
@@ -910,7 +910,7 @@ vasylidon5 = {
 vasylidon6 = {
 	name = Lykan
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon5
@@ -925,7 +925,7 @@ vasylidon6 = {
 vasylidon7 = {
 	name = Alenias
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon6
@@ -940,7 +940,7 @@ vasylidon7 = {
 vasylidon8 = {
 	name = Alkyon
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon7
@@ -955,7 +955,7 @@ vasylidon8 = {
 vasylidon9 = {
 	name = Kastylas
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon8
@@ -972,7 +972,7 @@ vasylidon9 = {
 vasylidon10 = {
 	name = Kastianos
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon9
@@ -989,7 +989,7 @@ vasylidon10 = {
 vasylidon11 = {
 	name = Vasylas
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon8
@@ -1004,7 +1004,7 @@ vasylidon11 = {
 vasylidon12 = {
 	name = Grenas
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon11
@@ -1019,7 +1019,7 @@ vasylidon12 = {
 vasylidon13 = {
 	name = Andrakon
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon12
@@ -1034,7 +1034,7 @@ vasylidon13 = {
 vasylidon14 = {
 	name = Damaron
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon13
@@ -1049,7 +1049,7 @@ vasylidon14 = {
 vasylidon15 = {
 	name = Damaron
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon14
@@ -1064,7 +1064,7 @@ vasylidon15 = {
 vasylidon16 = {
 	name = Oryos
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon15
@@ -1079,7 +1079,7 @@ vasylidon16 = {
 vasylidon17 = {
 	name = Pylanes
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon16
@@ -1094,7 +1094,7 @@ vasylidon17 = {
 vasylidon18 = {
 	name = Kastanos
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon17
@@ -1109,7 +1109,7 @@ vasylidon18 = {
 vasylidon19 = {
 	name = Gelaros
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon17
@@ -1126,7 +1126,7 @@ vasylidon19 = {
 vasylidon20 = {
 	name = Lykan
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon15
@@ -1141,7 +1141,7 @@ vasylidon20 = {
 vasylidon21 = {
 	name = Alkaros
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon20
@@ -1156,7 +1156,7 @@ vasylidon21 = {
 vasylidon22 = {
 	name = Myron
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon21
@@ -1171,7 +1171,7 @@ vasylidon22 = {
 vasylidon23 = {
 	name = Ektaron
 	dynasty = vasylidon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon22
@@ -1187,7 +1187,7 @@ vasylidon23 = {
 saphyros1 = {
 	name = Saphyras
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon11
@@ -1202,7 +1202,7 @@ saphyros1 = {
 saphyros2 = {
 	name = Kastyas
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros1
@@ -1217,7 +1217,7 @@ saphyros2 = {
 saphyros3 = {
 	name = AgrA_s
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros2
@@ -1232,7 +1232,7 @@ saphyros3 = {
 saphyros4 = {
 	name = Myron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros3
@@ -1247,7 +1247,7 @@ saphyros4 = {
 saphyros5 = {
 	name = Myron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros4
@@ -1262,7 +1262,7 @@ saphyros5 = {
 saphyros6 = {
 	name = Theras
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros5
@@ -1277,7 +1277,7 @@ saphyros6 = {
 saphyros7 = {
 	name = Oryos
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros6
@@ -1292,7 +1292,7 @@ saphyros7 = {
 saphyros8 = {
 	name = Damaron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros7
@@ -1308,7 +1308,7 @@ saphyros9 = {
 	name = Heliane
 	female = yes
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros8
@@ -1323,7 +1323,7 @@ saphyros9 = {
 saphyros10 = {
 	name = Tauras
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = saphyros9
@@ -1338,7 +1338,7 @@ saphyros10 = {
 saphyros11 = {
 	name = Oryos
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros10
@@ -1353,7 +1353,7 @@ saphyros11 = {
 saphyros12 = {
 	name = Ikaron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros11
@@ -1368,7 +1368,7 @@ saphyros12 = {
 saphyros13 = {
 	name = Ouralon
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros12
@@ -1383,7 +1383,7 @@ saphyros13 = {
 saphyros14 = {
 	name = Damaron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros13
@@ -1398,7 +1398,7 @@ saphyros14 = {
 saphyros15 = {
 	name = Pylanes
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros14
@@ -1413,7 +1413,7 @@ saphyros15 = {
 saphyros16 = {
 	name = Charanos
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros15
@@ -1429,7 +1429,7 @@ saphyros17 = {
 	name = Sappho
 	female = yes
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros15
@@ -1447,7 +1447,7 @@ saphyros17 = {
 saphyros18 = {
 	name = Larichos
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros15
@@ -1462,7 +1462,7 @@ saphyros18 = {
 saphyros19 = {
 	name = Eurygas
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros15
@@ -1477,7 +1477,7 @@ saphyros19 = {
 saphyros20 = {
 	name = Argantes
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = saphyros17
@@ -1492,7 +1492,7 @@ saphyros20 = {
 saphyros21 = {
 	name = Aeson
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros20
@@ -1507,7 +1507,7 @@ saphyros21 = {
 saphyros22 = {
 	name = Gelaros
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros21
@@ -1522,7 +1522,7 @@ saphyros22 = {
 saphyros23 = {
 	name = Myron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros22
@@ -1537,7 +1537,7 @@ saphyros23 = {
 saphyros24 = {
 	name = Lynas
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros23
@@ -1552,7 +1552,7 @@ saphyros24 = {
 saphyros25 = {
 	name = Myron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros23
@@ -1567,7 +1567,7 @@ saphyros25 = {
 saphyros26 = {
 	name = Ikaron
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros24
@@ -1583,7 +1583,7 @@ saphyros27 = {
 	name = Heliane
 	female = yes
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros24
@@ -1599,7 +1599,7 @@ saphyros28 = {
 	name = VanA_sia
 	female = yes
 	dynasty_house = saphyros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = saphyros26
@@ -1615,7 +1615,7 @@ saphyros28 = {
 arcerin1 = {
 	name = Ophyron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = vasylidon23
@@ -1630,7 +1630,7 @@ arcerin1 = {
 arcerin2 = {
 	name = Talyron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin1
@@ -1645,7 +1645,7 @@ arcerin2 = {
 arcerin3 = {
 	name = Lynas
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin2
@@ -1660,7 +1660,7 @@ arcerin3 = {
 arcerin4 = {
 	name = Damaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin3
@@ -1675,7 +1675,7 @@ arcerin4 = {
 arcerin5 = {
 	name = Aeson
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin4
@@ -1690,7 +1690,7 @@ arcerin5 = {
 arcerin6 = {
 	name = Ikaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin5
@@ -1705,7 +1705,7 @@ arcerin6 = {
 arcerin7 = {
 	name = Damaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin6
@@ -1720,7 +1720,7 @@ arcerin7 = {
 arcerin8 = {
 	name = Ektaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin7
@@ -1735,7 +1735,7 @@ arcerin8 = {
 arcerin9 = {
 	name = Tyros
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin8
@@ -1750,7 +1750,7 @@ arcerin9 = {
 arcerin10 = {
 	name = Myron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin9
@@ -1765,7 +1765,7 @@ arcerin10 = {
 arcerin11 = {
 	name = Estaros
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin10
@@ -1780,7 +1780,7 @@ arcerin11 = {
 arcerin12 = {
 	name = Valeron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin11
@@ -1795,7 +1795,7 @@ arcerin12 = {
 arcerin13 = {
 	name = Arthanes
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin12
@@ -1810,7 +1810,7 @@ arcerin13 = {
 arcerin14 = {
 	name = Alkaros
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin13
@@ -1825,7 +1825,7 @@ arcerin14 = {
 arcerin15 = {
 	name = Ophyron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin14
@@ -1840,7 +1840,7 @@ arcerin15 = {
 arcerin16 = {
 	name = Tyran
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin15
@@ -1855,7 +1855,7 @@ arcerin16 = {
 arcerin17 = {
 	name = Damaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin16
@@ -1870,7 +1870,7 @@ arcerin17 = {
 arcerin18 = {
 	name = Lysaros
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin17
@@ -1885,7 +1885,7 @@ arcerin18 = {
 arcerin19 = {
 	name = Ouralon
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin18
@@ -1900,7 +1900,7 @@ arcerin19 = {
 arcerin20 = {
 	name = Valeron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin19
@@ -1915,7 +1915,7 @@ arcerin20 = {
 arcerin21 = {
 	name = Theron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin20
@@ -1930,7 +1930,7 @@ arcerin21 = {
 arcerin22 = {
 	name = Nikaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin21
@@ -1945,7 +1945,7 @@ arcerin22 = {
 arcerin23 = {
 	name = Lyrandos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin22
@@ -1960,7 +1960,7 @@ arcerin23 = {
 arcerin24 = {
 	name = Aeson
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin23
@@ -1975,7 +1975,7 @@ arcerin24 = {
 arcerin25 = {
 	name = Kastanos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin24
@@ -1990,7 +1990,7 @@ arcerin25 = {
 arcerin26 = {
 	name = Lykan
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin24
@@ -2005,7 +2005,7 @@ arcerin26 = {
 arcerin27 = {
 	name = Valos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin26
@@ -2020,7 +2020,7 @@ arcerin27 = {
 arcerin28 = {
 	name = Korylas
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin27
@@ -2035,7 +2035,7 @@ arcerin28 = {
 arcerin29 = {
 	name = Eryon
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin28
@@ -2050,7 +2050,7 @@ arcerin29 = {
 arcerin30 = {
 	name = Damaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin29
@@ -2065,7 +2065,7 @@ arcerin30 = {
 arcerin31 = {
 	name = Ektaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin30
@@ -2080,7 +2080,7 @@ arcerin31 = {
 arcerin32 = {
 	name = Eratos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin31
@@ -2095,7 +2095,7 @@ arcerin32 = {
 arcerin33 = {
 	name = Lykan
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin32
@@ -2110,7 +2110,7 @@ arcerin33 = {
 arcerin34 = {
 	name = Lysaros
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin33
@@ -2125,7 +2125,7 @@ arcerin34 = {
 arcerin35 = {
 	name = Lykan
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin34
@@ -2140,7 +2140,7 @@ arcerin35 = {
 arcerin36 = {
 	name = Tyran
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin35
@@ -2155,7 +2155,7 @@ arcerin36 = {
 arcerin37 = {
 	name = Ophyron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin35
@@ -2170,7 +2170,7 @@ arcerin37 = {
 arcerin38 = {
 	name = Eryon
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin35
@@ -2186,7 +2186,7 @@ arcerin39 = {
 	name = Karythia
 	female = yes
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin33
@@ -2202,7 +2202,7 @@ arcerin40 = {
 	name = Nikara
 	female = yes
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = arcerin39
@@ -2217,7 +2217,7 @@ arcerin40 = {
 arcerin41 = {
 	name = Iaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = arcerin40
@@ -2232,7 +2232,7 @@ arcerin41 = {
 arcerin42 = {
 	name = Damaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin41
@@ -2247,7 +2247,7 @@ arcerin42 = {
 arcerin43 = {
 	name = Sanaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin42
@@ -2262,7 +2262,7 @@ arcerin43 = {
 arcerin44 = {
 	name = Rynatos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin43
@@ -2277,7 +2277,7 @@ arcerin44 = {
 arcerin45 = {
 	name = Eratos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin44
@@ -2292,7 +2292,7 @@ arcerin45 = {
 arcerin46 = {
 	name = Tauras
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin33
@@ -2307,7 +2307,7 @@ arcerin46 = {
 arcerin47 = {
 	name = Valos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin46
@@ -2322,7 +2322,7 @@ arcerin47 = {
 arcerin48 = {
 	name = Lynas
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin47
@@ -2337,7 +2337,7 @@ arcerin48 = {
 arcerin49 = {
 	name = Ektaron
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin48
@@ -2352,7 +2352,7 @@ arcerin49 = {
 arcerin50 = {
 	name = Tyros
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin49
@@ -2367,7 +2367,7 @@ arcerin50 = {
 arcerin51 = {
 	name = Tyran
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin50
@@ -2382,7 +2382,7 @@ arcerin51 = {
 arcerin52 = {
 	name = Myraklon
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin51
@@ -2397,7 +2397,7 @@ arcerin52 = {
 arcerin53 = {
 	name = Kastianos
 	dynasty = arcerin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin52
@@ -2414,7 +2414,7 @@ arcerin53 = {
 argyrian1 = {
 	name = Argyros
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = arcerin53
@@ -2429,7 +2429,7 @@ argyrian1 = {
 argyrian2 = {
 	name = Pylon
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian1
@@ -2444,7 +2444,7 @@ argyrian2 = {
 argyrian3 = {
 	name = Theras
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian2
@@ -2459,7 +2459,7 @@ argyrian3 = {
 argyrian4 = {
 	name = Valos
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian3
@@ -2474,7 +2474,7 @@ argyrian4 = {
 argyrian5 = {
 	name = Ektaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian4
@@ -2489,7 +2489,7 @@ argyrian5 = {
 argyrian6 = {
 	name = Ouralon
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian5
@@ -2504,7 +2504,7 @@ argyrian6 = {
 argyrian7 = {
 	name = Damaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian6
@@ -2519,7 +2519,7 @@ argyrian7 = {
 argyrian8 = {
 	name = Ceneros
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian7
@@ -2534,7 +2534,7 @@ argyrian8 = {
 argyrian9 = {
 	name = Iaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian8
@@ -2549,7 +2549,7 @@ argyrian9 = {
 argyrian10 = {
 	name = Lyranos
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian9
@@ -2564,7 +2564,7 @@ argyrian10 = {
 argyrian11 = {
 	name = Lykan
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian10
@@ -2579,7 +2579,7 @@ argyrian11 = {
 argyrian12 = {
 	name = Valeron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian11
@@ -2594,7 +2594,7 @@ argyrian12 = {
 argyrian13 = {
 	name = Aeson
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian12
@@ -2609,7 +2609,7 @@ argyrian13 = {
 argyrian14 = {
 	name = Chaeron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian13
@@ -2624,7 +2624,7 @@ argyrian14 = {
 argyrian15 = {
 	name = Rymon
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian14
@@ -2639,7 +2639,7 @@ argyrian15 = {
 argyrian16 = {
 	name = Lyranos
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian15
@@ -2654,7 +2654,7 @@ argyrian16 = {
 argyrian17 = {
 	name = Aphyron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian16
@@ -2669,7 +2669,7 @@ argyrian17 = {
 argyrian18 = {
 	name = Aphyron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian17
@@ -2684,7 +2684,7 @@ argyrian18 = {
 argyrian19 = {
 	name = Eryon
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian18
@@ -2701,7 +2701,7 @@ argyrian19 = {
 argyrian20 = {
 	name = Nyros
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian19
@@ -2716,7 +2716,7 @@ argyrian20 = {
 argyrian21 = {
 	name = Damaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian20
@@ -2731,7 +2731,7 @@ argyrian21 = {
 argyrian22 = {
 	name = Kastanos
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian21
@@ -2750,7 +2750,7 @@ argyrian22 = {
 argyrian23 = {
 	name = Lykaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian22
@@ -2765,7 +2765,7 @@ argyrian23 = {
 argyrian24 = {
 	name = Arthanes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian23
@@ -2780,7 +2780,7 @@ argyrian24 = {
 argyrian25 = {
 	name = Damaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian23
@@ -2795,7 +2795,7 @@ argyrian25 = {
 argyrian26 = {
 	name = Zephyron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian25
@@ -2810,7 +2810,7 @@ argyrian26 = {
 argyrian27 = {
 	name = Nyros
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian26
@@ -2825,7 +2825,7 @@ argyrian27 = {
 argyrian28 = {
 	name = Aphyron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian26
@@ -2841,7 +2841,7 @@ argyrian29 = {
 	name = Neryse
 	female = yes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian25
@@ -2859,7 +2859,7 @@ argyrian29 = {
 argyrian30 = {
 	name = Ikaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian25
@@ -2877,7 +2877,7 @@ argyrian30 = {
 argyrian31 = {
 	name = Chaeron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian30
@@ -2896,7 +2896,7 @@ argyrian32 = {
 	name = Seleia
 	female = yes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian30
@@ -2915,7 +2915,7 @@ argyrian33 = {
 	name = Heliane
 	female = yes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian30
@@ -2934,7 +2934,7 @@ argyrian34 = {
 	name = Nikara
 	female = yes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian30
@@ -2951,7 +2951,7 @@ argyrian34 = {
 argyrian35 = {
 	name = Valos
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian22
@@ -2968,7 +2968,7 @@ argyrian35 = {
 argyrian36 = {
 	name = Nikaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian35
@@ -2986,7 +2986,7 @@ argyrian36 = {
 argyrian37 = {
 	name = Nikaron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian36
@@ -3005,7 +3005,7 @@ argyrian38 = {
 	name = Lysiane
 	female = yes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian36
@@ -3024,7 +3024,7 @@ argyrian39 = {
 	name = Thesana
 	female = yes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian36
@@ -3042,7 +3042,7 @@ argyrian39 = {
 argyrian40 = {
 	name = Estaros
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian35
@@ -3057,7 +3057,7 @@ argyrian40 = {
 argyrian41 = {
 	name = Arthanes
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian20
@@ -3072,7 +3072,7 @@ argyrian41 = {
 argyrian42 = {
 	name = Aphyron
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian41
@@ -3087,7 +3087,7 @@ argyrian42 = {
 argyrian43 = {
 	name = Aeson
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian42
@@ -3102,7 +3102,7 @@ argyrian43 = {
 argyrian44 = {
 	name = Lykan
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian43
@@ -3117,7 +3117,7 @@ argyrian44 = {
 argyrian45 = {
 	name = Valeros
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian44
@@ -3132,7 +3132,7 @@ argyrian45 = {
 argyrian46 = {
 	name = Ekarios
 	dynasty = argyrian
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian45
@@ -3148,7 +3148,7 @@ argyrian46 = {
 tarenas1 = {
 	name = Tyros
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian9
@@ -3179,7 +3179,7 @@ tarenas1 = {
 tarenas2 = {
 	name = Aeson
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas1
@@ -3208,7 +3208,7 @@ tarenas2 = {
 tarenas3 = {
 	name = Eurygas
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas2
@@ -3236,7 +3236,7 @@ tarenas3 = {
 tarenas4 = {
 	name = Lysaros
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas3
@@ -3264,7 +3264,7 @@ tarenas4 = {
 tarenas5 = {
 	name = Kastyas
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas4
@@ -3292,7 +3292,7 @@ tarenas5 = {
 tarenas6 = {
 	name = Nikaron
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas5
@@ -3322,7 +3322,7 @@ tarenas6 = {
 tarenas7 = {
 	name = Thalanes
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas6
@@ -3351,7 +3351,7 @@ tarenas7 = {
 tarenas8 = {
 	name = Kanon
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas7
@@ -3381,7 +3381,7 @@ tarenas8 = {
 tarenas9 = {
 	name = Lykan
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas8
@@ -3409,7 +3409,7 @@ tarenas9 = {
 tarenas10 = {
 	name = Rymon
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas9
@@ -3439,7 +3439,7 @@ tarenas10 = {
 tarenas11 = {
 	name = Theron
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas10
@@ -3468,7 +3468,7 @@ tarenas11 = {
 tarenas12 = {
 	name = Estaros
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas11
@@ -3498,7 +3498,7 @@ tarenas12 = {
 tarenas13 = {
 	name = Valeros
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas12
@@ -3527,7 +3527,7 @@ tarenas13 = {
 tarenas14 = {
 	name = Ekarios
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas13
@@ -3557,7 +3557,7 @@ tarenas14 = {
 tarenas15 = {
 	name = Argyros
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas14
@@ -3586,7 +3586,7 @@ tarenas15 = {
 tarenas16 = {
 	name = Pheros
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas15
@@ -3614,7 +3614,7 @@ tarenas16 = {
 tarenas17 = {
 	name = Iaron
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas16
@@ -3644,7 +3644,7 @@ tarenas17 = {
 tarenas18 = {
 	name = Korydon
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas17
@@ -3673,7 +3673,7 @@ tarenas18 = {
 tarenas19 = {
 	name = Kastanos
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas18
@@ -3702,7 +3702,7 @@ tarenas19 = {
 tarenas20 = {
 	name = Arthanes
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas19
@@ -3731,7 +3731,7 @@ tarenas20 = {
 tarenas21 = {
 	name = Ophyron
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas20
@@ -3760,7 +3760,7 @@ tarenas21 = {
 tarenas22 = {
 	name = Kaelon
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas21
@@ -3788,7 +3788,7 @@ tarenas22 = {
 tarenas23 = {
 	name = Ektaron
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas22
@@ -3816,7 +3816,7 @@ tarenas23 = {
 tarenas24 = {
 	name = Pylas
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas23
@@ -3847,7 +3847,7 @@ tarenas24 = {
 tarenas25 = {
 	name = Ceneros
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas24
@@ -3875,7 +3875,7 @@ tarenas25 = {
 tarenas26 = {
 	name = Oraleon
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas25
@@ -3904,7 +3904,7 @@ tarenas26 = {
 tarenas27 = {
 	name = Chaeron
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas26
@@ -3932,7 +3932,7 @@ tarenas27 = {
 tarenas28 = {
 	name = Kaston
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas27
@@ -3963,7 +3963,7 @@ tarenas29 = {
 	name = Karythia
 	female = yes
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas28
@@ -3993,7 +3993,7 @@ tarenas29 = {
 tarenas30 = {
 	name = Lynas
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas28
@@ -4021,7 +4021,7 @@ tarenas30 = {
 tarenas31 = {
 	name = AgrA_s
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas28
@@ -4052,7 +4052,7 @@ tarenas32 = {
 	name = Themara
 	female = yes
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas31
@@ -4079,7 +4079,7 @@ tarenas32 = {
 tarenas33 = {
 	name = Orestas
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas31
@@ -4106,7 +4106,7 @@ tarenas33 = {
 tarenas34 = {
 	name = Theras
 	dynasty_house = tarenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = tarenas31
@@ -4135,7 +4135,7 @@ tarenas34 = {
 atyrin1 = {
 	name = Kaesaros
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = argyrian46
@@ -4150,7 +4150,7 @@ atyrin1 = {
 atyrin2 = {
 	name = Thalanes
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin1
@@ -4165,7 +4165,7 @@ atyrin2 = {
 atyrin3 = {
 	name = Aphyron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin2
@@ -4180,7 +4180,7 @@ atyrin3 = {
 atyrin4 = {
 	name = Damaron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin2
@@ -4195,7 +4195,7 @@ atyrin4 = {
 atyrin5 = {
 	name = Kaesaros
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin3
@@ -4210,7 +4210,7 @@ atyrin5 = {
 atyrin6 = {
 	name = Taryas
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin3
@@ -4225,7 +4225,7 @@ atyrin6 = {
 atyrin7 = {
 	name = Lykan
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin3
@@ -4240,7 +4240,7 @@ atyrin7 = {
 atyrin8 = {
 	name = Kyros
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin7
@@ -4257,7 +4257,7 @@ atyrin8 = {
 atyrin9 = {
 	name = Arthanos
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin8
@@ -4272,7 +4272,7 @@ atyrin9 = {
 atyrin10 = {
 	name = Ektaron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin9
@@ -4287,7 +4287,7 @@ atyrin10 = {
 atyrin11 = {
 	name = Aphyron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin9
@@ -4302,7 +4302,7 @@ atyrin11 = {
 atyrin12 = {
 	name = Damaron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin10
@@ -4317,7 +4317,7 @@ atyrin12 = {
 atyrin13 = {
 	name = Valos
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin12
@@ -4332,7 +4332,7 @@ atyrin13 = {
 atyrin14 = {
 	name = Taryas
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin13
@@ -4347,7 +4347,7 @@ atyrin14 = {
 atyrin15 = {
 	name = Damaron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin14
@@ -4363,7 +4363,7 @@ atyrin16 = {
 	name = Kalthara
 	female = yes
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin15
@@ -4378,7 +4378,7 @@ atyrin16 = {
 atyrin17 = {
 	name = Ouralon
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 	dna = ouralon_IV
 
@@ -4414,7 +4414,7 @@ atyrin17 = {
 atyrin18 = {
 	name = AgrA_s
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin17
@@ -4430,7 +4430,7 @@ atyrin19 = {
 	name = Anapheia
 	female = yes
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin17
@@ -4445,7 +4445,7 @@ atyrin19 = {
 atyrin20 = {
 	name = Tyran
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin17
@@ -4460,7 +4460,7 @@ atyrin20 = {
 atyrin21 = {
 	name = Seryos
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin18
@@ -4476,7 +4476,7 @@ atyrin22 = {
 	name = Heloseia
 	female = yes
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin18
@@ -4491,7 +4491,7 @@ atyrin22 = {
 atyrin23 = {
 	name = Vareos
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin18
@@ -4507,7 +4507,7 @@ atyrin24 = {
 	name = Neryse
 	female = yes
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin18
@@ -4522,7 +4522,7 @@ atyrin24 = {
 atyrin25 = {
 	name = Rhion
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin21
@@ -4537,7 +4537,7 @@ atyrin25 = {
 atyrin26 = {
 	name = Ektaron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin21
@@ -4554,7 +4554,7 @@ atyrin26 = {
 atyrin27 = {
 	name = Damaron
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin20
@@ -4569,7 +4569,7 @@ atyrin27 = {
 atyrin28 = {
 	name = Kastianos
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin20
@@ -4585,7 +4585,7 @@ atyrin29 = {
 	name = Seleia
 	female = yes
 	dynasty = atyrin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin20
@@ -4601,7 +4601,7 @@ atyrin29 = {
 rhyceros1 = {
 	name = Andron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = atyrin14
@@ -4616,7 +4616,7 @@ rhyceros1 = {
 rhyceros2 = {
 	name = Lykaron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros1
@@ -4632,7 +4632,7 @@ rhyceros3 = {
 	name = Nysiane
 	female = yes
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros1
@@ -4648,7 +4648,7 @@ rhyceros4 = {
 	name = Althea
 	female = yes
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros1
@@ -4663,7 +4663,7 @@ rhyceros4 = {
 rhyceros5 = {
 	name = Lykaron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros2
@@ -4678,7 +4678,7 @@ rhyceros5 = {
 rhyceros6 = {
 	name = Damaron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros2
@@ -4693,7 +4693,7 @@ rhyceros6 = {
 rhyceros7 = {
 	name = Lykan
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros5
@@ -4708,7 +4708,7 @@ rhyceros7 = {
 rhyceros8 = {
 	name = Kaesaros
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros5
@@ -4724,7 +4724,7 @@ rhyceros9 = {
 	name = Seleia
 	female = yes
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros5
@@ -4739,7 +4739,7 @@ rhyceros9 = {
 rhyceros10 = {
 	name = Sanaron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros5
@@ -4754,7 +4754,7 @@ rhyceros10 = {
 rhyceros11 = {
 	name = Tyran
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros5
@@ -4771,7 +4771,7 @@ rhyceros11 = {
 rhyceros12 = {
 	name = Tyros
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros5
@@ -4788,7 +4788,7 @@ rhyceros12 = {
 rhyceros13 = {
 	name = Ceneros
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros6
@@ -4803,7 +4803,7 @@ rhyceros13 = {
 rhyceros14 = {
 	name = Valos
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros6
@@ -4820,7 +4820,7 @@ rhyceros14 = {
 rhyceros15 = {
 	name = Tyros
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros11
@@ -4835,7 +4835,7 @@ rhyceros15 = {
 rhyceros16 = {
 	name = Nikaron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros11
@@ -4851,7 +4851,7 @@ rhyceros17 = {
 	name = Amare
 	female = yes
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros13
@@ -4867,7 +4867,7 @@ rhyceros18 = {
 	name = Heliane
 	female = yes
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros13
@@ -4883,7 +4883,7 @@ rhyceros19 = {
 	name = Euratia
 	female = yes
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros13
@@ -4898,7 +4898,7 @@ rhyceros19 = {
 rhyceros20 = {
 	name = Aphyron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros13
@@ -4913,7 +4913,7 @@ rhyceros20 = {
 rhyceros21 = {
 	name = Lynas
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros20
@@ -4928,7 +4928,7 @@ rhyceros21 = {
 rhyceros22 = {
 	name = Tyran
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros15
@@ -4944,7 +4944,7 @@ rhyceros23 = {
 	name = Ourea
 	female = yes
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros15
@@ -4959,7 +4959,7 @@ rhyceros23 = {
 rhyceros24 = {
 	name = Ophyron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros16
@@ -4974,7 +4974,7 @@ rhyceros24 = {
 rhyceros25 = {
 	name = Sanaron
 	dynasty_house = rhyceros
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = rhyceros24
@@ -4991,7 +4991,7 @@ rhyceros25 = {
 ilmenas1 = {
 	name = Alkyon
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 6
@@ -5017,7 +5017,7 @@ ilmenas1 = {
 ilmenas2 = {
 	name = Kanon
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas1
@@ -5045,7 +5045,7 @@ ilmenas2 = {
 ilmenas3 = {
 	name = AgrA_s
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas2
@@ -5076,7 +5076,7 @@ ilmenas3 = {
 ilmenas4 = {
 	name = Tyros
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas3
@@ -5105,7 +5105,7 @@ ilmenas4 = {
 ilmenas5 = {
 	name = Zephyron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas4
@@ -5135,7 +5135,7 @@ ilmenas5 = {
 ilmenas6 = {
 	name = Pylon
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas5
@@ -5164,7 +5164,7 @@ ilmenas6 = {
 ilmenas7 = {
 	name = Tauras
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas6
@@ -5193,7 +5193,7 @@ ilmenas7 = {
 ilmenas8 = {
 	name = Arthanos
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas7
@@ -5222,7 +5222,7 @@ ilmenas8 = {
 ilmenas9 = {
 	name = Pheros
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas8
@@ -5253,7 +5253,7 @@ ilmenas9 = {
 ilmenas10 = {
 	name = Ophyron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas9
@@ -5284,7 +5284,7 @@ ilmenas10 = {
 ilmenas11 = {
 	name = Korydon
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas10
@@ -5314,7 +5314,7 @@ ilmenas11 = {
 ilmenas12 = {
 	name = Valeros
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas11
@@ -5344,7 +5344,7 @@ ilmenas12 = {
 ilmenas13 = {
 	name = Lykan
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas12
@@ -5374,7 +5374,7 @@ ilmenas13 = {
 ilmenas14 = {
 	name = Chaeron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas13
@@ -5402,7 +5402,7 @@ ilmenas14 = {
 ilmenas15 = {
 	name = Damaron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas14
@@ -5431,7 +5431,7 @@ ilmenas15 = {
 ilmenas16 = {
 	name = Saphyras
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas15
@@ -5459,7 +5459,7 @@ ilmenas16 = {
 ilmenas17 = {
 	name = Kaesaros
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas16
@@ -5491,7 +5491,7 @@ ilmenas17 = {
 ilmenas18 = {
 	name = Lysaros
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas17
@@ -5521,7 +5521,7 @@ ilmenas18 = {
 ilmenas19 = {
 	name = Andron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas18
@@ -5550,7 +5550,7 @@ ilmenas19 = {
 ilmenas20 = {
 	name = Lykaron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas19
@@ -5581,7 +5581,7 @@ ilmenas20 = {
 ilmenas21 = {
 	name = Eurygas
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas20
@@ -5611,7 +5611,7 @@ ilmenas21 = {
 ilmenas22 = {
 	name = Kaston
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas21
@@ -5641,7 +5641,7 @@ ilmenas22 = {
 ilmenas23 = {
 	name = Theras
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas22
@@ -5671,7 +5671,7 @@ ilmenas23 = {
 ilmenas24 = {
 	name = Taryas
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas23
@@ -5699,7 +5699,7 @@ ilmenas24 = {
 ilmenas25 = {
 	name = Ceneros
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas24
@@ -5727,7 +5727,7 @@ ilmenas25 = {
 ilmenas26 = {
 	name = Cyras
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas25
@@ -5757,7 +5757,7 @@ ilmenas26 = {
 ilmenas27 = {
 	name = Kastylas
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas26
@@ -5788,7 +5788,7 @@ ilmenas27 = {
 ilmenas28 = {
 	name = Rymon
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas26
@@ -5819,7 +5819,7 @@ ilmenas28 = {
 ilmenas29 = {
 	name = Kylanon
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas28
@@ -5846,7 +5846,7 @@ ilmenas29 = {
 ilmenas30 = {
 	name = Estaros
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas28
@@ -5873,7 +5873,7 @@ ilmenas30 = {
 ilmenas31 = {
 	name = Myron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas28
@@ -5900,7 +5900,7 @@ ilmenas31 = {
 ilmenas32 = {
 	name = Myraklon
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas28
@@ -5927,7 +5927,7 @@ ilmenas32 = {
 ilmenas33 = {
 	name = Ikaron
 	dynasty = ilmenas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas28
@@ -5955,7 +5955,7 @@ ilmenas33 = {
 derinan1 = {
 	name = Alkyon
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = ilmenas20
@@ -5983,7 +5983,7 @@ derinan1 = {
 derinan2 = {
 	name = Aphyron
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan1
@@ -6013,7 +6013,7 @@ derinan2 = {
 derinan3 = {
 	name = Tyros
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan2
@@ -6041,7 +6041,7 @@ derinan3 = {
 derinan4 = {
 	name = Pylas
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan3
@@ -6070,7 +6070,7 @@ derinan4 = {
 derinan5 = {
 	name = Grenas
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan4
@@ -6101,7 +6101,7 @@ derinan5 = {
 derinan6 = {
 	name = Sanaron
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan5
@@ -6129,7 +6129,7 @@ derinan6 = {
 derinan7 = {
 	name = Rynatos
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan5
@@ -6161,7 +6161,7 @@ derinan8 = {
 	name = Karythia
 	female = yes
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan7
@@ -6194,7 +6194,7 @@ derinan9 = {
 	name = Neryse
 	female = yes
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan7
@@ -6222,7 +6222,7 @@ derinan9 = {
 derinan10 = {
 	name = Orestas
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan7
@@ -6251,7 +6251,7 @@ derinan10 = {
 derinan11 = {
 	name = Ikaron
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan10
@@ -6278,7 +6278,7 @@ derinan11 = {
 derinan12 = {
 	name = Ophyron
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan10
@@ -6305,7 +6305,7 @@ derinan12 = {
 derinan13 = {
 	name = Lykaron
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan10
@@ -6335,7 +6335,7 @@ derinan13 = {
 derinan14 = {
 	name = Nyros
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan13
@@ -6362,7 +6362,7 @@ derinan14 = {
 derinan15 = {
 	name = Ceneros
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan13
@@ -6390,7 +6390,7 @@ derinan15 = {
 derinan16 = {
 	name = Tauras
 	dynasty_house = derinan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = derinan13
@@ -6419,7 +6419,7 @@ derinan16 = {
 olyran1 = {
 	name = Argyros
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 4
@@ -6447,7 +6447,7 @@ olyran1 = {
 olyran2 = {
 	name = Tyran
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran1
@@ -6476,7 +6476,7 @@ olyran2 = {
 olyran3 = {
 	name = Kaelon
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran2
@@ -6508,7 +6508,7 @@ olyran3 = {
 olyran4 = {
 	name = Kastianos
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran3
@@ -6537,7 +6537,7 @@ olyran4 = {
 olyran5 = {
 	name = Korydon
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran4
@@ -6568,7 +6568,7 @@ olyran5 = {
 olyran6 = {
 	name = Nikaron
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran5
@@ -6597,7 +6597,7 @@ olyran6 = {
 olyran7 = {
 	name = Iaron
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran6
@@ -6625,7 +6625,7 @@ olyran7 = {
 olyran8 = {
 	name = Saphyras
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran7
@@ -6654,7 +6654,7 @@ olyran8 = {
 olyran9 = {
 	name = Talyron
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran8
@@ -6684,7 +6684,7 @@ olyran9 = {
 olyran10 = {
 	name = Phyron
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran9
@@ -6713,7 +6713,7 @@ olyran10 = {
 olyran11 = {
 	name = Aphyron
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran10
@@ -6743,7 +6743,7 @@ olyran11 = {
 olyran12 = {
 	name = Arthanes
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran11
@@ -6773,7 +6773,7 @@ olyran12 = {
 olyran13 = {
 	name = Theron
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran12
@@ -6801,7 +6801,7 @@ olyran13 = {
 olyran14 = {
 	name = Taryas
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran13
@@ -6831,7 +6831,7 @@ olyran14 = {
 olyran15 = {
 	name = Kaston
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran14
@@ -6862,7 +6862,7 @@ olyran16 = {
 	name = Lysiane
 	female = yes
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran15
@@ -6892,7 +6892,7 @@ olyran17 = {
 	name = Kalthara
 	female = yes
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran15
@@ -6921,7 +6921,7 @@ olyran17 = {
 olyran18 = {
 	name = Lykas
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran15
@@ -6952,7 +6952,7 @@ olyran18 = {
 olyran19 = {
 	name = Ikaron
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran18
@@ -6979,7 +6979,7 @@ olyran19 = {
 olyran20 = {
 	name = Argantes
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran18
@@ -7006,7 +7006,7 @@ olyran20 = {
 olyran21 = {
 	name = Myras
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran18
@@ -7033,7 +7033,7 @@ olyran21 = {
 olyran22 = {
 	name = Kaelas
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran18
@@ -7060,7 +7060,7 @@ olyran22 = {
 olyran23 = {
 	name = Myraklon
 	dynasty = olyran
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = olyran18
@@ -7089,7 +7089,7 @@ olyran23 = {
 cerinas1 = {
 	name = Orestas
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 8
@@ -7115,7 +7115,7 @@ cerinas1 = {
 cerinas2 = {
 	name = Vasylas
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas1
@@ -7144,7 +7144,7 @@ cerinas2 = {
 cerinas3 = {
 	name = Charanos
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas2
@@ -7173,7 +7173,7 @@ cerinas3 = {
 cerinas4 = {
 	name = Ceneros
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas3
@@ -7202,7 +7202,7 @@ cerinas4 = {
 cerinas5 = {
 	name = Myras
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas4
@@ -7233,7 +7233,7 @@ cerinas5 = {
 cerinas6 = {
 	name = Pheros
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas5
@@ -7263,7 +7263,7 @@ cerinas7 = {
 	name = Neryse
 	female = yes
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas6
@@ -7295,7 +7295,7 @@ cerinas8 = {
 	name = Heliane
 	female = yes
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas6
@@ -7324,7 +7324,7 @@ cerinas8 = {
 cerinas9 = {
 	name = Tauras
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas6
@@ -7355,7 +7355,7 @@ cerinas10 = {
 	name = Seleia
 	female = yes
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas9
@@ -7382,7 +7382,7 @@ cerinas10 = {
 cerinas11 = {
 	name = Kaelon
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas9
@@ -7409,7 +7409,7 @@ cerinas11 = {
 cerinas12 = {
 	name = Pylanes
 	dynasty = cerinas
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cerinas9
@@ -7438,7 +7438,7 @@ cerinas12 = {
 krynarias1 = {
 	name = Krynaros
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 8
@@ -7466,7 +7466,7 @@ krynarias1 = {
 krynarias2 = {
 	name = Ekarios
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias1
@@ -7495,7 +7495,7 @@ krynarias2 = {
 krynarias3 = {
 	name = Arthanes
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias2
@@ -7526,7 +7526,7 @@ krynarias3 = {
 krynarias4 = {
 	name = Vasylas
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias3
@@ -7556,7 +7556,7 @@ krynarias4 = {
 krynarias5 = {
 	name = Korydon
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias4
@@ -7584,7 +7584,7 @@ krynarias5 = {
 krynarias6 = {
 	name = Cyran
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias5
@@ -7614,7 +7614,7 @@ krynarias7 = {
 	name = Karythia
 	female = yes
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias5
@@ -7643,7 +7643,7 @@ krynarias8 = {
 	name = Lysiane
 	female = yes
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias5
@@ -7673,7 +7673,7 @@ krynarias8 = {
 krynarias9 = {
 	name = Oryaros
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias5
@@ -7704,7 +7704,7 @@ krynarias10 = {
 	name = Karethia
 	female = yes
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krynarias5
@@ -7732,7 +7732,7 @@ krynarias10 = {
 krynarias11 = {
 	name = Aphyrelos
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = krynarias8
@@ -7761,7 +7761,7 @@ krynarias11 = {
 krynarias12 = {
 	name = Kalaron
 	dynasty = krynarias
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	mother = krynarias8
@@ -7790,7 +7790,7 @@ krynarias12 = {
 cykras1 = {
 	name = Tyran
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 5
@@ -7819,7 +7819,7 @@ cykras1 = {
 cykras2 = {
 	name = Damakon
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras1
@@ -7847,7 +7847,7 @@ cykras2 = {
 cykras3 = {
 	name = Arthelos
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras2
@@ -7876,7 +7876,7 @@ cykras3 = {
 cykras4 = {
 	name = Lyrandos
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras3
@@ -7904,7 +7904,7 @@ cykras4 = {
 cykras5 = {
 	name = Tauron
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras4
@@ -7934,7 +7934,7 @@ cykras5 = {
 cykras6 = {
 	name = Chaeron
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras5
@@ -7962,7 +7962,7 @@ cykras6 = {
 cykras7 = {
 	name = Valos
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras6
@@ -7994,7 +7994,7 @@ cykras7 = {
 cykras8 = {
 	name = Tauran
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras7
@@ -8023,7 +8023,7 @@ cykras8 = {
 cykras9 = {
 	name = Taryaros
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras8
@@ -8051,7 +8051,7 @@ cykras9 = {
 cykras10 = {
 	name = Kastylas
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras9
@@ -8079,7 +8079,7 @@ cykras10 = {
 cykras11 = {
 	name = Salaros
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras10
@@ -8108,7 +8108,7 @@ cykras11 = {
 cykras12 = {
 	name = Myraklon
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras11
@@ -8136,7 +8136,7 @@ cykras12 = {
 cykras13 = {
 	name = Kastianos
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras12
@@ -8166,7 +8166,7 @@ cykras13 = {
 cykras14 = {
 	name = Talyron
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras13
@@ -8196,7 +8196,7 @@ cykras14 = {
 cykras15 = {
 	name = Nemaron
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras14
@@ -8226,7 +8226,7 @@ cykras15 = {
 cykras16 = {
 	name = Andron
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras15
@@ -8255,7 +8255,7 @@ cykras16 = {
 cykras17 = {
 	name = Seryos
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras16
@@ -8282,7 +8282,7 @@ cykras17 = {
 cykras18 = {
 	name = Theras
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras16
@@ -8309,7 +8309,7 @@ cykras18 = {
 cykras19 = {
 	name = Oryaros
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras16
@@ -8338,7 +8338,7 @@ cykras19 = {
 cykras20 = {
 	name = Argantes
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras16
@@ -8366,7 +8366,7 @@ cykras20 = {
 cykras21 = {
 	name = Rynatos
 	dynasty = cykras
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = cykras16
@@ -8395,7 +8395,7 @@ cykras21 = {
 garosin1 = {
 	name = Andrakon
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 5
@@ -8423,7 +8423,7 @@ garosin1 = {
 garosin2 = {
 	name = Ouralon
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin1
@@ -8454,7 +8454,7 @@ garosin2 = {
 garosin3 = {
 	name = Mepharos
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin2
@@ -8484,7 +8484,7 @@ garosin3 = {
 garosin4 = {
 	name = Kastianos
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin3
@@ -8513,7 +8513,7 @@ garosin4 = {
 garosin5 = {
 	name = Alenaros
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin4
@@ -8543,7 +8543,7 @@ garosin5 = {
 garosin6 = {
 	name = Kastyas
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin5
@@ -8572,7 +8572,7 @@ garosin6 = {
 garosin7 = {
 	name = Oryaros
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin6
@@ -8602,7 +8602,7 @@ garosin7 = {
 garosin8 = {
 	name = Korydon
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin7
@@ -8631,7 +8631,7 @@ garosin8 = {
 garosin9 = {
 	name = Vareos
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin8
@@ -8661,7 +8661,7 @@ garosin9 = {
 garosin10 = {
 	name = Pheros
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin9
@@ -8691,7 +8691,7 @@ garosin10 = {
 garosin11 = {
 	name = Lysaros
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8722,7 +8722,7 @@ garosin12 = {
 	name = Ouriane
 	female = yes
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8749,7 +8749,7 @@ garosin12 = {
 garosin13 = {
 	name = Kanon
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8777,7 +8777,7 @@ garosin14 = {
 	name = Chrysiane
 	female = yes
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8804,7 +8804,7 @@ garosin14 = {
 garosin15 = {
 	name = Zephyron
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8833,7 +8833,7 @@ garosin15 = {
 garosin16 = {
 	name = Eryadros
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8864,7 +8864,7 @@ garosin16 = {
 garosin17 = {
 	name = Aelynos
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8893,7 +8893,7 @@ garosin17 = {
 garosin18 = {
 	name = Myron
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8920,7 +8920,7 @@ garosin18 = {
 garosin19 = {
 	name = Astyron
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8948,7 +8948,7 @@ garosin19 = {
 garosin20 = {
 	name = Asteron
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -8975,7 +8975,7 @@ garosin20 = {
 garosin21 = {
 	name = Nyros
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -9003,7 +9003,7 @@ garosin21 = {
 garosin22 = {
 	name = Valos
 	dynasty = garosin
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = garosin10
@@ -9032,7 +9032,7 @@ garosin22 = {
 korthavan1 = {
 	name = Nyraros
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 6
@@ -9059,7 +9059,7 @@ korthavan1 = {
 korthavan2 = {
 	name = Galaros
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan1
@@ -9089,7 +9089,7 @@ korthavan2 = {
 korthavan3 = {
 	name = Korylas
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan2
@@ -9118,7 +9118,7 @@ korthavan3 = {
 korthavan4 = {
 	name = Gelaros
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan3
@@ -9147,7 +9147,7 @@ korthavan5 = {
 	name = Damaraia
 	female = yes
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan4
@@ -9177,7 +9177,7 @@ korthavan5 = {
 korthavan6 = {
 	name = Pylanes
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan4
@@ -9206,7 +9206,7 @@ korthavan6 = {
 korthavan7 = {
 	name = Mikalos
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan4
@@ -9236,7 +9236,7 @@ korthavan7 = {
 korthavan8 = {
 	name = Atranon
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan4
@@ -9263,7 +9263,7 @@ korthavan8 = {
 korthavan9 = {
 	name = Euryenon
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan4
@@ -9290,7 +9290,7 @@ korthavan9 = {
 korthavan10 = {
 	name = Alkaros
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan4
@@ -9317,7 +9317,7 @@ korthavan10 = {
 korthavan11 = {
 	name = Aerynon
 	dynasty = korthavan
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = korthavan4
@@ -9346,7 +9346,7 @@ korthavan11 = {
 krysanon1 = {
 	name = Korydon
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 7
@@ -9376,7 +9376,7 @@ krysanon1 = {
 krysanon2 = {
 	name = Athyron
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon1
@@ -9406,7 +9406,7 @@ krysanon2 = {
 krysanon3 = {
 	name = Krynaros
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon2
@@ -9434,7 +9434,7 @@ krysanon3 = {
 krysanon4 = {
 	name = Tyran
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon3
@@ -9466,7 +9466,7 @@ krysanon5 = {
 	name = Ouryse
 	female = yes
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon4
@@ -9497,7 +9497,7 @@ krysanon5 = {
 krysanon6 = {
 	name = Alkanos
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon4
@@ -9528,7 +9528,7 @@ krysanon7 = {
 	name = Heraia
 	female = yes
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon4
@@ -9558,7 +9558,7 @@ krysanon7 = {
 krysanon8 = {
 	name = Tauras
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon4
@@ -9589,7 +9589,7 @@ krysanon8 = {
 krysanon9 = {
 	name = Lyranaros
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9619,7 +9619,7 @@ krysanon9 = {
 krysanon10 = {
 	name = Kanaros
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9648,7 +9648,7 @@ krysanon10 = {
 krysanon11 = {
 	name = Iaron
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9676,7 +9676,7 @@ krysanon11 = {
 krysanon12 = {
 	name = Arkalon
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9703,7 +9703,7 @@ krysanon12 = {
 krysanon13 = {
 	name = Myron
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9730,7 +9730,7 @@ krysanon13 = {
 krysanon14 = {
 	name = Tauron
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9757,7 +9757,7 @@ krysanon14 = {
 krysanon15 = {
 	name = Nemaros
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9784,7 +9784,7 @@ krysanon15 = {
 krysanon16 = {
 	name = Astyron
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9812,7 +9812,7 @@ krysanon16 = {
 krysanon17 = {
 	name = Valaros
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9839,7 +9839,7 @@ krysanon17 = {
 krysanon18 = {
 	name = Dalaros
 	dynasty = krysanon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = krysanon8
@@ -9868,7 +9868,7 @@ krysanon18 = {
 astramon1 = {
 	name = Atranon
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	diplomacy = 7
@@ -9894,7 +9894,7 @@ astramon1 = {
 astramon2 = {
 	name = Theron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon1
@@ -9925,7 +9925,7 @@ astramon2 = {
 astramon3 = {
 	name = Arkeron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon2
@@ -9955,7 +9955,7 @@ astramon3 = {
 astramon4 = {
 	name = Alenaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon3
@@ -9984,7 +9984,7 @@ astramon4 = {
 astramon5 = {
 	name = Aesaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon4
@@ -10013,7 +10013,7 @@ astramon5 = {
 astramon6 = {
 	name = Velaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon5
@@ -10042,7 +10042,7 @@ astramon6 = {
 astramon7 = {
 	name = Ephyron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon6
@@ -10070,7 +10070,7 @@ astramon7 = {
 astramon8 = {
 	name = Alkyon
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon7
@@ -10099,7 +10099,7 @@ astramon8 = {
 astramon9 = {
 	name = Alkyron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon8
@@ -10127,7 +10127,7 @@ astramon9 = {
 astramon10 = {
 	name = Aethyron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon9
@@ -10155,7 +10155,7 @@ astramon10 = {
 astramon11 = {
 	name = Vareos
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon10
@@ -10185,7 +10185,7 @@ astramon11 = {
 astramon12 = {
 	name = Lyrandos
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon11
@@ -10217,7 +10217,7 @@ astramon12 = {
 astramon13 = {
 	name = Nemaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon12
@@ -10247,7 +10247,7 @@ astramon13 = {
 astramon14 = {
 	name = Ouralon
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon13
@@ -10278,7 +10278,7 @@ astramon14 = {
 astramon15 = {
 	name = Damakon
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon14
@@ -10307,7 +10307,7 @@ astramon15 = {
 astramon16 = {
 	name = Tauron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon15
@@ -10336,7 +10336,7 @@ astramon16 = {
 astramon17 = {
 	name = Kanon
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon16
@@ -10367,7 +10367,7 @@ astramon17 = {
 astramon18 = {
 	name = Tauras
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon17
@@ -10398,7 +10398,7 @@ astramon18 = {
 astramon19 = {
 	name = Talyron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon18
@@ -10428,7 +10428,7 @@ astramon19 = {
 astramon20 = {
 	name = Aphyron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon19
@@ -10460,7 +10460,7 @@ astramon20 = {
 astramon21 = {
 	name = Arthanes
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon20
@@ -10492,7 +10492,7 @@ astramon21 = {
 astramon22 = {
 	name = Eosanon
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon21
@@ -10522,7 +10522,7 @@ astramon22 = {
 astramon23 = {
 	name = Nyros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon22
@@ -10553,7 +10553,7 @@ astramon23 = {
 astramon24 = {
 	name = Asteron
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon23
@@ -10583,7 +10583,7 @@ astramon25 = {
 	name = Tyriane
 	female = yes
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon24
@@ -10614,7 +10614,7 @@ astramon25 = {
 astramon26 = {
 	name = Vasylas
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon24
@@ -10642,7 +10642,7 @@ astramon26 = {
 astramon27 = {
 	name = Galaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon26
@@ -10669,7 +10669,7 @@ astramon27 = {
 astramon28 = {
 	name = Kastaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon26
@@ -10696,7 +10696,7 @@ astramon28 = {
 astramon29 = {
 	name = Ormaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon26
@@ -10723,7 +10723,7 @@ astramon29 = {
 astramon30 = {
 	name = Eratos
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon26
@@ -10750,7 +10750,7 @@ astramon30 = {
 astramon31 = {
 	name = Valaros
 	dynasty = astramon
-	religion = anorath
+	religion = faith_anorath
 	culture = anorothic
 
 	father = astramon26

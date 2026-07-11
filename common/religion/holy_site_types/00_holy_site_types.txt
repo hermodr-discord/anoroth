@@ -1,8 +1,136 @@
-﻿anorcedia = {
+﻿### ANÓRIC HOLY SITES
+# Anórath
+anorcedia = {
 	county = c_anorcedia
 	barony = b_anorcedia
 	
 	character_modifier = {
-		martial = 2
+		martial_per_piety_level = 1
+		monthly_county_control_growth_factor = 0.1
+	}
+}
+ourasavel = {
+	county = c_korthanor
+	barony = b_korthanor
+
+	character_modifier = {
+		prowess_per_piety_level = 1
+		knight_effectiveness_mult = 0.1
+		monthly_piety_gain_per_knight_mult = 0.02
+	}
+}
+calantheia = {
+	county = c_calantheia
+	barony = b_calantheia
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.05
+		learning = 1
+	}
+}
+tagareos = {
+	county = c_mesaia
+	barony = b_tagareos
+
+	character_modifier = {
+		development_growth_factor = 0.1
+	}
+}
+incanathar = {
+	county = c_incanathar
+	barony = b_incanathar
+
+	character_modifier = {
+		clergy_opinion = 5
+		hills_advantage = 5
+	}
+}
+# Celavath
+neos_anorcedia = {
+	county = c_kelevsk
+	barony = b_novy_anorzehylsk
+
+	character_modifier = {
+		dread_baseline_add = 10
+	}
+}
+manetessos = {
+	county = c_mahnetsk
+	barony = b_mahnetsk
+
+	character_modifier = {
+		attacker_advantage = 5
+	}
+}
+# Sobranorye
+don = {
+	county = c_don
+	barony = b_slanov
+
+	character_modifier = {
+		development_growth_factor = 0.1
+		church_holding_build_gold_cost = -0.1
+	}
+}
+mahnetsk = {
+	county = c_mahnetsk
+	barony = b_mahnetsk
+
+	character_modifier = {
+		learning_per_piety_level = 1
+	}
+}
+novy_anorzehylsk = {
+	county = c_kelevsk
+	barony = b_novy_anorzehylsk
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+	}
+}
+# Anatzeve
+nortzavel = {
+	county = c_nortzavel
+	barony = b_nortzavel
+
+	character_modifier = {
+		development_growth_factor = 0.05
+		county_opinion_add = 10
+	}
+}
+morzain = {
+	county = c_morzain
+	barony = b_morzain
+
+	character_modifier = {
+		steppe_advantage = 5
+		light_cavalry_damage_mult = 0.1
+	}
+}
+urdin = {
+	county = c_urdin
+	barony = b_urdin
+
+	character_modifier = {
+		defender_advantage = 5
+	}
+}
+# Funethresca
+elarissos = {
+	county = c_elarissos
+	barony = b_elarissos
+
+	character_modifier = {
+		coastal_advantage = 5
+		naval_movement_speed_mult = 0.1
+	}
+}
+castrynios = {
+	county = c_castrynon
+	barony = b_castrynios
+
+	character_modifier = {
+		development_growth_factor = 0.05
+		forest_advantage = 5
 	}
 }

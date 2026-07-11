@@ -376,6 +376,8 @@ doctrine_core_tenets = {
 		### ANATHIS TENETS
 		tenet_children_of_the_sun
 		tenet_endless_skies
+		tenet_ilg_e_garna
+		tenet_isanara_TBD
 		tenet_mythical_forgery
 	}
 }

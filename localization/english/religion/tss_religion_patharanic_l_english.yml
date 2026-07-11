@@ -77,23 +77,8 @@
  patharanic_witchgodname_the_spirits:0 "$patharanic_good_god_spirits_name$"
  patharanic_witchgodname_the_spirits_possessive:0 "$patharanic_good_god_spirits_name_possessive$"
 
- beronovy:0 "Berónovy"
- beronovy_adj:0 "Berónovy"
- beronovy_adherent:0 "Berónovy"
- beronovy_adherent_plural:0 "Berónovya"
- beronovy_desc:0 "BERONOVY DESCRIPTION"
-
- beronovy_high_god_name:0 "Berón"
- beronovy_high_god_name_2:0 "$beronovy_high_god_name$" # Optional translation alt
- beronovy_high_god_name_possessive:0 "Berón's"
- beronovy_high_god_name_alternate:0 "the Moon Lord"
- beronovy_high_god_name_alternate_possessive:0 "the Moon Lord's"
-
- beronovy_religious_symbol:0 "moon"
- beronovy_religious_symbol_2:0 "$beronovy_religious_symbol$" # Optional translation alt
- beronovy_religious_symbol_3:0 "$beronovy_religious_symbol$" # Optional translation alt
- beronovy_religious_text:0 "scriptures"
- beronovy_religious_text_2:0 "$beronovy_religious_text$" # Optional translation alt
- beronovy_religious_text_3:0 "$beronovy_religious_text$" # Optional translation alt
- beronovy_religious_head_title:0 "Zashyvka"
- beronovy_religious_head_title_name:0 "Prehylov Berónovy"
+ faith_beronovy:0 "Beronovy"
+ faith_beronovy_adj:0 "Beronovy"
+ faith_beronovy_adherent:0 "Beronovy"
+ faith_beronovy_adherent_plural:0 "Beronovya"
+ faith_beronovy_desc:0 "BERONOVY DESCRIPTION"

@@ -1,0 +1,540 @@
+﻿l_english:
+
+ ### Generic/Base Names
+ tss_creator_god:0 "$tss_primordial_force_anathis$"
+ tss_creator_god_possessive:0 "$tss_primordial_force_anathis_possessive$"
+
+ tss_high_god:0 "$tss_pantheonic_god_anor$"
+ tss_high_god_possessive:0 "$tss_pantheonic_god_anor_possessive$"
+ tss_high_god_alternate:0 "$tss_pantheonic_god_anor_lightbringer$"
+ tss_high_god_alternate_possessive:0 "$tss_pantheonic_god_anor_lightbringer_possessive$"
+
+ tss_death_god:0 "$tss_pantheonic_god_arathon$"
+ tss_death_god_possessive:0 "$tss_pantheonic_god_arathon_possessive$"
+ tss_decay_god:0 "$tss_pantheonic_god_avtorea$"
+ tss_decay_god_possessive:0 "$tss_pantheonic_god_avtorea_possessive$"
+ tss_drought_god:0 "$tss_pantheonic_god_anor$"
+ tss_drought_god_possessive:0 "$tss_pantheonic_god_anor_possessive$"
+ tss_drought_god_alternate:0 "$tss_pantheonic_god_anor_lightbringer$"
+ tss_drought_god_alternate_possessive:0 "$tss_pantheonic_god_anor_lightbringer_possessive$"
+ tss_fate_god:0 "$tss_primordial_force_avtharon$"
+ tss_fate_god_possessive:0 "$tss_primordial_force_avtharon_possessive$"
+ tss_fertility_god:0 "$tss_pantheonic_god_thanovas$"
+ tss_fertility_god_possessive:0 "$tss_pantheonic_god_thanovas_possessive$"
+ tss_fertility_god_alternate:0 "$tss_primordial_force_anathis$"
+ tss_fertility_god_alternate_possessive:0 "$tss_primordial_force_anathis_possessive$"
+ tss_health_god:0 "$tss_pantheonic_god_salevia$"
+ tss_health_god_possessive:0 "$tss_pantheonic_god_salevia_possessive$"
+ tss_household_god:0 "$tss_pantheonic_god_lyrelia$"
+ tss_household_god_possessive:0 "$tss_pantheonic_god_lyrelia_possessive$"
+ tss_knowledge_god:0 "$tss_pantheonic_god_cavtoras$"
+ tss_knowledge_god_possessive:0 "$tss_pantheonic_god_cavtoras_possessive$"
+ tss_night_god:0 "$tss_pantheonic_god_patharan$"
+ tss_night_god_possessive:0 "$tss_pantheonic_god_patharan_possessive$"
+ tss_trickster_god:0 "$tss_pantheonic_god_metiron$"
+ tss_trickster_god_possessive:0 "$tss_pantheonic_god_metiron_possessive$"
+ tss_war_god:0 "$tss_pantheonic_god_anor$"
+ tss_war_god_possessive:0 "$tss_pantheonic_god_anor_possessive$"
+ tss_war_god_alternate:0 "$tss_pantheonic_god_anor_lightbringer$"
+ tss_war_god_alternate_possessive:0 "$tss_pantheonic_god_anor_lightbringer_possessive$"
+ tss_water_god:0 "$tss_pantheonic_god_vanas$"
+ tss_water_god_possessive:0 "$tss_pantheonic_god_vanas_possessive$"
+ tss_wealth_god:0 "$tss_pantheonic_god_tagara$"
+ tss_wealth_god_possessive:0 "$tss_pantheonic_god_tagara_possessive$"
+
+ tss_devil:0 "$tss_primordial_force_icathos$"
+ tss_devil_possessive:0 "$tss_primordial_force_icathos_possessive$"
+ tss_divine_realm:0 "the Sun"
+ tss_positive_afterlife:0 "the Abyss"
+ tss_positive_afterlife_2:0 "Vanás" # Optional alternative
+
+ ### PRIMORDIAL FORCES ###
+ # Anáthis, Embodiment of the Earth, Fertility, and Creation.
+ tss_primordial_force_anathis:0 "Anáthis"
+ tss_primordial_force_anathis_possessive:0 "Anáthis's"
+ # Behatyn
+ tss_primordial_force_anathis_behatyn:0 "Anatis"
+ tss_primordial_force_anathis_behatyn_possessive:0 "Anatis's"
+ # Larrunic
+ tss_primordial_force_anathis_larrunic:0 "Anatzis"
+ tss_primordial_force_anathis_larrunic_possessive:0 "Anatzis's"
+ # Tharun
+ tss_primordial_force_anathis_tharun:0 "Anathis"
+ tss_primordial_force_anathis_tharun_possessive:0 "Anathis's"
+ # Shidonem
+ tss_primordial_force_anathis_shidonem:0 "Anatish"
+ tss_primordial_force_anathis_shidonem_possessive:0 "Anatish's"
+
+ # Avtháron, Embodiment of Fate, Order, Magic, and Time.
+ tss_primordial_force_avtharon:0 "Avtháron"
+ tss_primordial_force_avtharon_possessive:0 "Avtháron's"
+ # Behatyn
+ tss_primordial_force_avtharon_behatyn:0 "Avtaron"
+ tss_primordial_force_avtharon_behatyn_possessive:0 "Avtaron"
+ # Larrunic
+ tss_primordial_force_avtharon_larrunic:0 "Abtaron"
+ tss_primordial_force_avtharon_larrunic_possessive:0 "Abtaron's"
+ # Tharun
+ tss_primordial_force_avtharon_tharun:0 "Aftharon"
+ tss_primordial_force_avtharon_tharun_possessive:0 "Aftharon"
+ # Shidonem
+ tss_primordial_force_avtharon_shidonem:0 "Avtaron"
+ tss_primordial_force_avtharon_shidonem_possessive:0 "Avtaron's"
+
+ # Icáthos, Embodiment of Corruption, Fear, Suffering, and Dread.
+ tss_primordial_force_icathos:0 "Icáthos"
+ tss_primordial_force_icathos_possessive:0 "Icáthos's"
+ # Behatyn
+ tss_primordial_force_icathos_behatyn:0 "Ikatavog"
+ tss_primordial_force_icathos_behatyn_possessive:0 "Ikatavog's"
+ # Larrunic
+ tss_primordial_force_icathos_larrunic:0 "Ikatzos"
+ tss_primordial_force_icathos_larrunic_possessive:0 "Ikatzos's"
+ # Tharun
+ tss_primordial_force_icathos_tharun:0 "Íkathr"
+ tss_primordial_force_icathos_tharun_possessive:0 "Íkathr's"
+ # Shidonem
+ tss_primordial_force_icathos_shidonem:0 "Ikatosh"
+ tss_primordial_force_icathos_shidonem_possessive:0 "Ikatosh's"
+
+ # Ocánas, Embodiment of Eternity, Entropy, Chaos, and Destruction.
+ tss_primordial_force_ocanas:0 "Ocánas"
+ tss_primordial_force_ocanas_possessive:0 "Ocánas's"
+ # Behatyn
+ tss_primordial_force_ocanas_behatyn:0 "Akanas"
+ tss_primordial_force_ocanas_behatyn_possessive:0 "Akanas's"
+ # Larrunic
+ tss_primordial_force_ocanas_larrunic:0 "Okanas"
+ tss_primordial_force_ocanas_larrunic_possessive:0 "Okanas's"
+ # Tharun
+ tss_primordial_force_ocanas_tharun:0 "Okánar"
+ tss_primordial_force_ocanas_tharun_possessive:0 "Okánar"
+ # Shidonem
+ tss_primordial_force_ocanas_shidonem:0 "Okanash"
+ tss_primordial_force_ocanas_shidonem_possessive:0 "Okanash's"
+
+
+
+ ### PANTHEONIC GODS ###
+ tss_the_gods:0 "the Gods"
+ tss_court_of_the_all_king:0 "the Court of the All-King"
+ ## Anórion
+ # Anór, Firstborn and King of the Gods. Sun-God of War, Violence, Day, Light, and Fire. Created by Ocánas in the dawn of the world.
+ # Spouse is Evthára, Goddess of Wrath.
+ tss_pantheonic_god_anor:0 "Anór"
+ tss_pantheonic_god_anor_possessive:0 "Anór's"
+ tss_pantheonic_god_anor_all_king:0 "the All-King"
+ tss_pantheonic_god_anor_all_king_possessive:0 "the All-King's"
+ tss_pantheonic_god_anor_lightbringer:0 "the Lightbringer"
+ tss_pantheonic_god_anor_lightbringer_possessive:0 "the Lightbringer's"
+ # Behatyn
+ tss_pantheonic_god_anor_behatyn:0 "Anor"
+ tss_pantheonic_god_anor_behatyn_possessive:0 "Anor's"
+ # Larrunic
+ tss_pantheonic_god_anor_larrunic:0 "Onor"
+ tss_pantheonic_god_anor_larrunic_possessive:0 "Onor's"
+ # Tharun
+ tss_pantheonic_god_anor_tharun:0 "Ánarr"
+ tss_pantheonic_god_anor_tharun_possessive:0 "Ánarr's"
+ # Shidonem
+ tss_pantheonic_god_anor_shidonem:0 "Anur"
+ tss_pantheonic_god_anor_shidonem_possessive:0 "Anur's"
+
+ # Evthára, Goddess of Wrath, Hatred, and Vengeance. Created by Anáthis in the dawn of the world, to be the wife of Anór.
+ # Spouse is Anór, Sun-God of War.
+ tss_pantheonic_god_evthara:0 "Evthára"
+ tss_pantheonic_god_evthara_possessive:0 "Evthára's"
+ tss_pantheonic_god_evthara_all_queen:0 "the All-Queen"
+ tss_pantheonic_god_evthara_all_queen_possessive:0 "the All-Queen's"
+ tss_pantheonic_god_evthara_dark_mother:0 "the Dark Mother"
+ tss_pantheonic_god_evthara_dark_mother_possessive:0 "the Dark Mother's"
+ # Behatyn
+ tss_pantheonic_god_evthara_behatyn:0 "Mstyena"
+ tss_pantheonic_god_evthara_behatyn_possessive:0 "Mstyena"
+ # Larrunic
+ tss_pantheonic_god_evthara_larrunic:0 "Ebitzara"
+ tss_pantheonic_god_evthara_larrunic_possessive:0 "Ebitzara's"
+ # Tharun
+ tss_pantheonic_god_evthara_tharun:0 "Hefnir"
+ tss_pantheonic_god_evthara_tharun_possessive:0 "Hefnir's"
+ # Shidonem
+ tss_pantheonic_god_evthara_shidonem:0 "Ba'evet"
+ tss_pantheonic_god_evthara_shidonem_possessive:0 "Ba'evet's"
+
+ # Aráthon, God of Death and Protection of the Dead. Firstborn child of Anór and Evthára. 2nd Generation.
+ # Spouse is Avtórea, Goddess of Rot.
+ tss_pantheonic_god_arathon:0 "Aráthon"
+ tss_pantheonic_god_arathon_possessive:0 "Aráthon's"
+ # Behatyn
+ tss_pantheonic_god_arathon_behatyn:0 "Smyrtoslav"
+ tss_pantheonic_god_arathon_behatyn_possessive:0 "Smyrtoslav's"
+ # Larrunic
+ tss_pantheonic_god_arathon_larrunic:0 "Hilkora"
+ tss_pantheonic_god_arathon_larrunic_possessive:0 "Hilkora's"
+ # Tharun
+ tss_pantheonic_god_arathon_tharun:0 "Hrafnar"
+ tss_pantheonic_god_arathon_tharun_possessive:0 "Hrafnar's"
+ # Shidonem
+ tss_pantheonic_god_arathon_shidonem:0 "Motar"
+ tss_pantheonic_god_arathon_shidonem_possessive:0 "Motar's"
+
+ # Avtórea, Goddess of Rot, Decay, and Disease. Second child of Anór and Evthára. 2nd Generation.
+ # Spouse is Aráthon, God of Death.
+ tss_pantheonic_god_avtorea:0 "Avtórea"
+ tss_pantheonic_god_avtorea_possessive:0 "Avtórea's"
+ tss_pantheonic_god_avtorea_plaguemother:0 "the Plaguemother"
+ tss_pantheonic_god_avtorea_plaguemother_possessive:0 "the Plaguemother's"
+ # Behatyn
+ tss_pantheonic_god_avtorea_behatyn:0 "Morena"
+ tss_pantheonic_god_avtorea_behatyn_possessive:0 "Morena's"
+ # Larrunic
+ tss_pantheonic_god_avtorea_larrunic:0 "Abtorrea"
+ tss_pantheonic_god_avtorea_larrunic_possessiev:0 "Abtorrea's"
+ # Tharun
+ tss_pantheonic_god_avtorea_tharun:0 "Sóttdís"
+ tss_pantheonic_god_avtorea_tharun_possessive:0 "Sóttdís's"
+ # Shidonem
+ tss_pantheonic_god_avtorea_shidonem:0 "Reshef"
+ tss_pantheonic_god_avtorea_shidonem_possessive:0 "Reshef's"
+
+ # Cavtóras, God of Knowledge, Wisdom, and Strategy. Third child of Anór and Evthára. 2nd Generation.
+ # Spouse is Myrélia, Goddess of Valor.
+ tss_pantheonic_god_cavtoras:0 "Cavtóras"
+ tss_pantheonic_god_cavtoras_possessive:0 "Cavtóras's"
+ # Behatyn
+ tss_pantheonic_god_cavtoras_behatyn:0 "Kavtoras"
+ tss_pantheonic_god_cavtoras_behatyn_possessive:0 "Kavtoras's"
+ # Larrunic
+ tss_pantheonic_god_cavtoras_larrunic:0 "Kabtora"
+ tss_pantheonic_god_cavtoras_larrunic_possessive:0 "Kabtora's"
+ # Tharun
+ tss_pantheonic_god_cavtoras_tharun:0 "Vitnir"
+ tss_pantheonic_god_cavtoras_tharun_possessive:0 "Vitnir's"
+ # Shidonem
+ tss_pantheonic_god_cavtoras_shidonem:0 "Kabtor"
+ tss_pantheonic_god_cavtoras_shidonem_possessive:0 "Kabtor's"
+
+ # Lyrélia, Goddess of Sanctuary, Hope, and Purity. Fourth child of Anór and Evthára. Twin of Myrélia. 2nd Generation.
+ # Spouse was Seráthos, Patharánion God of Peace.
+ tss_pantheonic_god_lyrelia:0 "Lyrélia"
+ tss_pantheonic_god_lyrelia_possessive:0 "Lyrélia's"
+ tss_pantheonic_god_lyrelia_star_eyed:0 "the Star-Eyed"
+ tss_pantheonic_god_lyrelia_star_eyed_possessive:0 "the Star-Eyed's"
+ # Behatyn
+ tss_pantheonic_god_lyrelia_behatyn:0 "Zvezdazhana"
+ tss_pantheonic_god_lyrelia_behatyn_possessive:0 "Zvezdazhana's"
+ # Larrunic
+ tss_pantheonic_god_lyrelia_larrunic:0 "Lirelia"
+ tss_pantheonic_god_lyrelia_larrunic_possessive:0 "Lirelia's"
+ # Tharun
+ tss_pantheonic_god_lyrelia_tharun:0 "Lýrildís"
+ tss_pantheonic_god_lyrelia_tharun_possessive:0 "Lýrildís's"
+ # Shidonem
+ tss_pantheonic_god_lyrelia_shidonem:0 "Lirelet's"
+ tss_pantheonic_god_lyrelia_shidonem_possessive:0 "Lirelet's"
+
+ # Myrélia, Goddess of Valor, Courage, and Honor. Fifth child of Anór and Evthára. Twin of Lyrélia. 2nd Generation.
+ # Spouse is Cavtóras, God of Knowledge.
+ tss_pantheonic_god_myrelia:0 "Myrélia"
+ tss_pantheonic_god_myrelia_possessive:0 "Myrélia's"
+ tss_pantheonic_god_myrelia_daughter_of_the_sun:0 "the Daughter of the Sun"
+ tss_pantheonic_god_myrelia_daughter_of_the_sun_possessive:0 "the Daughter of the Sun's"
+ # Behatyn
+ tss_pantheonic_god_myrelia_behatyn:0 "Khorozhana"
+ tss_pantheonic_god_myrelia_behatyn_possessive:0 "Khorozhana's"
+ # Larrunic
+ tss_pantheonic_god_myrelia_larrunic:0 "Mirelia"
+ tss_pantheonic_god_myrelia_larrunic_possessive:0 "Mirelia's"
+ # Tharun
+ tss_pantheonic_god_myrelia_tharun:0 "Mýrildís"
+ tss_pantheonic_god_myrelia_tharun_possessive:0 "Mýrildís's"
+ # Shidonem
+ tss_pantheonic_god_myrelia_shidonem:0 "Mirelet"
+ tss_pantheonic_god_myrelia_shidonem_possessive:0 "Mirelet's"
+
+ # Panthós, God of Grief and Mourning. Firstborn child of Aráthon and Avtórea. 3rd Generation.
+ # Unwed
+ tss_pantheonic_god_panthos:0 "Panthós"
+ tss_pantheonic_god_panthos_possessive:0 "Panthós's"
+ tss_pantheonic_god_panthos_peacebreaker:0 "the Peacebreaker"
+ tss_pantheonic_god_panthos_peacebreaker_possessive:0 "the Peacebreaker's"
+ # Behatyn
+ tss_pantheonic_god_panthos_behatyn:0 "Tugomir"
+ tss_pantheonic_god_panthos_behatyn_possessive:0 "Tugomir's"
+ # Larrunic
+ tss_pantheonic_god_panthos_larrunic:0 "Pantzos"
+ tss_pantheonic_god_panthos_larrunic_possessive:0 "Pantzos"
+ # Tharun
+ tss_pantheonic_god_panthos_tharun:0 "Sorgnir"
+ tss_pantheonic_god_panthos_tharun_possessive:0 "Sorgnir's"
+ # Shidonem
+ tss_pantheonic_god_panthos_shidonem:0 "Ba'evel"
+ tss_pantheonic_god_panthos_shidonem_possessive:0 "Ba'evel's"
+
+ # Ancavóros, God of Justice and Law. Second child of Aráthon and Avtórea. 3rd Generation.
+ # Spouse is Salévia, Patharánion Goddess of Health.
+ tss_pantheonic_god_ancavoros:0 "Ancavóros"
+ tss_pantheonic_god_ancavoros_possessive:0 "Ancavóros's"
+ # Behatyn
+ tss_pantheonic_god_ancavoros_behatyn:0 "Onkavor"
+ tss_pantheonic_god_ancavoros_behatyn_possessive:0 "Onkavor's"
+ # Larrunic
+ tss_pantheonic_god_ancavoros_larrunic:0 "Ankaborra"
+ tss_pantheonic_god_ancavoros_larrunic_possessive:0 "Ankaborra's"
+ # Tharun
+ tss_pantheonic_god_ancavoros_tharun:0 "Dómarr"
+ tss_pantheonic_god_ancavoros_tharun_possessive:0 "Dómarr's"
+ # Shidonem
+ tss_pantheonic_god_ancavoros_shidonem:0 "Ankavor"
+ tss_pantheonic_god_ancavoros_shidonem_possessive:0 "Ankavor's"
+
+ # Aetáron, God of the Hunt, Beasts, and Monsters. Third child of Aráthon and Avtórea. 3rd Generation.
+ # Spouse is Tagára, Patharánion Goddess of Wealth.
+ tss_pantheonic_god_aetaron:0 "Aetáron"
+ tss_pantheonic_god_aetaron_possessive:0 "Aetáron's"
+ tss_pantheonic_god_aetaron_lord_of_beasts:0 "the Lord of Beasts"
+ tss_pantheonic_god_aetaron_lord_of_beasts_possessive:0 "the Lord of Beasts'"
+ # Behatyn
+ tss_pantheonic_god_aetaron_behatyn:0 "Zveromir"
+ tss_pantheonic_god_aetaron_behatyn_possessive:0 "Zveromir's"
+ # Larrunic
+ tss_pantheonic_god_aetaron_larrunic:0 "Basarra"
+ tss_pantheonic_god_aetaron_larrunic_possessive:0 "Basarra's"
+ # Tharun
+ tss_pantheonic_god_aetaron_tharun:0 "Veidnir"
+ tss_pantheonic_god_aetaron_tharun_possessive:0 "Veidnir"
+ # Shidonem
+ tss_pantheonic_god_aetaron_shidonem:0 "Ba'al Tsayid"
+ tss_pantheonic_god_aetaron_shidonem_possessive:0 "Ba'al Tsayid"
+
+ # Ionáva, Goddess of Oaths, Honesty, and Secrets. Only child of Ancavóros and Salévia. 4th Generation.
+ # Unwed
+ tss_pantheonic_god_ionava:0 "Ionáva"
+ tss_pantheonic_god_ionava_possessive:0 "Ionáva's"
+ tss_pantheonic_god_ionava_oathkeeper:0 "the Oathkeeper"
+ tss_pantheonic_god_ionava_oathkeeper_possessive:0 "the Oathkeeper's"
+ # Behatyn
+ tss_pantheonic_god_ionava_behatyn:0 "Pravdana"
+ tss_pantheonic_god_ionava_behatyn_possessive:0 "Pravdana's"
+ # Larrunic
+ tss_pantheonic_god_ionava_larrunic:0 "Ionaba"
+ tss_pantheonic_god_ionava_larrunic_possessive:0 "Ionaba's"
+ # Tharun
+ tss_pantheonic_god_ionava_tharun:0 "Sannýr"
+ tss_pantheonic_god_ionava_tharun_possessive:0 "Sannýr's"
+ # Shidonem
+ tss_pantheonic_god_ionava_shidonem:0 "Emunat"
+ tss_pantheonic_god_ionava_shidonem_possessive:0 "Emunat's"
+
+
+
+ ## Patharánion
+ # Patharán, Second of the Gods. Moon-God of Peace, Night, and Darkness. Created by Avtháron in the dawn of the world.
+ # Spouse is Amóraia, Goddess of Harmony.
+ tss_pantheonic_god_patharan:0 "Patharán"
+ tss_pantheonic_god_patharan_possessive:0 "Patharán's"
+ tss_pantheonic_god_patharan_moon_lord:0 "the Moon Lord's"
+ tss_pantheonic_god_patharan_moon_lord_possessive:0 "the Moon Lord's"
+ # Behatyn
+ tss_pantheonic_god_patharan_behatyn:0 "Beron"
+ tss_pantheonic_god_patharan_behatyn_possessive:0 "Beron's"
+ # Larrunic
+ tss_pantheonic_god_patharan_larrunic:0 "Ilazki"
+ tss_pantheonic_god_patharan_larrunic_possessive:0 "Ilazki's"
+ # Tharun
+ tss_pantheonic_god_patharan_tharun:0 "Máninir"
+ tss_pantheonic_god_patharan_tharun_possessive:0 "Máninir's"
+ # Shidonem
+ tss_pantheonic_god_patharan_shidonem:0 "Yarach"
+ tss_pantheonic_god_patharan_shidonem_possessive:0 "Yarach's"
+
+ # Amoráia, Goddess of Harmony and Love. Created by Anáthis in the dawn of the world, to be the wife of Patharán.
+ # Spouse is Patharán, Moon-God of Peace.
+ tss_pantheonic_god_amoraia:0 "Amoráia"
+ tss_pantheonic_god_amoraia_possessive:0 "Amoráia"
+ # Behatyn
+ tss_pantheonic_god_amoraia_behatyn:0 "Lyubava"
+ tss_pantheonic_god_amoraia_behatyn_possessive:0 "Lyubava's"
+ # Larrunic
+ tss_pantheonic_god_amoraia_larrunic:0 "Maiteko"
+ tss_pantheonic_god_amoraia_larrunic_possessive:0 "Maiteko"
+ # Tharun
+ tss_pantheonic_god_amoraia_tharun:0 "Unndís"
+ tss_pantheonic_god_amoraia_tharun_possessive:0 "Unndís's"
+ # Shidonem
+ tss_pantheonic_god_amoraia_shidonem:0 "Ashtoret"
+ tss_pantheonic_god_amoraia_shidonem_possessive:0 "Ashtoret's"
+
+ # Seráthos, Dead God of Peace. Firstborn child of Patharán and Amoráia. 2nd Generation. Death brought forth the Second Age.
+ # Spouse was Lyrélia, Anórion Goddess of Sanctuary.
+ tss_pantheonic_god_serathos:0 "Seráthos"
+ tss_pantheonic_god_serathos_possessive:0 "Seráthos"
+ # Behatyn
+ tss_pantheonic_god_serathos_behatyn:0 "Syrovog"
+ tss_pantheonic_god_serathos_behatyn_possessive:0 "Syrovog's"
+ # Larrunic
+ tss_pantheonic_god_serathos_larrunic:0 "Seratzos"
+ tss_pantheonic_god_serathos_larrunic_possessive:0 "Seratzos"
+ # Tharun
+ tss_pantheonic_god_serathos_tharun:0 "Fridulfr"
+ tss_pantheonic_god_serathos_tharun_possessive:0 "Fridulfr"
+ # Shidonem
+ tss_pantheonic_god_serathos_shidonem:0 "Serat"
+ tss_pantheonic_god_serathos_shidonem_possessive:0 "Serat's"
+
+ # Vanás, God of the Seas, Water, and the Abyss. Second child of Patharán and Amoráia. Twin of Incánas. 2nd Generation.
+ # Unwed
+ tss_pantheonic_god_vanas:0 "Vanás"
+ tss_pantheonic_god_vanas_possessive:0 "Vanás's"
+ tss_pantheonic_god_vanas_deep_one:0 "the Deep One"
+ tss_pantheonic_god_vanas_deep_one_possessive:0 "the Deep One's"
+ tss_pantheonic_god_vanas_master_of_tides:0 "the Master of Tides"
+ tss_pantheonic_god_vanas_master_of_tides_possessive:0 "the Master of Tides'"
+ # Behatyn
+ tss_pantheonic_god_vanas_behatyn:0 "Vanash"
+ tss_pantheonic_god_vanas_behatyn_possessive:0 "Vanash's"
+ # Larrunic
+ tss_pantheonic_god_vanas_larrunic:0 "Itsaska"
+ tss_pantheonic_god_vanas_larrunic_possessive:0 "Itsaska"
+ # Tharun
+ tss_pantheonic_god_vanas_tharun:0 "Vánnar"
+ tss_pantheonic_god_vanas_tharun_possessive:0 "Vánnar's"
+ # Shidonem
+ tss_pantheonic_god_vanas_shidonem:0 "Ba'aran"
+ tss_pantheonic_god_vanas_shidonem_possessive:0 "Ba'aran's"
+
+ # Incánas, God of the Sky, the Winds, Thunder, and the Forge. Third child of Patharán and Amoráia. Twin of Vanás. 2nd Generation.
+ # Unwed
+ tss_pantheonic_god_incanas:0 "Incánas"
+ tss_pantheonic_god_incanas_possessive:0 "Incánas's"
+ tss_pantheonic_god_incanas_lord_of_storms:0 "the Lord of Storms"
+ tss_pantheonic_god_incanas_lord_of_storms_possessive:0 "the Lord of Storms'"
+ tss_pantheonic_god_incanas_thunderer:0 "the Thunderer"
+ tss_pantheonic_god_incanas_thunderer_possessive:0 "the Thunderer's"
+ # Behatyn
+ tss_pantheonic_god_incanas_behatyn:0 "Inkanash"
+ tss_pantheonic_god_incanas_behatyn_possessive:0 "Inkanash's"
+ # Larrunic
+ tss_pantheonic_god_incanas_larrunic:0 "Enkat"
+ tss_pantheonic_god_incanas_larrunic_possessive:0 "Enkat's"
+ # Tharun
+ tss_pantheonic_god_incanas_tharun:0 "Vindánnar"
+ tss_pantheonic_god_incanas_tharun_possessive:0 "Vindánnar"
+ # Shidonem
+ tss_pantheonic_god_incanas_shidonem:0 "Ba'anqar"
+ tss_pantheonic_god_incanas_shidonem_possessive:0 "Ba'anqar's"
+
+ # Aethélon, God of Dreams, Nightmares, and Travelers. Fourth child of Patharán and Amoráia. 2nd Generation.
+ # Unwed
+ tss_pantheonic_god_aethelon:0 "Aethélon"
+ tss_pantheonic_god_aethelon_possessive:0 "Aethélon's"
+ # Behatyn
+ tss_pantheonic_god_aethelon_behatyn:0 "Sonvidas"
+ tss_pantheonic_god_aethelon_behatyn_possessive:0 "Sonvidas's"
+ # Larrunic
+ tss_pantheonic_god_aethelon_larrunic:0 "Loakume"
+ tss_pantheonic_god_aethelon_larrunic_possessive:0 "Loakume's"
+ # Tharun
+ tss_pantheonic_god_aethelon_tharun:0 "Draumar"
+ tss_pantheonic_god_aethelon_tharun_possessive:0 "Draumar"
+ # Shidonem
+ tss_pantheonic_god_aethelon_shidonem:0 "Cholam"
+ tss_pantheonic_god_aethelon_shidonem_possessive:0 "Cholam's"
+
+ # Thanóvas, God of the Harvest and Agriculture. Fifth child of Patharán and Amoráia. 2nd Generation.
+ # Unwed
+ tss_pantheonic_god_thanovas:0 "Thanóvas"
+ tss_pantheonic_god_thanovas_possessive:0 "Thanóvas's"
+ tss_pantheonic_god_thanovas_seed_father:0 "the Seed-Father"
+ tss_pantheonic_god_thanovas_seed_father_possessive:0 "the Seed-Father's"
+ # Behatyn
+ tss_pantheonic_god_thanovas_behatyn:0 "Rodymyr"
+ tss_pantheonic_god_thanovas_behatyn_possessive:0 "Rodymyr's"
+ # Larrunic
+ tss_pantheonic_god_thanovas_larrunic:0 "Tanobas"
+ tss_pantheonic_god_thanovas_larrunic_possessive:0 "Tanobas's"
+ # Tharun
+ tss_pantheonic_god_thanovas_tharun:0 "Akurulfr"
+ tss_pantheonic_god_thanovas_tharun_possessive:0 "Akurulfr's"
+ # Shidonem
+ tss_pantheonic_god_thanovas_shidonem:0 "Dagun"
+ tss_pantheonic_god_thanovas_shidonem_possessive:0 "Dagun's"
+ 
+ # Salévia, Goddess of Health and Medicine. Firstborn child of Seráthos and Lyrélia. 3rd Generation.
+ # Spouse is Ancavóros, Anórion God of Justice.
+ tss_pantheonic_god_salevia:0 "Salévia"
+ tss_pantheonic_god_salevia_possessive:0 "Salévia's"
+ # Behatyn
+ tss_pantheonic_god_salevia_behatyn:0 "Salevya"
+ tss_pantheonic_god_salevia_behatyn_possessive:0 "Salevya's"
+ # Larrunic
+ tss_pantheonic_god_salevia_larrunic:0 "Salebia"
+ tss_pantheonic_god_salevia_larrunic_possessive:0 "Salebia"
+ # Tharun
+ tss_pantheonic_god_salevia_tharun:0 "Heildís"
+ tss_pantheonic_god_salevia_tharun_possessive:0 "Heildís's"
+ # Shidonem
+ tss_pantheonic_god_salevia_shidonem:0 "Salevet"
+ tss_pantheonic_god_salevia_shidonem_possessive:0 "Salevet"
+
+ # Tagára, Goddess of Wealth and Fortune. Second child of Seráthos and Lyrélia. 3rd Generation.
+ # Spouse is Aetáron, Anórion God of the Hunt.
+ tss_pantheonic_god_tagara:0 "Tagára"
+ tss_pantheonic_god_tagara_possessive:0 "Tagára's"
+ # Behatyn
+ tss_pantheonic_god_tagara_behatyn:0 "Tagara"
+ tss_pantheonic_god_tagara_behatyn_possessive:0 "Tagara's"
+ # Larrunic
+ tss_pantheonic_god_tagara_larrunic:0 "Ondasun"
+ tss_pantheonic_god_tagara_larrunic_possessive:0 "Ondasun's"
+ # Tharun
+ tss_pantheonic_god_tagara_tharun:0 "Audnir"
+ tss_pantheonic_god_tagara_tharun_possessive:0 "Audnir"
+ # Shidonem
+ tss_pantheonic_god_tagara_shidonem:0 "Toqāra"
+ tss_pantheonic_god_tagara_shidonem_possessive:0 "Toqāra's"
+
+ # Metíron, God of Trickery, Intrigue, and Deceit. Firstborn child of Aetáron and Tagára. 4th Generation.
+ # Spouse is Virethéa, Goddess of Strife.
+ tss_pantheonic_god_metiron:0 "Metíron"
+ tss_pantheonic_god_metiron_possessive:0 "Metíron's"
+ # Behatyn
+ tss_pantheonic_god_metiron_behatyn:0 "Khitryov"
+ tss_pantheonic_god_metiron_behatyn_possessive:0 "Khitryov's"
+ # Larrunic
+ tss_pantheonic_god_metiron_larrunic:0 "Metiron"
+ tss_pantheonic_god_metiron_larrunic_possessive:0 "Biretea"
+ # Tharun
+ tss_pantheonic_god_metiron_tharun:0 "Svikulfr"
+ tss_pantheonic_god_metiron_tharun_possessive:0 "Svikulfr's"
+ # Shidonem
+ tss_pantheonic_god_metiron_shidonem:0 "Metiran"
+ tss_pantheonic_god_metiron_shidonem_possessive:0 "Metiran"
+
+ # Virethéa, Goddess of Strife and Discord. Second child of Aetáron and Tagára. 4th Generation.
+ # Spouse is Metíron, God of Trickery.
+ tss_pantheonic_god_virethea:0 "Virethéa"
+ tss_pantheonic_god_virethea_possessive:0 "Virethéa's"
+ # Behatyn
+ tss_pantheonic_god_virethea_behatyn:0 "Razdorna"
+ tss_pantheonic_god_virethea_behatyn_possessive:0 "Razdorna"
+ # Larrunic
+ tss_pantheonic_god_virethea_larrunic:0 "Biretea"
+ tss_pantheonic_god_virethea_larrunic_possessive:0 "Biretea's"
+ # Tharun
+ tss_pantheonic_god_virethea_tharun:0 "Deilnir"
+ tss_pantheonic_god_virethea_tharun_possessive:0 "Deilnir's"
+ # Shidonem
+ tss_pantheonic_god_virethea_shidonem:0 "Qeteva"
+ tss_pantheonic_god_virethea_shidonem_possessive:0 "Qeteva's"
+
+
+
+
+
+ #temp file for religious families
+ rf_aspectral:0 "Aspectral"
+ rf_pantheonic:0 "Pantheonic"
+ rf_spiritual:0 "Spiritual"
+ rf_prophetic:0 "Prophetic"
+ rf_isolate:0 "Isolate"

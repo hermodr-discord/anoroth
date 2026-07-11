@@ -1,7 +1,7 @@
 ﻿
 #############################################
 
-anorath_religious_head_male = {
+faith_anorath_religious_head_male = {
 	type = character
 	gender = male
 	special = head_of_faith
@@ -9,10 +9,10 @@ anorath_religious_head_male = {
 	flavourization_rules = { 
 		top_liege = no
 	}
-	faith = anorath
+	faith = faith_anorath
 }
 
-anorath_religious_head_female = {
+faith_anorath_religious_head_female = {
 	type = character
 	gender = female
 	special = head_of_faith
@@ -20,7 +20,7 @@ anorath_religious_head_female = {
 	flavourization_rules = { 
 		top_liege = no
 	}
-	faith = anorath
+	faith = faith_anorath
 }
 
 # Special Titles

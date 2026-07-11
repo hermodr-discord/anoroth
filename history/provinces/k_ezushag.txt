@@ -11,7 +11,7 @@
 }
 1013 = {	#
 	culture = zsorag
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1014 = {	#
@@ -25,12 +25,12 @@
 }
 1017 = {	#
 	culture = zsorag
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1018 = {	#
 	culture = zsorag
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1019 = {	#
@@ -80,7 +80,7 @@
 }
 1032 = {	#
 	culture = zsorag
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1033 = {	#
@@ -97,7 +97,7 @@
 }
 1037 = {	#
 	culture = zsorag
-	religion = oszeseg
+	religion = faith_oszeseg
 	holding = castle_holding
 }
 1038 = {	#

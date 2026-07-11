@@ -78,7 +78,7 @@
  tagaric_witchgodname_the_spirits_possessive:0 "$tagaric_good_god_spirits_name_possessive$"
 
 
- toqarut:0 "Toqarut"
- toqarut_adj:0 "Toqarut"
- toqarut_adherent:0 "Toqarut"
- toqarut_adherent_plural:0 "Toqaruts"
+ faith_toqarut:0 "Toqārut"
+ faith_toqarut_adj:0 "Toqārut"
+ faith_toqarut_adherent:0 "Toqārut"
+ faith_toqarut_adherent_plural:0 "Toqāruts"

@@ -1,5 +1,5 @@
-﻿agalrian_religion = {
-	family = rf_spiritual
+﻿oreg_religion = {
+	family = rf_isolate
 
 	doctrine = pagan_hostility_doctrine
 
@@ -211,9 +211,10 @@
 	}
 
 	faiths = {
-		gaileth = {
-			color = { 106 62 37 }
+		faith_ilg_e_garna = {
+			color = { 0 64 6 }
 			icon = hellenic
+			reformed_icon = hellenic_reformed
 
 			holy_site = anorcedia
 

@@ -1,16 +1,16 @@
 1103 = {	#
     culture = helyv
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1104 = {	#
     culture = helyv
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1105 = {	#
     culture = vogyd
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1106 = {	#
@@ -38,7 +38,7 @@
 }
 1113 = {	#
     culture = helyv
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1114 = {	#
@@ -68,12 +68,12 @@
 }
 1121 = {	#
     culture = helyv
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1122 = {	#
     culture = helyv
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1123 = {	#
@@ -132,7 +132,7 @@
 }
 1139 = {	#
     culture = vogyd
-    religion = oszeseg
+    religion = faith_oszeseg
     holding = castle_holding
 }
 1140 = {	#

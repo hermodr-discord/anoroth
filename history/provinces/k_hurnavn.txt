@@ -30,7 +30,7 @@
 }
 91 = {	#
     culture = brynor
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 92 = {	#
@@ -79,7 +79,7 @@
 }
 106 = {	#
     culture = brynor
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 107 = {	#
@@ -101,7 +101,7 @@
 }
 112 = {	#
     culture = brynor
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 113 = {	#
@@ -112,7 +112,7 @@
 }
 115 = {	#
     culture = brynor
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 116 = {	#
@@ -126,11 +126,11 @@
 }
 119 = {	#
     culture = brynor
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }
 120 = {	#
     culture = brynor
-    religion = ronarvir
+    religion = faith_ronarvir
     holding = castle_holding
 }

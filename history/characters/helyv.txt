@@ -1,7 +1,7 @@
 ﻿borsan1 = { 
 	name = KegyU_r
 	dynasty = borsan
-	religion = oszeseg
+	religion = faith_oszeseg
 	culture = helyv
 
 	diplomacy = 7

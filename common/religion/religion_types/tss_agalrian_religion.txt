@@ -1,5 +1,5 @@
-﻿isanara_religion = {
-	family = rf_isolate
+﻿agalrian_religion = {
+	family = rf_spiritual
 
 	doctrine = pagan_hostility_doctrine
 
@@ -211,11 +211,11 @@
 	}
 
 	faiths = {
-		isanara = {
-			color = { 47 177 186 }
+		faith_gaileth = {
+			color = { 106 62 37 }
 			icon = hellenic
 
-			holy_site = lysan
+			holy_site = anorcedia
 
 			doctrine = tenet_astrology
 			doctrine = tenet_communal_identity

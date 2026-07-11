@@ -1,5 +1,5 @@
-﻿vanic_religion = {
-	family = rf_pantheonic
+﻿isanara_religion = {
+	family = rf_isolate
 
 	doctrine = pagan_hostility_doctrine
 
@@ -211,12 +211,11 @@
 	}
 
 	faiths = {
-		ronarvir = {
-			color = { 103 54 103 }
+		faith_isanara = {
+			color = { 47 177 186 }
 			icon = hellenic
-			reformed_icon = hellenic_reformed
 
-			holy_site = anorcedia
+			holy_site = lysan
 
 			doctrine = tenet_astrology
 			doctrine = tenet_communal_identity

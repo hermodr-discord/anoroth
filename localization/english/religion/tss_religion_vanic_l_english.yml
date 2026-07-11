@@ -78,7 +78,7 @@
  vanic_witchgodname_the_spirits_possessive:0 "$vanic_good_god_spirits_name_possessive$"
 
 
- vanic:0 "vanic"
- vanic_adj:0 "vanicn"
- vanic_adherent:0 "vanicn"
- vanic_adherent_plural:0 "vanicns"
+ faith_ronarvir:0 "Rónarvir"
+ faith_ronarvir_adj:0 "Rónarvir"
+ faith_ronarvir_adherent:0 "Rónarvir"
+ faith_ronarvir_adherent_plural:0 "Rónarvirar"

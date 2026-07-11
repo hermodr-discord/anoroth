@@ -1,6 +1,6 @@
 83 = {	#
     culture = funerathic
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 84 = {	#
@@ -14,12 +14,12 @@
 }
 87 = {	#
     culture = brynor
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 88 = {	#
     culture = funerathic
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 89 = {	#
@@ -59,7 +59,7 @@
 }
 100 = {	#
     culture = brynor
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 101 = {	#
@@ -87,7 +87,7 @@
 }
 108 = {	#
     culture = brynor
-    religion = anorath
+    religion = faith_anorath
     holding = castle_holding
 }
 109 = {	#

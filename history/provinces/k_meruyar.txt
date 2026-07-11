@@ -1,6 +1,6 @@
 718 = {	#
     culture = eyarir
-    religion = funethresca
+    religion = faith_funethresca
     holding = castle_holding
 }
 719 = {	#
@@ -8,7 +8,7 @@
 }
 720 = {	#
     culture = eyarir
-    religion = funethresca
+    religion = faith_funethresca
     holding = castle_holding
 }
 721 = {	#
@@ -54,7 +54,7 @@
 }
 732 = {	#
     culture = eyarir
-    religion = funethresca
+    religion = faith_funethresca
     holding = castle_holding
 }
 733 = {	#

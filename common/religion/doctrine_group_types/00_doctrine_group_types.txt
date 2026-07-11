@@ -372,6 +372,11 @@ doctrine_core_tenets = {
 		tenet_sacred_destruction
 		tenet_preservation
 		tenet_takamin
+
+		### ANATHIS TENETS
+		tenet_children_of_the_sun
+		tenet_endless_skies
+		tenet_mythical_forgery
 	}
 }
 

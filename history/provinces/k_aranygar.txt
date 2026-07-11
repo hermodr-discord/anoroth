@@ -1,0 +1,102 @@
+496 = {	#
+    culture = larrun
+    religion = faith_anorath
+    holding = castle_holding
+}
+497 = {	#
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
+}
+498 = {	#
+    holding = castle_holding
+}
+499 = {	#
+    culture = larrun
+    religion = faith_anorath
+    holding = castle_holding
+}
+500 = {	#
+    holding = castle_holding
+}
+501 = {	#
+    holding = castle_holding
+}
+502 = {	#
+    holding = castle_holding
+}
+503 = {	#
+    culture = helyv
+    religion = oszeseg
+    holding = castle_holding
+}
+504 = {	#
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
+}
+505 = {	#
+    holding = castle_holding
+}
+506 = {	#
+    culture = helyv
+    religion = oszeseg
+    holding = castle_holding
+}
+507 = {	#
+    holding = castle_holding
+}
+508 = {	#
+    holding = castle_holding
+}
+509 = {	#
+    holding = castle_holding
+}
+510 = {	#
+    holding = castle_holding
+}
+511 = {	#
+    holding = castle_holding
+}
+512 = {	#
+    holding = castle_holding
+}
+513 = {	#
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
+}
+514 = {	#
+    holding = castle_holding
+}
+515 = {	#
+    holding = castle_holding
+}
+516 = {	#
+    holding = castle_holding
+}
+517 = {	#
+    holding = castle_holding
+}
+518 = {	#
+    holding = castle_holding
+}
+519 = {	#
+    holding = castle_holding
+}
+520 = {	#
+    holding = castle_holding
+}
+521 = {	#
+    holding = castle_holding
+}
+522 = {	#
+    culture = larrun
+    religion = faith_anatzeve
+    holding = castle_holding
+}
+523 = {	#
+    culture = larrun
+    religion = faith_anorath
+    holding = castle_holding
+}

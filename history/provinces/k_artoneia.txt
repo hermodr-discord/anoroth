@@ -6,7 +6,7 @@
 }
 23 = {	#
 	culture = funerathic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 24 = {	#
@@ -14,17 +14,17 @@
 }
 25 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 26 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 27 = {	#
 	culture = funerathic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 28 = {	#
@@ -65,7 +65,7 @@
 }
 40 = {	#
 	culture = funerathic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 41 = {	#
@@ -78,7 +78,7 @@
 }
 43 = {	#
 	culture = funerathic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 44 = {	#
@@ -109,7 +109,7 @@
 }
 52 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 53 = {	#
@@ -126,12 +126,12 @@
 }
 57 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 58 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 59 = {	#
@@ -176,7 +176,7 @@
 }
 71 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 72 = {	#
@@ -186,7 +186,7 @@
 }
 73 = {	#
 	culture = helesz
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 74 = {	#
@@ -203,7 +203,7 @@
 }
 78 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 79 = {	#
@@ -219,6 +219,6 @@
 }
 82 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }

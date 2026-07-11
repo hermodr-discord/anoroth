@@ -77,7 +77,7 @@
 }
 865 = {	#
 	culture = bregan
-	religion = anorath
+	religion = faith_anorath
 	holding = none
 }
 866 = {	#
@@ -112,7 +112,7 @@
 }
 874 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 875 = {	#
@@ -286,7 +286,7 @@
 }
 924 = {	#
 	culture = bregan
-	religion = anorath
+	religion = faith_anorath
 	holding = tribal_holding
 }
 925 = {	#
@@ -320,7 +320,7 @@
 }
 932 = {	#
 	culture = tunorar
-	religion = anorath
+	religion = faith_anorath
 	holding = tribal_holding
 }
 933 = {	#

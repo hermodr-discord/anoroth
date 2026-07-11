@@ -1,102 +1,86 @@
-496 = {	#
-    culture = larrun
-    religion = anorath
+1039 = {	#
     holding = castle_holding
 }
-497 = {	#
-    culture = larrun
-    religion = anatzeve
+1040 = {	#
     holding = castle_holding
 }
-498 = {	#
+1041 = {	#
     holding = castle_holding
 }
-499 = {	#
-    culture = larrun
-    religion = anorath
-    holding = castle_holding
-}
-500 = {	#
-    holding = castle_holding
-}
-501 = {	#
-    holding = castle_holding
-}
-502 = {	#
-    holding = castle_holding
-}
-503 = {	#
-    culture = helyv
+1042 = {	#
+    culture = heszo
     religion = oszeseg
     holding = castle_holding
 }
-504 = {	#
-    culture = larrun
-    religion = anatzeve
-    holding = castle_holding
-}
-505 = {	#
-    holding = castle_holding
-}
-506 = {	#
-    culture = helyv
+1043 = {	#
+    culture = heszo
     religion = oszeseg
     holding = castle_holding
 }
-507 = {	#
+1044 = {	#
     holding = castle_holding
 }
-508 = {	#
+1045 = {	#
+    culture = heszo
+    religion = oszeseg
     holding = castle_holding
 }
-509 = {	#
+1046 = {	#
     holding = castle_holding
 }
-510 = {	#
+1047 = {	#
     holding = castle_holding
 }
-511 = {	#
+1048 = {	#
+    culture = heszo
+    religion = faith_anorath
     holding = castle_holding
 }
-512 = {	#
+1049 = {	#
     holding = castle_holding
 }
-513 = {	#
-    culture = larrun
-    religion = anatzeve
+1050 = {	#
+    culture = heszo
+    religion = oszeseg
     holding = castle_holding
 }
-514 = {	#
+1051 = {	#
     holding = castle_holding
 }
-515 = {	#
+1052 = {	#
+    culture = heszo
+    religion = oszeseg
     holding = castle_holding
 }
-516 = {	#
+1053 = {	#
+    culture = heszo
+    religion = oszeseg
     holding = castle_holding
 }
-517 = {	#
+1054 = {	#
     holding = castle_holding
 }
-518 = {	#
+1055 = {	#
     holding = castle_holding
 }
-519 = {	#
+1056 = {	#
     holding = castle_holding
 }
-520 = {	#
+1057 = {	#
     holding = castle_holding
 }
-521 = {	#
+1058 = {	#
     holding = castle_holding
 }
-522 = {	#
-    culture = larrun
-    religion = anatzeve
+1059 = {	#
     holding = castle_holding
 }
-523 = {	#
-    culture = larrun
-    religion = anorath
+1060 = {	#
+    holding = castle_holding
+}
+1061 = {	#
+    holding = castle_holding
+}
+1062 = {	#
     holding = castle_holding
 }

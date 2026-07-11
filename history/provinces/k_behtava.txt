@@ -55,7 +55,7 @@
 }
 632 = {	#
 	culture = anorosyn
-	religion = sobranorye
+	religion = faith_sobranorye
 	holding = castle_holding
 }
 633 = {	#
@@ -65,7 +65,7 @@
 }
 634 = {	#
 	culture = anorosyn
-	religion = sobranorye
+	religion = faith_sobranorye
 	holding = castle_holding
 }
 635 = {	#
@@ -120,12 +120,12 @@
 }
 645 = {	#
 	culture = behatyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 646 = {	#
 	culture = anorosyn
-	religion = sobranorye
+	religion = faith_sobranorye
 	holding = castle_holding
 }
 647 = {	#
@@ -175,7 +175,7 @@
 }
 656 = {	#
 	culture = anorosyn
-	religion = sobranorye
+	religion = faith_sobranorye
 	holding = castle_holding
 }
 657 = {	#
@@ -190,7 +190,7 @@
 }
 659 = {	#
 	culture = behatyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 660 = {	#
@@ -330,7 +330,7 @@
 }
 687 = {	#
 	culture = anorosyn
-	religion = celavath
+	religion = faith_celavath
 	holding = castle_holding
 }
 688 = {	#
@@ -355,7 +355,7 @@
 }
 692 = {	#
 	culture = anorosyn
-	religion = sobranorye
+	religion = faith_sobranorye
 	holding = castle_holding
 }
 693 = {	#
@@ -415,12 +415,12 @@
 }
 704 = {	#
 	culture = anorosyn
-	religion = celavath
+	religion = faith_celavath
 	holding = castle_holding
 }
 705 = {	#
 	culture = anorosyn
-	religion = celavath
+	religion = faith_celavath
 	holding = castle_holding
 }
 706 = {	#
@@ -450,7 +450,7 @@
 }
 711 = {	#
 	culture = anorosyn
-	religion = sobranorye
+	religion = faith_sobranorye
 	holding = castle_holding
 }
 712 = {	#

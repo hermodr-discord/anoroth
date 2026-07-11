@@ -9,7 +9,7 @@
 }
 190 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 191 = {	#
@@ -29,12 +29,12 @@
 }
 196 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 197 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 198 = {	#
@@ -45,17 +45,17 @@
 }
 200 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 201 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 202 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 203 = {	#
@@ -63,7 +63,7 @@
 }
 204 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 205 = {	#
@@ -109,17 +109,17 @@
 }
 218 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 219 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 220 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 221 = {	#
@@ -130,7 +130,7 @@
 }
 223 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 224 = {	#
@@ -156,7 +156,7 @@
 }
 231 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 232 = {	#
@@ -181,12 +181,12 @@
 }
 238 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 239 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 240 = {	#
@@ -194,7 +194,7 @@
 }
 241 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 242 = {	#
@@ -211,7 +211,7 @@
 }
 246 = {	#
 	culture = helesz
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 247 = {	#
@@ -219,7 +219,7 @@
 }
 248 = {	#
 	culture = anorothic
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 249 = {	#
@@ -227,7 +227,7 @@
 }
 250 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 251 = {	#

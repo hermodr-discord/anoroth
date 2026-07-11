@@ -1,160 +1,161 @@
-1103 = {	#
-    culture = helyv
-    religion = oszeseg
+255 = {	#
     holding = castle_holding
 }
-1104 = {	#
-    culture = helyv
-    religion = oszeseg
+256 = {	#
     holding = castle_holding
 }
-1105 = {	#
-    culture = vogyd
-    religion = oszeseg
+257 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1106 = {	#
+258 = {	#
     holding = castle_holding
 }
-1107 = {	#
+259 = {	#
     holding = castle_holding
 }
-1108 = {	#
+260 = {	#
     holding = castle_holding
 }
-1109 = {	#
-    culture = helyv
-    religion = anatzeve
+261 = {	#
     holding = castle_holding
 }
-1110 = {	#
+262 = {	#
+    culture = anorothic
+    religion = faith_anorath
     holding = castle_holding
 }
-1111 = {	#
+263 = {	#
     holding = castle_holding
 }
-1112 = {	#
+264 = {	#
     holding = castle_holding
 }
-1113 = {	#
-    culture = helyv
-    religion = oszeseg
+265 = {	#
     holding = castle_holding
 }
-1114 = {	#
+266 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1115 = {	#
+267 = {	#
     holding = castle_holding
 }
-1116 = {	#
-    culture = helyv
-    religion = anatzeve
+268 = {	#
     holding = castle_holding
 }
-1117 = {	#
+269 = {	#
     holding = castle_holding
 }
-1118 = {	#
+270 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1119 = {	#
-    culture = halavath
-    religion = anorath
+271 = {	#
     holding = castle_holding
 }
-1120 = {	#
+272 = {	#
     holding = castle_holding
 }
-1121 = {	#
-    culture = helyv
-    religion = oszeseg
+273 = {	#
     holding = castle_holding
 }
-1122 = {	#
-    culture = helyv
-    religion = oszeseg
+274 = {	#
     holding = castle_holding
 }
-1123 = {	#
-    culture = helyv
-    religion = anorath
+275 = {	#
     holding = castle_holding
 }
-1124 = {	#
+276 = {	#
     holding = castle_holding
 }
-1125 = {	#
+277 = {	#
     holding = castle_holding
 }
-1126 = {	#
+278 = {	#
+    culture = anorothic
+    religion = faith_anorath
     holding = castle_holding
 }
-1127 = {	#
+279 = {	#
     holding = castle_holding
 }
-1128 = {	#
+280 = {	#
     holding = castle_holding
 }
-1129 = {	#
+281 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1130 = {	#
+282 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1131 = {	#
+283 = {	#
     holding = castle_holding
 }
-1132 = {	#
+284 = {	#
+    culture = anorothic
+    religion = faith_anorath
     holding = castle_holding
 }
-1133 = {	#
+285 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1134 = {	#
-    culture = helyv
-    religion = anorath
+286 = {	#
     holding = castle_holding
 }
-1135 = {	#
+287 = {	#
     holding = castle_holding
 }
-1136 = {	#
+288 = {	#
     holding = castle_holding
 }
-1137 = {	#
-    culture = helyv
-    religion = anatzeve
+289 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1138 = {	#
+290 = {	#
     holding = castle_holding
 }
-1139 = {	#
-    culture = vogyd
-    religion = oszeseg
+291 = {	#
     holding = castle_holding
 }
-1140 = {	#
+292 = {	#
     holding = castle_holding
 }
-1141 = {	#
-    culture = helyv
-    religion = anatzeve
+293 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1142 = {	#
+294 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1143 = {	#
+295 = {	#
+    culture = ourimetanath
+    religion = faith_anorath
     holding = castle_holding
 }
-1144 = {	#
+296 = {	#
     holding = castle_holding
 }
-1145 = {	#
+297 = {	#
     holding = castle_holding
 }
-1146 = {	#
+298 = {	#
+    holding = castle_holding
+}
+299 = {	#
     holding = castle_holding
 }

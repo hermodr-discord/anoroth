@@ -3,7 +3,7 @@
 }
 1011 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 1012 = {	#
@@ -47,7 +47,7 @@
 }
 1023 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 1024 = {	#
@@ -58,7 +58,7 @@
 }
 1026 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 1027 = {	#
@@ -75,7 +75,7 @@
 }
 1031 = {	#
 	culture = brenilor
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 1032 = {	#

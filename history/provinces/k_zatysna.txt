@@ -30,7 +30,7 @@
 }
 579 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 580 = {	#
@@ -45,12 +45,12 @@
 }
 582 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 583 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 584 = {	#
@@ -95,7 +95,7 @@
 }
 592 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 593 = {	#
@@ -125,7 +125,7 @@
 }
 598 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 599 = {	#
@@ -135,7 +135,7 @@
 }
 600 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 601 = {	#
@@ -145,7 +145,7 @@
 }
 602 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 603 = {	#
@@ -200,7 +200,7 @@
 }
 613 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 614 = {	#
@@ -215,7 +215,7 @@
 }
 616 = {	#
 	culture = zatyshyn
-	religion = anorath
+	religion = faith_anorath
 	holding = castle_holding
 }
 617 = {	#

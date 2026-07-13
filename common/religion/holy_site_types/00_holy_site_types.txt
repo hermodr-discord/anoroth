@@ -9,16 +9,6 @@ anorcedia = {
 		monthly_county_control_growth_factor = 0.1
 	}
 }
-ourasavel = {
-	county = c_korthanor
-	barony = b_korthanor
-
-	character_modifier = {
-		prowess_per_piety_level = 1
-		knight_effectiveness_mult = 0.1
-		monthly_piety_gain_per_knight_mult = 0.02
-	}
-}
 calantheia = {
 	county = c_calantheia
 	barony = b_calantheia
@@ -26,14 +16,6 @@ calantheia = {
 	character_modifier = {
 		monthly_piety_gain_mult = 0.05
 		learning = 1
-	}
-}
-tagareos = {
-	county = c_mesaia
-	barony = b_tagareos
-
-	character_modifier = {
-		development_growth_factor = 0.1
 	}
 }
 incanathar = {
@@ -45,21 +27,39 @@ incanathar = {
 		hills_advantage = 5
 	}
 }
-# Celavath
-neos_anorcedia = {
-	county = c_kelevsk
-	barony = b_novy_anorzehylsk
+ourasavel = {
+	county = c_korthanor
+	barony = b_korthanor
 
 	character_modifier = {
-		dread_baseline_add = 10
+		prowess_per_piety_level = 1
+		knight_effectiveness_mult = 0.1
+		monthly_piety_gain_per_knight_mult = 0.02
 	}
 }
+tagareos = {
+	county = c_mesaia
+	barony = b_tagareos
+
+	character_modifier = {
+		development_growth_factor = 0.1
+	}
+}
+# Anórcastos
 manetessos = {
 	county = c_mahnetsk
 	barony = b_mahnetsk
 
 	character_modifier = {
 		attacker_advantage = 5
+	}
+}
+neos_anorcedia = {
+	county = c_kelevsk
+	barony = b_novy_anorzehylsk
+
+	character_modifier = {
+		dread_baseline_add = 10
 	}
 }
 # Sobranorye
@@ -89,15 +89,6 @@ novy_anorzehylsk = {
 	}
 }
 # Anatzeve
-nortzavel = {
-	county = c_nortzavel
-	barony = b_nortzavel
-
-	character_modifier = {
-		development_growth_factor = 0.05
-		county_opinion_add = 10
-	}
-}
 morzain = {
 	county = c_morzain
 	barony = b_morzain
@@ -105,6 +96,15 @@ morzain = {
 	character_modifier = {
 		steppe_advantage = 5
 		light_cavalry_damage_mult = 0.1
+	}
+}
+nortzavel = {
+	county = c_nortzavel
+	barony = b_nortzavel
+
+	character_modifier = {
+		development_growth_factor = 0.05
+		county_opinion_add = 10
 	}
 }
 urdin = {
@@ -116,6 +116,15 @@ urdin = {
 	}
 }
 # Funethresca
+castrynios = {
+	county = c_castrynon
+	barony = b_castrynios
+
+	character_modifier = {
+		development_growth_factor = 0.05
+		forest_advantage = 5
+	}
+}
 elarissos = {
 	county = c_elarissos
 	barony = b_elarissos
@@ -125,12 +134,99 @@ elarissos = {
 		naval_movement_speed_mult = 0.1
 	}
 }
-castrynios = {
-	county = c_castrynon
-	barony = b_castrynios
+
+### AGALRIAN HOLY SITES
+# Gaileth
+hollowmere = {
+	county = c_thrimsceat
+	barony = b_hollowmere
+
+	character_modifier = {
+		domain_tax_same_faith_mult = 0.1
+		diplomacy = 1
+	}
+}
+hwitrycg = {
+	county = c_hohden
+	barony = b_hwitrycg
+
+	character_modifier = {
+		levy_size = 0.1
+		dread_baseline_add = 10
+	}
+}
+iserngeld = {
+	county = c_iserngeld
+	barony = b_iserngeld
 
 	character_modifier = {
 		development_growth_factor = 0.05
+		learning = 1
+	}
+}
+segomaros = {
+	county = c_segomaros
+	barony = b_segomaros
+
+	character_modifier = {
 		forest_advantage = 5
+		martial = 2
+	}
+}
+tarwicbona = {
+	county = c_tarwicbona
+	barony = b_tarwicbona
+
+	character_modifier = {
+		prowess_per_piety_level = 1
+		monthly_county_control_growth_factor = 0.1
+	}
+}
+
+### HÉLYV HOLY SITES
+# Oszeseg
+agyafold = {
+	county = c_varjuret
+	barony = b_agyafold
+
+	character_modifier = {
+		levy_size = 0.1
+		dread_baseline_add = 10
+	}
+}
+erpatak = {
+	county = c_erpatak
+	barony = b_erpatak
+
+	character_modifier = {
+		prowess_per_piety_level = 1
+		monthly_county_control_growth_factor = 0.1
+	}
+}
+feherszeg = {
+	county = c_feherpart
+	barony = b_feherszeg
+
+	character_modifier = {
+		domain_tax_same_faith_mult = 0.1
+		learning = 2
+	}
+}
+holloberek = {
+	county = c_holloberek
+	barony = b_holloberek
+
+	character_modifier = {
+		development_growth_factor = 0.05
+		stewardship = 1
+	}
+}
+reszvar = {
+	county = c_ilkony
+	barony = b_reszvar
+
+	character_modifier = {
+		mountains_advantage = 5
+		martial = 1
 	}
 }

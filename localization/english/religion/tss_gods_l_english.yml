@@ -530,6 +530,98 @@
 
 
 
+ ### SPIRITUAL DEITIES ###
+ tss_agalrian_gods:0 "the Senocenti"
+ tss_helyv_gods:0 "Az Ormok"
+ ## Good Agalrian Gods/Spirits
+ # Thunoraed the Sky-Father. God of the Sky, Storms, and Thunder.
+ tss_agalrian_god_thunoraed:0 "Thunoraed"
+ tss_agalrian_god_thunoraed_possessive:0 "Thunoraed's"
+ tss_agalrian_god_thunoraed_sky_father:0 "the Sky-Father"
+ tss_agalrian_god_thunoraed_sky_father_possessive:0 "the Sky-Father's"
+ # Thersana the Earth-Mother. Goddess of the Earth, the Harvest, Fertility, and Wealth.
+ tss_agalrian_god_thersana:0 "Thersana"
+ tss_agalrian_god_thersana_possessive:0 "Thersana's"
+ tss_agalrian_god_thersana_earth_mother:0 "the Earth-Mother"
+ tss_agalrian_god_thersana_earth_mother_possessive:0 "the Earth-Mother's"
+ # Bornwynn the Encompasser. Goddess of Rivers, Wells, and Water.
+ tss_agalrian_god_bornwynn:0 "Bornwynn"
+ tss_agalrian_god_bornwynn_possessive:0 "Bornwynn's"
+ tss_agalrian_god_bornwynn_encompasser:0 "the Encompasser"
+ tss_agalrian_god_bornwynn_encompasser_possessive:0 "the Encompasser's"
+ # Haegdis the Crone. Goddess of Winter and Old Magic.
+ tss_agalrian_god_haegdis:0 "Haegdis"
+ tss_agalrian_god_haegdis_possessive:0 "Haegdis"
+ tss_agalrian_god_haegdis_crone:0 "the Crone"
+ tss_agalrian_god_haegdis_crone_possessive:0 "the Crone's"
+ # Heahbeorn the Great Bear. Goddess of the Wild, the Forests, and Beasts.
+ tss_agalrian_god_heahbeorn:0 "Heahbeorn"
+ tss_agalrian_god_heahbeorn_possessive:0 "Heahbeorn's"
+ tss_agalrian_god_heahbeorn_great_bear:0 "the Great Bear"
+ tss_agalrian_god_heahbeorn_great_bear_possessive:0 "the Great Bear's"
+ # Nihthelm the Keeper. God of Death, Night, the Underworld, and the Ancestors.
+ tss_agalrian_god_nihthelm:0 "Nihthelm"
+ tss_agalrian_god_nihthelm_possessive:0 "Nihthelm's"
+ tss_agalrian_god_nihthelm_keeper:0 "the Keeper"
+ tss_agalrian_god_nihthelm_keeper_possessive:0 "the Keeper's"
+ # Sunnewynn the Lady of Light. Goddess of the Sun, Light, and Healing.
+ tss_agalrian_god_sunnewynn:0 "Sunnewynn"
+ tss_agalrian_god_sunnewynn_possessive:0 "Sunnewynn's"
+ tss_agalrian_god_sunnewynn_lady_of_light:0 "the Lady of Light"
+ tss_agalrian_god_sunnewynn_lady_of_light_possessive:0 "the Lady of Light's"
+ # Wracuwulf the Avenger. God of War, Protection, and Vengeance.
+ tss_agalrian_god_wracuwulf:0 "Wracuwulf"
+ tss_agalrian_god_wracuwulf_possessive:0 "Wracuwulf's"
+ tss_agalrian_god_wracuwulf_avenger:0 "the Avenger"
+ tss_agalrian_god_wracuwulf_avenger_possessive:0 "the Avenger's"
+ # Wrenca the Many-Handed. God of Skill, Cunning, and Craft.
+ tss_agalrian_god_wrenca:0 "Wrenca"
+ tss_agalrian_god_wrenca_possessive:0 "Wrenca's"
+ tss_agalrian_god_wrenca_many_handed:0 "the Many-Handed"
+ tss_agalrian_god_wrenca_many_handed_possessive:0 "the Many-Handed's"
+ # Wyrdcepan the Great Warden. Great Spirit of the Sacred Groves.
+ tss_agalrian_god_wyrdcepan:0 "Wyrdcepan"
+ tss_agalrian_god_wyrdcepan_possessive:0 "Wyrdcepan's"
+ tss_agalrian_god_wyrdcepan_great_warden:0 "the Great Warden"
+ tss_agalrian_god_wyrdcepan_great_warden_possessive:0 "the Great Warden's"
+ ## Bad Agalrian Gods/Spirits
+ # Sceadwa, a malevolent Spirit associated with blighted harvests, sickness, and betrayal.
+ tss_agalrian_god_sceadwa:0 "Sceadwa"
+ tss_agalrian_god_sceadwa_possessive:0 "Sceadwa's"
+ # The Blight, semi-personified concept of corruption and rot, and the poisoning of the land and spirits.
+ tss_agalrian_god_blight:0 "the Blight"
+ tss_agalrian_god_blight_possessive:0 "the Blight's"
+
+ ## Good Hélyv Gods/Spirits
+ # Hegyatya. Great Spirit associated with the Peaks, the Sky, and Storms
+ tss_helyv_god_hegyatya:0 "Hegyatya"
+ tss_helyv_god_hegyatya_possessive:0 "Hegyatya's"
+ # Kőszikla. Great Spirit associated with the Mountains, the Earth, and Endurance.
+ tss_helyv_god_koszikla:0 "Kőszikla"
+ tss_helyv_god_koszikla_possessive:0 "Kőszikla's"
+ # Farkasvér. Great Spirit associated with Wolves, the Wild Places, and War.
+ tss_helyv_god_farkasver:0 "Farkasvér"
+ tss_helyv_god_farkasver_possessive:0 "Farkasvér's"
+ # Forrásvira. Great Spirit associated with Mountain Springs, Water, and Healing.
+ tss_helyv_god_forrasvira:0 "Forrásvira"
+ tss_helyv_god_forrasvira_possessive:0 "Forrásvira's"
+ # Ködatya. Great Spirit associated with the Passage of the Dead, Mist, and Shadows.
+ tss_helyv_god_kodatya:0 "Ködatya"
+ tss_helyv_god_kodatya_possessive:0 "Ködatya's"
+ # Sasura. Great Spirit associated with Eagles, the Hunt, and far sight.
+ tss_helyv_god_sasura:0 "Sasura"
+ tss_helyv_god_sasura_possessive:0 "Sasura"
+ # Zúzmarod. Great Spirit associated with Frost and Winter.
+ tss_helyv_god_zuzmarod:0 "Zúzmarod"
+ tss_helyv_god_zuzmarod_possessive:0 "Zúzmarod's"
+ ## Bad Hélyv Gods/Spirits
+ # Semi-personified concept of avalanches and starvation, disasters said to happen when one takes too much or shows too little respect for the mountains.
+ tss_helyv_god_az_ehomlas:0 "Az Éhomlás"
+ tss_helyv_god_az_ehomlas_possessive:0 "Az Éhomlás"
+ # Semi-personified concept of chasms and crevices, said to swallow the disrespectful.
+ tss_helyv_god_az_szakadek:0 "Az Szakadek"
+ tss_helyv_god_az_szakadek_possessive:0 "Az Szakadek"
+
 
 
  #temp file for religious families

@@ -1,84 +1,43 @@
 ﻿l_english:
 
- #Helyv Localization
- helyv_religion:0 "Oszeseg"
- helyv_religion_adj:0 "Oszeseg"
- helyv_religion_adherent:0 "Oszeseg"
- helyv_religion_adherent_plural:0 "Oszesegs"
- helyv_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+ ### Hélyv Religions
+ helyv_religion:0 "Hélyv"
+ helyv_religion_adj:0 "Hélyv"
+ helyv_religion_adherent:0 "Hélyv"
+ helyv_religion_adherent_plural:0 "Hélyvok"
+ helyv_religion_desc:0 "TThe Hélyv faiths share one root belief in that the land is alive with spirit, owed honor as home and protectors rather than claimed as conquest. East of the Veil, this turns to sky and open steppe, while within the mountains it turns to stone and storm. Beyond that, each Hélyv faith is shaped by the land that raised it."
 
- helyv_high_god_name:0 "Isana"
- helyv_high_god_name_2:0 "$helyv_high_god_name$" # Optional translation alt
- helyv_high_god_name_possessive:0 "Isana's"
- helyv_high_god_name_alternate:0 "She of Ocean and Wind"
- helyv_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
- helyv_good_god_ancestors:0 "the ancestors"
- helyv_good_god_ancestors_possessive:0 "the ancestors'"
- helyv_good_god_spirits:0 "the spirits"
- helyv_good_god_spirits_possessive:0 "the spirits'"
- helyv_devil_name:0 "corruption"
- helyv_devil_name_possessive:0 "corruption's"
- helyv_devil_shehe:0 "it"
- helyv_devil_herselfhimself:0 "itself"
- helyv_devil_herhis:0 "its"
- helyv_evil_god_decay:0 "blight"
- helyv_evil_god_decay_possessive:0 "blight's"
- helyv_evil_god_drought:0 "drought"
- helyv_death_deity_name:0 "death"
- helyv_death_deity_name_possessive:0 "death's"
- helyv_death_deity_herhis:0 "its"
-
- helyv_creator_god_name:0 "$helyv_high_god_name$"
- helyv_creator_god_name_possessive:0 "$helyv_high_god_name_possessive$"
- helyv_health_god_name:0 "$helyv_good_god_spirits_name$"
- helyv_health_god_name_possessive:0 "$helyv_good_god_spirits_name_possessive$"
- helyv_fertility_god_name:0 "$helyv_high_god_name$"
- helyv_fertility_god_name_possessive:0 "$helyv_high_god_name_possessive$"
- helyv_wealth_god_name:0 "$helyv_high_god_name$"
- helyv_wealth_god_name_possessive:0 "$helyv_high_god_name_possessive$"
- helyv_household_god_name:0 "$helyv_good_god_ancestors$"
- helyv_household_god_name_possessive:0 "$helyv_good_god_ancestors$"
- helyv_fate_god_name:0 "fate"
- helyv_fate_god_name_possessive:0 "fate's"
- helyv_knowledge_god_name:0 "$helyv_good_god_ancestors$"
- helyv_knowledge_god_name_possessive:0 "$helyv_good_god_ancestors$"
- helyv_war_god_name:0 "$helyv_high_god_name$"
- helyv_war_god_name_possessive:0 "$helyv_high_god_name_possessive$"
- helyv_trickster_god_name:0 "$helyv_good_god_spirits_name$"
- helyv_trickster_god_name_possessive:0 "$helyv_good_god_spirits_name_possessive$"
- helyv_night_god_name:0 "$helyv_high_god_name$"
- helyv_night_god_name_possessive:0 "$helyv_high_god_name_possessive$"
- helyv_water_god_name:0 "$helyv_high_god_name$"
- helyv_water_god_name_possessive:0 "$helyv_high_god_name_possessive$"
-
- helyv_house_of_worship:0 "temple"
+ helyv_house_of_worship:0 "kőszenty"
  helyv_house_of_worship_2:0 "$helyv_house_of_worship$" # Optional translation alt
  helyv_house_of_worship_3:0 "$helyv_house_of_worship$" # Optional translation alt
- helyv_house_of_worship_plural:0 "temples"
- helyv_religious_symbol:0 "moon"
+ helyv_house_of_worship_plural:0 "kőszentek"
+ helyv_religious_symbol:0 "mountain"
  helyv_religious_symbol_2:0 "$helyv_religious_symbol$" # Optional translation alt
  helyv_religious_symbol_3:0 "$helyv_religious_symbol$" # Optional translation alt
- helyv_religious_text:0 "Isana's teachings"
+ helyv_religious_text:0 "Ormdalok"
  helyv_religious_text_2:0 "$helyv_religious_text$" # Optional translation alt
  helyv_religious_text_3:0 "$helyv_religious_text$" # Optional translation alt
- helyv_religious_head_title:0 "High Shaman"
- helyv_religious_head_title_name:0 "Isana's Devoted"
- helyv_devotee:0 "devotee"
- helyv_devoteeplural:0 "devotees"
- helyv_priest:0 "shaman"
- helyv_priest_plural:0 "shamans"
- helyv_priest_alternate_plural:1 "elders"
- helyv_divine_realm:0 "Isana's Realm"
- helyv_divine_realm_2:0 "$helyv_divine_realm$" # Optional translation alt
- helyv_divine_realm_3:0 "$helyv_divine_realm$" # Optional translation alt
- helyv_afterlife:0 "Isana's embrace"
- helyv_afterlife_2:0 "$helyv_afterlife$" # Optional translation alt
- helyv_afterlife_3:0 "$helyv_afterlife$" # Optional translation alt
- helyv_witchgodname_the_spirits:0 "$helyv_good_god_spirits_name$"
- helyv_witchgodname_the_spirits_possessive:0 "$helyv_good_god_spirits_name_possessive$"
 
+ helyv_religious_head_title:0 "Csúcstáltos"
+ helyv_religious_head_title_name:0 "Az Csúcsi Szék"
 
+ helyv_bishop:0 "Főtáltos"
+ helyv_bishop_plural:0 "Főtáltosok"
+
+ helyv_priest:0 "Táltos"
+ helyv_priest_plural:0 "Táltosok"
+ helyv_priest_alternate_plural:1 "Táltosrend"
+
+ helyv_devotee:0 "hélyv"
+ helyv_devoteeplural:0 "hélyvok"
+
+ helyv_divine_realm:0 "Az Csúcsvilág"
+ helyv_positive_afterlife:0 "Az Ősziklák"
+ helyv_negative_afterlife:0 "Az Ködvilág"
+
+ ### Oszeseg
  faith_oszeseg:0 "Oszeseg"
  faith_oszeseg_adj:0 "Oszeseg"
  faith_oszeseg_adherent:0 "Oszeseg"
  faith_oszeseg_adherent_plural:0 "Oszesegs"
+ faith_oszeseg_desc:0 "The Oszeseg teachings hold that the mountains are a living hierarchy of spirits, from the lowest spring to the highest summit, each owed its due respect. To take from the mountain without offering in return, to boast too loudly, or to turn a traveler from the hearth is to invite its wrath, but a people who endure its hardships and honor its spirits are granted its lasting protection. Hospitality, patience, and endurance are held above nearly all else, virtues carved into the faith by the same peaks its people call home."

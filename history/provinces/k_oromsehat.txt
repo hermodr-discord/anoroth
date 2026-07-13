@@ -73,7 +73,7 @@
 }
 1122 = {	#
     culture = helyv
-    religion = faith_oszeseg
+    religion = faith_anatzeve
     holding = castle_holding
 }
 1123 = {	#

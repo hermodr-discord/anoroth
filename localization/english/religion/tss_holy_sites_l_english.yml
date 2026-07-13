@@ -1,18 +1,19 @@
 ﻿l_english:
  ### HOLY SITES
- # ANÓRIC HOLY SITES
+ ## ANÓRIC HOLY SITES
+ # ANÓRATH HOLY SITES
  holy_site_anorcedia_name:0 "Anórcedia"
- holy_site_ourasavel_name:0 "Ourasavel"
  holy_site_calantheia_name:0 "Calantheia"
- holy_site_tagareos_name:0 "Tagáreos"
  holy_site_incanathar_name:0 "Incánathar"
+ holy_site_ourasavel_name:0 "Ourasavel"
+ holy_site_tagareos_name:0 "Tagáreos"
  # ANÓRCASTOS HOLY SITES
- holy_site_neos_anorcedia_name:0 "Neos Anórcedia"
  holy_site_manetessos_name:0 "Manetessos"
+ holy_site_neos_anorcedia_name:0 "Neos Anórcedia"
  # SOBRANORYE HOLY SITES
- holy_site_don_name:0 "Slanov"
  holy_site_mahnetsk_name:0 "Mahnetsk"
  holy_site_novy_anorzehylsk_name:0 "Novy Anorzehylsk"
+ holy_site_don_name:0 "Slanov"
  # ANATZEVE HOLY SITES
  holy_site_morzain_name:0 "Morzain"
  holy_site_nortzavel_name:0 "Nortzavel"
@@ -20,3 +21,19 @@
  # FUNÉTHRESCA HOLY SITES
  holy_site_castrynios_name:0 "Castrynios"
  holy_site_elarissos_name:0 "Elarissos"
+
+ ## AGALRIAN HOLY SITES
+ # GAILETH HOLY SITES
+ holy_site_hollowmere_name:0 "Hollowmere"
+ holy_site_hwitrycg_name:0 "Hwitrycg"
+ holy_site_iserngeld_name:0 "Iserngeld"
+ holy_site_segomaros_name:0 "Segomaros"
+ holy_site_tarwicbona_name:0 "Tarwicbona"
+
+ ## HÉLYV HOLY SITES
+ # OSZESEG HOLY SITES
+ holy_site_agyafold_name:0 "Agyaföld"
+ holy_site_erpatak_name:0 "Érpatak"
+ holy_site_feherszeg_name:0 "Fehérszeg"
+ holy_site_holloberek_name:0 "Hollóberek"
+ holy_site_reszvar_name:0 "Részvár"

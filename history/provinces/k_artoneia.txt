@@ -73,7 +73,7 @@
 }
 42 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = faith_anorath
 	holding = castle_holding
 }
 43 = {	#
@@ -83,7 +83,7 @@
 }
 44 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = faith_anorath
 	holding = castle_holding
 }
 45 = {	#
@@ -151,7 +151,7 @@
 }
 64 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = faith_anorath
 	holding = castle_holding
 }
 65 = {	#

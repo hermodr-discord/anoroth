@@ -101,7 +101,7 @@
 }
 216 = {	#
 	culture = helesz
-	religion = faith_oszeseg
+	religion = faith_anorath
 	holding = castle_holding
 }
 217 = {	#

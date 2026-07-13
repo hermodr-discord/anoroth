@@ -5075,10 +5075,10 @@ e_eburomarc = { # Eburomarc / Agalreman
                     color = { 112 72 69 }
                 }
             }
-            c_stanoacum = { # Stanoacum
+            c_segomaros = { # Segomaros
                 color = { 127 68 68 }
 
-                b_stanoacum = { # Stanoacum
+                b_segomaros = { # Segomaros
                     province = 901
                     color = { 127 68 68 }
                 }

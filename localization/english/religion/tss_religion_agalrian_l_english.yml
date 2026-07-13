@@ -1,84 +1,43 @@
 ﻿l_english:
 
- #Agalrian Localization
+ ### Agalrian Religions
  agalrian_religion:0 "Agalrian"
  agalrian_religion_adj:0 "Agalrian"
  agalrian_religion_adherent:0 "Agalrian"
  agalrian_religion_adherent_plural:0 "Agalrians"
- agalrian_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+ agalrian_religion_desc:0 "The Agalrian faiths hold that land, sky, and the dead are alive with spirit, owed honor as kin rather than worship as rulers. Rites are local, oral, and communal, kept at groves and mounds rather than temple and scripture, carried forward by memory as much as by belief."
 
- agalrian_high_god_name:0 "Isana"
- agalrian_high_god_name_2:0 "$agalrian_high_god_name$" # Optional translation alt
- agalrian_high_god_name_possessive:0 "Isana's"
- agalrian_high_god_name_alternate:0 "She of Ocean and Wind"
- agalrian_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
- agalrian_good_god_ancestors:0 "the ancestors"
- agalrian_good_god_ancestors_posessive:0 "the ancestors'"
- agalrian_good_god_spirits:0 "the spirits"
- agalrian_good_god_spirits_possessive:0 "the spirits'"
- agalrian_devil_name:0 "corruption"
- agalrian_devil_name_possessive:0 "corruption's"
- agalrian_devil_shehe:0 "it"
- agalrian_devil_herselfhimself:0 "itself"
- agalrian_devil_herhis:0 "its"
- agalrian_evil_god_decay:0 "blight"
- agalrian_evil_god_decay_possessive:0 "blight's"
- agalrian_evil_god_drought:0 "drought"
- agalrian_death_deity_name:0 "death"
- agalrian_death_deity_name_possessive:0 "death's"
- agalrian_death_deity_herhis:0 "its"
-
- agalrian_creator_god_name:0 "$agalrian_high_god_name$"
- agalrian_creator_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
- agalrian_health_god_name:0 "$agalrian_good_god_spirits_name$"
- agalrian_health_god_name_possessive:0 "$agalrian_good_god_spirits_name_possessive$"
- agalrian_fertility_god_name:0 "$agalrian_high_god_name$"
- agalrian_fertility_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
- agalrian_wealth_god_name:0 "$agalrian_high_god_name$"
- agalrian_wealth_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
- agalrian_household_god_name:0 "$agalrian_good_god_ancestors$"
- agalrian_household_god_name_possessive:0 "$agalrian_good_god_ancestors$"
- agalrian_fate_god_name:0 "fate"
- agalrian_fate_god_name_possessive:0 "fate's"
- agalrian_knowledge_god_name:0 "$agalrian_good_god_ancestors$"
- agalrian_knowledge_god_name_possessive:0 "$agalrian_good_god_ancestors$"
- agalrian_war_god_name:0 "$agalrian_high_god_name$"
- agalrian_war_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
- agalrian_trickster_god_name:0 "$agalrian_good_god_spirits_name$"
- agalrian_trickster_god_name_possessive:0 "$agalrian_good_god_spirits_name$"
- agalrian_night_god_name:0 "$agalrian_high_god_name$"
- agalrian_night_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
- agalrian_water_god_name:0 "$agalrian_high_god_name$"
- agalrian_water_god_name_possessive:0 "$agalrian_high_god_name_possessive$"
-
- agalrian_house_of_worship:0 "temple"
+ agalrian_house_of_worship:0 "nemeta"
  agalrian_house_of_worship_2:0 "$agalrian_house_of_worship$" # Optional translation alt
  agalrian_house_of_worship_3:0 "$agalrian_house_of_worship$" # Optional translation alt
- agalrian_house_of_worship_plural:0 "temples"
- agalrian_religious_symbol:0 "moon"
+ agalrian_house_of_worship_plural:0 "nemetas"
+ agalrian_religious_symbol:0 "the Antlered Crown"
  agalrian_religious_symbol_2:0 "$agalrian_religious_symbol$" # Optional translation alt
  agalrian_religious_symbol_3:0 "$agalrian_religious_symbol$" # Optional translation alt
- agalrian_religious_text:0 "Isana's teachings"
+ agalrian_religious_text:0 "Senocanta"
  agalrian_religious_text_2:0 "$agalrian_religious_text$" # Optional translation alt
  agalrian_religious_text_3:0 "$agalrian_religious_text$" # Optional translation alt
- agalrian_religious_head_title:0 "High Shaman"
- agalrian_religious_head_title_name:0 "Isana's Devoted"
- agalrian_devotee:0 "devotee"
- agalrian_devoteeplural:0 "devotees"
- agalrian_priest:0 "shaman"
- agalrian_priest_plural:0 "shamans"
- agalrian_priest_alternate_plural:1 "elders"
- agalrian_divine_realm:0 "Isana's Realm"
- agalrian_divine_realm_2:0 "$agalrian_divine_realm$" # Optional translation alt
- agalrian_divine_realm_3:0 "$agalrian_divine_realm$" # Optional translation alt
- agalrian_afterlife:0 "Isana's embrace"
- agalrian_afterlife_2:0 "$agalrian_afterlife$" # Optional translation alt
- agalrian_afterlife_3:0 "$agalrian_afterlife$" # Optional translation alt
- agalrian_witchgodname_the_spirits:0 "$agalrian_good_god_spirits_name$"
- agalrian_witchgodname_the_spirits_possessive:0 "$agalrian_good_god_spirits_name_possessive$"
 
+ agalrian_religious_head_title:0 "High Elder"
+ agalrian_religious_head_title_name:0 "the Eldership"
 
+ agalrian_bishop:0 "Elder"
+ agalrian_bishop_plural:0 "Elders"
+
+ agalrian_priest:0 "Seer"
+ agalrian_priest_plural:0 "Seers"
+ agalrian_priest_alternate_plural:0 "Seers"
+
+ agalrian_devotee:0 "agalrian"
+ agalrian_devotee_plural:0 "agalrian"
+
+ agalrian_divine_realm:0 "Nemetos"
+ agalrian_positive_afterlife:0 "Tirnanduv"
+ agalrian_negative_afterlife:0 "Crommweald"
+
+ ### Gaileth
  faith_gaileth:0 "Gaileth"
  faith_gaileth_adj:0 "Gaileth"
  faith_gaileth_adherent:0 "Gaileth"
  faith_gaileth_adherent_plural:0 "Gaileths"
+ faith_gaileth_desc:0 "The Gaileth hold that the land, sky, and dead alike are alive with spirit and kin to those that tend them, the Senocenti owed honor in their season and place rather than worship in some distant temple. No single power rules the others; Toranos and Andarta stand foremost as Sky-Father and Earth-Mother, but even they are kin among kin, not sovereigns. To neglect the old rites is to invite misfortune upon the land itself, to keep them faithfully is to be kept in turn."

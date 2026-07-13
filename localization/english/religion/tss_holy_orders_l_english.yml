@@ -1,11 +1,30 @@
 ﻿l_english:
 ### HOLY ORDERS
-# ANÓRIC
- holy_order_kaesarian_penance:0 "Kaesarian Penance"
- holy_order_knights_of_the_first_spear:1 "Knights of the First Spear"
- holy_order_knights_of_the_wrathfather:0 "Knights of the Wrathfather"
+## ANÓRIC
+ holy_order_knights_of_the_first_spear:0 "Knights of the First Spear"
  holy_order_order_of_the_golden_ember:0 "Order of the Golden Ember"
  holy_order_sons_of_the_burning_throne:0 "Sons of the Burning Throne"
  holy_order_sons_of_the_first_flame:0 "Sons of the First Flame"
+ holy_order_the_burning_inquisition:0 "Burning Inquisition"
+# ANÓRATH
+ holy_order_kaesarian_penance:0 "Kaesarian Penance"
+ holy_order_knights_of_the_wrathfather:0 "Knights of the Wrathfather"
  holy_order_sunsworn_host:0 "Sunsworn Host"
- holy_order_the_burning_inquisition:0 "The Burning Inquisition"
+
+## AGALRIAN
+ holy_order_cairnbrothers:0 "Cairnbrothers"
+ holy_order_long_winters_watch:0 "Long Winter's Watch"
+ holy_order_nine_boughs:0 "Nine Boughs"
+ holy_order_wolfsworn:0 "Wolfsworn"
+ holy_order_wyldkeepers:0 "Wyldkeepers"
+
+## HÉLYV
+ holy_order_grey_wolves:0 "Grey Wolves"
+ holy_order_order_of_the_horse_mother:0 "Order of the Horse Mother"
+ holy_order_riders_of_the_golden_grass:0 "Riders of the Golden Grass"
+ holy_order_riders_of_the_wide_sky:0 "Riders of the Wide Sky"
+ holy_order_sky_riders:0 "Sky Riders"
+# OSZESEG
+ holy_order_chasmwalkers:0 "Chasmwalkers"
+ holy_order_storm_guard:0 "Storm Guard"
+ holy_order_wardens_of_the_peaks:0 "Wardens of the Peaks"

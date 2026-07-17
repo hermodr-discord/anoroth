@@ -2,6 +2,7 @@
 # ANATHIS CORE TENETS #
 #######################
 
+# Children of the Sun
 tenet_children_of_the_sun = {
 	icon = core_tenet_sun_worship
 
@@ -31,6 +32,58 @@ tenet_children_of_the_sun = {
 
 	character_modifier = {
 		accolade_glory_gain_mult = 0.15
+	}
+}
+# Endless Skies
+tenet_endless_skies = {
+	icon = core_tenet_sky_burials
+
+	piety_cost = {
+		value = faith_tenet_cost_high
+
+		# Multiplier for keeping same tenet
+		if = {
+			limit = { has_doctrine = tenet_endless_skies }
+			multiply = faith_unchanged_doctrine_cost_mult
+		}
+	}
+
+	is_shown = {
+		OR = {
+			religion_tag = incanic_religion
+			has_doctrine = tenet_endless_skies
+		}
+	}
+
+	parameters = {
+		conquest_cb_enabled = yes
+		divine_the_stars_active = yes
+		unlock_voluntary_laampdom_faith = yes
+	}
+}
+# Mythical Forgery
+tenet_mythical_forgery = {
+	icon = core_tenet_ritual_hospitality
+
+	piety_cost = {
+		value = faith_tenet_cost_massive
+	}
+
+	# Multiplier for keeping same tenet
+	if = {
+		limit = { has_doctrine = tenet_mythical_forgery }
+		multiply = faith_unchanged_doctrine_cost_mult
+	}
+
+	is_shown = {
+		OR = {
+			religion_tag = incanic_religion
+			has_doctrine = tenet_mythical_forgery
+		}
+	}
+
+	parameters = { # Needs to have higher likelihood to discover (GOD METAL HERE), and ability to receive unique artifacts from Incánas
+		better_artifacts = yes
 	}
 }
 

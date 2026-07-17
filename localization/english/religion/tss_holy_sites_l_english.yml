@@ -37,3 +37,11 @@
  holy_site_feherszeg_name:0 "Fehérszeg"
  holy_site_holloberek_name:0 "Hollóberek"
  holy_site_reszvar_name:0 "Részvár"
+
+ ## INCÁNIC HOLY SITES
+ # TELASATZ HOLY SITES
+ holy_site_enkatetxe_name:0 "Enkatetxe"
+ holy_site_lorrantz_name:0 "Lorrantz"
+ holy_site_morrune_name:0 "Morrune"
+ holy_site_morzeta_name:0 "Morzeta"
+ holy_site_urrazun_name:0 "Urrazun"

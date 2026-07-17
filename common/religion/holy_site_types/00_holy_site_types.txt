@@ -170,7 +170,7 @@ segomaros = {
 
 	character_modifier = {
 		forest_advantage = 5
-		martial = 2
+		martial_per_piety_level = 1
 	}
 }
 tarwicbona = {
@@ -228,5 +228,52 @@ reszvar = {
 	character_modifier = {
 		mountains_advantage = 5
 		martial = 1
+	}
+}
+
+### INCÁNIC HOLY SITES
+# Telasatz
+enkatetxe = {
+	county = c_incanathar
+	barony = b_incanathar
+
+	character_modifier = {
+		development_growth_factor = 0.1
+		martial = 1
+	}
+}
+lorrantz = {
+	county = c_lorrantz
+	barony = b_lorrantz
+
+	character_modifier = {
+		levy_size = 0.1
+	}
+}
+morrune = {
+	county = c_malain
+	barony = b_morrune
+
+	character_modifier = {
+		mountains_advantage = 5
+		dread_baseline_add = 5
+	}
+}
+morzeta = {
+	county = c_morzeta
+	barony = b_morzeta
+
+	character_modifier = {
+		domain_tax_mult_even_if_baron = 0.05
+		stewardship = 1
+	}
+}
+urrazun = {
+	county = c_urrazun
+	barony = b_urrazun
+
+	character_modifier = {
+		monthly_county_control_growth_factor = 0.1
+		prowess_per_piety_level = 1
 	}
 }

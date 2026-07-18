@@ -5,7 +5,7 @@
  patharanic_religion_adj:0 "Patharánic"
  patharanic_religion_adherent:0 "Patharánic"
  patharanic_religion_adherent_plural:0 "Patharánics"
- patharanic_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
+ patharanic_religion_desc:0 "The Patharánic faiths share one core conviction in that Patharán, whatever name he wears in a given land, stands above all other powers as the greatest measure of divine order, the true Lord of the Moon. Patience, stillness, and harmony are among those traits most favored by these believers. Wherever peace is venerated and the Moon named a throne, a Patharánic faith is surely close at hand."
 
  patharanic_house_of_worship:0 "temple"
  patharanic_house_of_worship_2:0 "$patharanic_house_of_worship$" # Optional translation alt
@@ -38,7 +38,7 @@
  faith_beronovy_adj:0 "Beronovy"
  faith_beronovy_adherent:0 "Beroneskiy"
  faith_beronovy_adherent_plural:0 "Beroneskiya"
- faith_beronovy_desc:0 "BERONOVY DESCRIPTION"
+ faith_beronovy_desc:0 "The Beronovy Church holds Beron, Lord of the Moon and Father of Peace, supreme over the Pantheon. The other Gods are honored as his kin, and conflict itself held to be a failure of harmony rather than proof of strength. Clergy serve as often as mediators as ministers, called upon to settle disputes before they are ever allowed to become conflicts at all. To live peacefully is, in itself, considered the truest devotion Beron asks of his faithful."
 
  faith_beronovy_religious_head_title:0 "Stamesya"
  faith_beronovy_religious_head_title_name:0 "Stamesya"

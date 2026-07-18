@@ -35,6 +35,9 @@
 anorosyn = {
 	color = { 127 0 0 }
 	
+	parents = { anorothic behatyn }
+	created = 7993.1.1
+
 	ethos = ethos_bellicose
 	heritage = heritage_anorothic
 	language = language_behatyn

@@ -135,7 +135,7 @@
 }
 881 = {	#
 	culture = anorothic
-	religion = faith_atharfavrel
+	religion = faith_icathavrel
 	holding = church_holding
 }
 882 = {	#

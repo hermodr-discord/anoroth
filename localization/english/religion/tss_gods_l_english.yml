@@ -49,6 +49,7 @@
  tss_positive_afterlife_2:0 "Vanás" # Optional alternative
 
  ### PRIMORDIAL FORCES ###
+ ## Anáthis
  # Anáthis, Embodiment of the Earth, Fertility, and Creation.
  tss_primordial_force_anathis:0 "Anáthis"
  tss_primordial_force_anathis_possessive:0 "Anáthis's"
@@ -65,6 +66,7 @@
  tss_primordial_force_anathis_shidonem:0 "Anatish"
  tss_primordial_force_anathis_shidonem_possessive:0 "Anatish's"
 
+ ## Avtháron
  # Avtháron, Embodiment of Fate, Order, Magic, and Time.
  tss_primordial_force_avtharon:0 "Avtháron"
  tss_primordial_force_avtharon_possessive:0 "Avtháron's"
@@ -81,6 +83,7 @@
  tss_primordial_force_avtharon_shidonem:0 "Avtaron"
  tss_primordial_force_avtharon_shidonem_possessive:0 "Avtaron's"
 
+ ## Icáthos
  # Icáthos, Embodiment of Corruption, Fear, Suffering, and Dread.
  tss_primordial_force_icathos:0 "Icáthos"
  tss_primordial_force_icathos_possessive:0 "Icáthos's"
@@ -97,6 +100,7 @@
  tss_primordial_force_icathos_shidonem:0 "Ikatosh"
  tss_primordial_force_icathos_shidonem_possessive:0 "Ikatosh's"
 
+ ## Ocánas
  # Ocánas, Embodiment of Eternity, Entropy, Chaos, and Destruction.
  tss_primordial_force_ocanas:0 "Ocánas"
  tss_primordial_force_ocanas_possessive:0 "Ocánas's"
@@ -119,6 +123,7 @@
  tss_the_gods:0 "the Gods"
  tss_court_of_the_all_king:0 "the Court of the All-King"
  tss_larrunic_the_gods:0 "Iainkorra"
+ tss_behatyn_the_gods:0 "Vsebogov"
  ## Anórion
  # Anór, Firstborn and King of the Gods. Sun-God of War, Violence, Day, Light, and Fire. Created by Ocánas in the dawn of the world.
  # Spouse is Evthára, Goddess of Wrath.
@@ -626,7 +631,7 @@
 
 
  #temp file for religious families
- rf_aspectral:0 "Aspectral"
+ rf_primordial:0 "Primordial"
  rf_pantheonic:0 "Pantheonic"
  rf_spiritual:0 "Spiritual"
  rf_prophetic:0 "Prophetic"

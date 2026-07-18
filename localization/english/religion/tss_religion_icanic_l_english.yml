@@ -1,0 +1,42 @@
+﻿l_english:
+
+ #icanic Localization
+ icanic_religion:0 "Icánic"
+ icanic_religion_adj:0 "Icánic"
+ icanic_religion_adherent:0 "Icánic"
+ icanic_religion_adherent_plural:0 "Icánics"
+ icanic_religion_desc:0 "The Icánic faiths all coalesce around the belief that Icáthos, the embodiment of Fear, Dread, and Suffering, underlies all things. Some hold it as one truth among many to be respected; others hold it as the only truth, and every other doctrine a comforting lie built to hide it. In those places where suffering is named sacred rather than shameful, an Icánic faith has taken root."
+
+ icanic_house_of_worship:0 "hollow"
+ icanic_house_of_worship_2:0 "$icanic_house_of_worship$" # Optional translation alt
+ icanic_house_of_worship_3:0 "$icanic_house_of_worship$" # Optional translation alt
+ icanic_house_of_worship_plural:0 "hollows"
+ icanic_religious_symbol:0 "closed eye"
+ icanic_religious_symbol_2:0 "$icanic_religious_symbol$" # Optional translation alt
+ icanic_religious_symbol_3:0 "$icanic_religious_symbol$" # Optional translation alt
+ icanic_religious_text:0 "verses of suffering"
+ icanic_religious_text_2:0 "$icanic_religious_text$" # Optional translation alt
+ icanic_religious_text_3:0 "$icanic_religious_text$" # Optional translation alt
+
+ icanic_religious_head_title:0 "Unseen One"
+ icanic_religious_head_title_name:0 "The Unseeing"
+
+ icanic_bishop:0 "Hollow"
+ icanic_bishop_plural:0 "Hollows"
+
+ icanic_priest:0 "Whisperer"
+ icanic_priest_plural:0 "Whisperers"
+ icanic_priest_alternate_plural:0 "Whisperers"
+
+ icanic_devotee:0 "follower"
+ icanic_devotee_plural:0 "followers"
+ icanic_divine_realm:0 "Suffering"
+ icanic_afterlife:0 "$icanic_divine_realm$"
+
+ ### Icáthavrel
+ faith_icathavrel:0 "Icáthavrel"
+ faith_icathavrel_adj:0 "Icáthavrel"
+ faith_icathavrel_adherent:0 "Icáthavrel"
+ faith_icathavrel_adherent_plural:0 "Icáthavreles"
+ faith_icathavrel_desc:0 "The Icáthavrel hold that Icáthos alone is real, and that every other god, every other faith, is a mask worn to hide a single truth mortals refuse to face. Nowhere is that refusal more complete, in the eyes of the faithful, than within the Anorothic Empire itself. A realm built in sole service to a God, built for the sole purpose of divine favor, and therefore the deepest lie yet told. To the Icáthavrel, the Empire's ruin is necessary for the truth to be revealed, and its unmaking is treated as the truest religious act there is."
+ 

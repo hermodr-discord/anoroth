@@ -5161,16 +5161,28 @@ e_eburomarc = { # Eburomarc / Agalreman
             color = { 118 74 61 }
             capital = c_tarwicbona
 
-            c_tarwicbona = { # Tarwicbona
+            c_tarwicbona = { # Tarwicbona / Kryphavoros
                 color = { 118 74 61 }
 
-                b_tarwicbona = { # Tarwicbona
+                cultural_names = {
+                    name_list_anorothic = cn_kryphavoros
+                }
+
+                b_tarwicbona = { # Tarwicbona / Kryphavoros
                     province = 881
                     color = { 118 74 61 }
+
+                    cultural_names = {
+                        name_list_anorothic = cn_kryphavoros
+                    }
                 }
-                b_sceaftmagos = { # Sceaftmagos
+                b_sceaftmagos = { # Sceaftmagos / Kryphasyon
                     province = 897
                     color = { 126 69 65 }
+
+                    cultural_names = {
+                        name_list_anorothic = cn_kryphasyon
+                    }
                 }
             }
             c_litavoholt = { # Litavoholt
@@ -6539,12 +6551,6 @@ e_oromseger = { # Orömseger / Galtharran
 }
 
 #RELIGIOUS HEADS | All here just for brevity, comment out ones that are unused
-d_telasatz = { landless = yes }
-d_celavath = { landless = yes }
-d_anatzeve = { landless = yes }
-d_funethresca = { landless = yes }
-d_gaileth = { landless = yes }
-d_oszeseg = { landless = yes }
 d_ilg_e_garna = { landless = yes }
 d_toqarut = { landless = yes }
 d_ronarvir = { landless = yes }

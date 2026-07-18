@@ -5,7 +5,7 @@
  incanic_religion_adj:0 "Incánic"
  incanic_religion_adherent:0 "Incánic"
  incanic_religion_adherent_plural:0 "Incánics"
- incanic_religion_desc:0 "INCANIC DESCRIPTION"
+ incanic_religion_desc:0 "The Incánic faiths are those faiths that venerate Incánas, the Forgemaster, the Thunderer, or however he is named, as foremost among the Gods. Some hold him first among equals, kin to the wider Pantheon rather than ruler over it; others may set him higher still. Wherever storms are worshipped and forges revered, an Incánic faith may well be close at hand."
 
  incanic_house_of_worship:0 "temple"
  incanic_house_of_worship_2:0 "$incanic_house_of_worship$" # Optional translation alt
@@ -37,8 +37,8 @@
  faith_telasatz:0 "Telasatz"
  faith_telasatz_adj:0 "Telasatz"
  faith_telasatz_adherent:0 "Telasatz"
- faith_telasatz_adherent_plural:0 "Telasatzites"
- faith_telasatz_desc:0 "TELASATZ DESCRIPTION"
+ faith_telasatz_adherent_plural:0 "Telasatzak"
+ faith_telasatz_desc:0 "The Telasatz hold Enkat as first among the Pantheon, kin to the other Gods rather than their sovereign. Smithing is treated as sacred work, storms welcomed as Enkat's own voice, and worship favors open, wind-struck heights over sheltered stone. To master the hammer is, in its own way, to become closer to the God."
 
  faith_telasatz_house_of_worship:0 "atzetxe"
  faith_telasatz_house_of_worship_2:0 "$faith_telasatz_house_of_worship$" # Optional translation alt

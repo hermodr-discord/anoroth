@@ -231,6 +231,54 @@ reszvar = {
 	}
 }
 
+### ICÁNIC HOLY SITES
+# Icáthavrel
+kryphavoros = {
+	county = c_tarwicbona
+	barony = b_tarwicbona
+
+	character_modifier = {
+		intrigue_per_piety_level = 1
+		monthly_county_control_growth_factor = 0.1
+	}
+}
+anorcedia_icathavrel = {
+	county = c_anorcedia
+	barony = b_anorcedia
+
+	character_modifier = {
+		direct_vassal_opinion = 10
+		dread_baseline_add = 20
+	}
+}
+segomaros_icathavrel = {
+	county = c_segomaros
+	barony = b_segomaros
+
+	character_modifier = {
+		levy_size = 0.1
+		dread_gain_mult = 0.1
+	}
+}
+boltayvar = {
+	county = c_elsorendes
+	barony = b_boltayvar
+
+	character_modifier = {
+		garrison_size = 0.2
+		prowess_per_piety_level = 1
+	}
+}
+aldoros = {
+	county = c_aldoros
+	barony = b_aldoros
+
+	character_modifier = {
+		monthly_prestige_gain_mult = 0.1
+		direct_vassal_opinion = 10
+	}
+}
+
 ### INCÁNIC HOLY SITES
 # Telasatz
 enkatetxe = {
@@ -275,5 +323,53 @@ urrazun = {
 	character_modifier = {
 		monthly_county_control_growth_factor = 0.1
 		prowess_per_piety_level = 1
+	}
+}
+
+## PATHARÁNIC HOLY SITES
+# BERONOVY HOLY SITES
+byla = {
+	county = c_byla
+	barony = b_byla
+
+	character_modifier = {
+		monthly_county_control_growth_factor = 0.1
+		diplomacy = 1
+	}
+}
+hylyvopol = {
+	county = c_predenovy
+	barony = b_hylyvopol
+
+	character_modifier = {
+		learning_per_piety_level = 1
+		stress_loss_mult = 0.1
+	}
+}
+baranovy = {
+	county = c_homyl
+	barony = b_baranovy
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+		vassal_opinion = 5
+	}
+}
+bohymsk = {
+	county = c_prahy
+	barony = b_bohymsk
+
+	character_modifier = {
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+nevsk = {
+	county = c_kylatyna
+	barony = b_nevsk
+
+	character_modifier = {
+		domain_tax_same_faith_mult = 0.1
+		monthly_prestige_gain_mult = 0.1
 	}
 }

@@ -10786,7 +10786,7 @@ astramon31 = {
 
 evilguy1 = {
 	name = Epharos
-	religion = atharfavrel
+	religion = faith_icathavrel
 	culture = anorothic
 
 	diplomacy = 6

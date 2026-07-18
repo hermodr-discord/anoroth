@@ -1,0 +1,231 @@
+﻿icanic_religion = {
+	family = rf_primordial
+	graphical_faith = pagan_gfx
+	piety_icon_group = pagan
+
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	doctrine = pagan_hostility_doctrine
+
+	# Main Group
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_fundamentalist
+	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_pilgrimage_forbidden
+	doctrine = doctrine_monotheist
+
+	# Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_all
+	doctrine = doctrine_consanguinity_unrestricted
+
+	# Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_accepted
+	doctrine = doctrine_adultery_women_accepted
+	doctrine = doctrine_kinslaying_shunned
+	doctrine = doctrine_deviancy_accepted
+	doctrine = doctrine_witchcraft_virtuous
+
+	# Clerical Functions
+	doctrine = doctrine_clerical_function_recruitment
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_spiritual_appointment
+	doctrine = doctrine_funeral_cremation
+	doctrine = doctrine_no_anointment
+
+	traits = {
+		virtues = { callous patient vengeful zealous }
+		sins = { compassionate craven impatient trusting }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_myrmidons" }
+		{ name = "holy_order_priesthood_of_ares" }
+	}
+
+	holy_order_maa = { praetorian }
+
+	localization = {
+		# High God
+		HighGodName = tss_primordial_force_icathos
+		HighGodNamePossessive = tss_primordial_force_icathos_possessive
+		HighGodHerHis = CHARACTER_HERHIS_ITS
+		HighGodNameSheHe = CHARACTER_SHEHE_IT
+		HighGodHerselfHimself = CHARACTER_ITSELF
+		# Creator God
+		CreatorName = tss_primordial_force_icathos
+		CreatorNamePossessive = tss_primordial_force_icathos_possessive
+		CreatorSheHe = CHARACTER_SHEHE_IT
+		CreatorHerHis = CHARACTER_HERHIS_ITS
+		CreatorHerHim = CHARACTER_HERHIM_IT
+		# Death God
+		DeathDeityName = tss_primordial_force_icathos
+		DeathDeityNamePossessive = tss_primordial_force_icathos_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERHIS_ITS
+		DeathDeityHerHim = CHARACTER_HERHIM_IT
+		# Fate God
+		FateGodName = tss_primordial_force_icathos
+		FateGodNamePossessive = tss_primordial_force_icathos_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_ITS
+		# Fertility God
+		FertilityGodName = tss_primordial_force_icathos
+		FertilityGodNamePossessive = tss_primordial_force_icathos_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_IT
+		FertilityGodHerHis = CHARACTER_HERHIS_ITS
+		FertilityGodHerHim = CHARACTER_HERHIM_IT
+		# Health God
+		HealthGodName = tss_primordial_force_icathos
+		HealthGodNamePossessive = tss_primordial_force_icathos_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_IT
+		HealthGodHerHis = CHARACTER_HERHIS_ITS
+		HealthGodHerHim = CHARACTER_HERHIM_IT
+		# Household God
+		HouseholdGodName = tss_primordial_force_icathos
+		HouseholdGodNamePossessive = tss_primordial_force_icathos_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_IT
+		HouseholdGodHerHis = CHARACTER_HERHIS_ITS
+		HouseholdGodHerHim = CHARACTER_HERHIM_IT
+		# Knowledge God
+		KnowledgeGodName = tss_primordial_force_icathos
+		KnowledgeGodNamePossessive = tss_primordial_force_icathos_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+		KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+		# Night God
+		NightGodName = tss_primordial_force_icathos
+		NightGodNamePossessive = tss_primordial_force_icathos_possessive
+		NightGodSheHe = CHARACTER_SHEHE_IT
+		NightGodHerHis = CHARACTER_HERHIS_ITS
+		NightGodHerHim = CHARACTER_HERHIM_IT
+		# Trickster God
+		TricksterGodName = tss_primordial_force_icathos
+		TricksterGodNamePossessive = tss_primordial_force_icathos_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_IT
+		TricksterGodHerHis = CHARACTER_HERHIS_ITS
+		TricksterGodHerHim = CHARACTER_HERHIM_IT
+		# War God
+		WarGodName = tss_primordial_force_icathos
+		WarGodNamePossessive = tss_primordial_force_icathos_possessive
+		WarGodHerHis = CHARACTER_HERHIS_ITS
+		WarGodNameSheHe = CHARACTER_SHEHE_IT
+		WarGodHerselfHimself = CHARACTER_ITSELF
+		# Water God
+		WaterGodName = tss_primordial_force_icathos
+		WaterGodNamePossessive = tss_primordial_force_icathos_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_IT
+		WaterGodHerHis = CHARACTER_HERHIS_ITS
+		WaterGodHerHim = CHARACTER_HERHIM_IT
+		# Wealth God
+		WealthGodName = tss_primordial_force_icathos
+		WealthGodNamePossessive = tss_primordial_force_icathos_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_IT
+		WealthGodHerHis = CHARACTER_HERHIS_ITS
+		WealthGodHerHim = CHARACTER_HERHIM_IT
+		# Witch God
+		WitchGodName = tss_primordial_force_icathos
+		WitchGodNamePossessive = tss_primordial_force_icathos_possessive
+		WitchGodHerHis = CHARACTER_HERHIS_ITS
+		WitchGodSheHe = CHARACTER_SHEHE_IT
+		WitchGodHerHim = CHARACTER_HERHIM_IT
+		WitchGodMistressMaster = mistress
+		WitchGodMotherFather = mother
+
+		PantheonTerm = tss_primordial_force_icathos
+		PantheonTerm2 = tss_primordial_force_icathos
+		PantheonTerm3 = tss_primordial_force_icathos
+		PantheonTermHasHave = pantheon_term_has
+		GoodGodNames = {
+			tss_primordial_force_icathos
+		}
+
+		DevilName = tss_primordial_force_icathos
+		DevilNamePossessive = tss_primordial_force_icathos_possessive
+		DevilSheHe = CHARACTER_SHEHE_IT
+		DevilHerHis = CHARACTER_HERHIS_ITS
+		DevilHerselfHimself = CHARACTER_HERHIM_IT
+		EvilGodNames = {
+			tss_primordial_force_icathos
+		}
+
+		HouseOfWorship = icanic_house_of_worship
+		HouseOfWorship2 = icanic_house_of_worship_2
+		HouseOfWorship3 = icanic_house_of_worship_3
+		HouseOfWorshipPlural = icanic_house_of_worship_plural
+		ReligiousSymbol = icanic_religious_symbol
+		ReligiousSymbol2 = icanic_religious_symbol_2
+		ReligiousSymbol3 = icanic_religious_symbol_3
+		ReligiousText = icanic_religious_text
+		ReligiousText2 = icanic_religious_text_2
+		ReligiousText3 = icanic_religious_text_3
+
+		ReligiousHeadName = icanic_religious_head_title
+		ReligiousHeadTitleName = icanic_religious_head_title_name
+		DevoteeMale = icanic_devotee
+		DevoteeMalePlural = icanic_devotee_plural
+		DevoteeFemale = icanic_devotee
+		DevoteeFemalePlural = icanic_devotee_plural
+		DevoteeNeuter = icanic_devotee
+		DevoteeNeuterPlural = icanic_devotee_plural
+
+		PriestMale = icanic_priest
+		PriestMalePlural = icanic_priest_plural
+		PriestFemale = icanic_priest
+		PriestFemalePlural = icanic_priest_plural
+		PriestNeuter = icanic_priest
+		PriestNeuterPlural = icanic_priest_plural
+		AltPriestTermPlural = icanic_priest_alternate_plural
+
+		BishopMale = icanic_bishop
+		BishopMalePlural = icanic_bishop_plural
+		BishopFemale = icanic_bishop
+		BishopFemalePlural = icanic_bishop_plural
+		BishopNeuter = icanic_bishop
+		BishopNeuterPlural = icanic_bishop_plural
+
+		DivineRealm = icanic_divine_realm
+		DivineRealm2 = icanic_divine_realm
+		DivineRealm3 = icanic_divine_realm
+
+		PositiveAfterLife = icanic_afterlife
+		PositiveAfterLife2 = icanic_afterlife
+		PositiveAfterLife3 = icanic_afterlife
+		NegativeAfterLife = icanic_afterlife
+		NegativeAfterLife2 = icanic_afterlife
+		NegativeAfterLife3 = icanic_afterlife
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}
+
+	faiths = {
+		faith_icathavrel = {
+			color = { 30 30 70 }
+			icon = muhakkima_4
+			religious_head = k_eclipsed_realm
+
+			holy_site = kryphavoros
+			holy_site = anorcedia_icathavrel
+			holy_site = segomaros_icathavrel
+			holy_site = boltayvar
+			holy_site = aldoros
+
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_unrelenting_faith
+			doctrine_selection_pair = {
+				requires_dlc_flag = legacy_of_persia
+				doctrine = tenet_fp3_fedayeen
+				fallback_doctrine = tenet_struggle_submission
+			}
+		}
+	}
+}

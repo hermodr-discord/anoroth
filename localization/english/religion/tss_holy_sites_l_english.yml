@@ -38,6 +38,14 @@
  holy_site_holloberek_name:0 "Hollóberek"
  holy_site_reszvar_name:0 "Részvár"
 
+ ## ICÁNIC HOLY SITES
+ # ICÁTHAVREL HOLY SITES
+ holy_site_aldoros_name:0 "Aldoros"
+ holy_site_anorcedia_icathavrel_name:0 "Anórcedia"
+ holy_site_boltayvar_name:0 "Boltáyvar"
+ holy_site_kryphavoros_name:0 "Kryphavoros"
+ holy_site_segomaros_icathavrel_name:0 "Segomaros"
+
  ## INCÁNIC HOLY SITES
  # TELASATZ HOLY SITES
  holy_site_enkatetxe_name:0 "Enkatetxe"
@@ -45,3 +53,11 @@
  holy_site_morrune_name:0 "Morrune"
  holy_site_morzeta_name:0 "Morzeta"
  holy_site_urrazun_name:0 "Urrazun"
+
+ ## PATHARÁNIC HOLY SITES
+ # BERONOVY HOLY SITES
+ holy_site_byla_name:0 "Dovelohrad University"
+ holy_site_hylyvopol_name:0 "Hylyvopol"
+ holy_site_baranovy_name:0 "Baranovy"
+ holy_site_bohymsk_name:0 "Bohymsk"
+ holy_site_nevsk_name:0 "Nevsk"

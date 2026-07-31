@@ -1,30 +1,111 @@
 ﻿l_english:
 ### HOLY ORDERS
-## ANÓRIC
+# ANÓRIC
  holy_order_knights_of_the_first_spear:0 "Knights of the First Spear"
  holy_order_order_of_the_golden_ember:0 "Order of the Golden Ember"
  holy_order_sons_of_the_burning_throne:0 "Sons of the Burning Throne"
  holy_order_sons_of_the_first_flame:0 "Sons of the First Flame"
  holy_order_the_burning_inquisition:0 "Burning Inquisition"
-# ANÓRATH
+## ANÓRATH
  holy_order_kaesarian_penance:0 "Kaesarian Penance"
  holy_order_knights_of_the_wrathfather:0 "Knights of the Wrathfather"
  holy_order_sunsworn_host:0 "Sunsworn Host"
+## ANATZEVE
+ holy_order_eguzkitzar:0 "Eguzkitzar"
+ holy_order_onortzale:0 "Onortzale"
+## ANÓRCASTOS
+ holy_order_knights_of_the_fourth_dawn:0 "Knights of the Fourth Dawn"
+ holy_order_knights_of_the_true_flame:0 "Knights of the True Flame"
+## FUNÉTHRESCA
+ holy_order_hallwardens:0 "Hallwardens"
+ holy_order_knights_of_the_drowned_sun:0 "Knights of the Drowned Sun"
+## SOBRANORYE
+ holy_order_knights_of_sun_and_moon:0 "Knights of Sun and Moon"
+ holy_order_order_of_the_twin_lights:0 "Order of the Twin Lights"
+ holy_order_silvergold_company:0 "Silvergold Company"
 
-## AGALRIAN
+# AGALRIAN
  holy_order_cairnbrothers:0 "Cairnbrothers"
  holy_order_long_winters_watch:0 "Long Winter's Watch"
  holy_order_nine_boughs:0 "Nine Boughs"
  holy_order_wolfsworn:0 "Wolfsworn"
  holy_order_wyldkeepers:0 "Wyldkeepers"
 
-## HÉLYV
+# HÉLYV
  holy_order_grey_wolves:0 "Grey Wolves"
  holy_order_order_of_the_horse_mother:0 "Order of the Horse Mother"
  holy_order_riders_of_the_golden_grass:0 "Riders of the Golden Grass"
  holy_order_riders_of_the_wide_sky:0 "Riders of the Wide Sky"
  holy_order_sky_riders:0 "Sky Riders"
-# OSZESEG
+## OSZESEG
  holy_order_chasmwalkers:0 "Chasmwalkers"
  holy_order_storm_guard:0 "Storm Guard"
  holy_order_wardens_of_the_peaks:0 "Wardens of the Peaks"
+
+# ICÁNIC
+ holy_order_malevolent_knights:0 "Malevolent Knights"
+ holy_order_order_of_the_final_reckoning:0 "Order of the Final Reckoning"
+ holy_order_order_of_the_great_dread:0 "Order of the Great Dread"
+## ICÁTHAVREL
+ holy_order_order_of_the_closed_eye:0 "Order of the Closed Eye"
+
+# INCÁNIC
+ holy_order_knights_of_the_anvil:0 "Knights of the Anvil"
+ holy_order_knights_of_the_high_wind:0 "Knights of the High Wind"
+ holy_order_order_of_the_iron_storm:0 "Order of the Iron Storm"
+ holy_order_stormsworn:0 "Stormsworn"
+## TELASATZ
+ holy_order_enkatzale:0 "Enkatzale"
+ holy_order_sutezaindariak:0 "Sutezaindariak"
+
+# LUVERAN
+ holy_order_warriors_of_the_open_tide:0 "Warriors of the Open Tide"
+ holy_order_warriors_of_the_open_wind:0 "Warriors of the Open Wind"
+## ISANARA
+ holy_order_drifting_warriors:0 "Drifting Warriors"
+ holy_order_order_of_paradise:0 "Order of Paradise"
+ holy_order_windborne_company:0 "Windborne Company"
+
+# OREG
+ holy_order_ag_surnavor:0 "Ag-Surnavor"
+ holy_order_ag_vorun:0 "Ag-Vorun"
+ holy_order_ilgathor:0 "Ilgathor"
+ holy_order_ilg_bragun:0 "Ilg-Bragun"
+ holy_order_murneg_sora:0 "Murneg-Sora"
+ holy_order_slorna_orun:0 "Slorna-Orun"
+ holy_order_surgoral:0 "Surgoral"
+ holy_order_ulgothar:0 "Ulgothar"
+
+# PATHARÁNIC
+ holy_order_keepers_of_midnight:0 "Keepers of Midnight"
+ holy_order_knights_of_the_silver_watch:0 "Knights of the Silver Watch"
+ holy_order_moonwardens:0 "Moonwardens"
+ holy_order_order_of_the_lunar_throne:0 "Order of the Lunar Throne"
+ holy_order_shadowbearers:0 "Shadowbearers"
+ holy_order_whitecloaks:0 "Whitecloaks"
+## BERONOVY
+ holy_order_beronova_strazha:0 "Beronova Strazha"
+ holy_order_nochtyrova_strazha:0 "Nochtyrova Strazha"
+ holy_order_order_of_vorozhar:0 "Order of Vorozhar"
+ holy_order_vechernyy:0 "Vechernyy"
+
+# TAGÁRIC
+ holy_order_bright_scales:0 "Bright Scales"
+ holy_order_fortuneguard:0 "Fortuneguard"
+ holy_order_merchant_knights:0 "Merchant Knights"
+ holy_order_warriors_of_the_scale:0 "Warriors of the Scale"
+## TOQĀRUT
+ holy_order_bar_emunat:0 "Bar-Emunat"
+ holy_order_bar_toqara:0 "Bar-Toqāra"
+ holy_order_goldreach_company:0 "Goldreach Company"
+ holy_order_rab_hazanim:0 "Rab-Hazānim"
+ 
+# VÁNIC
+ holy_order_deepwatch:0 "Deepwatch"
+ holy_order_order_of_the_sunken_anchor:0 "Order of the Sunken Anchor"
+ holy_order_tidewardens:0 "Tidewardens"
+## RÓNARVIR
+ holy_order_drowned_company:0 "Drowned Company"
+ holy_order_hrafnguard:0 "Hrafnguard"
+ holy_order_kjolfrbane:0 "Kjölfrbane"
+ holy_order_sjavarsworn:0 "Sjávarsworn"

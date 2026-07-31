@@ -1,58 +1,7 @@
 ﻿l_english:
- #temp file for religious families
- rf_aspectral:0 "Aspectral"
+ ### Religious Families
+ rf_primordial:0 "Primordial"
  rf_pantheonic:0 "Pantheonic"
  rf_spiritual:0 "Spiritual"
  rf_prophetic:0 "Prophetic"
  rf_isolate:0 "Isolate"
-
- #Pantheonic Religions
-
- pantheonic_divine_realm:0 "Valethávren"
-
- pantheonic_god_decay:0 "Avtórea"
- pantheonic_god_decay_possessive:0 "Avtórea's"
- pantheonic_god_drought:0 "Anór"
- pantheonic_death_deity_name:0 "Arádh"
- pantheonic_death_deity_name_possessive:0 "Arádh's"
-
- pantheonic_afterlife:0 "the Abyss"
- pantheonic_witchgodname_ilvethor:0 "Ilvéthōr"
- pantheonic_witchgodname_ilvethor_possessive:0 "Ilvéthōr's"
-
- pantheonic_creator_god_name:0 "Anáthis"
- pantheonic_creator_god_name_possessive:0 "Anáthis's"
- pantheonic_health_god_name:0 "Salévith"
- pantheonic_health_god_name_possessive:0 "Salévith's"
- pantheonic_fertility_god_name:0 "Thanóvas"
- pantheonic_fertility_god_name_possessive:0 "Thanóvas's"
- pantheonic_wealth_god_name:0 "Tagára"
- pantheonic_wealth_god_name_possessive:0 "Tagára's"
- pantheonic_household_god_name:0 "Líriel"
- pantheonic_household_god_name_possessive:0 "Líriel's"
- pantheonic_fate_god_name:0 "Avthíron"
- pantheonic_fate_god_name_possessive:0 "Avthíron's"
- pantheonic_knowledge_god_name:0 "Cavthóras"
- pantheonic_knowledge_god_name_possessive:0 "Cavthóras's"
- pantheonic_war_god_name:0 "Anór"
- pantheonic_war_god_name_possessive:0 "Anór's"
- pantheonic_trickster_god_name:0 "Metíron"
- pantheonic_trickster_god_name_possessive:0 "Metíron's"
- pantheonic_night_god_name:0 "Patharán"
- pantheonic_night_god_name_possessive:0 "Patharán's"
- pantheonic_water_god_name:0 "Vánas"
- pantheonic_water_god_name_possessive:0 "Vánas's"
-
- pantheonic_good_god_aetarion:0 "Aëtarion"
- pantheonic_good_god_miriel:0 "Miríel"
- pantheonic_good_god_ancoveris:0 "Ancóveris"
- pantheonic_good_god_iunava:0 "Iunáva"
- pantheonic_good_god_ipane:0 "Ipáne"
- pantheonic_good_god_incanas:0 "Incánas"
- pantheonic_good_god_aethervas:0 "Aëthervas"
- pantheonic_good_god_aethlem:0 "Aëthlem"
-
- pantheonic_evil_god_evthara:0 "Evthára"
- pantheonic_evil_god_panthos:0 "Panthós"
- pantheonic_evil_god_aethlem:0 "Aëthlem"
- pantheonic_evil_god_dhiani:0 "Dhiáni"

@@ -28,8 +28,8 @@
  anoric_priest_plural:0 "Priests"
  anoric_priest_alternate_plural:0 "Clergy"
 
- anoric_devotee:0 "anóric"
- anoric_devotee_plural:0 "anórics"
+ anoric_devotee:0 "devotee"
+ anoric_devotee_plural:0 "devotees"
 
  anoric_divine_realm:0 "the Sun"
 
@@ -43,8 +43,8 @@
  faith_anorath_religious_head_male:0 "Calyreos"
  faith_anorath_religious_head_female:0 "Calyreos"
 
- faith_anorath_devotee:0 "anórath"
- faith_anorath_devotee_plural:0 "anóraths"
+ faith_anorath_devotee:0 "devotee"
+ faith_anorath_devotee_plural:0 "devotees"
 
  ### Anórcastos
  faith_anorcastos:0 "Anórcastos"
@@ -57,8 +57,8 @@
  faith_anorcastos_religious_text_2:0 "Themaran Creed" # Optional translation alt
  faith_anorcastos_religious_text_3:0 "Decree of the Pylarchs" # Optional translation alt
 
- faith_anorcastos_devotee:0 "anórcastos"
- faith_anorcastos_devotee_plural:0 "anórcastenes"
+ faith_anorcastos_devotee:0 "devotee"
+ faith_anorcastos_devotee_plural:0 "devotees"
 
  ### Sobranorye
  faith_sobranorye:0 "Sobranorye"
@@ -88,8 +88,8 @@
  faith_sobranorye_priest_plural:0 "Zhrytsi"
  faith_sobranorye_priest_alternate_plural:0 "Zhrytysi"
 
- faith_sobranorye_devotee:0 "sobranorye"
- faith_sobranorye_devotee_plural:0 "sobranorye"
+ faith_sobranorye_devotee:0 "devotee"
+ faith_sobranorye_devotee_plural:0 "devotees"
 
  faith_sobranorye_positive_afterlife:0 "Vezdnya"
 
@@ -112,8 +112,8 @@
  faith_anatzeve_priest_plural:0 "Apaitzales"
  faith_anatzeve_priest_alternate_plural:0 "Apaitzalenes"
 
- faith_anatzeve_devotee:0 "anatzeve"
- faith_anatzeve_devotee_plural:0 "anatzeves"
+ faith_anatzeve_devotee:0 "devotee"
+ faith_anatzeve_devotee_plural:0 "devotees"
 
  ### Funéthresca
  faith_funethresca:0 "Funéthresca"
@@ -137,5 +137,5 @@
  faith_funethresca_priest_plural:0 "Hallkeepers"
  faith_funethresca_priest_alternate_plural:0 "Clergy"
 
- faith_funethresca_devotee:0 "funéthresca"
- faith_funethresca_devotee_plural:0 "funéthresces"
+ faith_funethresca_devotee:0 "devotee"
+ faith_funethresca_devotee_plural:0 "devotees"

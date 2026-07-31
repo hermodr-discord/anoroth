@@ -54,10 +54,42 @@
  holy_site_morzeta_name:0 "Morzeta"
  holy_site_urrazun_name:0 "Urrazun"
 
+ ## LUVERAN HOLY SITES
+ # ISANARAN HOLY SITES
+ holy_site_lysan_name:0 "Lysan"
+ holy_site_tiaran_name:0 "Tiaran"
+ holy_site_isara_name:0 "Isara"
+ holy_site_lyana_name:0 "Lyana"
+ holy_site_teana_name:0 "Teana"
+
+ ## OREG HOLY SITES
+ # ILG-E-GARNA HOLY SITES
+ holy_site_alg_irul_name:0 "Alg-Irul"
+ holy_site_ag_surna_name:0 "Ag-Surna"
+ holy_site_belthun_name:0 "Belthun"
+ holy_site_yurnagul_name:0 "Yurnagul"
+ holy_site_ulgaresh_name:0 "Ulgaresh"
+
  ## PATHARÁNIC HOLY SITES
  # BERONOVY HOLY SITES
- holy_site_byla_name:0 "Dovelohrad University"
- holy_site_hylyvopol_name:0 "Hylyvopol"
  holy_site_baranovy_name:0 "Baranovy"
  holy_site_bohymsk_name:0 "Bohymsk"
+ holy_site_byla_name:0 "Dovelohrad University"
+ holy_site_hylyvopol_name:0 "Hylyvopol"
  holy_site_nevsk_name:0 "Nevsk"
+
+ ## TAGÁRIC HOLY SITES
+ # TOQĀRUT HOLY SITES
+ holy_site_aman_name:0 "Aman"
+ holy_site_qadanet_name:0 "Qadanet"
+ holy_site_saraal_name:0 "Saraal"
+ holy_site_shadat_name:0 "Shadat"
+ holy_site_shalan_name:0 "Shalan"
+
+ ## VÁNIC HOLY SITES
+ # RÓNARVIR HOLY SITES
+ holy_site_runvatn_name:0 "Rúnvatn"
+ holy_site_nyrrungar_name:0 "Nyrrungar"
+ holy_site_tharrheim_name:0 "Tharrheim"
+ holy_site_tharor_name:0 "Tharor"
+ holy_site_kastrovik_name:0 "Kastrovik"

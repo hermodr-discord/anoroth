@@ -60,7 +60,7 @@
  tss_primordial_force_anathis_larrunic:0 "Anatzis"
  tss_primordial_force_anathis_larrunic_possessive:0 "Anatzis's"
  # Tharun
- tss_primordial_force_anathis_tharun:0 "Anathis"
+ tss_primordial_force_anathis_tharun:0 "Anaþis"
  tss_primordial_force_anathis_tharun_possessive:0 "Anathis's"
  # Shidonem
  tss_primordial_force_anathis_shidonem:0 "Anatish"
@@ -77,7 +77,7 @@
  tss_primordial_force_avtharon_larrunic:0 "Abtaron"
  tss_primordial_force_avtharon_larrunic_possessive:0 "Abtaron's"
  # Tharun
- tss_primordial_force_avtharon_tharun:0 "Aftharon"
+ tss_primordial_force_avtharon_tharun:0 "Afþaron"
  tss_primordial_force_avtharon_tharun_possessive:0 "Aftharon"
  # Shidonem
  tss_primordial_force_avtharon_shidonem:0 "Avtaron"
@@ -94,7 +94,7 @@
  tss_primordial_force_icathos_larrunic:0 "Ikatzos"
  tss_primordial_force_icathos_larrunic_possessive:0 "Ikatzos's"
  # Tharun
- tss_primordial_force_icathos_tharun:0 "Íkathr"
+ tss_primordial_force_icathos_tharun:0 "Ikáþr"
  tss_primordial_force_icathos_tharun_possessive:0 "Íkathr's"
  # Shidonem
  tss_primordial_force_icathos_shidonem:0 "Ikatosh"
@@ -122,8 +122,10 @@
  ### PANTHEONIC GODS ###
  tss_the_gods:0 "the Gods"
  tss_court_of_the_all_king:0 "the Court of the All-King"
- tss_larrunic_the_gods:0 "Iainkorra"
  tss_behatyn_the_gods:0 "Vsebogov"
+ tss_larrunic_the_gods:0 "Iainkorra"
+ tss_shidonem_the_gods:0 "Ha-Baalat"
+ tss_tharun_the_gods:0 "Sæðrunir"
  ## Anórion
  # Anór, Firstborn and King of the Gods. Sun-God of War, Violence, Day, Light, and Fire. Created by Ocánas in the dawn of the world.
  # Spouse is Evthára, Goddess of Wrath.
@@ -236,7 +238,7 @@
  tss_pantheonic_god_lyrelia_tharun:0 "Lýrildís"
  tss_pantheonic_god_lyrelia_tharun_possessive:0 "Lýrildís's"
  # Shidonem
- tss_pantheonic_god_lyrelia_shidonem:0 "Lirelet's"
+ tss_pantheonic_god_lyrelia_shidonem:0 "Lirelet"
  tss_pantheonic_god_lyrelia_shidonem_possessive:0 "Lirelet's"
 
  # Myrélia, Goddess of Valor, Courage, and Honor. Fifth child of Anór and Evthára. Twin of Lyrélia. 2nd Generation.
@@ -307,7 +309,7 @@
  tss_pantheonic_god_aetaron_larrunic:0 "Basarra"
  tss_pantheonic_god_aetaron_larrunic_possessive:0 "Basarra's"
  # Tharun
- tss_pantheonic_god_aetaron_tharun:0 "Veidnir"
+ tss_pantheonic_god_aetaron_tharun:0 "Veiðnir"
  tss_pantheonic_god_aetaron_tharun_possessive:0 "Veidnir"
  # Shidonem
  tss_pantheonic_god_aetaron_shidonem:0 "Ba'al Tsayid"
@@ -494,8 +496,8 @@
  tss_pantheonic_god_tagara_larrunic:0 "Ondasun"
  tss_pantheonic_god_tagara_larrunic_possessive:0 "Ondasun's"
  # Tharun
- tss_pantheonic_god_tagara_tharun:0 "Audnir"
- tss_pantheonic_god_tagara_tharun_possessive:0 "Audnir"
+ tss_pantheonic_god_tagara_tharun:0 "Auðnir"
+ tss_pantheonic_god_tagara_tharun_possessive:0 "Auðnir"
  # Shidonem
  tss_pantheonic_god_tagara_shidonem:0 "Toqāra"
  tss_pantheonic_god_tagara_shidonem_possessive:0 "Toqāra's"
@@ -630,9 +632,41 @@
 
 
 
- #temp file for religious families
- rf_primordial:0 "Primordial"
- rf_pantheonic:0 "Pantheonic"
- rf_spiritual:0 "Spiritual"
- rf_prophetic:0 "Prophetic"
- rf_isolate:0 "Isolate"
+ ### ISOLATE DEITIES ###
+ ## Good Luveran Gods/Spirits
+ # Isana, She of Ocean and Wind.
+ tss_luveran_god_isana:0 "Isana"
+ tss_luveran_god_isana_possessive:0 "Isana's"
+ tss_luveran_god_isana_she_of_ocean_and_wind:0 "She of Ocean and Wind"
+ tss_luveran_god_isana_she_of_ocean_and_wind_possessive:0 "She of Ocean and Wind's"
+ # The venerated ancestors, core to Luveran belief.
+ tss_luveran_god_ancestors:0 "the ancestors"
+ tss_luveran_god_ancestors_possessive:0 "the ancestors'"
+ # The spirits, entities that inhabit the lands.
+ tss_luveran_god_spirits:0 "the spirits"
+ tss_luveran_god_spirits_possessive:0 "the spirits'"
+ # Death
+ tss_luveran_god_death:0 "death"
+ tss_luveran_god_death_possessive:0 "death's"
+ # Fate
+ tss_luveran_god_fate:0 "fate"
+ tss_luveran_god_fate_possessive:0 "fate's"
+ ## Evil Luveran Gods/Spirits
+ # Corruption, the sickening of the land and its spirits.
+ tss_luveran_god_corruption:0 "corruption"
+ tss_luveran_god_corruption_possessive:0 "corruption's"
+ # Blight, the decay of the land and its health.
+ tss_luveran_god_blight:0 "blight"
+ tss_luveran_god_blight_possessive:0 "blight's"
+
+ ## Good Oreg Gods/Spirits
+ # Garna, the Great Marsh itself.
+ tss_oreg_god_garna:0 "Garna"
+ tss_oreg_god_garna_possessive:0 "Garna's"
+ ## Evil Oreg Gods/Spirits
+ # Orna-Goraen, the concept of foreign rot, the Marsh being drained, dried, and stripped of life by outside hands.
+ tss_oreg_god_orna_goraen:0 "Orna-Goraen"
+ tss_oreg_god_orna_goraen_possessive:0 "Orna-Goraen's"
+ # Surne-Garna, the semi-personified concept of a stagnant Marsh. Mud that is stagnant, lifeless, without current or growth, taking without giving.
+ tss_oreg_god_surne_garna:0 "Surne-Garna"
+ tss_oreg_god_surne_garna_possessive:0 "Surne-Garna's"

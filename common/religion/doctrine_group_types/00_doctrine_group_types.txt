@@ -377,8 +377,9 @@ doctrine_core_tenets = {
 		tenet_children_of_the_sun
 		tenet_endless_skies
 		tenet_ilg_e_garna
-		tenet_isanara_TBD
 		tenet_mythical_forgery
+		tenet_prosperity_gospel
+		tenet_tidebound
 	}
 }
 

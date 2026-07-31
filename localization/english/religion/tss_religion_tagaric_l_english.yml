@@ -1,84 +1,58 @@
 ﻿l_english:
 
  #Tagaric Localization
- tagaric_religion:0 "Tagaric"
- tagaric_religion_adj:0 "Tagaric"
- tagaric_religion_adherent:0 "Tagaric"
- tagaric_religion_adherent_plural:0 "Tagarics"
- tagaric_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of paganism."
-
- tagaric_high_god_name:0 "Tagára"
- tagaric_high_god_name_2:0 "$tagaric_high_god_name$" # Optional translation alt
- tagaric_high_god_name_possessive:0 "Isana's"
- tagaric_high_god_name_alternate:0 "She of Ocean and Wind"
- tagaric_high_god_name_alternate_possessive:0 "She of Ocean and Wind's"
- tagaric_good_god_ancestors:0 "the ancestors"
- tagaric_good_god_ancestors_posessive:0 "the ancestors'"
- tagaric_good_god_spirits:0 "the spirits"
- tagaric_good_god_spirits_possessive:0 "the spirits'"
- tagaric_devil_name:0 "corruption"
- tagaric_devil_name_possessive:0 "corruption's"
- tagaric_devil_shehe:0 "it"
- tagaric_devil_herselfhimself:0 "itself"
- tagaric_devil_herhis:0 "its"
- tagaric_evil_god_decay:0 "blight"
- tagaric_evil_god_decay_possessive:0 "blight's"
- tagaric_evil_god_drought:0 "drought"
- tagaric_death_deity_name:0 "death"
- tagaric_death_deity_name_possessive:0 "death's"
- tagaric_death_deity_herhis:0 "its"
-
- tagaric_creator_god_name:0 "$tagaric_high_god_name$"
- tagaric_creator_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
- tagaric_health_god_name:0 "$tagaric_good_god_spirits_name$"
- tagaric_health_god_name_possessive:0 "$tagaric_good_god_spirits_name_possessive$"
- tagaric_fertility_god_name:0 "$tagaric_high_god_name$"
- tagaric_fertility_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
- tagaric_wealth_god_name:0 "$tagaric_high_god_name$"
- tagaric_wealth_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
- tagaric_household_god_name:0 "$tagaric_good_god_ancestors$"
- tagaric_household_god_name_possessive:0 "$tagaric_good_god_ancestors$"
- tagaric_fate_god_name:0 "fate"
- tagaric_fate_god_name_possessive:0 "fate's"
- tagaric_knowledge_god_name:0 "$tagaric_good_god_ancestors$"
- tagaric_knowledge_god_name_possessive:0 "$tagaric_good_god_ancestors$"
- tagaric_war_god_name:0 "$tagaric_high_god_name$"
- tagaric_war_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
- tagaric_trickster_god_name:0 "$tagaric_good_god_spirits_name$"
- tagaric_trickster_god_name_possessive:0 "$tagaric_good_god_spirits_name$"
- tagaric_night_god_name:0 "$tagaric_high_god_name$"
- tagaric_night_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
- tagaric_water_god_name:0 "$tagaric_high_god_name$"
- tagaric_water_god_name_possessive:0 "$tagaric_high_god_name_possessive$"
+ tagaric_religion:0 "Tagáric"
+ tagaric_religion_adj:0 "Tagáric"
+ tagaric_religion_adherent:0 "Tagáric"
+ tagaric_religion_adherent_plural:0 "Tagárics"
+ tagaric_religion_desc:0 "The Tagáric faiths are bound by their veneration of the Lady of Wealth and Fortune, however she is named, who rewards prosperity and wealth above all else. Piety is measured less in ritual or conquest than in what the faithful build, trade, and leave behind. In those places where profit is named sacred and wealth is called pious, a Tagáric faith has likely taken root."
 
  tagaric_house_of_worship:0 "temple"
  tagaric_house_of_worship_2:0 "$tagaric_house_of_worship$" # Optional translation alt
  tagaric_house_of_worship_3:0 "$tagaric_house_of_worship$" # Optional translation alt
  tagaric_house_of_worship_plural:0 "temples"
- tagaric_religious_symbol:0 "moon"
+ tagaric_religious_symbol:0 "the Merchant's Scale"
  tagaric_religious_symbol_2:0 "$tagaric_religious_symbol$" # Optional translation alt
  tagaric_religious_symbol_3:0 "$tagaric_religious_symbol$" # Optional translation alt
- tagaric_religious_text:0 "Isana's teachings"
+ tagaric_religious_text:0 "Tagára's Ledger"
  tagaric_religious_text_2:0 "$tagaric_religious_text$" # Optional translation alt
  tagaric_religious_text_3:0 "$tagaric_religious_text$" # Optional translation alt
- tagaric_religious_head_title:0 "High Shaman"
- tagaric_religious_head_title_name:0 "Isana's Devoted"
+
+ tagaric_religious_head_title:0 "Gold-Herald"
+ tagaric_religious_head_title_name:0 "Church of Gold"
+
+ tagaric_bishop:0 "Magistrate"
+ tagaric_bishop_plural:0 "Magistrates"
+
+ tagaric_priest:0 "Keeper"
+ tagaric_priest_plural:0 "Keepers"
+ tagaric_priest_alternate_plural:0 "Clergy"
+
  tagaric_devotee:0 "devotee"
- tagaric_devoteeplural:0 "devotees"
- tagaric_priest:0 "shaman"
- tagaric_priest_plural:0 "shamans"
- tagaric_priest_alternate_plural:1 "elders"
- tagaric_divine_realm:0 "Isana's Realm"
- tagaric_divine_realm_2:0 "$tagaric_divine_realm$" # Optional translation alt
- tagaric_divine_realm_3:0 "$tagaric_divine_realm$" # Optional translation alt
- tagaric_afterlife:0 "Isana's embrace"
- tagaric_afterlife_2:0 "$tagaric_afterlife$" # Optional translation alt
- tagaric_afterlife_3:0 "$tagaric_afterlife$" # Optional translation alt
- tagaric_witchgodname_the_spirits:0 "$tagaric_good_god_spirits_name$"
- tagaric_witchgodname_the_spirits_possessive:0 "$tagaric_good_god_spirits_name_possessive$"
+ tagaric_devotee_plural:0 "devotees"
 
+ tagaric_divine_realm:0 "the Great Market"
 
+ ### Toqārut
  faith_toqarut:0 "Toqārut"
  faith_toqarut_adj:0 "Toqārut"
  faith_toqarut_adherent:0 "Toqārut"
  faith_toqarut_adherent_plural:0 "Toqāruts"
+ faith_toqarut_desc:0 "Carried across generations by the great trading empires that have long commanded the Golden Strait, the Toqārut religion worships Toqāra, Lady of Fortune, above all other Gods, the rest of the Pantheon acknowledged but rarely called upon. Profits gained are treated as the clearest sign of Her favor there is, and piety is expressed daily in the marketplace as much as in temples, and neither class nor gender weighs against the faithful so long as they deal shrewdly and profit well. Conflict is regarded as poor investment, the wise faithful let coin, contract, and hired sword accomplish what open war would only make costly."
+
+ faith_toqarut_religious_head_title:0 "Rab-Toqāra"
+ faith_toqarut_religious_head_title_name:0 "Beit-Toqāra"
+
+ faith_toqarut_bishop:0 "Rab-Hazān"
+ faith_toqarut_bishop_plural:0 "Rab-Hazānēm"
+
+ faith_toqarut_priest:0 "Hazān"
+ faith_toqarut_priest_plural:0 "Hazānēm"
+ faith_toqarut_priest_alternate_plural:0 "Hazānēm"
+
+ faith_toqarut_devotee:0 "devotee"
+ faith_toqarut_devotee_plural:0 "devotees"
+
+ faith_toqarut_divine_realm:0 "Har-Toqāra"
+ faith_toqarut_positive_afterlife:0 "Ha-Melu'ah"
+ faith_toqarut_negative_afterlife:0 "Ha-Reqam"

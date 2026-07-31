@@ -5,7 +5,7 @@
  helyv_religion_adj:0 "Hélyv"
  helyv_religion_adherent:0 "Hélyv"
  helyv_religion_adherent_plural:0 "Hélyvok"
- helyv_religion_desc:0 "TThe Hélyv faiths share one root belief in that the land is alive with spirit, owed honor as home and protectors rather than claimed as conquest. East of the Veil, this turns to sky and open steppe, while within the mountains it turns to stone and storm. Beyond that, each Hélyv faith is shaped by the land that raised it."
+ helyv_religion_desc:0 "The Hélyv faiths share one root belief in that the land is alive with spirit, owed honor as home and protectors rather than claimed as conquest. East of the Veil, this turns to sky and open steppe, while within the mountains it turns to stone and storm. Beyond that, each Hélyv faith is shaped by the land that raised it."
 
  helyv_house_of_worship:0 "kőszenty"
  helyv_house_of_worship_2:0 "$helyv_house_of_worship$" # Optional translation alt
@@ -28,8 +28,8 @@
  helyv_priest_plural:0 "Táltosok"
  helyv_priest_alternate_plural:1 "Táltosrend"
 
- helyv_devotee:0 "hélyv"
- helyv_devoteeplural:0 "hélyvok"
+ helyv_devotee:0 "devotee"
+ helyv_devoteeplural:0 "devotees"
 
  helyv_divine_realm:0 "Az Csúcsvilág"
  helyv_positive_afterlife:0 "Az Ősziklák"

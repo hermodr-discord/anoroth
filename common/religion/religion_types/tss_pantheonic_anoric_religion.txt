@@ -51,8 +51,6 @@
 		{ name = "holy_order_sons_of_the_burning_throne" }
 		{ name = "holy_order_sons_of_the_first_flame" }
 		{ name = "holy_order_the_burning_inquisition" }
-		{ name = "holy_order_faithful_of_highgod" }
-		{ name = "holy_order_warriors_of_the_symbol" }
 	}
 
 	holy_order_maa = { praetorian }
@@ -63,14 +61,10 @@
 		HighGodNamePossessive = tss_pantheonic_god_anor_possessive
 		HighGodNameAlternate = tss_pantheonic_god_anor_lightbringer
 		HighGodNameAlternatePossessive = tss_pantheonic_god_anor_lightbringer_possessive
-		HighGodName2Alternate = tss_pantheonic_god_anor_all_king
-		HighGodName2AlternatePossessive = tss_pantheonic_god_anor_all_king_possessive
+		HighGodName2 = tss_pantheonic_god_anor
 		HighGodHerHis = CHARACTER_HERHIS_HIS
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
-		HighGodAlternateHerHis = CHARACTER_HERHIS_HIS
-		HighGodNameAlternateSheHe = CHARACTER_SHEHE_HE
-		HighGodAlternateHerselfHimself = CHARACTER_HIMSELF
 		# Creator God
 		CreatorName = tss_primordial_force_anathis
 		CreatorNamePossessive = tss_primordial_force_anathis_possessive
@@ -92,8 +86,6 @@
 		# Fertility God
 		FertilityGodName = tss_pantheonic_god_thanovas
 		FertilityGodNamePossessive = tss_pantheonic_god_thanovas_possessive
-		FertilityGodNameAlternate = tss_pantheonic_god_thanovas_seed_father
-		FertilityGodNameAlternatePossessive = tss_pantheonic_god_thanovas_seed_father_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_HE
 		FertilityGodHerHis = CHARACTER_HERHIS_HIS
 		FertilityGodHerHim = CHARACTER_HERHIM_HIM
@@ -130,16 +122,9 @@
 		# War God
 		WarGodName = tss_pantheonic_god_anor
 		WarGodNamePossessive = tss_pantheonic_god_anor_possessive
-		WarGodNameAlternate = tss_pantheonic_god_anor_lightbringer
-		WarGodNameAlternatePossessive = tss_pantheonic_god_anor_lightbringer_possessive
-		WarGodName2Alternate = tss_pantheonic_god_anor_all_king
-		WarGodName2AlternatePossessive = tss_pantheonic_god_anor_all_king_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
-		WarGodNameSheHe = CHARACTER_SHEHE_HE
-		WarGodHerselfHimself = CHARACTER_HIMSELF
-		WarGodAlternateHerHis = CHARACTER_HERHIS_HIS
-		WarGodNameAlternateSheHe = CHARACTER_SHEHE_HE
-		WarGodAlternateHerselfHimself = CHARACTER_HIMSELF
+		WarGodHerHim = CHARACTER_HERHIM_HIM
 		# Water God
 		WaterGodName = tss_pantheonic_god_vanas
 		WaterGodNamePossessive = tss_pantheonic_god_vanas_possessive
@@ -154,7 +139,7 @@
 		WealthGodHerHim = CHARACTER_HERHIM_HER
 		# Witch God
 		WitchGodName = tss_pantheonic_god_avtorea
-		WitchGodNamePossessive = tss_pantheonic_god_avtorea
+		WitchGodNamePossessive = tss_pantheonic_god_avtorea_possessive
 		WitchGodHerHis = CHARACTER_HERHIS_HER
 		WitchGodSheHe = CHARACTER_SHEHE_SHE
 		WitchGodHerHim = CHARACTER_HERHIM_HER
@@ -167,17 +152,26 @@
 		PantheonTermHasHave = pantheon_term_have
 		GoodGodNames = {
 			tss_pantheonic_god_anor
+			tss_pantheonic_god_anor_all_king
+			tss_pantheonic_god_anor_lightbringer
 			tss_pantheonic_god_cavtoras
 			tss_pantheonic_god_lyrelia
+			tss_pantheonic_god_lyrelia_star_eyed
 			tss_pantheonic_god_myrelia
+			tss_pantheonic_god_myrelia_daughter_of_the_sun
 			tss_pantheonic_god_ancavoros
 			tss_pantheonic_god_aetaron
+			tss_pantheonic_god_aetaron_lord_of_beasts
 			tss_pantheonic_god_ionava
+			tss_pantheonic_god_ionava_oathkeeper
 			tss_pantheonic_god_amoraia
 			tss_pantheonic_god_serathos
 			tss_pantheonic_god_incanas
+			tss_pantheonic_god_incanas_lord_of_storms
+			tss_pantheonic_god_incanas_thunderer
 			tss_pantheonic_god_aethelon
 			tss_pantheonic_god_thanovas
+			tss_pantheonic_god_thanovas_seed_father
 			tss_pantheonic_god_salevia
 		}
 
@@ -188,8 +182,14 @@
 		DevilHerselfHimself = CHARACTER_HERHIM_IT
 		EvilGodNames = {
 			tss_pantheonic_god_evthara
+			tss_pantheonic_god_evthara_all_queen
+			tss_pantheonic_god_evthara_dark_mother
 			tss_pantheonic_god_avtorea
+			tss_pantheonic_god_avtorea_plaguemother
 			tss_pantheonic_god_panthos
+			tss_pantheonic_god_panthos_peacebreaker
+			tss_pantheonic_god_patharan
+			tss_pantheonic_god_patharan_moon_lord
 			tss_pantheonic_god_aethelon
 			tss_pantheonic_god_virethea
 		}
@@ -277,6 +277,183 @@
 			}
 		}
 
+		faith_anatzeve = {
+			color = { 200 50 20 }
+			icon = mantrayana
+			religious_head = e_anoroth
+
+			holy_site = anorcedia
+			holy_site = ourasavel
+			holy_site = nortzavel
+			holy_site = morzain
+			holy_site = urdin
+
+			## Core Tenets
+			doctrine = tenet_children_of_the_sun
+			doctrine = tenet_pastoral_isolation
+			doctrine = tenet_ancestor_worship
+
+			## Doctrines
+			doctrine = doctrine_pluralism_righteous
+			doctrine = doctrine_pilgrimage_local_rites
+			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_clerical_function_taxation
+
+			holy_order_names = {
+				{ name = "holy_order_eguzkitzar" }
+				{ name = "holy_order_onortzale" }
+			}
+
+			localization = {
+				# High God
+				HighGodName = tss_pantheonic_god_anor_larrunic
+				HighGodNamePossessive = tss_pantheonic_god_anor_larrunic_possessive
+				HighGodNameAlternate = tss_pantheonic_god_anor_larrunic
+				HighGodNameAlternatePossessive = tss_pantheonic_god_anor_larrunic_possessive
+				HighGodName2 = tss_pantheonic_god_anor_larrunic
+				HighGodHerHis = CHARACTER_HERHIS_HIS
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+				# Creator God
+				CreatorName = tss_primordial_force_anathis_larrunic
+				CreatorNamePossessive = tss_primordial_force_anathis_larrunic_possessive
+				CreatorSheHe = CHARACTER_SHEHE_IT
+				CreatorHerHis = CHARACTER_HERHIS_ITS
+				CreatorHerHim = CHARACTER_HERHIM_IT
+				# Death God
+				DeathDeityName = tss_pantheonic_god_arathon_larrunic
+				DeathDeityNamePossessive = tss_pantheonic_god_arathon_larrunic_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_HE
+				DeathDeityHerHis = CHARACTER_HERHIS_HIS
+				DeathDeityHerHim = CHARACTER_HERHIS_HIS
+				# Fate God
+				FateGodName = tss_primordial_force_avtharon_larrunic
+				FateGodNamePossessive = tss_primordial_force_avtharon_larrunic_possessive
+				FateGodSheHe = CHARACTER_SHEHE_IT
+				FateGodHerHis = CHARACTER_HERHIS_ITS
+				FateGodHerHim = CHARACTER_HERHIM_ITS
+				# Fertility God
+				FertilityGodName = tss_pantheonic_god_thanovas_larrunic
+				FertilityGodNamePossessive = tss_pantheonic_god_thanovas_larrunic_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+				# Health God
+				HealthGodName = tss_pantheonic_god_salevia_larrunic
+				HealthGodNamePossessive = tss_pantheonic_god_salevia_larrunic_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+				# Household God
+				HouseholdGodName = tss_pantheonic_god_lyrelia_larrunic
+				HouseholdGodNamePossessive = tss_pantheonic_god_lyrelia_larrunic_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+				# Knowledge God
+				KnowledgeGodName = tss_pantheonic_god_cavtoras_larrunic
+				KnowledgeGodNamePossessive = tss_pantheonic_god_cavtoras_larrunic_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+				# Night God
+				NightGodName = tss_pantheonic_god_patharan_larrunic
+				NightGodNamePossessive = tss_pantheonic_god_patharan_larrunic_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				# Trickster God
+				TricksterGodName = tss_pantheonic_god_metiron_larrunic
+				TricksterGodNamePossessive = tss_pantheonic_god_metiron_larrunic_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+				# War God
+				WarGodName = tss_pantheonic_god_anor_larrunic
+				WarGodNamePossessive = tss_pantheonic_god_anor_larrunic_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				# Water God
+				WaterGodName = tss_pantheonic_god_vanas_larrunic
+				WaterGodNamePossessive = tss_pantheonic_god_vanas_larrunic_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+				# Wealth God
+				WealthGodName = tss_pantheonic_god_tagara_larrunic
+				WealthGodNamePossessive = tss_pantheonic_god_tagara_larrunic_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_SHE
+				WealthGodHerHis = CHARACTER_HERHIS_HER
+				WealthGodHerHim = CHARACTER_HERHIM_HER
+				# Witch God
+				WitchGodName = tss_pantheonic_god_avtorea_larrunic
+				WitchGodNamePossessive = tss_pantheonic_god_avtorea_larrunic_possessiev
+				WitchGodHerHis = CHARACTER_HERHIS_HER
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHim = CHARACTER_HERHIM_HER
+				WitchGodMistressMaster = mistress
+				WitchGodMotherFather = mother
+
+				PantheonTerm = tss_the_gods
+				PantheonTerm2 = tss_the_gods
+				PantheonTerm3 = tss_the_gods
+				PantheonTermHasHave = pantheon_term_have
+				GoodGodNames = {
+					tss_pantheonic_god_anor_larrunic
+					tss_pantheonic_god_cavtoras_larrunic
+					tss_pantheonic_god_lyrelia_larrunic
+					tss_pantheonic_god_myrelia_larrunic
+					tss_pantheonic_god_aetaron_larrunic
+					tss_pantheonic_god_incanas_larrunic
+					tss_pantheonic_god_aethelon_larrunic
+					tss_pantheonic_god_thanovas_larrunic
+					tss_pantheonic_god_salevia_larrunic
+				}
+
+				DevilName = tss_primordial_force_icathos_larrunic
+				DevilNamePossessive = tss_primordial_force_icathos_larrunic_possessive
+				DevilSheHe = CHARACTER_SHEHE_IT
+				DevilHerHis = CHARACTER_HERHIS_ITS
+				DevilHerselfHimself = CHARACTER_HERHIM_IT
+				EvilGodNames = {
+					tss_pantheonic_god_evthara_larrunic
+					tss_pantheonic_god_avtorea_larrunic
+					tss_pantheonic_god_panthos_larrunic
+					tss_pantheonic_god_aethelon_larrunic
+					tss_pantheonic_god_metiron_larrunic
+					tss_pantheonic_god_virethea_larrunic
+				}
+
+				HouseOfWorship = faith_anatzeve_house_of_worship
+				HouseOfWorship2 = faith_anatzeve_house_of_worship_2
+				HouseOfWorship3 = faith_anatzeve_house_of_worship_3
+				HouseOfWorshipPlural = faith_anatzeve_house_of_worship_plural
+
+				DevoteeMale = faith_anatzeve_devotee
+				DevoteeMalePlural = faith_anatzeve_devotee_plural
+				DevoteeFemale = faith_anatzeve_devotee
+				DevoteeFemalePlural = faith_anatzeve_devotee_plural
+				DevoteeNeuter = faith_anatzeve_devotee
+				DevoteeNeuterPlural = faith_anatzeve_devotee_plural
+
+				PriestMale = faith_anatzeve_priest
+				PriestMalePlural = faith_anatzeve_priest_plural
+				PriestFemale = faith_anatzeve_priest
+				PriestFemalePlural = faith_anatzeve_priest_plural
+				PriestNeuter = faith_anatzeve_priest
+				PriestNeuterPlural = faith_anatzeve_priest_plural
+				AltPriestTermPlural = faith_anatzeve_priest_alternate_plural
+
+				BishopMale = faith_anatzeve_bishop
+				BishopMalePlural = faith_anatzeve_bishop_plural
+				BishopFemale = faith_anatzeve_bishop
+				BishopFemalePlural = faith_anatzeve_bishop_plural
+				BishopNeuter = faith_anatzeve_bishop
+				BishopNeuterPlural = faith_anatzeve_bishop_plural
+			}
+		}
+
 		faith_anorcastos = {
 			color = { 120 0 0 }
 			icon = donyipoloism
@@ -297,6 +474,11 @@
 			doctrine = doctrine_monotheist
 			doctrine = doctrine_homosexuality_shunned
 			doctrine = doctrine_funeral_cremation
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_the_fourth_dawn" }
+				{ name = "holy_order_knights_of_the_true_flame" }
+			}
 
 			localization = {
 				ReligiousText = faith_anorcastos_religious_text
@@ -331,6 +513,103 @@
 			}
 		}
 
+		faith_funethresca = {
+			color = { 180 60 60 }
+			icon = custom_faith_burning_bush
+			religious_head = e_anoroth
+
+			holy_site = anorcedia
+			holy_site = ourasavel
+			holy_site = incanathar
+			holy_site = elarissos
+			holy_site = castrynios
+
+			## Core Tenets
+			doctrine = tenet_children_of_the_sun
+			doctrine = tenet_sacred_childbirth
+			doctrine = tenet_ritual_celebrations
+
+			## Doctrines
+			doctrine = doctrine_pluralism_righteous
+			doctrine = doctrine_pilgrimage_local_rites
+			doctrine = doctrine_clerical_function_taxation
+
+			holy_order_names = {
+				{ name = "holy_order_hallwardens" }
+				{ name = "holy_order_knights_of_the_drowned_sun" }
+			}
+
+			localization = {
+				# High God
+				HighGodName = tss_pantheonic_god_anor
+				HighGodNamePossessive = tss_pantheonic_god_anor_possessive
+				HighGodNameAlternate = tss_pantheonic_god_vanas
+				HighGodNameAlternatePossessive = tss_pantheonic_god_vanas_possessive
+				HighGodName2 = tss_pantheonic_god_anor_lightbringer
+				HighGodHerHis = CHARACTER_HERHIS_HIS
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+
+				PantheonTerm = tss_the_gods
+				PantheonTerm2 = tss_the_gods
+				PantheonTerm3 = tss_the_gods
+				PantheonTermHasHave = pantheon_term_have
+				GoodGodNames = {
+					tss_pantheonic_god_anor
+					tss_pantheonic_god_arathon
+					tss_pantheonic_god_cavtoras
+					tss_pantheonic_god_lyrelia
+					tss_pantheonic_god_myrelia
+					tss_pantheonic_god_ancavoros
+					tss_pantheonic_god_aetaron
+					tss_pantheonic_god_ionava
+					tss_pantheonic_god_amoraia
+					tss_pantheonic_god_vanas
+					tss_pantheonic_god_incanas
+					tss_pantheonic_god_thanovas
+					tss_pantheonic_god_salevia
+				}
+
+				EvilGodNames = {
+					tss_pantheonic_god_evthara
+					tss_pantheonic_god_avtorea
+					tss_pantheonic_god_aethelon
+					tss_pantheonic_god_metiron
+					tss_pantheonic_god_virethea
+				}
+
+				HouseOfWorship = faith_funethresca_house_of_worship
+				HouseOfWorship2 = faith_funethresca_house_of_worship_2
+				HouseOfWorship3 = faith_funethresca_house_of_worship_3
+				HouseOfWorshipPlural = faith_funethresca_house_of_worship_plural
+				ReligiousText = faith_funethresca_religious_text
+				ReligiousText2 = faith_funethresca_religious_text_2
+				ReligiousText3 = faith_funethresca_religious_text_3
+
+				DevoteeMale = faith_funethresca_devotee
+				DevoteeMalePlural = faith_funethresca_devotee_plural
+				DevoteeFemale = faith_funethresca_devotee
+				DevoteeFemalePlural = faith_funethresca_devotee_plural
+				DevoteeNeuter = faith_funethresca_devotee
+				DevoteeNeuterPlural = faith_funethresca_devotee_plural
+
+				PriestMale = faith_funethresca_priest
+				PriestMalePlural = faith_funethresca_priest_plural
+				PriestFemale = faith_funethresca_priest
+				PriestFemalePlural = faith_funethresca_priest_plural
+				PriestNeuter = faith_funethresca_priest
+				PriestNeuterPlural = faith_funethresca_priest_plural
+				AltPriestTermPlural = faith_funethresca_priest_alternate_plural
+
+				BishopMale = faith_funethresca_bishop
+				BishopMalePlural = faith_funethresca_bishop_plural
+				BishopFemale = faith_funethresca_bishop
+				BishopFemalePlural = faith_funethresca_bishop_plural
+				BishopNeuter = faith_funethresca_bishop
+				BishopNeuterPlural = faith_funethresca_bishop_plural
+			}
+		}
+
 		faith_sobranorye = {
 			color = { 140 80 140 }
 			icon = sabianism
@@ -353,18 +632,22 @@
 			doctrine = doctrine_homosexuality_shunned
 			doctrine = doctrine_clerical_function_alms_and_pacification
 
+			holy_order_names = {
+				{ name = "holy_order_knights_of_sun_and_moon" }
+				{ name = "holy_order_order_of_the_twin_lights" }
+				{ name = "holy_order_silvergold_company" }
+			}
+
 			localization = {
 				# High God
 				HighGodName = tss_pantheonic_god_anor_behatyn
 				HighGodNamePossessive = tss_pantheonic_god_anor_behatyn_possessive
 				HighGodNameAlternate = tss_pantheonic_god_patharan_behatyn
 				HighGodNameAlternatePossessive = tss_pantheonic_god_patharan_behatyn_possessive
+				HighGodName2 = tss_pantheonic_god_anor_behatyn
 				HighGodHerHis = CHARACTER_HERHIS_HIS
 				HighGodNameSheHe = CHARACTER_SHEHE_HE
 				HighGodHerselfHimself = CHARACTER_HIMSELF
-				HighGodAlternateHerHis = CHARACTER_HERHIS_HIS
-				HighGodNameAlternateSheHe = CHARACTER_SHEHE_HE
-				HighGodAlternateHerselfHimself = CHARACTER_HIMSELF
 				# Creator God
 				CreatorName = tss_primordial_force_anathis_behatyn
 				CreatorNamePossessive = tss_primordial_force_anathis_behatyn_possessive
@@ -422,9 +705,9 @@
 				# War God
 				WarGodName = tss_pantheonic_god_anor_behatyn
 				WarGodNamePossessive = tss_pantheonic_god_anor_behatyn_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
 				WarGodHerHis = CHARACTER_HERHIS_HIS
-				WarGodNameSheHe = CHARACTER_SHEHE_HE
-				WarGodHerselfHimself = CHARACTER_HIMSELF
+				WarGodHerHim = CHARACTER_HERHIM_HIM
 				# Water God
 				WaterGodName = tss_pantheonic_god_vanas_behatyn
 				WaterGodNamePossessive = tss_pantheonic_god_vanas_behatyn_possessive
@@ -520,269 +803,6 @@
 				NegativeAfterLife = faith_sobranorye_positive_afterlife
 				NegativeAfterLife2 = faith_sobranorye_positive_afterlife
 				NegativeAfterLife3 = faith_sobranorye_positive_afterlife
-			}
-		}
-
-		faith_anatzeve = {
-			color = { 200 50 20 }
-			icon = mantrayana
-			religious_head = e_anoroth
-
-			holy_site = anorcedia
-			holy_site = ourasavel
-			holy_site = nortzavel
-			holy_site = morzain
-			holy_site = urdin
-
-			## Core Tenets
-			doctrine = tenet_children_of_the_sun
-			doctrine = tenet_pastoral_isolation
-			doctrine = tenet_ancestor_worship
-
-			## Doctrines
-			doctrine = doctrine_pluralism_righteous
-			doctrine = doctrine_pilgrimage_local_rites
-			doctrine = doctrine_homosexuality_shunned
-			doctrine = doctrine_clerical_function_taxation
-
-			localization = {
-				# High God
-				HighGodName = tss_pantheonic_god_anor_larrunic
-				HighGodNamePossessive = tss_pantheonic_god_anor_larrunic_possessive
-				HighGodHerHis = CHARACTER_HERHIS_HIS
-				HighGodNameSheHe = CHARACTER_SHEHE_HE
-				HighGodHerselfHimself = CHARACTER_HIMSELF
-				# Creator God
-				CreatorName = tss_primordial_force_anathis_larrunic
-				CreatorNamePossessive = tss_primordial_force_anathis_larrunic_possessive
-				CreatorSheHe = CHARACTER_SHEHE_IT
-				CreatorHerHis = CHARACTER_HERHIS_ITS
-				CreatorHerHim = CHARACTER_HERHIM_IT
-				# Death God
-				DeathDeityName = tss_pantheonic_god_arathon_larrunic
-				DeathDeityNamePossessive = tss_pantheonic_god_arathon_larrunic_possessive
-				DeathDeitySheHe = CHARACTER_SHEHE_HE
-				DeathDeityHerHis = CHARACTER_HERHIS_HIS
-				DeathDeityHerHim = CHARACTER_HERHIS_HIS
-				# Fate God
-				FateGodName = tss_primordial_force_avtharon_larrunic
-				FateGodNamePossessive = tss_primordial_force_avtharon_larrunic_possessive
-				FateGodSheHe = CHARACTER_SHEHE_IT
-				FateGodHerHis = CHARACTER_HERHIS_ITS
-				FateGodHerHim = CHARACTER_HERHIM_ITS
-				# Fertility God
-				FertilityGodName = tss_pantheonic_god_thanovas_larrunic
-				FertilityGodNamePossessive = tss_pantheonic_god_thanovas_larrunic_possessive
-				FertilityGodSheHe = CHARACTER_SHEHE_HE
-				FertilityGodHerHis = CHARACTER_HERHIS_HIS
-				FertilityGodHerHim = CHARACTER_HERHIM_HIM
-				# Health God
-				HealthGodName = tss_pantheonic_god_salevia_larrunic
-				HealthGodNamePossessive = tss_pantheonic_god_salevia_larrunic_possessive
-				HealthGodSheHe = CHARACTER_SHEHE_SHE
-				HealthGodHerHis = CHARACTER_HERHIS_HER
-				HealthGodHerHim = CHARACTER_HERHIM_HER
-				# Household God
-				HouseholdGodName = tss_pantheonic_god_lyrelia_larrunic
-				HouseholdGodNamePossessive = tss_pantheonic_god_lyrelia_larrunic_possessive
-				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
-				HouseholdGodHerHis = CHARACTER_HERHIS_HER
-				HouseholdGodHerHim = CHARACTER_HERHIM_HER
-				# Knowledge God
-				KnowledgeGodName = tss_pantheonic_god_cavtoras_larrunic
-				KnowledgeGodNamePossessive = tss_pantheonic_god_cavtoras_larrunic_possessive
-				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
-				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
-				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
-				# Night God
-				NightGodName = tss_pantheonic_god_patharan_larrunic
-				NightGodNamePossessive = tss_pantheonic_god_patharan_larrunic_possessive
-				NightGodSheHe = CHARACTER_SHEHE_HE
-				NightGodHerHis = CHARACTER_HERHIS_HIS
-				NightGodHerHim = CHARACTER_HERHIM_HIM
-				# Trickster God
-				TricksterGodName = tss_pantheonic_god_metiron_larrunic
-				TricksterGodNamePossessive = tss_pantheonic_god_metiron_larrunic_possessive
-				TricksterGodSheHe = CHARACTER_SHEHE_HE
-				TricksterGodHerHis = CHARACTER_HERHIS_HIS
-				TricksterGodHerHim = CHARACTER_HERHIM_HIM
-				# War God
-				WarGodName = tss_pantheonic_god_anor_larrunic
-				WarGodNamePossessive = tss_pantheonic_god_anor_larrunic_possessive
-				WarGodHerHis = CHARACTER_HERHIS_HIS
-				WarGodNameSheHe = CHARACTER_SHEHE_HE
-				WarGodHerselfHimself = CHARACTER_HIMSELF
-				# Water God
-				WaterGodName = tss_pantheonic_god_vanas_larrunic
-				WaterGodNamePossessive = tss_pantheonic_god_vanas_larrunic_possessive
-				WaterGodSheHe = CHARACTER_SHEHE_HE
-				WaterGodHerHis = CHARACTER_HERHIS_HIS
-				WaterGodHerHim = CHARACTER_HERHIM_HIM
-				# Wealth God
-				WealthGodName = tss_pantheonic_god_tagara_larrunic
-				WealthGodNamePossessive = tss_pantheonic_god_tagara_larrunic_possessive
-				WealthGodSheHe = CHARACTER_SHEHE_SHE
-				WealthGodHerHis = CHARACTER_HERHIS_HER
-				WealthGodHerHim = CHARACTER_HERHIM_HER
-				# Witch God
-				WitchGodName = tss_pantheonic_god_avtorea_larrunic
-				WitchGodNamePossessive = tss_pantheonic_god_avtorea_larrunic_possessiev
-				WitchGodHerHis = CHARACTER_HERHIS_HER
-				WitchGodSheHe = CHARACTER_SHEHE_SHE
-				WitchGodHerHim = CHARACTER_HERHIM_HER
-				WitchGodMistressMaster = mistress
-				WitchGodMotherFather = mother
-
-				PantheonTerm = tss_the_gods
-				PantheonTerm2 = tss_the_gods
-				PantheonTerm3 = tss_the_gods
-				PantheonTermHasHave = pantheon_term_have
-				GoodGodNames = {
-					tss_pantheonic_god_anor_larrunic
-					tss_pantheonic_god_cavtoras_larrunic
-					tss_pantheonic_god_lyrelia_larrunic
-					tss_pantheonic_god_myrelia_larrunic
-					tss_pantheonic_god_aetaron_larrunic
-					tss_pantheonic_god_incanas_larrunic
-					tss_pantheonic_god_aethelon_larrunic
-					tss_pantheonic_god_thanovas_larrunic
-					tss_pantheonic_god_salevia_larrunic
-				}
-
-				DevilName = tss_primordial_force_icathos_larrunic
-				DevilNamePossessive = tss_primordial_force_icathos_larrunic_possessive
-				DevilSheHe = CHARACTER_SHEHE_IT
-				DevilHerHis = CHARACTER_HERHIS_ITS
-				DevilHerselfHimself = CHARACTER_HERHIM_IT
-				EvilGodNames = {
-					tss_pantheonic_god_evthara_larrunic
-					tss_pantheonic_god_avtorea_larrunic
-					tss_pantheonic_god_panthos_larrunic
-					tss_pantheonic_god_aethelon_larrunic
-					tss_pantheonic_god_metiron_larrunic
-					tss_pantheonic_god_virethea_larrunic
-				}
-
-				HouseOfWorship = faith_anatzeve_house_of_worship
-				HouseOfWorship2 = faith_anatzeve_house_of_worship_2
-				HouseOfWorship3 = faith_anatzeve_house_of_worship_3
-				HouseOfWorshipPlural = faith_anatzeve_house_of_worship_plural
-
-				DevoteeMale = faith_anatzeve_devotee
-				DevoteeMalePlural = faith_anatzeve_devotee_plural
-				DevoteeFemale = faith_anatzeve_devotee
-				DevoteeFemalePlural = faith_anatzeve_devotee_plural
-				DevoteeNeuter = faith_anatzeve_devotee
-				DevoteeNeuterPlural = faith_anatzeve_devotee_plural
-
-				PriestMale = faith_anatzeve_priest
-				PriestMalePlural = faith_anatzeve_priest_plural
-				PriestFemale = faith_anatzeve_priest
-				PriestFemalePlural = faith_anatzeve_priest_plural
-				PriestNeuter = faith_anatzeve_priest
-				PriestNeuterPlural = faith_anatzeve_priest_plural
-				AltPriestTermPlural = faith_anatzeve_priest_alternate_plural
-
-				BishopMale = faith_anatzeve_bishop
-				BishopMalePlural = faith_anatzeve_bishop_plural
-				BishopFemale = faith_anatzeve_bishop
-				BishopFemalePlural = faith_anatzeve_bishop_plural
-				BishopNeuter = faith_anatzeve_bishop
-				BishopNeuterPlural = faith_anatzeve_bishop_plural
-			}
-		}
-
-		faith_funethresca = {
-			color = { 180 60 60 }
-			icon = custom_faith_burning_bush
-			religious_head = e_anoroth
-
-			holy_site = anorcedia
-			holy_site = ourasavel
-			holy_site = incanathar
-			holy_site = elarissos
-			holy_site = castrynios
-
-			## Core Tenets
-			doctrine = tenet_children_of_the_sun
-			doctrine = tenet_sacred_childbirth
-			doctrine = tenet_ritual_celebrations
-
-			## Doctrines
-			doctrine = doctrine_pluralism_righteous
-			doctrine = doctrine_pilgrimage_local_rites
-			doctrine = doctrine_clerical_function_taxation
-
-			localization = {
-				# High God
-				HighGodName = tss_pantheonic_god_anor
-				HighGodNamePossessive = tss_pantheonic_god_anor_possessive
-				HighGodNameAlternate = tss_pantheonic_god_vanas
-				HighGodNameAlternatePossessive = tss_pantheonic_god_vanas_possessive
-				HighGodHerHis = CHARACTER_HERHIS_HIS
-				HighGodNameSheHe = CHARACTER_SHEHE_HE
-				HighGodHerselfHimself = CHARACTER_HIMSELF
-				HighGodAlternateHerHis = CHARACTER_HERHIS_HIS
-				HighGodAlternateSheHe = CHARACTER_SHEHE_HE
-				HighGodAlternateHerselfHimself = CHARACTER_HIMSELF
-
-				PantheonTerm = tss_the_gods
-				PantheonTerm2 = tss_the_gods
-				PantheonTerm3 = tss_the_gods
-				PantheonTermHasHave = pantheon_term_have
-				GoodGodNames = {
-					tss_pantheonic_god_anor
-					tss_pantheonic_god_arathon
-					tss_pantheonic_god_cavtoras
-					tss_pantheonic_god_lyrelia
-					tss_pantheonic_god_myrelia
-					tss_pantheonic_god_ancavoros
-					tss_pantheonic_god_aetaron
-					tss_pantheonic_god_ionava
-					tss_pantheonic_god_amoraia
-					tss_pantheonic_god_vanas
-					tss_pantheonic_god_incanas
-					tss_pantheonic_god_thanovas
-					tss_pantheonic_god_salevia
-				}
-
-				EvilGodNames = {
-					tss_pantheonic_god_evthara
-					tss_pantheonic_god_avtorea
-					tss_pantheonic_god_aethelon
-					tss_pantheonic_god_metiron
-					tss_pantheonic_god_virethea
-				}
-
-				HouseOfWorship = faith_funethresca_house_of_worship
-				HouseOfWorship2 = faith_funethresca_house_of_worship_2
-				HouseOfWorship3 = faith_funethresca_house_of_worship_3
-				HouseOfWorshipPlural = faith_funethresca_house_of_worship_plural
-				ReligiousText = faith_funethresca_religious_text
-				ReligiousText2 = faith_funethresca_religious_text_2
-				ReligiousText3 = faith_funethresca_religious_text_3
-
-				DevoteeMale = faith_funethresca_devotee
-				DevoteeMalePlural = faith_funethresca_devotee_plural
-				DevoteeFemale = faith_funethresca_devotee
-				DevoteeFemalePlural = faith_funethresca_devotee_plural
-				DevoteeNeuter = faith_funethresca_devotee
-				DevoteeNeuterPlural = faith_funethresca_devotee_plural
-
-				PriestMale = faith_funethresca_priest
-				PriestMalePlural = faith_funethresca_priest_plural
-				PriestFemale = faith_funethresca_priest
-				PriestFemalePlural = faith_funethresca_priest_plural
-				PriestNeuter = faith_funethresca_priest
-				PriestNeuterPlural = faith_funethresca_priest_plural
-				AltPriestTermPlural = faith_funethresca_priest_alternate_plural
-
-				BishopMale = faith_funethresca_bishop
-				BishopMalePlural = faith_funethresca_bishop_plural
-				BishopFemale = faith_funethresca_bishop
-				BishopFemalePlural = faith_funethresca_bishop_plural
-				BishopNeuter = faith_funethresca_bishop
-				BishopNeuterPlural = faith_funethresca_bishop_plural
 			}
 		}
 	}

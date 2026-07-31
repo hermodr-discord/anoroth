@@ -59,6 +59,9 @@
 		# High God
 		HighGodName = tss_helyv_god_hegyatya
 		HighGodNamePossessive = tss_helyv_god_hegyatya_possessive
+		HighGodNameAlternate = tss_helyv_god_hegyatya
+		HighGodNameAlternatePossessive = tss_helyv_god_hegyatya_possessive
+		HighGodName2 = tss_helyv_god_hegyatya
 		HighGodHerHis = CHARACTER_HERHIS_HIS
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
@@ -119,9 +122,9 @@
 		# War God
 		WarGodName = tss_helyv_god_farkasver
 		WarGodNamePossessive = tss_helyv_god_farkasver_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
-		WarGodNameSheHe = CHARACTER_SHEHE_HE
-		WarGodHerselfHimself = CHARACTER_HIMSELF
+		WarGodHerHim = CHARACTER_HERHIM_HIM
 		# Water God
 		WaterGodName = tss_helyv_god_forrasvira
 		WaterGodNamePossessive = tss_helyv_god_forrasvira_possessive

@@ -1,0 +1,21 @@
+﻿l_english:
+### CORE TENETS
+ tenet_children_of_the_sun_name:0 "Children of the Sun"
+ tenet_children_of_the_sun_desc:0 "Anór, the Lightbringer, All-King, rules supreme as King of the Gods. All mankind are his servants, children under His furious gaze."
+
+ tenet_endless_skies_name:0 "Endless Skies"
+ tenet_endless_skies_desc:0 "The Skies are vast and full of life, when we look up into the endless blue we see only divinity."
+
+ tenet_ilg_e_garna_name:0 "Ilg e-Garna"
+ tenet_ilg_e_garna_desc:0 "The Marsh is us and we are the Marsh. Our practices are our own, the meddling feet of outsiders will sink beneath the mud."
+
+ tenet_mythical_forgery_name:0 "Mythical Forgery"
+ tenet_mythical_forgery_desc:0 "We are blessed by the great skies with metals from His forge, and we use them wisely."
+
+ tenet_prosperity_gospel_name:0 "Prosperity Gospel"
+ tenet_prosperity_gospel_desc:0 "To bring prosperity and wealth is to bring piety. All a person should endeavor for is greater profits for their community."
+ doctrine_parameter_prosperity_gospel_law_costs:0 "Reduce law costs by #P -10%#! for each [virtue|E] a ruler has"
+ doctrine_parameter_prosperity_gospel_law_costs_2:0 "Increase law costs by #N 10%#! for each [sin|E] a ruler has"
+
+ tenet_tidebound_name:0 "Tidebound"
+ tenet_tidebound_desc:0 "She of Ocean and Wind has guided us here, far from our home, carried by and bound to the Tides."

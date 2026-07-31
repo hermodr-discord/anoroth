@@ -46,8 +46,12 @@
 	}
 
 	holy_order_names = {
-		{ name = "holy_order_myrmidons" }
-		{ name = "holy_order_priesthood_of_ares" }
+		{ name = "holy_order_keepers_of_midnight" }
+		{ name = "holy_order_knights_of_the_silver_watch" }
+		{ name = "holy_order_moonwardens" }
+		{ name = "holy_order_order_of_the_lunar_throne" }
+		{ name = "holy_order_shadowbearers" }
+		{ name = "holy_order_whitecloaks" }
 	}
 
 	holy_order_maa = { praetorian }
@@ -56,6 +60,9 @@
 		# High God
 		HighGodName = tss_pantheonic_god_patharan
 		HighGodNamePossessive = tss_pantheonic_god_patharan_possessive
+		HighGodNameAlternate = tss_pantheonic_god_patharan_moon_lord
+		HighGodNameAlternatePossessive = tss_pantheonic_god_patharan_moon_lord_possessive
+		HighGodName2 = tss_pantheonic_god_patharan
 		HighGodHerHis = CHARACTER_HERHIS_HIS
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
@@ -116,9 +123,9 @@
 		# War God
 		WarGodName = tss_pantheonic_god_anor
 		WarGodNamePossessive = tss_pantheonic_god_anor_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
-		WarGodNameSheHe = CHARACTER_SHEHE_HE
-		WarGodHerselfHimself = CHARACTER_HIMSELF
+		WarGodHerHim = CHARACTER_HERHIM_HIM
 		# Water God
 		WaterGodName = tss_pantheonic_god_vanas
 		WaterGodNamePossessive = tss_pantheonic_god_vanas_possessive
@@ -146,11 +153,15 @@
 		PantheonTermHasHave = pantheon_term_have
 		GoodGodNames = {
 			tss_pantheonic_god_patharan
+			tss_pantheonic_god_patharan_moon_lord
 			tss_pantheonic_god_serathos
 			tss_pantheonic_god_lyrelia
+			tss_pantheonic_god_lyrelia_star_eyed
 			tss_pantheonic_god_ionava
+			tss_pantheonic_god_ionava_oathkeeper
 			tss_pantheonic_god_amoraia
 			tss_pantheonic_god_thanovas
+			tss_pantheonic_god_thanovas_seed_father
 			tss_pantheonic_god_salevia
 		}
 
@@ -161,8 +172,11 @@
 		DevilHerselfHimself = CHARACTER_HERHIM_IT
 		EvilGodNames = {
 			tss_pantheonic_god_anor
+			tss_pantheonic_god_anor_lightbringer
 			tss_pantheonic_god_evthara
+			tss_pantheonic_god_evthara_dark_mother
 			tss_pantheonic_god_avtorea
+			tss_pantheonic_god_avtorea_plaguemother
 			tss_pantheonic_god_metiron
 			tss_pantheonic_god_virethea
 		}
@@ -233,10 +247,20 @@
 			doctrine = tenet_alexandrian_catechism
 			doctrine = tenet_ritual_hospitality
 
+			holy_order_names = {
+				{ name = "holy_order_beronova_strazha" }
+				{ name = "holy_order_nochtyrova_strazha" }
+				{ name = "holy_order_order_of_vorozhar" }
+				{ name = "holy_order_vechernyy" }
+			}
+
 			localization = {
 				# High God
 				HighGodName = tss_pantheonic_god_patharan_behatyn
 				HighGodNamePossessive = tss_pantheonic_god_patharan_behatyn_possessive
+				HighGodNameAlternate = tss_pantheonic_god_patharan_behatyn
+				HighGodNameAlternatePossessive = tss_pantheonic_god_patharan_behatyn_possessive
+				HighGodName2 = tss_pantheonic_god_patharan_behatyn
 				HighGodHerHis = CHARACTER_HERHIS_HIS
 				HighGodNameSheHe = CHARACTER_SHEHE_HE
 				HighGodHerselfHimself = CHARACTER_HIMSELF
@@ -297,9 +321,9 @@
 				# War God
 				WarGodName = tss_pantheonic_god_anor_behatyn
 				WarGodNamePossessive = tss_pantheonic_god_anor_behatyn_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
 				WarGodHerHis = CHARACTER_HERHIS_HIS
-				WarGodNameSheHe = CHARACTER_SHEHE_HE
-				WarGodHerselfHimself = CHARACTER_HIMSELF
+				WarGodHerHim = CHARACTER_HERHIM_HIM
 				# Water God
 				WaterGodName = tss_pantheonic_god_vanas_behatyn
 				WaterGodNamePossessive = tss_pantheonic_god_vanas_behatyn_possessive

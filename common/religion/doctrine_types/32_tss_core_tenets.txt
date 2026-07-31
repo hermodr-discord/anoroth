@@ -61,18 +61,49 @@ tenet_endless_skies = {
 		unlock_voluntary_laampdom_faith = yes
 	}
 }
+# Ilg e-Garna
+tenet_ilg_e_garna = {
+	icon = core_tenet_sanctity_of_nature
+
+	piety_cost = {
+		value = faith_tenet_cost_massive
+
+		# Multiplier for keeping same tenet
+		if = {
+			limit = { has_doctrine = tenet_ilg_e_garna }
+			multiply = faith_unchanged_doctrine_cost_mult
+		}
+	}
+
+	is_shown = {
+		OR = {
+			religion_tag = oreg_religion
+			has_doctrine = tenet_ilg_e_garna
+		}
+	}
+
+	character_modifier = {
+		deep_marsh_advantage = 5
+		wetlands_advantage = 5
+		build_gold_cost = 0.2
+		domicile_build_gold_cost = 0.2
+		holding_build_gold_cost = 0.2
+		prowess = 5
+		tolerance_advantage_mod = 5
+	}
+}
 # Mythical Forgery
 tenet_mythical_forgery = {
 	icon = core_tenet_ritual_hospitality
 
 	piety_cost = {
 		value = faith_tenet_cost_massive
-	}
 
-	# Multiplier for keeping same tenet
-	if = {
-		limit = { has_doctrine = tenet_mythical_forgery }
-		multiply = faith_unchanged_doctrine_cost_mult
+		# Multiplier for keeping same tenet
+		if = {
+			limit = { has_doctrine = tenet_mythical_forgery }
+			multiply = faith_unchanged_doctrine_cost_mult
+		}
 	}
 
 	is_shown = {
@@ -86,7 +117,71 @@ tenet_mythical_forgery = {
 		better_artifacts = yes
 	}
 }
+# Prosperity Gospel
+tenet_prosperity_gospel = {
+	icon = core_tenet_hedonistic
 
+	piety_cost = {
+		value = faith_tenet_cost_massive
+
+		# Multiplier for keeping same tenet
+		if = {
+			limit = { has_doctrine = tenet_prosperity_gospel }
+			multiply = faith_unchanged_doctrine_cost_mult
+		}
+	}
+
+	is_shown = {
+		OR = {
+			religion_tag = tagaric_religion
+			has_doctrine = tenet_prosperity_gospel
+		}
+	}
+
+	character_modifier = {
+		tax_mult = 0.1
+		build_gold_cost = -0.1
+		domicile_build_gold_cost = -0.1
+		holding_build_gold_cost = -0.1
+		county_opinion_add = 10
+	}
+
+	parameters = {
+		prosperity_gospel_law_costs = yes
+		prosperity_gospel_law_costs_2 = yes
+	}
+}
+tenet_tidebound = {
+	icon = core_tenet_eastern_syncretism
+
+	piety_cost = {
+		value = faith_tenet_cost_massive
+
+		# Multiplier for keeping same tenet
+		if = {
+			limit = { has_doctrine = tenet_tidebound }
+			multiply = faith_unchanged_doctrine_cost_mult
+		}
+	}
+
+	is_shown = {
+		OR = {
+			religion_tag = luveran_religion
+			has_doctrine = tenet_tidebound
+		}
+	}
+
+	character_modifier = {
+		naval_movement_speed_mult = 0.25
+	}
+
+	parameters = {
+		spirit_possession_active = yes
+		same_culture_conversion_bonus_active = yes
+		same_faith_promote_culture_bonus_active = yes
+		other_culture_conversion_penalty_active = yes
+	}
+}
 ########################
 # Empty Template Tenet #
 ########################

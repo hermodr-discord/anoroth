@@ -1,0 +1,15 @@
+﻿l_english:
+
+ deep_marsh: "Deep Marsh"
+ terrain_deep_marsh: "Deep Marsh"
+ deep_marsh_desc: "The Deep Marsh is a dense and twisted drowned labyrinth of mud, black water, and creeping fog, where the ground itself cannot be trusted to hold. Only those born to its endless vines can hope to find their way through."
+ combat_deep_marsh: "Defending in the Deep Marsh"
+ religious_decision.0201.deep_marsh: "The twisting vines of [deep_marsh_location.GetNameNoTooltip]."
+ religious_decision.0211.desc.beginning.deep_marsh: "The buzzing insects and croaking frogs of the [ROOT.Char.GetCurrentActivity.GetLocation.GetName] marsh provided a constant background noise as I sought to look inside myself."
+
+ urban: "Urban"
+ terrain_urban: "Urban"
+ urban_desc: "Dense and populous, Urban areas are those great cities of the world. Dense, sprawling, and built up over generations, within their walls stone and commerce leave little room for open ground."
+ combat_urban: "Defending in Urban"
+ religious_decision.0201.urban: "The bustling streets of [urban_location.GetNameNoTooltip]."
+ religious_decision.0211.desc.beginning.urban: "The chattering people of the [ROOT.Char.GetCurrentActivity.GetLocation.GetName] square provided a constant background noise as I looked within myself."

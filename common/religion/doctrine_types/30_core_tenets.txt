@@ -884,10 +884,6 @@ tenet_vows_of_poverty = {
 tenet_pastoral_isolation = {
 	icon = core_tenet_pastoral_isolation
 
-	is_shown = {
-		religion_tag = christianity_religion
-	}
-
 	can_pick = {
 		custom_description = {
 			text = doctrine_no_head_of_faith_trigger
@@ -906,9 +902,7 @@ tenet_pastoral_isolation = {
 	}
 
 	parameters = {
-		hostility_override_special_doctrine_is_christian_faith = 0
-		#For loc:
-		is_christian_faith_pastoral_isolation_loc_override = 0
+		hostility_same_family = 0
 		sanctioned_false_conversion = yes
 		unattractive_for_character_conversions = yes
 		tenet_unlocks_t3_withdraw_from_view = yes
@@ -919,8 +913,6 @@ tenet_pastoral_isolation = {
 		different_faith_liege_opinion = 10
 		opinion_of_different_faith_liege = 10
 	}
-
-	traits = {}
 }
 
 tenet_rite = {
@@ -2181,13 +2173,6 @@ tenet_mystical_birthright = {
 		if = {
 			limit = { has_doctrine = tenet_mystical_birthright }
 			multiply = faith_unchanged_doctrine_cost_mult
-		}
-	}
-
-	is_shown = {
-		OR = {
-			religion_tag = magyar_religion
-			has_doctrine = tenet_mystical_birthright #If you already have it
 		}
 	}
 

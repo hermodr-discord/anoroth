@@ -988,9 +988,17 @@ e_anoroth = { # Anóroth
             c_castrynon = { # Castrynon
                 color = { 140 38 27 }
 
+                cultural_names = {
+                    name_list_tharun = cn_kastrovik
+                }
+
                 b_castrynios = { # Castrynios
                     province = 143
                     color = { 140 38 27 }
+
+                    cultural_names = {
+                        name_list_tharun = cn_kastrovik
+                    }
                 }
                 b_falestra = { # Falestra
                     province = 136
@@ -5518,10 +5526,10 @@ e_eburomarc = { # Eburomarc / Agalreman
                     color = { 93 50 107 }
                 }
             }
-            c_grimscythe = { # Grimscythe
+            c_grimmscythe = { # Grimmscythe
                 color = { 161 45 146 }
 
-                b_grimscythe = { # Grimscythe
+                b_grimmscythe = { # Grimmscythe
                     province = 972
                     color = { 161 45 146 }
                 }
@@ -6551,9 +6559,6 @@ e_oromseger = { # Orömseger / Galtharran
 }
 
 #RELIGIOUS HEADS | All here just for brevity, comment out ones that are unused
-d_ilg_e_garna = { landless = yes }
-d_toqarut = { landless = yes }
-d_ronarvir = { landless = yes }
 k_eclipsed_realm = {
 	color = { 30 30 70 }
 	definite_form = yes

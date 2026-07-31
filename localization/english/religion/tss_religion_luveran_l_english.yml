@@ -1,0 +1,42 @@
+﻿l_english:
+
+### Luveran Religions
+ luveran_religion:0 "Luveran"
+ luveran_religion_adj:0 "Luveran"
+ luveran_religion_adherent:0 "Luveran"
+ luveran_religion_adherent_plural:0 "Luverans"
+ luveran_religion_desc:0 "The Luveran faiths see the sea as a living force, one to be read, respected, and moved with rather than against. Ancestors are honored as just as much a part of the community as they were in life, their memory carried in the same tides their descendants now sail. Belief here is rarely solitary, to worship is to belong, and to belong is to rise and fall with one's kin as a single body of water."
+
+ luveran_house_of_worship:0 "temple"
+ luveran_house_of_worship_2:0 "$luveran_house_of_worship$" # Optional translation alt
+ luveran_house_of_worship_3:0 "$luveran_house_of_worship$" # Optional translation alt
+ luveran_house_of_worship_plural:0 "temples"
+ luveran_religious_symbol:0 "moon"
+ luveran_religious_symbol_2:0 "$luveran_religious_symbol$" # Optional translation alt
+ luveran_religious_symbol_3:0 "$luveran_religious_symbol$" # Optional translation alt
+ luveran_religious_text:0 "Isana's Teachings"
+ luveran_religious_text_2:0 "$luveran_religious_text$" # Optional translation alt
+ luveran_religious_text_3:0 "$luveran_religious_text$" # Optional translation alt
+
+ luveran_religious_head_title:0 "High Shaman"
+ luveran_religious_head_title_name:0 "Isana's Devoted"
+
+ luveran_bishop:0 "$luveran_priest$"
+ luveran_bishop_plural:0 "$luveran_priest_plural$"
+
+ luveran_priest:0 "shaman"
+ luveran_priest_plural:0 "shamans"
+ luveran_priest_alternate_plural:1 "elders"
+
+ luveran_devotee:0 "devotee"
+ luveran_devoteeplural:0 "devotees"
+
+ luveran_divine_realm:0 "Isana's Realm"
+ luveran_afterlife:0 "Isana's Embrace"
+
+ ### Isanara
+ faith_isanara:0 "Isanara"
+ faith_isanara_adj:0 "Isanaran"
+ faith_isanara_adherent:0 "Isanaran"
+ faith_isanara_adherent_plural:0 "Isanarans"
+ faith_isanara_desc:0 "The Isanara worship Isana, She of the Ocean and the Wind, as the sole power worth devotion. Her moods read in the moon's pull, the turn of the tide, and the favor or fury of the open sea. The honored dead are not forgotten but carried onward, remembered alongside the living and welcomed into Isana's own embrace if their life was lived well. Newcomers are rarely turned away, like the tide itself, Isanara draws in what drifts toward it and folds it into the whole, so long as it is willing to move as one with the rest."

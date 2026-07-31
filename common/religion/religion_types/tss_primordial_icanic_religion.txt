@@ -46,8 +46,9 @@
 	}
 
 	holy_order_names = {
-		{ name = "holy_order_myrmidons" }
-		{ name = "holy_order_priesthood_of_ares" }
+		{ name = "holy_order_malevolent_knights" }
+		{ name = "holy_order_order_of_the_final_reckoning" }
+		{ name = "holy_order_order_of_the_great_dread" }
 	}
 
 	holy_order_maa = { praetorian }
@@ -56,6 +57,9 @@
 		# High God
 		HighGodName = tss_primordial_force_icathos
 		HighGodNamePossessive = tss_primordial_force_icathos_possessive
+		HighGodNameAlternate = tss_primordial_force_icathos
+		HighGodNameAlternatePossessive = tss_primordial_force_icathos_possessive
+		HighGodName2 = tss_primordial_force_icathos
 		HighGodHerHis = CHARACTER_HERHIS_ITS
 		HighGodNameSheHe = CHARACTER_SHEHE_IT
 		HighGodHerselfHimself = CHARACTER_ITSELF
@@ -116,9 +120,9 @@
 		# War God
 		WarGodName = tss_primordial_force_icathos
 		WarGodNamePossessive = tss_primordial_force_icathos_possessive
+		WarGodSheHe = CHARACTER_SHEHE_IT
 		WarGodHerHis = CHARACTER_HERHIS_ITS
-		WarGodNameSheHe = CHARACTER_SHEHE_IT
-		WarGodHerselfHimself = CHARACTER_ITSELF
+		WarGodHerHim = CHARACTER_HERHIM_ITS
 		# Water God
 		WaterGodName = tss_primordial_force_icathos
 		WaterGodNamePossessive = tss_primordial_force_icathos_possessive
@@ -219,12 +223,17 @@
 			holy_site = boltayvar
 			holy_site = aldoros
 
+			## Core Tenets
 			doctrine = tenet_pursuit_of_power
 			doctrine = tenet_unrelenting_faith
 			doctrine_selection_pair = {
 				requires_dlc_flag = legacy_of_persia
 				doctrine = tenet_fp3_fedayeen
 				fallback_doctrine = tenet_struggle_submission
+			}
+
+			holy_order_names = {
+				{ name = "holy_order_order_of_the_closed_eye" }
 			}
 		}
 	}

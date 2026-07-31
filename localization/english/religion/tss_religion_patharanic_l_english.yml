@@ -28,8 +28,8 @@
  patharanic_priest_plural:0 "Priests"
  patharanic_priest_alternate_plural:0 "Clergy"
 
- patharanic_devotee:0 "patharánic"
- patharanic_devotee_plural:0 "patharánics"
+ patharanic_devotee:0 "devotee"
+ patharanic_devotee_plural:0 "devotees"
 
  patharanic_divine_realm:0 "the Moon"
 
@@ -50,8 +50,8 @@
  faith_beronovy_priest_plural:0 "Starazhniki"
  faith_beronovy_priest_alternate_plural:0 "Starazhniki"
 
- faith_beronovy_devotee:0 "beroneskiy"
- faith_beronovy_devotee_plural:0 "beroneskiya"
+ faith_beronovy_devotee:0 "devotee"
+ faith_beronovy_devotee_plural:0 "devotees"
 
  faith_beronovy_afterlife:0 "Vyezdna"
  faith_beronovy_afterlife_2:0 "Vanash"

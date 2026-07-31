@@ -1989,9 +1989,9 @@
  b_dunmoral:0 "Dunmoral"
  b_moldweorc:0 "Moldweorc"
  b_eldreth:0 "Eldreth"
- #### County of Grimscythe
- c_grimscythe:0 "Grimscythe"
- b_grimscythe:0 "Grimscythe"
+ #### County of Grimmscythe
+ c_grimmscythe:0 "Grimmcythe"
+ b_grimmscythe:0 "Grimmscythe"
  b_wodenscar:0 "Wodenscar"
  b_darrowfen:0 "Darrowfen"
  b_wyrdstow:0 "Wyrdstow"

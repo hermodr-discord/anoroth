@@ -326,7 +326,103 @@ urrazun = {
 	}
 }
 
-## PATHARÁNIC HOLY SITES
+### LUVERAN HOLY SITES
+# ISANARAN HOLY SITES
+lysan = {
+	county = c_lysan
+	barony = b_lysan
+
+	character_modifier = {
+		monthly_county_control_growth_factor = 0.1
+		diplomacy = 2
+	}
+}
+tiaran = {
+	county = c_tiaran
+	barony = b_tiaran
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+		learning = 1
+	}
+}
+isara = {
+	county = c_keala
+	barony = b_isara
+
+	character_modifier = {
+		naval_movement_speed_mult = 0.1
+		prowess = 2
+	}
+}
+lyana = {
+	county = c_isar
+	barony = b_lyana
+
+	character_modifier = {
+		different_faith_opinion = 10
+		monthly_prestige_gain_mult = 0.1
+	}
+}
+teana = {
+	county = c_rina
+	barony = b_teana
+
+	character_modifier = {
+		direct_vassal_opinion = 10
+		levy_size = 0.1
+	}
+}
+
+### OREG HOLY SITES
+# ILG-E-GARNA HOLY SITES
+alg_irul = {
+	county = c_irul
+	barony = b_alg_irul
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+		learning = 2
+	}
+}
+ag_surna = {
+	county = c_ag_surna
+	barony = b_ag_surna
+
+	character_modifier = {
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+belthun = {
+	county = c_ulg_surnai
+	barony = b_belthun
+
+	character_modifier = {
+		monthly_county_control_growth_factor = 0.1
+		martial = 1
+	}
+}
+yurnagul = {
+	county = c_yurnagul
+	barony = b_yurnagul
+
+	character_modifier = {
+		levy_size = 0.1
+		martial_per_piety_level = 1
+	}
+}
+ulgaresh = {
+	county = c_oru_gareth
+	barony = b_ulgaresh
+
+	character_modifier = {
+		deep_marsh_advantage = 10
+		prowess_per_piety_level = 1
+	}
+}
+
+### PATHARÁNIC HOLY SITES
 # BERONOVY HOLY SITES
 byla = {
 	county = c_byla
@@ -371,5 +467,101 @@ nevsk = {
 	character_modifier = {
 		domain_tax_same_faith_mult = 0.1
 		monthly_prestige_gain_mult = 0.1
+	}
+}
+
+### TAGÁRIC HOLY SITES
+# TOQĀRUT HOLY SITES
+saraal = {
+	county = c_qal_saraal
+	barony = b_saraal
+
+	character_modifier = {
+		monthly_county_control_growth_factor = 0.1
+		stewardship_per_piety_level = 1
+	}
+}
+shalan = {
+	county = c_qal_shalan
+	barony = b_shalan
+
+	character_modifier = {
+		domain_tax_mult_even_if_baron = 0.1
+		diplomacy = 1
+	}
+}
+aman = {
+	county = c_orbal
+	barony = b_aman
+
+	character_modifier = {
+		development_growth_factor = 0.15
+		monthly_prestige_gain_mult = 0.05
+	}
+}
+qadanet = {
+	county = c_shid_hadam
+	barony = b_qadanet
+
+	character_modifier = {
+		mercenary_hire_cost_mult = -0.1
+		martial = 1
+	}
+}
+shadat = {
+	county = c_shadat
+	barony = b_shadat
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+		stress_loss_mult = 0.1
+	}
+}
+
+### VÁNIC HOLY SITES
+# RÓNARVIR HOLY SITES
+runvatn = {
+	county = c_runvatn
+	barony = b_runvatn
+
+	character_modifier = {
+		levy_size = 0.1
+		prowess_per_piety_level = 1
+	}
+}
+nyrrungar = {
+	county = c_nyrrungar
+	barony = b_nyrrungar
+
+	character_modifier = {
+		coastal_advantage = 5
+		naval_movement_speed_mult = 0.25
+	}
+}
+tharrheim = {
+	county = c_harnur
+	barony = b_tharrheim
+
+	character_modifier = {
+		taiga_advantage = 5
+		dread_baseline_add = 10
+	}
+}
+tharor = {
+	county = c_tharor
+	barony = b_tharor
+
+	character_modifier = {
+		domain_tax_mult_even_if_baron = 0.1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+kastrovik = {
+	county = c_castrynon
+	barony = b_castrynios
+
+	character_modifier = {
+		development_growth_factor = 0.05
+		learning = 1
 	}
 }

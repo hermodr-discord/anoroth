@@ -28,8 +28,8 @@
  incanic_priest_plural:0 "Priestess"
  incanic_priest_alternate_plural:0 "Clergy"
 
- incanic_devotee:0 "incánic"
- incanic_devotee_plural:0 "incánic"
+ incanic_devotee:0 "devotee"
+ incanic_devotee_plural:0 "devotees"
 
  incanic_divine_realm:0 "the Great Forge"
 
@@ -58,8 +58,8 @@
  faith_telasatz_priest_plural:0 "Sutezainak"
  faith_telasatz_priest_alternate_plural:0 "Sutezainak"
 
- faith_telasatz_devotee:0 "telasatz"
- faith_telasatz_devotee_plural:0 "telasatz"
+ faith_telasatz_devotee:0 "devotee"
+ faith_telasatz_devotee_plural:0 "devotees"
 
  faith_telasatz_divine_realm:0 "Ekaitzalde"
  faith_telasatz_positive_afterlife:0 "Sutegarran"

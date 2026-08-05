@@ -1,11 +1,11 @@
 364 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 365 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 366 = {	#
@@ -13,7 +13,7 @@
 }
 367 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 368 = {	#
@@ -24,7 +24,7 @@
 }
 370 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 371 = {	#
@@ -35,7 +35,7 @@
 }
 373 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 374 = {	#
@@ -55,7 +55,7 @@
 }
 379 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 380 = {	#
@@ -87,7 +87,7 @@
 }
 389 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 390 = {	#
@@ -95,7 +95,7 @@
 }
 391 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 392 = {	#
@@ -112,7 +112,7 @@
 }
 396 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 397 = {	#
@@ -126,7 +126,7 @@
 }
 400 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 401 = {	#
@@ -143,7 +143,7 @@
 }
 405 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 406 = {	#
@@ -160,7 +160,7 @@
 }
 410 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }
 411 = {	#
@@ -168,6 +168,6 @@
 }
 412 = {	#
 	culture = oreg_garna
-	religion = ilg_e_garna
+	religion = faith_ilg_e_garna
 	holding = tribal_holding
 }

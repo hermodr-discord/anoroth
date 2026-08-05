@@ -1,7 +1,8 @@
-﻿lovan1 = { # Ganas Lovan
+﻿# House Lovan (Rulers of the Luveran Confederation (3A 3631 - Regnant))
+lovan1 = { # Ganas Lovan
 	name = Ganas
 	dynasty = lovan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 	dna = ganaslovan
 
@@ -24,19 +25,17 @@
 	sexuality = heterosexual
 	disallow_random_traits = yes
 
-	8104.4.16 = { # 3A 3591 (??)
+	8104.4.16 = { # 3A 3591
 		birth = yes
 	}
-
-	8174.9.20 = { #
+	8174.9.20 = { # 3A 3661
 		death = { death_reason = death_natural_causes }
 	}
 }
-
 lovan2 = { # Kasan Lovan
 	name = Kasan
 	dynasty = lovan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 	dna = kasanlovan
 
@@ -59,57 +58,56 @@ lovan2 = { # Kasan Lovan
 	sexuality = heterosexual
 	disallow_random_traits = yes
 
-	8135.10.4 = { 
+	8135.10.4 = { # 3A 3622
 		birth = yes
 	}
-
-	8163.8.18 = { # Battle of PLACENAMEHERE
+	8163.8.18 = { # 3A 3650, Battle of PLACENAMEHERE
 		death = { death_reason = death_battle }
 	}
 }
-
-lovan3 = {
+lovan3 = { # Javad Lovan
 	name = Javad
 	dynasty = lovan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
 	father = lovan1
 
-	8141.10.4 = { #
+	8141.10.4 = { # 3A 3628
 		birth = yes
 	}
-
-	8163.8.18 = { # Battle of PLACENAMEHERE
+	8163.8.18 = { # 3A 3650, Battle of PLACENAMEHERE
 		death = { death_reason = death_battle }
 	}
 }
-
 lovan4 = { # Isa Lovan
 	name = Isa
+	female = yes
 	dynasty = lovan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 	dna = isalovan
-	female = yes
 
 	father = lovan1
 
-	8152.10.4 = { 
+	8152.10.4 = { # 3A 3639
 		birth = yes
+	}
+	8223.1.1 = { # 3A 3696
+		death = yes
 	}
 }
 
-#Ruling line
+# House Lysan (Rulers of the Luveran Confederation (3A 3551 - 3A 3595)
 lysan1 = { # Lys the Navigator
 	name = Lys
 	dynasty = lysan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 	dna = lyslsyan
 	female = yes
 
-	nickname = nick_the_navigator #DOESNT WORK - FIX!
+	nickname = nick_the_navigator
 
 	diplomacy = 8
 	martial = 4
@@ -132,19 +130,23 @@ lysan1 = { # Lys the Navigator
 	sexuality = heterosexual
 	disallow_random_traits = yes
 
-	8028.7.25 = {  # 3A 3527
+	8028.7.25 = { # 3A 3527
 		birth = yes
 	}
-	8096.3.12 = {  # 3A 3587
+	8052.1.1 = { # 3A 3551, Creation of the Luveran Confederation
+		give_nickname = nick_the_navigator
+	}
+	8096.3.12 = { # 3A 3587
 		death = { death_reason = death_natural_causes }
 	}
 }
-
 lysan2 = { # Isin Lysan
 	name = Isin
 	dynasty = lysan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
+
+	mother = lysan1
 
 	trait = shy
 	trait = fickle
@@ -154,34 +156,34 @@ lysan2 = { # Isin Lysan
 	sexuality = heterosexual
 	disallow_random_traits = yes
 
-	8072.5.8 = {
+	8072.5.8 = { # 3A 3559
 		birth = yes
 	}
-
-	8129.11.27 = {
+	8129.11.27 = { # 3A 3616
 		death = { death_reason = death_natural_causes }
 	}
 }
 
+# House Kaveh
 kaveh1 = { # Nurad Kaveh
 	name = Nurad
 	dynasty = kaveh
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8063.2.11 = {
+	8063.2.11 = { # 3A 3550
 		birth = yes
 	}
-
-	8127.11.27 = {
+	8127.11.27 = { # 3A 3614
 		death = { death_reason = death_natural_causes }
 	}
 }
 
+# House Nusa
 nusa1 = { # Javad Nusa
 	name = Javad
 	dynasty = nusa
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 	dna = javadnusa
 
@@ -202,11 +204,10 @@ nusa1 = { # Javad Nusa
 	sexuality = heterosexual
 	disallow_random_traits = yes
 
-	8099.12.28 = {
+	8099.12.28 = { # 3A 3586
 		birth = yes
 	}
-
-	8143.6.4 = {
+	8143.6.4 = { # 3A 3630
 		death = { death_reason = death_execution }
 	}
 }
@@ -216,120 +217,153 @@ nusa1 = { # Javad Nusa
 luveran_vassal_1 = {
 	name = Javad
 	dynasty = damiran
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_2 = {
 	name = Javad
 	dynasty = damiran
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_3 = {
 	name = Javad
 	dynasty = maziran
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_4 = {
 	name = Javad
 	dynasty = kadem
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_5 = {
 	name = Javad
 	dynasty = eshavar
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_6 = {
 	name = Javad
 	dynasty = haradan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_7 = {
 	name = Javad
 	dynasty = ravid
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_8 = {
 	name = Javad
 	dynasty = nereth
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_9 = {
 	name = Javad
 	dynasty = velam
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_10 = {
 	name = Javad
 	dynasty = shaddan
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }
 
 luveran_vassal_11 = {
 	name = Javad
 	dynasty = hadat
-	religion = isanara
+	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { 
+	8111.1.1 = { # 3A 3598
 		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
 	}
 }

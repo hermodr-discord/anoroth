@@ -1215,7 +1215,7 @@ saphyros2 = {
 	}
 }
 saphyros3 = {
-	name = AgrA_s
+	name = Myras
 	dynasty_house = saphyros
 	religion = faith_anorath
 	culture = anorothic
@@ -3153,22 +3153,6 @@ tarenas1 = {
 
 	father = argyrian9
 
-	diplomacy = 5
-	martial = 10
-	intrigue = 2
-	stewardship = 3
-	learning = 8
-	prowess = 3
-
-	trait = arbitrary
-	trait = gluttonous
-	trait = humble
-	trait = education_martial_3
-	trait = education_martial_prowess_3
-	trait = reclusive
-	sexuality = asexual
-	disallow_random_traits = yes
-
 	7318.1.1 = { # 3A 2805
 		birth = yes
 	}
@@ -3183,20 +3167,6 @@ tarenas2 = {
 	culture = anorothic
 
 	father = tarenas1
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 7
-	stewardship = 6
-	learning = 4
-	prowess = 4
-
-	trait = ambitious
-	trait = greedy
-	trait = lustful
-	trait = education_intrigue_4
-	trait = scarred
-	disallow_random_traits = yes
 
 	7339.1.1 = { # 3A 2826
 		birth = yes
@@ -3213,19 +3183,6 @@ tarenas3 = {
 
 	father = tarenas2
 
-	diplomacy = 3
-	martial = 5
-	intrigue = 10
-	stewardship = 1
-	learning = 6
-	prowess = 7
-
-	trait = ambitious
-	trait = cynical
-	trait = wrathful
-	trait = education_intrigue_4
-	disallow_random_traits = yes
-
 	7370.1.1 = { # 3A 2857
 		birth = yes
 	}
@@ -3240,19 +3197,6 @@ tarenas4 = {
 	culture = anorothic
 
 	father = tarenas3
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 6
-	stewardship = 9
-	learning = 4
-	prowess = 7
-
-	trait = fickle
-	trait = just
-	trait = temperate
-	trait = education_stewardship_2
-	disallow_random_traits = yes
 
 	7395.1.1 = { # 3A 2882
 		birth = yes
@@ -3269,19 +3213,6 @@ tarenas5 = {
 
 	father = tarenas4
 
-	diplomacy = 7
-	martial = 5
-	intrigue = 4
-	stewardship = 2
-	learning = 8
-	prowess = 9
-
-	trait = deceitful
-	trait = forgiving
-	trait = temperate
-	trait = education_learning_4
-	disallow_random_traits = yes
-
 	7424.1.1 = { # 3A 2911
 		birth = yes
 	}
@@ -3296,21 +3227,6 @@ tarenas6 = {
 	culture = anorothic
 
 	father = tarenas5
-
-	diplomacy = 6
-	martial = 6
-	intrigue = 2
-	stewardship = 4
-	learning = 7
-	prowess = 4
-
-	trait = fickle
-	trait = generous
-	trait = temperate
-	trait = education_learning_2
-	trait = murderer
-	trait = scarred
-	disallow_random_traits = yes
 
 	7443.1.1 = { # 3A 2930
 		birth = yes
@@ -3327,20 +3243,6 @@ tarenas7 = {
 
 	father = tarenas6
 
-	diplomacy = 3
-	martial = 6
-	intrigue = 4
-	stewardship = 8
-	learning = 6
-	prowess = 4
-
-	trait = cynical
-	trait = diligent
-	trait = impatient
-	trait = education_stewardship_3
-	trait = gallivanter
-	disallow_random_traits = yes
-
 	7471.1.1 = { # 3A 2958
 		birth = yes
 	}
@@ -3355,21 +3257,6 @@ tarenas8 = {
 	culture = anorothic
 
 	father = tarenas7
-
-	diplomacy = 6
-	martial = 10
-	intrigue = 6
-	stewardship = 8
-	learning = 3
-	prowess = 5
-
-	trait = humble
-	trait = just
-	trait = wrathful
-	trait = education_martial_4
-	trait = education_martial_prowess_1
-	trait = overseer
-	disallow_random_traits = yes
 
 	7516.1.1 = { # 3A 3003
 		birth = yes
@@ -3386,19 +3273,6 @@ tarenas9 = {
 
 	father = tarenas8
 
-	diplomacy = 7
-	martial = 5
-	intrigue = 5
-	stewardship = 11
-	learning = 4
-	prowess = 8
-
-	trait = deceitful
-	trait = gregarious
-	trait = humble
-	trait = education_stewardship_5
-	disallow_random_traits = yes
-
 	7543.1.1 = { # 3A 3030
 		birth = yes
 	}
@@ -3413,21 +3287,6 @@ tarenas10 = {
 	culture = anorothic
 
 	father = tarenas9
-
-	diplomacy = 7
-	martial = 7
-	intrigue = 11
-	stewardship = 4
-	learning = 6
-	prowess = 6
-
-	trait = physique_good_2
-	trait = ambitious
-	trait = greedy
-	trait = trusting
-	trait = education_intrigue_1
-	trait = zealous
-	disallow_random_traits = yes
 
 	7560.1.1 = { # 3A 3047
 		birth = yes
@@ -3444,20 +3303,6 @@ tarenas11 = {
 
 	father = tarenas10
 
-	diplomacy = 7
-	martial = 4
-	intrigue = 5
-	stewardship = 3
-	learning = 7
-	prowess = 7
-
-	trait = compassionate
-	trait = gluttonous
-	trait = just
-	trait = education_diplomacy_3
-	trait = lifestyle_hunter
-	disallow_random_traits = yes
-
 	7595.1.1 = { # 3A 3082
 		birth = yes
 	}
@@ -3472,21 +3317,6 @@ tarenas12 = {
 	culture = anorothic
 
 	father = tarenas11
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 4
-	stewardship = 5
-	learning = 9
-	prowess = 7
-
-	trait = calm
-	trait = gluttonous
-	trait = vengeful
-	trait = education_learning_3
-	trait = lifestyle_poet
-	trait = disloyal
-	disallow_random_traits = yes
 
 	7628.1.1 = { # 3A 3115
 		birth = yes
@@ -3503,25 +3333,11 @@ tarenas13 = {
 
 	father = tarenas12
 
-	diplomacy = 8
-	martial = 4
-	intrigue = 5
-	stewardship = 8
-	learning = 7
-	prowess = 4
-
-	trait = arbitrary
-	trait = craven
-	trait = forgiving
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
-
 	7656.1.1 = { # 3A 3143
 		birth = yes
 	}
-	7679.1.1 = { # 3A 3166
-		trait = cancer
-		death = { death_reason = death_cancer }
+	7730.1.1 = { # 3A 3217
+		death = { death_reason = death_natural_causes }
 	}
 }
 tarenas14 = {
@@ -3531,21 +3347,6 @@ tarenas14 = {
 	culture = anorothic
 
 	father = tarenas13
-
-	diplomacy = 4
-	martial = 8
-	intrigue = 2
-	stewardship = 5
-	learning = 5
-	prowess = 8
-
-	trait = compassionate
-	trait = cynical
-	trait = vengeful
-	trait = education_martial_4
-	trait = education_martial_prowess_3
-	trait = gallant
-	disallow_random_traits = yes
 
 	7672.1.1 = { # 3A 3159
 		birth = yes
@@ -3562,20 +3363,6 @@ tarenas15 = {
 
 	father = tarenas14
 
-	diplomacy = 5
-	martial = 6
-	intrigue = 5
-	stewardship = 10
-	learning = 4
-	prowess = 7
-
-	trait = generous
-	trait = humble
-	trait = impatient
-	trait = education_stewardship_2
-	trait = possessed_genetic
-	disallow_random_traits = yes
-
 	7715.1.1 = { # 3A 3202
 		birth = yes
 	}
@@ -3590,19 +3377,6 @@ tarenas16 = {
 	culture = anorothic
 
 	father = tarenas15
-
-	diplomacy = 9
-	martial = 7
-	intrigue = 6
-	stewardship = 6
-	learning = 5
-	prowess = 6
-
-	trait = gluttonous
-	trait = humble
-	trait = just
-	trait = education_diplomacy_4
-	disallow_random_traits = yes
 
 	7743.1.1 = { # 3A 3230
 		birth = yes
@@ -3619,21 +3393,6 @@ tarenas17 = {
 
 	father = tarenas16
 
-	diplomacy = 9
-	martial = 7
-	intrigue = 11
-	stewardship = 9
-	learning = 5
-	prowess = 9
-
-	trait = brave
-	trait = callous
-	trait = trusting
-	trait = education_intrigue_3
-	trait = celibate
-	sexuality = bisexual
-	disallow_random_traits = yes
-
 	7770.1.1 = { # 3A 3257
 		birth = yes
 	}
@@ -3648,20 +3407,6 @@ tarenas18 = {
 	culture = anorothic
 
 	father = tarenas17
-
-	diplomacy = 9
-	martial = 6
-	intrigue = 8
-	stewardship = 6
-	learning = 5
-	prowess = 3
-
-	trait = gluttonous
-	trait = lazy
-	trait = wrathful
-	trait = education_diplomacy_3
-	trait = august
-	disallow_random_traits = yes
 
 	7793.1.1 = { # 3A 3280
 		birth = yes
@@ -3678,20 +3423,6 @@ tarenas19 = {
 
 	father = tarenas18
 
-	diplomacy = 7
-	martial = 8
-	intrigue = 8
-	stewardship = 9
-	learning = 7
-	prowess = 6
-
-	trait = brave
-	trait = lazy
-	trait = wrathful
-	trait = education_stewardship_2
-	trait = tourney_participant
-	disallow_random_traits = yes
-
 	7822.1.1 = { # 3A 3309
 		birth = yes
 	}
@@ -3707,20 +3438,6 @@ tarenas20 = {
 
 	father = tarenas19
 
-	diplomacy = 10
-	martial = 4
-	intrigue = 8
-	stewardship = 4
-	learning = 4
-	prowess = 3
-
-	trait = diligent
-	trait = humble
-	trait = just
-	trait = education_diplomacy_3
-	trait = pilgrim
-	disallow_random_traits = yes
-
 	7852.1.1 = { # 3A 3339
 		birth = yes
 	}
@@ -3735,19 +3452,6 @@ tarenas21 = {
 	culture = anorothic
 
 	father = tarenas20
-
-	diplomacy = 8
-	martial = 8
-	intrigue = 8
-	stewardship = 8
-	learning = 4
-	prowess = 8
-
-	trait = craven
-	trait = deceitful
-	trait = vengeful
-	trait = education_diplomacy_4
-	disallow_random_traits = yes
 
 	7877.1.1 = { # 3A 3364
 		birth = yes
@@ -3765,19 +3469,6 @@ tarenas22 = {
 
 	father = tarenas21
 
-	diplomacy = 6
-	martial = 3
-	intrigue = 4
-	stewardship = 8
-	learning = 8
-	prowess = 5
-
-	trait = calm
-	trait = sadistic
-	trait = temperate
-	trait = education_stewardship_4
-	disallow_random_traits = yes
-
 	7896.1.1 = { # 3A 3383
 		birth = yes
 	}
@@ -3792,19 +3483,6 @@ tarenas23 = {
 	culture = anorothic
 
 	father = tarenas22
-
-	diplomacy = 9
-	martial = 7
-	intrigue = 5
-	stewardship = 5
-	learning = 7
-	prowess = 7
-
-	trait = arrogant
-	trait = temperate
-	trait = zealous
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
 
 	7931.1.1 = { # 3A 3418
 		birth = yes
@@ -3821,22 +3499,6 @@ tarenas24 = {
 
 	father = tarenas23
 
-	diplomacy = 8
-	martial = 2
-	intrigue = 3
-	stewardship = 5
-	learning = 5
-	prowess = 4
-
-	trait = compassionate
-	trait = honest
-	trait = patient
-	trait = education_diplomacy_2
-	trait = lifestyle_mystic
-	trait = drunkard
-	trait = maimed
-	disallow_random_traits = yes
-
 	7975.1.1 = { # 3A 3462
 		birth = yes
 	}
@@ -3851,19 +3513,6 @@ tarenas25 = {
 	culture = anorothic
 
 	father = tarenas24
-
-	diplomacy = 6
-	martial = 6
-	intrigue = 7
-	stewardship = 7
-	learning = 6
-	prowess = 7
-
-	trait = brave
-	trait = callous
-	trait = stubborn
-	trait = education_stewardship_3
-	disallow_random_traits = yes
 
 	7996.1.1 = { # 3A 3483
 		birth = yes
@@ -3880,20 +3529,6 @@ tarenas26 = {
 
 	father = tarenas25
 
-	diplomacy = 5
-	martial = 6
-	intrigue = 5
-	stewardship = 3
-	learning = 10
-	prowess = 2
-
-	trait = content
-	trait = fickle
-	trait = patient
-	trait = education_learning_2
-	trait = celibate
-	disallow_random_traits = yes
-
 	8030.1.1 = { # 3A 3517
 		birth = yes
 	}
@@ -3908,19 +3543,6 @@ tarenas27 = {
 	culture = anorothic
 
 	father = tarenas26
-
-	diplomacy = 4
-	martial = 7
-	intrigue = 6
-	stewardship = 8
-	learning = 7
-	prowess = 5
-
-	trait = cynical
-	trait = humble
-	trait = wrathful
-	trait = education_stewardship_3
-	disallow_random_traits = yes
 
 	8067.1.1 = { # 3A 3554
 		birth = yes
@@ -3938,17 +3560,17 @@ tarenas28 = {
 	father = tarenas27
 
 	diplomacy = 5
-	martial = 8
+	martial = 6
 	intrigue = 8
 	stewardship = 2
 	learning = 7
 	prowess = 6
 
 	trait = callous
-	trait = craven
+	trait = wrathful
 	trait = honest
 	trait = education_martial_3
-	trait = education_martial_prowess_1
+	trait = education_martial_prowess_2
 	disallow_random_traits = yes
 
 	8095.1.1 = { # 3A 3582
@@ -3968,21 +3590,6 @@ tarenas29 = {
 
 	father = tarenas28
 
-	diplomacy = 7
-	martial = 5
-	intrigue = 4
-	stewardship = 6
-	learning = 6
-	prowess = 5
-
-	trait = compassionate
-	trait = craven
-	trait = gregarious
-	trait = education_diplomacy_4
-	trait = lifestyle_poet
-	trait = pilgrim
-	disallow_random_traits = yes
-
 	8117.1.1 = { # 3A 3604
 		birth = yes
 	}
@@ -3991,6 +3598,21 @@ tarenas29 = {
 	}
 }
 tarenas30 = {
+	name = Eosenon
+	dynasty_house = tarenas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = tarenas28
+
+	8124.1.1 = { # 3A 3611
+		birth = yes
+	}
+	8167.1.1 = { # 3A 3654
+		death = { death_reason = death_battle }
+	}
+}
+tarenas31 = {
 	name = Lynas
 	dynasty_house = tarenas
 	religion = faith_anorath
@@ -3998,54 +3620,11 @@ tarenas30 = {
 
 	father = tarenas28
 
-	diplomacy = 5
-	martial = 3
-	intrigue = 6
-	stewardship = 8
-	learning = 4
-	prowess = 6
-
-	trait = arbitrary
-	trait = deceitful
-	trait = gregarious
-	trait = education_stewardship_2
-	disallow_random_traits = yes
-
 	8134.1.1 = { # 3A 3621
 		birth = yes
 	}
 	8211.1.1 = { # 3A 3698
 		death = { death_reason = death_natural_causes }
-	}
-}
-tarenas31 = {
-	name = AgrA_s
-	dynasty_house = tarenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = tarenas28
-
-	diplomacy = 6
-	martial = 4
-	intrigue = 5
-	stewardship = 4
-	learning = 5
-	prowess = 5
-
-	trait = stuttering
-	trait = greedy
-	trait = sadistic
-	trait = temperate
-	trait = education_diplomacy_1
-	trait = one_eyed
-	disallow_random_traits = yes
-
-	8124.1.1 = { # 3A 3611
-		birth = yes
-	}
-	8167.1.1 = { # 3A 3654
-		death = { death_reason = death_battle }
 	}
 }
 tarenas32 = {
@@ -4055,19 +3634,7 @@ tarenas32 = {
 	religion = faith_anorath
 	culture = anorothic
 
-	father = tarenas31
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 3
-	stewardship = 5
-	learning = 6
-	prowess = 4
-
-	trait = content
-	trait = temperate
-	trait = vengeful
-	disallow_random_traits = yes
+	father = tarenas30
 
 	8155.1.1 = { # 3A 3642
 		birth = yes
@@ -4082,19 +3649,7 @@ tarenas33 = {
 	religion = faith_anorath
 	culture = anorothic
 
-	father = tarenas31
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 6
-	stewardship = 6
-	learning = 5
-	prowess = 6
-
-	trait = ambitious
-	trait = callous
-	trait = paranoid
-	disallow_random_traits = yes
+	father = tarenas30
 
 	8160.1.1 = { # 3A 3647
 		birth = yes
@@ -4109,19 +3664,7 @@ tarenas34 = {
 	religion = faith_anorath
 	culture = anorothic
 
-	father = tarenas31
-
-	diplomacy = 7
-	martial = 12
-	intrigue = 7
-	stewardship = 6
-	learning = 2
-	prowess = 5
-
-	trait = callous
-	trait = just
-	trait = paranoid
-	disallow_random_traits = yes
+	father = tarenas30
 
 	8162.1.1 = { # 3A 3649
 		birth = yes
@@ -4987,589 +4530,12 @@ rhyceros25 = {
 	}
 }
 
-## House Ilmenas (Dukes of Syphoreia since 3A 2966)
+## House Ilmenas (Dukes of Syphoreia)
 ilmenas1 = {
-	name = Alkyon
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 6
-	stewardship = 5
-	learning = 2
-	prowess = 7
-
-	trait = content
-	trait = cynical
-	trait = trusting
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
-
-	7447.1.1 = { # 3A 2934
-		birth = yes
-	}
-	7508.1.1 = { # 3A 2995
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas2 = {
-	name = Kanon
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas1
-
-	diplomacy = 7
-	martial = 7
-	intrigue = 5
-	stewardship = 5
-	learning = 3
-	prowess = 8
-
-	trait = brave
-	trait = just
-	trait = shy
-	trait = education_diplomacy_1
-	disallow_random_traits = yes
-
-	7473.1.1 = { # 3A 2960
-		birth = yes
-	}
-	7547.1.1 = { # 3A 3034
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas3 = {
-	name = AgrA_s
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas2
-
-	diplomacy = 9
-	martial = 3
-	intrigue = 7
-	stewardship = 2
-	learning = 7
-	prowess = 9
-
-	trait = arbitrary
-	trait = forgiving
-	trait = humble
-	trait = education_diplomacy_2
-	trait = gallivanter
-	sexuality = asexual
-	disallow_random_traits = yes
-
-	7506.1.1 = { # 3A 2993
-		birth = yes
-	}
-	7532.1.1 = { # 3A 3019
-		trait = great_pox
-		death = { death_reason = death_attempted_treatment }
-	}
-}
-ilmenas4 = {
-	name = Tyros
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas3
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 3
-	stewardship = 10
-	learning = 4
-	prowess = 4
-
-	trait = greedy
-	trait = gregarious
-	trait = lustful
-	trait = education_stewardship_2
-	trait = lifestyle_traveler
-	disallow_random_traits = yes
-
-	7525.1.1 = { # 3A 3012
-		birth = yes
-	}
-	7595.1.1 = { # 3A 3082
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas5 = {
-	name = Zephyron
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas4
-
-	diplomacy = 5
-	martial = 3
-	intrigue = 2
-	stewardship = 6
-	learning = 7
-	prowess = 7
-
-	trait = brave
-	trait = forgiving
-	trait = trusting
-	trait = education_learning_2
-	trait = lifestyle_traveler
-	trait = maimed
-	disallow_random_traits = yes
-
-	7544.1.1 = { # 3A 3031
-		birth = yes
-	}
-	7610.1.1 = { # 3A 3097
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas6 = {
-	name = Pylon
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas5
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 6
-	stewardship = 5
-	learning = 6
-	prowess = 6
-
-	trait = compassionate
-	trait = generous
-	trait = vengeful
-	trait = education_diplomacy_3
-	trait = pilgrim
-	disallow_random_traits = yes
-
-	7563.1.1 = { # 3A 3050
-		birth = yes
-	}
-	7632.1.1 = { # 3A 3119
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas7 = {
-	name = Tauras
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas6
-
-	diplomacy = 8
-	martial = 4
-	intrigue = 7
-	stewardship = 3
-	learning = 5
-	prowess = 5
-
-	trait = callous
-	trait = chaste
-	trait = patient
-	trait = education_diplomacy_3
-	trait = reclusive
-	disallow_random_traits = yes
-
-	7602.1.1 = { # 3A 3089
-		birth = yes
-	}
-	7673.1.1 = { # 3A 3160
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas8 = {
-	name = Arthanos
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas7
-
-	diplomacy = 6
-	martial = 2
-	intrigue = 7
-	stewardship = 3
-	learning = 5
-	prowess = 8
-
-	trait = compassionate
-	trait = cynical
-	trait = greedy
-	trait = education_intrigue_4
-	trait = eccentric
-	disallow_random_traits = yes
-
-	7642.1.1 = { # 3A 3129
-		birth = yes
-	}
-	7722.1.1 = { # 3A 3209
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas9 = {
-	name = Pheros
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas8
-
-	diplomacy = 6
-	martial = 3
-	intrigue = 6
-	stewardship = 8
-	learning = 5
-	prowess = 8
-
-	trait = physique_good_1
-	trait = calm
-	trait = content
-	trait = sadistic
-	trait = education_stewardship_2
-	trait = lifestyle_wayfarer
-	trait = pilgrim
-	disallow_random_traits = yes
-
-	7659.1.1 = { # 3A 3146
-		birth = yes
-	}
-	7721.1.1 = { # 3A 3208
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas10 = {
-	name = Ophyron
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas9
-
-	diplomacy = 4
-	martial = 10
-	intrigue = 3
-	stewardship = 9
-	learning = 8
-	prowess = 5
-
-	trait = callous
-	trait = content
-	trait = temperate
-	trait = education_martial_4
-	trait = education_martial_prowess_2
-	trait = drunkard
-	trait = logistician
-	disallow_random_traits = yes
-
-	7684.1.1 = { # 3A 3171
-		birth = yes
-	}
-	7758.1.1 = { # 3A 3245
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas11 = {
-	name = Korydon
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas10
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 6
-	stewardship = 7
-	learning = 10
-	prowess = 6
-
-	trait = diligent
-	trait = greedy
-	trait = humble
-	trait = education_learning_3
-	trait = murderer
-	trait = one_eyed
-	disallow_random_traits = yes
-
-	7700.1.1 = { # 3A 3187
-		birth = yes
-	}
-	7778.1.1 = { # 3A 3265
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas12 = {
-	name = Valeros
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas11
-
-	diplomacy = 5
-	martial = 7
-	intrigue = 10
-	stewardship = 2
-	learning = 4
-	prowess = 3
-
-	trait = deceitful
-	trait = forgiving
-	trait = greedy
-	trait = education_intrigue_2
-	trait = maimed
-	trait = zealous
-	disallow_random_traits = yes
-
-	7721.1.1 = { # 3A 3208
-		birth = yes
-	}
-	7796.1.1 = { # 3A 3283
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas13 = {
-	name = Lykan
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas12
-
-	diplomacy = 3
-	martial = 3
-	intrigue = 5
-	stewardship = 7
-	learning = 6
-	prowess = 5
-
-	trait = arrogant
-	trait = brave
-	trait = wrathful
-	trait = education_stewardship_2
-	trait = rakish
-	disallow_random_traits = yes
-
-	7751.1.1 = { # 3A 3238
-		birth = yes
-	}
-	7783.1.1 = { # 3A 3270
-		trait = consumption
-		death = { death_reason = death_consumption }
-	}
-}
-ilmenas14 = {
-	name = Chaeron
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas13
-
-	diplomacy = 3
-	martial = 6
-	intrigue = 10
-	stewardship = 6
-	learning = 8
-	prowess = 8
-
-	trait = ambitious
-	trait = cynical
-	trait = humble
-	trait = education_intrigue_3
-	disallow_random_traits = yes
-
-	7767.1.1 = { # 3A 3254
-		birth = yes
-	}
-	7834.1.1 = { # 3A 3321
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas15 = {
-	name = Damaron
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas14
-
-	diplomacy = 4
-	martial = 3
-	intrigue = 4
-	stewardship = 4
-	learning = 10
-	prowess = 3
-
-	trait = cynical
-	trait = patient
-	trait = vengeful
-	trait = education_learning_2
-	trait = drunkard
-	disallow_random_traits = yes
-
-	7785.1.1 = { # 3A 3272
-		birth = yes
-	}
-	7849.1.1 = { # 3A 3336
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas16 = {
-	name = Saphyras
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas15
-
-	diplomacy = 7
-	martial = 6
-	intrigue = 6
-	stewardship = 4
-	learning = 6
-	prowess = 6
-
-	trait = arbitrary
-	trait = compassionate
-	trait = content
-	trait = education_diplomacy_4
-	disallow_random_traits = yes
-
-	7830.1.1 = { # 3A 3317
-		birth = yes
-	}
-	7900.1.1 = { # 3A 3387
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas17 = {
-	name = Kaesaros
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas16
-
-	diplomacy = 6
-	martial = 10
-	intrigue = 6
-	stewardship = 5
-	learning = 5
-	prowess = 2
-
-	trait = chaste
-	trait = deceitful
-	trait = gluttonous
-	trait = education_martial_2
-	trait = education_martial_prowess_5
-	trait = lifestyle_physician
-	trait = reclusive
-	sexuality = asexual
-	disallow_random_traits = yes
-
-	7849.1.1 = { # 3A 3336
-		birth = yes
-	}
-	7918.1.1 = { # 3A 3405
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas18 = {
-	name = Lysaros
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas17
-
-	diplomacy = 7
-	martial = 1
-	intrigue = 4
-	stewardship = 3
-	learning = 8
-	prowess = 7
-
-	trait = craven
-	trait = generous
-	trait = lazy
-	trait = education_learning_3
-	trait = murderer
-	sexuality = asexual
-	disallow_random_traits = yes
-
-	7886.1.1 = { # 3A 3373
-		birth = yes
-	}
-	7954.1.1 = { # 3A 3441
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas19 = {
-	name = Andron
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas18
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 8
-	stewardship = 7
-	learning = 4
-	prowess = 6
-
-	trait = greedy
-	trait = gregarious
-	trait = zealous
-	trait = education_intrigue_3
-	trait = maimed
-	disallow_random_traits = yes
-
-	7912.1.1 = { # 3A 3399
-		birth = yes
-	}
-	7972.1.1 = { # 3A 3459
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas20 = {
 	name = Lykaron
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
-
-	father = ilmenas19
-
-	diplomacy = 8
-	martial = 5
-	intrigue = 7
-	stewardship = 4
-	learning = 4
-	prowess = 5
-
-	trait = arrogant
-	trait = fickle
-	trait = wrathful
-	trait = education_diplomacy_4
-	trait = lifestyle_voyager
-	trait = gallivanter
-	sexuality = homosexual
-	disallow_random_traits = yes
 
 	7936.1.1 = { # 3A 3423
 		birth = yes
@@ -5578,28 +4544,13 @@ ilmenas20 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas21 = {
+ilmenas2 = {
 	name = Eurygas
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas20
-
-	diplomacy = 5
-	martial = 10
-	intrigue = 4
-	stewardship = 6
-	learning = 5
-	prowess = 4
-
-	trait = arbitrary
-	trait = generous
-	trait = impatient
-	trait = education_martial_4
-	trait = education_martial_prowess_2
-	trait = berserker
-	disallow_random_traits = yes
+	father = ilmenas1
 
 	7954.1.1 = { # 3A 3441
 		birth = yes
@@ -5608,28 +4559,13 @@ ilmenas21 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas22 = {
+ilmenas3 = {
 	name = Kaston
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas21
-
-	diplomacy = 5
-	martial = 7
-	intrigue = 7
-	stewardship = 7
-	learning = 7
-	prowess = 8
-
-	trait = gregarious
-	trait = lazy
-	trait = paranoid
-	trait = education_martial_2
-	trait = education_martial_prowess_1
-	trait = cautious_leader
-	disallow_random_traits = yes
+	father = ilmenas2
 
 	7992.1.1 = { # 3A 3479
 		birth = yes
@@ -5638,28 +4574,13 @@ ilmenas22 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas23 = {
+ilmenas4 = {
 	name = Theras
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas22
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 6
-	stewardship = 4
-	learning = 3
-	prowess = 5
-
-	trait = calm
-	trait = chaste
-	trait = sadistic
-	trait = education_martial_3
-	trait = education_martial_prowess_2
-	trait = berserker
-	disallow_random_traits = yes
+	father = ilmenas3
 
 	8023.1.1 = { # 3A 3510
 		birth = yes
@@ -5668,26 +4589,13 @@ ilmenas23 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas24 = {
+ilmenas5 = {
 	name = Taryas
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas23
-
-	diplomacy = 3
-	martial = 5
-	intrigue = 8
-	stewardship = 10
-	learning = 6
-	prowess = 6
-
-	trait = humble
-	trait = just
-	trait = trusting
-	trait = education_stewardship_3
-	disallow_random_traits = yes
+	father = ilmenas4
 
 	8044.1.1 = { # 3A 3531
 		birth = yes
@@ -5696,26 +4604,13 @@ ilmenas24 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas25 = {
+ilmenas6 = {
 	name = Ceneros
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas24
-
-	diplomacy = 8
-	martial = 5
-	intrigue = 6
-	stewardship = 8
-	learning = 5
-	prowess = 8
-
-	trait = arrogant
-	trait = diligent
-	trait = wrathful
-	trait = education_diplomacy_2
-	disallow_random_traits = yes
+	father = ilmenas5
 
 	8068.1.1 = { # 3A 3555
 		birth = yes
@@ -5724,27 +4619,25 @@ ilmenas25 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas26 = {
+ilmenas7 = {
 	name = Cyras
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas25
+	father = ilmenas6
 
-	diplomacy = 10
-	martial = 8
-	intrigue = 6
-	stewardship = 7
+	diplomacy = 7
+	martial = 4
+	intrigue = 3
+	stewardship = 5
 	learning = 7
-	prowess = 5
+	prowess = 8
 
 	trait = generous
-	trait = sadistic
+	trait = trusting
 	trait = zealous
-	trait = education_diplomacy_1
-	trait = pilgrim
-	trait = rakish
+	trait = education_diplomacy_3
 	disallow_random_traits = yes
 
 	8092.1.1 = { # 3A 3579
@@ -5754,29 +4647,28 @@ ilmenas26 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas27 = {
+ilmenas8 = {
+	name = Rymon
+	dynasty = ilmenas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = ilmenas7
+
+	8116.1.1 = { # 3A 3603
+		birth = yes
+	}
+	8175.1.1 = { # 3A 3662
+		death = { death_reason = death_natural_causes }
+	}
+}
+ilmenas9 = {
 	name = Kastylas
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas26
-
-	diplomacy = 6
-	martial = 8
-	intrigue = 3
-	stewardship = 3
-	learning = 6
-	prowess = 9
-
-	trait = brave
-	trait = greedy
-	trait = sadistic
-	trait = education_martial_1
-	trait = education_martial_prowess_2
-	trait = murderer
-	trait = reaver
-	disallow_random_traits = yes
+	father = ilmenas7
 
 	8131.1.1 = { # 3A 3618
 		birth = yes
@@ -5785,56 +4677,13 @@ ilmenas27 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas28 = {
-	name = Rymon
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas26
-
-	diplomacy = 5
-	martial = 7
-	intrigue = 4
-	stewardship = 7
-	learning = 7
-	prowess = 7
-
-	trait = content
-	trait = craven
-	trait = deceitful
-	trait = education_martial_3
-	trait = education_martial_prowess_3
-	trait = cautious_leader
-	disallow_random_traits = yes
-
-	8116.1.1 = { # 3A 3603
-		birth = yes
-	}
-	8175.1.1 = { # 3A 3662
-		trait = typhus
-		death = { death_reason = death_typhus }
-	}
-}
-ilmenas29 = {
+ilmenas10 = {
 	name = Kylanon
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas28
-
-	diplomacy = 8
-	martial = 8
-	intrigue = 10
-	stewardship = 5
-	learning = 5
-	prowess = 5
-
-	trait = diligent
-	trait = gregarious
-	trait = vengeful
-	disallow_random_traits = yes
+	father = ilmenas8
 
 	8153.1.1 = { # 3A 3640
 		birth = yes
@@ -5843,25 +4692,13 @@ ilmenas29 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas30 = {
+ilmenas11 = {
 	name = Estaros
 	dynasty = ilmenas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas28
-
-	diplomacy = 6
-	martial = 6
-	intrigue = 3
-	stewardship = 3
-	learning = 7
-	prowess = 4
-
-	trait = generous
-	trait = just
-	trait = patient
-	disallow_random_traits = yes
+	father = ilmenas8
 
 	8154.1.1 = { # 3A 3641
 		birth = yes
@@ -5870,108 +4707,14 @@ ilmenas30 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-ilmenas31 = {
-	name = Myron
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas28
-
-	diplomacy = 9
-	martial = 5
-	intrigue = 5
-	stewardship = 4
-	learning = 5
-	prowess = 7
-
-	trait = arbitrary
-	trait = fickle
-	trait = paranoid
-	disallow_random_traits = yes
-
-	8155.1.1 = { # 3A 3642
-		birth = yes
-	}
-	8215.1.1 = { # 3A 3702
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas32 = {
-	name = Myraklon
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas28
-
-	diplomacy = 9
-	martial = 4
-	intrigue = 8
-	stewardship = 9
-	learning = 5
-	prowess = 4
-
-	trait = impatient
-	trait = sadistic
-	trait = shy
-	disallow_random_traits = yes
-
-	8159.1.1 = { # 3A 3646
-		birth = yes
-	}
-	8233.1.1 = { # 3A 3720
-		death = { death_reason = death_natural_causes }
-	}
-}
-ilmenas33 = {
-	name = Ikaron
-	dynasty = ilmenas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = ilmenas28
-
-	diplomacy = 6
-	martial = 4
-	intrigue = 7
-	stewardship = 6
-	learning = 6
-	prowess = 8
-
-	trait = deceitful
-	trait = fickle
-	trait = temperate
-	disallow_random_traits = yes
-
-	8164.1.1 = { # 3A 3651
-		birth = yes
-	}
-	8238.1.1 = { # 4A 5
-		death = { death_reason = death_natural_causes }
-	}
-}
-## House Derinan (Cadet Branch of House Ilmenas - Lords of Neothason 3A 3490 - 3A 3719)
+## House Derinan (Cadet Branch of House Ilmenas - Lords of Neothason)
 derinan1 = {
 	name = Alkyon
 	dynasty_house = derinan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = ilmenas20
-
-	diplomacy = 9
-	martial = 7
-	intrigue = 5
-	stewardship = 9
-	learning = 8
-	prowess = 6
-
-	trait = trusting
-	trait = vengeful
-	trait = zealous
-	trait = education_diplomacy_4
-	disallow_random_traits = yes
+	father = ilmenas1
 
 	7969.1.1 = { # 3A 3456
 		birth = yes
@@ -5988,21 +4731,6 @@ derinan2 = {
 
 	father = derinan1
 
-	diplomacy = 8
-	martial = 5
-	intrigue = 5
-	stewardship = 7
-	learning = 8
-	prowess = 8
-
-	trait = content
-	trait = fickle
-	trait = just
-	trait = education_diplomacy_3
-	trait = celibate
-	trait = rakish
-	disallow_random_traits = yes
-
 	7996.1.1 = { # 3A 3483
 		birth = yes
 	}
@@ -6017,19 +4745,6 @@ derinan3 = {
 	culture = anorothic
 
 	father = derinan2
-
-	diplomacy = 8
-	martial = 5
-	intrigue = 7
-	stewardship = 4
-	learning = 5
-	prowess = 9
-
-	trait = diligent
-	trait = fickle
-	trait = shy
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
 
 	8023.1.1 = { # 3A 3510
 		birth = yes
@@ -6046,20 +4761,6 @@ derinan4 = {
 
 	father = derinan3
 
-	diplomacy = 7
-	martial = 7
-	intrigue = 4
-	stewardship = 2
-	learning = 4
-	prowess = 7
-
-	trait = generous
-	trait = lustful
-	trait = trusting
-	trait = education_diplomacy_3
-	trait = pilgrim
-	disallow_random_traits = yes
-
 	8043.1.1 = { # 3A 3530
 		birth = yes
 	}
@@ -6074,22 +4775,6 @@ derinan5 = {
 	culture = anorothic
 
 	father = derinan4
-
-	diplomacy = 6
-	martial = 7
-	intrigue = 5
-	stewardship = 6
-	learning = 4
-	prowess = 7
-
-	trait = arbitrary
-	trait = stubborn
-	trait = temperate
-	trait = education_martial_4
-	trait = education_martial_prowess_2
-	trait = murderer
-	trait = tourney_participant
-	disallow_random_traits = yes
 
 	8071.1.1 = { # 3A 3558
 		birth = yes
@@ -6106,24 +4791,11 @@ derinan6 = {
 
 	father = derinan5
 
-	diplomacy = 7
-	martial = 6
-	intrigue = 6
-	stewardship = 5
-	learning = 8
-	prowess = 7
-
-	trait = cynical
-	trait = diligent
-	trait = generous
-	disallow_random_traits = yes
-
 	8091.1.1 = { # 3A 3578
 		birth = yes
 	}
 	8106.1.1 = { # 3A 3593
-		trait = typhus
-		death = { death_reason = death_typhus }
+		death = { death_reason = death_battle }
 	}
 }
 derinan7 = {
@@ -6134,21 +4806,6 @@ derinan7 = {
 
 	father = derinan5
 
-	diplomacy = 5
-	martial = 6
-	intrigue = 5
-	stewardship = 8
-	learning = 4
-	prowess = 4
-
-	trait = intellect_good_2
-	trait = arrogant
-	trait = just
-	trait = zealous
-	trait = education_stewardship_2
-	trait = maimed
-	disallow_random_traits = yes
-
 	8096.1.1 = { # 3A 3583
 		birth = yes
 	}
@@ -6158,68 +4815,6 @@ derinan7 = {
 	}
 }
 derinan8 = {
-	name = Karythia
-	female = yes
-	dynasty_house = derinan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = derinan7
-
-	diplomacy = 4
-	martial = 9
-	intrigue = 7
-	stewardship = 6
-	learning = 6
-	prowess = 6
-
-	trait = craven
-	trait = deceitful
-	trait = fickle
-	trait = education_martial_1
-	trait = education_martial_prowess_1
-	trait = berserker
-	trait = journaller
-	disallow_random_traits = yes
-
-	8139.1.1 = { # 3A 3626
-		birth = yes
-	}
-	8169.1.1 = { # 3A 3656
-		trait = consumption
-		death = { death_reason = death_consumption }
-	}
-}
-derinan9 = {
-	name = Neryse
-	female = yes
-	dynasty_house = derinan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = derinan7
-
-	diplomacy = 5
-	martial = 3
-	intrigue = 9
-	stewardship = 7
-	learning = 7
-	prowess = 5
-
-	trait = patient
-	trait = stubborn
-	trait = vengeful
-	trait = education_intrigue_2
-	disallow_random_traits = yes
-
-	8141.1.1 = { # 3A 3628
-		birth = yes
-	}
-	8212.1.1 = { # 3A 3699
-		death = { death_reason = death_natural_causes }
-	}
-}
-derinan10 = {
 	name = Orestas
 	dynasty_house = derinan
 	religion = faith_anorath
@@ -6227,18 +4822,17 @@ derinan10 = {
 
 	father = derinan7
 
-	diplomacy = 5
+	diplomacy = 3
 	martial = 5
 	intrigue = 6
 	stewardship = 6
-	learning = 6
+	learning = 2
 	prowess = 6
 
 	trait = arbitrary
 	trait = deceitful
 	trait = vengeful
-	trait = education_stewardship_3
-	trait = gallivanter
+	trait = education_stewardship_2
 	disallow_random_traits = yes
 
 	8118.1.1 = { # 3A 3605
@@ -6248,82 +4842,45 @@ derinan10 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
+derinan9 = {
+	name = Karythia
+	female = yes
+	dynasty_house = derinan
+	religion = faith_anorath
+	culture = anorothic
+
+	father = derinan7
+
+	8139.1.1 = { # 3A 3626
+		birth = yes
+	}
+	8169.1.1 = { # 3A 3656
+		death = { death_reason = death_natural_causes }
+	}
+}
+derinan10 = {
+	name = Neryse
+	female = yes
+	dynasty_house = derinan
+	religion = faith_anorath
+	culture = anorothic
+
+	father = derinan7
+
+	8141.1.1 = { # 3A 3628
+		birth = yes
+	}
+	8212.1.1 = { # 3A 3699
+		death = { death_reason = death_natural_causes }
+	}
+}
 derinan11 = {
-	name = Ikaron
-	dynasty_house = derinan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = derinan10
-
-	diplomacy = 8
-	martial = 6
-	intrigue = 5
-	stewardship = 7
-	learning = 5
-	prowess = 8
-
-	trait = callous
-	trait = impatient
-	trait = just
-	disallow_random_traits = yes
-
-	8161.1.1 = { # 3A 3648
-		birth = yes
-	}
-	8231.1.1 = { # 3A 3718
-		death = { death_reason = death_natural_causes }
-	}
-}
-derinan12 = {
-	name = Ophyron
-	dynasty_house = derinan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = derinan10
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 10
-	stewardship = 6
-	learning = 10
-	prowess = 5
-
-	trait = arrogant
-	trait = temperate
-	trait = trusting
-	disallow_random_traits = yes
-
-	8162.1.1 = { # 3A 3649
-		birth = yes
-	}
-	8232.1.1 = { # 3A 3719
-		death = { death_reason = death_natural_causes }
-	}
-}
-derinan13 = {
 	name = Lykaron
 	dynasty_house = derinan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = derinan10
-
-	diplomacy = 2
-	martial = 8
-	intrigue = 5
-	stewardship = 6
-	learning = 6
-	prowess = 7
-
-	trait = content
-	trait = wrathful
-	trait = zealous
-	trait = education_martial_2
-	trait = education_martial_prowess_1
-	trait = overseer
-	disallow_random_traits = yes
+	father = derinan8
 
 	8139.1.1 = { # 3A 3626
 		birth = yes
@@ -6332,524 +4889,45 @@ derinan13 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-derinan14 = {
-	name = Nyros
+derinan12 = {
+	name = Ikaron
 	dynasty_house = derinan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = derinan13
+	father = derinan8
 
-	diplomacy = 5
-	martial = 5
-	intrigue = 2
-	stewardship = 5
-	learning = 8
-	prowess = 6
-
-	trait = compassionate
-	trait = fickle
-	trait = gregarious
-	disallow_random_traits = yes
-
-	8156.1.1 = { # 3A 3643
+	8161.1.1 = { # 3A 3648
 		birth = yes
 	}
-	8225.1.1 = { # 3A 3712
+	8231.1.1 = { # 3A 3718
 		death = { death_reason = death_natural_causes }
 	}
 }
-derinan15 = {
-	name = Ceneros
+derinan13 = {
+	name = Ophyron
 	dynasty_house = derinan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = derinan13
-
-	diplomacy = 4
-	martial = 4
-	intrigue = 7
-	stewardship = 7
-	learning = 4
-	prowess = 7
-
-	trait = brave
-	trait = greedy
-	trait = wrathful
-	disallow_random_traits = yes
-
-	8160.1.1 = { # 3A 3647
-		birth = yes
-	}
-	8218.1.1 = { # 3A 3705
-		trait = typhus
-		death = { death_reason = death_typhus }
-	}
-}
-derinan16 = {
-	name = Tauras
-	dynasty_house = derinan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = derinan13
-
-	diplomacy = 7
-	martial = 4
-	intrigue = 2
-	stewardship = 8
-	learning = 10
-	prowess = 8
-
-	trait = ambitious
-	trait = gregarious
-	trait = stubborn
-	disallow_random_traits = yes
+	father = derinan8
 
 	8162.1.1 = { # 3A 3649
 		birth = yes
 	}
-	8238.1.1 = { # 4A 5
+	8232.1.1 = { # 3A 3719
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-## House Olyran (Dukes of Lameia since 3A 3230)
+## House Olyran (Dukes of Lameia)
 olyran1 = {
-	name = Argyros
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 4
-	martial = 4
-	intrigue = 3
-	stewardship = 7
-	learning = 8
-	prowess = 3
-
-	trait = stuttering
-	trait = compassionate
-	trait = diligent
-	trait = paranoid
-	trait = education_learning_2
-	trait = one_eyed
-	disallow_random_traits = yes
-
-	7714.1.1 = { # 3A 3201
-		birth = yes
-	}
-	7789.1.1 = { # 3A 3276
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran2 = {
-	name = Tyran
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran1
-
-	diplomacy = 8
-	martial = 4
-	intrigue = 4
-	stewardship = 8
-	learning = 8
-	prowess = 4
-
-	trait = arbitrary
-	trait = generous
-	trait = shy
-	trait = education_diplomacy_2
-	trait = eccentric
-	disallow_random_traits = yes
-
-	7741.1.1 = { # 3A 3228
-		birth = yes
-	}
-	7814.1.1 = { # 3A 3301
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran3 = {
-	name = Kaelon
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran2
-
-	diplomacy = 7
-	martial = 6
-	intrigue = 5
-	stewardship = 7
-	learning = 5
-	prowess = 9
-
-	trait = cynical
-	trait = stubborn
-	trait = trusting
-	trait = education_diplomacy_4
-	trait = lifestyle_hunter
-	trait = one_eyed
-	trait = pilgrim
-	disallow_random_traits = yes
-
-	7766.1.1 = { # 3A 3253
-		birth = yes
-	}
-	7827.1.1 = { # 3A 3314
-		trait = typhus
-		death = { death_reason = death_typhus }
-	}
-}
-olyran4 = {
-	name = Kastianos
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran3
-
-	diplomacy = 5
-	martial = 3
-	intrigue = 6
-	stewardship = 3
-	learning = 10
-	prowess = 8
-
-	trait = arbitrary
-	trait = deceitful
-	trait = lustful
-	trait = education_learning_4
-	trait = lifestyle_mystic
-	disallow_random_traits = yes
-
-	7794.1.1 = { # 3A 3281
-		birth = yes
-	}
-	7855.1.1 = { # 3A 3342
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran5 = {
-	name = Korydon
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran4
-
-	diplomacy = 4
-	martial = 7
-	intrigue = 6
-	stewardship = 5
-	learning = 7
-	prowess = 6
-
-	trait = albino
-	trait = arbitrary
-	trait = patient
-	trait = wrathful
-	trait = education_martial_2
-	trait = education_martial_prowess_1
-	trait = gallant
-	disallow_random_traits = yes
-
-	7828.1.1 = { # 3A 3315
-		birth = yes
-	}
-	7892.1.1 = { # 3A 3379
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran6 = {
-	name = Nikaron
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran5
-
-	diplomacy = 5
-	martial = 7
-	intrigue = 2
-	stewardship = 10
-	learning = 8
-	prowess = 8
-
-	trait = arrogant
-	trait = deceitful
-	trait = zealous
-	trait = education_stewardship_4
-	trait = lifestyle_mystic
-	disallow_random_traits = yes
-
-	7861.1.1 = { # 3A 3348
-		birth = yes
-	}
-	7926.1.1 = { # 3A 3413
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran7 = {
-	name = Iaron
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran6
-
-	diplomacy = 4
-	martial = 5
-	intrigue = 6
-	stewardship = 7
-	learning = 6
-	prowess = 3
-
-	trait = arbitrary
-	trait = chaste
-	trait = forgiving
-	trait = education_stewardship_2
-	disallow_random_traits = yes
-
-	7901.1.1 = { # 3A 3388
-		birth = yes
-	}
-	7966.1.1 = { # 3A 3453
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran8 = {
-	name = Saphyras
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran7
-
-	diplomacy = 8
-	martial = 8
-	intrigue = 6
-	stewardship = 5
-	learning = 7
-	prowess = 6
-
-	trait = forgiving
-	trait = lustful
-	trait = paranoid
-	trait = education_diplomacy_1
-	trait = lifestyle_reveler
-	disallow_random_traits = yes
-
-	7925.1.1 = { # 3A 3412
-		birth = yes
-	}
-	7995.1.1 = { # 3A 3482
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran9 = {
-	name = Talyron
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran8
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 4
-	stewardship = 7
-	learning = 7
-	prowess = 4
-
-	trait = cynical
-	trait = forgiving
-	trait = stubborn
-	trait = education_diplomacy_3
-	trait = lifestyle_physician
-	trait = maimed
-	disallow_random_traits = yes
-
-	7957.1.1 = { # 3A 3444
-		birth = yes
-	}
-	8021.1.1 = { # 3A 3508
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran10 = {
-	name = Phyron
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran9
-
-	diplomacy = 6
-	martial = 7
-	intrigue = 5
-	stewardship = 11
-	learning = 2
-	prowess = 4
-
-	trait = just
-	trait = lustful
-	trait = wrathful
-	trait = education_stewardship_2
-	trait = adulterer
-	disallow_random_traits = yes
-
-	7983.1.1 = { # 3A 3470
-		birth = yes
-	}
-	8045.1.1 = { # 3A 3532
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran11 = {
-	name = Aphyron
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran10
-
-	diplomacy = 7
-	martial = 4
-	intrigue = 8
-	stewardship = 3
-	learning = 9
-	prowess = 8
-
-	trait = ambitious
-	trait = impatient
-	trait = sadistic
-	trait = education_learning_1
-	trait = adulterer
-	trait = pilgrim
-	disallow_random_traits = yes
-
-	8016.1.1 = { # 3A 3503
-		birth = yes
-	}
-	8083.1.1 = { # 3A 3570
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran12 = {
-	name = Arthanes
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran11
-
-	diplomacy = 6
-	martial = 8
-	intrigue = 7
-	stewardship = 6
-	learning = 6
-	prowess = 5
-
-	trait = brave
-	trait = content
-	trait = lustful
-	trait = education_martial_2
-	trait = education_martial_prowess_1
-	trait = military_engineer
-	disallow_random_traits = yes
-
-	8043.1.1 = { # 3A 3530
-		birth = yes
-	}
-	8103.1.1 = { # 3A 3590
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran13 = {
-	name = Theron
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran12
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 4
-	stewardship = 8
-	learning = 6
-	prowess = 7
-
-	trait = greedy
-	trait = sadistic
-	trait = temperate
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
-
-	8062.1.1 = { # 3A 3549
-		birth = yes
-	}
-	8136.1.1 = { # 3A 3623
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran14 = {
-	name = Taryas
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran13
-
-	diplomacy = 10
-	martial = 7
-	intrigue = 8
-	stewardship = 6
-	learning = 10
-	prowess = 4
-
-	trait = cynical
-	trait = gluttonous
-	trait = patient
-	trait = education_diplomacy_3
-	trait = possessed_genetic
-	trait = scarred
-	disallow_random_traits = yes
-
-	8082.1.1 = { # 3A 3569
-		birth = yes
-	}
-	8154.1.1 = { # 3A 3641
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran15 = {
 	name = Kaston
 	dynasty = olyran
 	religion = faith_anorath
 	culture = anorothic
 
-	father = olyran14
-
-	diplomacy = 6
-	martial = 8
-	intrigue = 4
-	stewardship = 6
-	learning = 3
-	prowess = 8
-
-	trait = calm
-	trait = content
-	trait = just
-	trait = education_martial_1
-	trait = education_martial_prowess_4
-	trait = adulterer
-	disallow_random_traits = yes
+	trait = possessed_genetic
 
 	8102.1.1 = { # 3A 3589
 		birth = yes
@@ -6858,28 +4936,14 @@ olyran15 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-olyran16 = {
+olyran2 = {
 	name = Lysiane
 	female = yes
 	dynasty = olyran
 	religion = faith_anorath
 	culture = anorothic
 
-	father = olyran15
-
-	diplomacy = 2
-	martial = 8
-	intrigue = 5
-	stewardship = 8
-	learning = 5
-	prowess = 7
-
-	trait = ambitious
-	trait = callous
-	trait = gluttonous
-	trait = education_martial_3
-	trait = education_martial_prowess_3
-	disallow_random_traits = yes
+	father = olyran1
 
 	8123.1.1 = { # 3A 3610
 		birth = yes
@@ -6888,28 +4952,14 @@ olyran16 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-olyran17 = {
+olyran3 = {
 	name = Kalthara
 	female = yes
 	dynasty = olyran
 	religion = faith_anorath
 	culture = anorothic
 
-	father = olyran15
-
-	diplomacy = 7
-	martial = 2
-	intrigue = 2
-	stewardship = 5
-	learning = 7
-	prowess = 6
-
-	trait = brave
-	trait = content
-	trait = generous
-	trait = education_diplomacy_4
-	trait = lunatic_genetic
-	disallow_random_traits = yes
+	father = olyran1
 
 	8127.1.1 = { # 3A 3614
 		birth = yes
@@ -6918,26 +4968,25 @@ olyran17 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-olyran18 = {
+olyran4 = {
 	name = Lykas
 	dynasty = olyran
 	religion = faith_anorath
 	culture = anorothic
 
-	father = olyran15
+	father = olyran1
 
-	diplomacy = 5
-	martial = 5
-	intrigue = 6
-	stewardship = 7
-	learning = 9
-	prowess = 7
+	diplomacy = 4
+	martial = 6
+	intrigue = 9
+	stewardship = 4
+	learning = 6
+	prowess = 4
 
 	trait = craven
 	trait = gluttonous
 	trait = sadistic
-	trait = education_learning_3
-	trait = lifestyle_traveler
+	trait = education_learning_2
 	trait = possessed_genetic
 	trait = reclusive
 	disallow_random_traits = yes
@@ -6949,52 +4998,13 @@ olyran18 = {
 		death = { death_reason = death_battle }
 	}
 }
-olyran19 = {
-	name = Ikaron
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran18
-
-	diplomacy = 4
-	martial = 10
-	intrigue = 6
-	stewardship = 6
-	learning = 5
-	prowess = 1
-
-	trait = callous
-	trait = deceitful
-	trait = trusting
-	disallow_random_traits = yes
-
-	8160.1.1 = { # 3A 3647
-		birth = yes
-	}
-	8237.1.1 = { # 4A 4
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran20 = {
+olyran5 = {
 	name = Argantes
 	dynasty = olyran
 	religion = faith_anorath
 	culture = anorothic
 
-	father = olyran18
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 7
-	stewardship = 5
-	learning = 6
-	prowess = 7
-
-	trait = ambitious
-	trait = sadistic
-	trait = wrathful
-	disallow_random_traits = yes
+	father = olyran4
 
 	8154.1.1 = { # 3A 3641
 		birth = yes
@@ -7003,25 +5013,15 @@ olyran20 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-olyran21 = {
+olyran6 = {
 	name = Myras
 	dynasty = olyran
 	religion = faith_anorath
 	culture = anorothic
 
-	father = olyran18
+	father = olyran4
 
-	diplomacy = 7
-	martial = 7
-	intrigue = 3
-	stewardship = 8
-	learning = 6
-	prowess = 4
-
-	trait = greedy
-	trait = lustful
-	trait = wrathful
-	disallow_random_traits = yes
+	trait = possessed_genetic
 
 	8158.1.1 = { # 3A 3645
 		birth = yes
@@ -7030,226 +5030,40 @@ olyran21 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-olyran22 = {
-	name = Kaelas
+olyran7 = {
+	name = Ikaron
 	dynasty = olyran
 	religion = faith_anorath
 	culture = anorothic
 
-	father = olyran18
+	father = olyran4
 
-	diplomacy = 6
-	martial = 7
-	intrigue = 5
-	stewardship = 9
-	learning = 1
-	prowess = 5
-
-	trait = diligent
-	trait = fickle
-	trait = generous
-	disallow_random_traits = yes
-
-	8162.1.1 = { # 3A 3649
+	8160.1.1 = { # 3A 3647
 		birth = yes
 	}
-	8223.1.1 = { # 3A 3710
-		death = { death_reason = death_natural_causes }
-	}
-}
-olyran23 = {
-	name = Myraklon
-	dynasty = olyran
-	religion = faith_anorath
-	culture = anorothic
-
-	father = olyran18
-
-	diplomacy = 5
-	martial = 5
-	intrigue = 2
-	stewardship = 5
-	learning = 5
-	prowess = 6
-
-	trait = forgiving
-	trait = gregarious
-	trait = sadistic
-	disallow_random_traits = yes
-
-	8163.1.1 = { # 3A 3650
-		birth = yes
-	}
-	8235.1.1 = { # 4A 2
+	8237.1.1 = { # 4A 4
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-## House Cerinas (Counts of Ermirios since 3A 3451)
+## House Cerinas (Counts of Ermirios)
 cerinas1 = {
-	name = Orestas
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 7
-	stewardship = 6
-	learning = 9
-	prowess = 5
-
-	trait = diligent
-	trait = just
-	trait = paranoid
-	trait = education_learning_4
-	disallow_random_traits = yes
-
-	7941.1.1 = { # 3A 3428
-		birth = yes
-	}
-	8002.1.1 = { # 3A 3489
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas2 = {
-	name = Vasylas
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas1
-
-	diplomacy = 8
-	martial = 6
-	intrigue = 7
-	stewardship = 6
-	learning = 8
-	prowess = 7
-
-	trait = deceitful
-	trait = diligent
-	trait = gregarious
-	trait = education_diplomacy_3
-	trait = athletic
-	disallow_random_traits = yes
-
-	7964.1.1 = { # 3A 3451
-		birth = yes
-	}
-	8003.1.1 = { # 3A 3490
-		death = { death_reason = death_battle }
-	}
-}
-cerinas3 = {
-	name = Charanos
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas2
-
-	diplomacy = 9
-	martial = 7
-	intrigue = 6
-	stewardship = 8
-	learning = 6
-	prowess = 4
-
-	trait = diligent
-	trait = stubborn
-	trait = zealous
-	trait = education_diplomacy_2
-	sexuality = bisexual
-	disallow_random_traits = yes
-
-	7989.1.1 = { # 3A 3476
-		birth = yes
-	}
-	8065.1.1 = { # 3A 3552
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas4 = {
-	name = Ceneros
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas3
-
-	diplomacy = 7
-	martial = 7
-	intrigue = 10
-	stewardship = 6
-	learning = 4
-	prowess = 2
-
-	trait = calm
-	trait = deceitful
-	trait = vengeful
-	trait = education_intrigue_2
-	trait = zealous
-	disallow_random_traits = yes
-
-	8028.1.1 = { # 3A 3515
-		birth = yes
-	}
-	8100.1.1 = { # 3A 3587
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas5 = {
-	name = Myras
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas4
-
-	diplomacy = 6
-	martial = 2
-	intrigue = 6
-	stewardship = 5
-	learning = 6
-	prowess = 4
-
-	trait = physique_good_2
-	trait = arrogant
-	trait = brave
-	trait = vengeful
-	trait = education_diplomacy_2
-	trait = possessed_genetic
-	trait = scarred
-	disallow_random_traits = yes
-
-	8062.1.1 = { # 3A 3549
-		birth = yes
-	}
-	8131.1.1 = { # 3A 3618
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas6 = {
 	name = Pheros
 	dynasty = cerinas
 	religion = faith_anorath
 	culture = anorothic
-
-	father = cerinas5
 
 	diplomacy = 8
 	martial = 5
 	intrigue = 9
 	stewardship = 6
 	learning = 8
-	prowess = 5
+	prowess = 9
 
 	trait = chaste
 	trait = paranoid
 	trait = stubborn
-	trait = education_intrigue_2
-	trait = gallivanter
+	trait = education_intrigue_4
 	disallow_random_traits = yes
 
 	8101.1.1 = { # 3A 3588
@@ -7259,90 +5073,13 @@ cerinas6 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-cerinas7 = {
-	name = Neryse
-	female = yes
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas6
-
-	diplomacy = 3
-	martial = 10
-	intrigue = 1
-	stewardship = 7
-	learning = 6
-	prowess = 4
-
-	trait = impatient
-	trait = paranoid
-	trait = sadistic
-	trait = education_martial_3
-	trait = education_martial_prowess_2
-	trait = lifestyle_physician
-	trait = maimed
-	disallow_random_traits = yes
-
-	8142.1.1 = { # 3A 3629
-		birth = yes
-	}
-	8212.1.1 = { # 3A 3699
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas8 = {
-	name = Heliane
-	female = yes
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas6
-
-	diplomacy = 6
-	martial = 6
-	intrigue = 4
-	stewardship = 4
-	learning = 7
-	prowess = 9
-
-	trait = content
-	trait = gluttonous
-	trait = zealous
-	trait = education_learning_4
-	trait = reclusive
-	disallow_random_traits = yes
-
-	8146.1.1 = { # 3A 3633
-		birth = yes
-	}
-	8215.1.1 = { # 3A 3702
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas9 = {
+cerinas2 = {
 	name = Tauras
 	dynasty = cerinas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cerinas6
-
-	diplomacy = 5
-	martial = 8
-	intrigue = 8
-	stewardship = 5
-	learning = 6
-	prowess = 3
-
-	trait = sickly
-	trait = calm
-	trait = craven
-	trait = generous
-	trait = education_martial_3
-	trait = education_martial_prowess_2
-	disallow_random_traits = yes
+	father = cerinas1
 
 	8133.1.1 = { # 3A 3620
 		birth = yes
@@ -7351,26 +5088,46 @@ cerinas9 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-cerinas10 = {
+cerinas3 = {
+	name = Neryse
+	female = yes
+	dynasty = cerinas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cerinas1
+
+	8142.1.1 = { # 3A 3629
+		birth = yes
+	}
+	8212.1.1 = { # 3A 3699
+		death = { death_reason = death_natural_causes }
+	}
+}
+cerinas4 = {
+	name = Heliane
+	female = yes
+	dynasty = cerinas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cerinas1
+
+	8146.1.1 = { # 3A 3633
+		birth = yes
+	}
+	8215.1.1 = { # 3A 3702
+		death = { death_reason = death_natural_causes }
+	}
+}
+cerinas5 = {
 	name = Seleia
 	female = yes
 	dynasty = cerinas
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cerinas9
-
-	diplomacy = 9
-	martial = 6
-	intrigue = 3
-	stewardship = 10
-	learning = 5
-	prowess = 6
-
-	trait = brave
-	trait = patient
-	trait = trusting
-	disallow_random_traits = yes
+	father = cerinas2
 
 	8157.1.1 = { # 3A 3644
 		birth = yes
@@ -7379,841 +5136,26 @@ cerinas10 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-cerinas11 = {
-	name = Kaelon
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
 
-	father = cerinas9
-
-	diplomacy = 10
-	martial = 5
-	intrigue = 9
-	stewardship = 6
-	learning = 4
-	prowess = 8
-
-	trait = arbitrary
-	trait = gregarious
-	trait = lazy
-	disallow_random_traits = yes
-
-	8162.1.1 = { # 3A 3649
-		birth = yes
-	}
-	8237.1.1 = { # 4A 4
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas12 = {
-	name = Pylanes
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas9
-
-	diplomacy = 7
-	martial = 4
-	intrigue = 7
-	stewardship = 10
-	learning = 8
-	prowess = 8
-
-	trait = callous
-	trait = generous
-	trait = impatient
-	disallow_random_traits = yes
-
-	8165.1.1 = { # 3A 3652
-		birth = yes
-	}
-	8230.1.1 = { # 3A 3717
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-## House Krynarias (Counts of Acrokephys since 3A 3511
-krynarias1 = {
-	name = Krynaros
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 8
-	martial = 6
-	intrigue = 9
-	stewardship = 10
-	learning = 3
-	prowess = 8
-
-	trait = deceitful
-	trait = temperate
-	trait = vengeful
-	trait = education_stewardship_1
-	trait = possessed_genetic
-	trait = tourney_participant
-	disallow_random_traits = yes
-
-	7995.1.1 = { # 3A 3482
-		birth = yes
-	}
-	8065.1.1 = { # 3A 3552
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias2 = {
-	name = Ekarios
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias1
-
-	diplomacy = 9
-	martial = 5
-	intrigue = 5
-	stewardship = 8
-	learning = 10
-	prowess = 6
-
-	trait = diligent
-	trait = gluttonous
-	trait = impatient
-	trait = education_learning_2
-	trait = celibate
-	disallow_random_traits = yes
-
-	8027.1.1 = { # 3A 3514
-		birth = yes
-	}
-	8101.1.1 = { # 3A 3588
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias3 = {
-	name = Arthanes
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias2
-
-	diplomacy = 3
-	martial = 10
-	intrigue = 7
-	stewardship = 5
-	learning = 7
-	prowess = 7
-
-	trait = content
-	trait = diligent
-	trait = humble
-	trait = education_martial_5
-	trait = education_martial_prowess_1
-	trait = desert_warrior
-	trait = logistician
-	disallow_random_traits = yes
-
-	8044.1.1 = { # 3A 3531
-		birth = yes
-	}
-	8120.1.1 = { # 3A 3607
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias4 = {
-	name = Vasylas
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias3
-
-	diplomacy = 7
-	martial = 7
-	intrigue = 8
-	stewardship = 6
-	learning = 4
-	prowess = 5
-
-	trait = compassionate
-	trait = content
-	trait = diligent
-	trait = education_intrigue_3
-	trait = drunkard
-	trait = maimed
-	disallow_random_traits = yes
-
-	8067.1.1 = { # 3A 3554
-		birth = yes
-	}
-	8133.1.1 = { # 3A 3620
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias5 = {
-	name = Korydon
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias4
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 6
-	stewardship = 3
-	learning = 8
-	prowess = 6
-
-	trait = chaste
-	trait = impatient
-	trait = stubborn
-	trait = education_diplomacy_1
-	disallow_random_traits = yes
-
-	8094.1.1 = { # 3A 3581
-		birth = yes
-	}
-	8161.1.1 = { # 3A 3648
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias6 = {
-	name = Cyran
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias5
-
-	diplomacy = 3
-	martial = 6
-	intrigue = 7
-	stewardship = 4
-	learning = 3
-	prowess = 6
-
-	trait = bleeder
-	trait = content
-	trait = deceitful
-	trait = temperate
-	trait = education_intrigue_2
-	disallow_random_traits = yes
-
-	8113.1.1 = { # 3A 3600
-		birth = yes
-	}
-	8186.1.1 = { # 3A 3673
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias7 = {
-	name = Karythia
-	female = yes
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias5
-
-	diplomacy = 9
-	martial = 9
-	intrigue = 7
-	stewardship = 1
-	learning = 5
-	prowess = 6
-
-	trait = compassionate
-	trait = craven
-	trait = zealous
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
-
-	8135.1.1 = { # 3A 3622
-		birth = yes
-	}
-	8207.1.1 = { # 3A 3694
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias8 = {
-	name = Lysiane
-	female = yes
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias5
-
-	diplomacy = 3
-	martial = 9
-	intrigue = 8
-	stewardship = 6
-	learning = 5
-	prowess = 9
-
-	trait = arrogant
-	trait = generous
-	trait = zealous
-	trait = education_martial_3
-	trait = education_martial_prowess_2
-	trait = gallivanter
-	disallow_random_traits = yes
-
-	8139.1.1 = { # 3A 3626
-		birth = yes
-	}
-	8206.1.1 = { # 3A 3693
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias9 = {
-	name = Oryaros
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias5
-
-	diplomacy = 5
-	martial = 8
-	intrigue = 6
-	stewardship = 6
-	learning = 7
-	prowess = 6
-
-	trait = ambitious
-	trait = greedy
-	trait = sadistic
-	trait = education_martial_4
-	trait = education_martial_prowess_3
-	trait = maimed
-	disallow_random_traits = yes
-
-	8145.1.1 = { # 3A 3632
-		birth = yes
-	}
-	8209.1.1 = { # 3A 3696
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias10 = {
-	name = Karethia
-	female = yes
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias5
-
-	diplomacy = 6
-	martial = 6
-	intrigue = 8
-	stewardship = 9
-	learning = 9
-	prowess = 10
-
-	trait = forgiving
-	trait = just
-	trait = sadistic
-	sexuality = bisexual
-	disallow_random_traits = yes
-
-	8151.1.1 = { # 3A 3638
-		birth = yes
-	}
-	8220.1.1 = { # 3A 3707
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias11 = {
-	name = Aphyrelos
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	mother = krynarias8
-
-	diplomacy = 10
-	martial = 4
-	intrigue = 4
-	stewardship = 6
-	learning = 4
-	prowess = 3
-
-	trait = beauty_good_1
-	trait = content
-	trait = gregarious
-	trait = just
-	disallow_random_traits = yes
-
-	8158.1.1 = { # 3A 3645
-		birth = yes
-	}
-	8210.1.1 = { # 3A 3697
-		trait = typhus
-		death = { death_reason = death_typhus }
-	}
-}
-krynarias12 = {
-	name = Kalaron
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	mother = krynarias8
-
-	diplomacy = 7
-	martial = 7
-	intrigue = 7
-	stewardship = 6
-	learning = 5
-	prowess = 10
-
-	trait = forgiving
-	trait = greedy
-	trait = stubborn
-	disallow_random_traits = yes
-
-	8163.1.1 = { # 3A 3650
-		birth = yes
-	}
-	8238.1.1 = { # 4A 5
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-## House Cykras (Dukes of Valas since 3A 3257)
+## House Cykras (Dukes of Valas)
 cykras1 = {
-	name = Tyran
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 6
-	stewardship = 4
-	learning = 7
-	prowess = 10
-
-	trait = clubfooted
-	trait = gluttonous
-	trait = trusting
-	trait = zealous
-	trait = education_learning_3
-	trait = lifestyle_wayfarer
-	trait = devoted
-	disallow_random_traits = yes
-
-	7738.1.1 = { # 3A 3225
-		birth = yes
-	}
-	7800.1.1 = { # 3A 3287
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras2 = {
-	name = Damakon
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras1
-
-	diplomacy = 7
-	martial = 5
-	intrigue = 7
-	stewardship = 3
-	learning = 5
-	prowess = 7
-
-	trait = lazy
-	trait = trusting
-	trait = vengeful
-	trait = education_diplomacy_4
-	disallow_random_traits = yes
-
-	7759.1.1 = { # 3A 3246
-		birth = yes
-	}
-	7836.1.1 = { # 3A 3323
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras3 = {
-	name = Arthelos
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras2
-
-	diplomacy = 5
-	martial = 3
-	intrigue = 7
-	stewardship = 7
-	learning = 3
-	prowess = 6
-
-	trait = compassionate
-	trait = diligent
-	trait = stubborn
-	trait = education_stewardship_3
-	trait = architect
-	disallow_random_traits = yes
-
-	7777.1.1 = { # 3A 3264
-		birth = yes
-	}
-	7846.1.1 = { # 3A 3333
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras4 = {
-	name = Lyrandos
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras3
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 9
-	stewardship = 5
-	learning = 8
-	prowess = 6
-
-	trait = ambitious
-	trait = calm
-	trait = generous
-	trait = education_intrigue_2
-	disallow_random_traits = yes
-
-	7804.1.1 = { # 3A 3291
-		birth = yes
-	}
-	7872.1.1 = { # 3A 3359
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras5 = {
-	name = Tauron
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras4
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 7
-	stewardship = 8
-	learning = 8
-	prowess = 4
-
-	trait = arbitrary
-	trait = brave
-	trait = zealous
-	trait = education_stewardship_2
-	trait = lifestyle_blademaster
-	trait = lunatic_genetic
-	disallow_random_traits = yes
-
-	7825.1.1 = { # 3A 3312
-		birth = yes
-	}
-	7886.1.1 = { # 3A 3373
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras6 = {
-	name = Chaeron
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras5
-
-	diplomacy = 6
-	martial = 4
-	intrigue = 8
-	stewardship = 7
-	learning = 8
-	prowess = 6
-
-	trait = greedy
-	trait = gregarious
-	trait = vengeful
-	trait = education_intrigue_2
-	disallow_random_traits = yes
-
-	7868.1.1 = { # 3A 3355
-		birth = yes
-	}
-	7942.1.1 = { # 3A 3429
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras7 = {
-	name = Valos
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras6
-
-	diplomacy = 7
-	martial = 9
-	intrigue = 8
-	stewardship = 6
-	learning = 3
-	prowess = 9
-
-	trait = chaste
-	trait = just
-	trait = sadistic
-	trait = education_martial_2
-	trait = education_martial_prowess_5
-	trait = murderer
-	trait = rough_terrain_expert
-	disallow_random_traits = yes
-
-	7895.1.1 = { # 3A 3382
-		birth = yes
-	}
-	7950.1.1 = { # 3A 3437
-		trait = pneumonic
-		death = { death_reason = death_pneumonic }
-	}
-}
-cykras8 = {
-	name = Tauran
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras7
-
-	diplomacy = 9
-	martial = 3
-	intrigue = 7
-	stewardship = 7
-	learning = 6
-	prowess = 2
-
-	trait = sadistic
-	trait = vengeful
-	trait = wrathful
-	trait = education_diplomacy_2
-	trait = diplomat
-	disallow_random_traits = yes
-
-	7917.1.1 = { # 3A 3404
-		birth = yes
-	}
-	7937.1.1 = { # 3A 3424
-		death = { death_reason = death_battle }
-	}
-}
-cykras9 = {
-	name = Taryaros
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras8
-
-	diplomacy = 7
-	martial = 10
-	intrigue = 8
-	stewardship = 11
-	learning = 8
-	prowess = 6
-
-	trait = honest
-	trait = shy
-	trait = stubborn
-	trait = education_stewardship_4
-	disallow_random_traits = yes
-
-	7933.1.1 = { # 3A 3420
-		birth = yes
-	}
-	8012.1.1 = { # 3A 3499
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras10 = {
-	name = Kastylas
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras9
-
-	diplomacy = 7
-	martial = 6
-	intrigue = 9
-	stewardship = 3
-	learning = 8
-	prowess = 9
-
-	trait = compassionate
-	trait = generous
-	trait = stubborn
-	trait = education_intrigue_4
-	disallow_random_traits = yes
-
-	7963.1.1 = { # 3A 3450
-		birth = yes
-	}
-	8026.1.1 = { # 3A 3513
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras11 = {
-	name = Salaros
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras10
-
-	diplomacy = 5
-	martial = 7
-	intrigue = 2
-	stewardship = 4
-	learning = 6
-	prowess = 6
-
-	trait = brave
-	trait = compassionate
-	trait = paranoid
-	trait = education_martial_4
-	trait = education_martial_prowess_1
-	disallow_random_traits = yes
-
-	7991.1.1 = { # 3A 3478
-		birth = yes
-	}
-	8066.1.1 = { # 3A 3553
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras12 = {
-	name = Myraklon
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras11
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 9
-	stewardship = 5
-	learning = 5
-	prowess = 8
-
-	trait = craven
-	trait = patient
-	trait = zealous
-	trait = education_intrigue_2
-	disallow_random_traits = yes
-
-	8023.1.1 = { # 3A 3510
-		birth = yes
-	}
-	8090.1.1 = { # 3A 3577
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras13 = {
-	name = Kastianos
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras12
-
-	diplomacy = 5
-	martial = 7
-	intrigue = 7
-	stewardship = 3
-	learning = 5
-	prowess = 5
-
-	trait = arbitrary
-	trait = compassionate
-	trait = generous
-	trait = education_martial_1
-	trait = education_martial_prowess_1
-	disallow_random_traits = yes
-
-	8042.1.1 = { # 3A 3529
-		birth = yes
-	}
-	8099.1.1 = { # 3A 3586
-		trait = gout_ridden
-		death = { death_reason = death_gout_ridden }
-	}
-}
-cykras14 = {
-	name = Talyron
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras13
-
-	diplomacy = 5
-	martial = 4
-	intrigue = 7
-	stewardship = 5
-	learning = 8
-	prowess = 4
-
-	trait = cynical
-	trait = deceitful
-	trait = gluttonous
-	trait = education_learning_3
-	trait = lifestyle_physician
-	trait = pilgrim
-	disallow_random_traits = yes
-
-	8070.1.1 = { # 3A 3557
-		birth = yes
-	}
-	8149.1.1 = { # 3A 3636
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras15 = {
 	name = Nemaron
 	dynasty = cykras
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cykras14
-
 	diplomacy = 5
 	martial = 11
 	intrigue = 7
-	stewardship = 7
+	stewardship = 5
 	learning = 8
-	prowess = 2
+	prowess = 11
 
+	trait = brave
 	trait = content
 	trait = just
-	trait = paranoid
-	trait = education_martial_2
-	trait = education_martial_prowess_2
-	trait = celibate
+	trait = education_martial_4
+	trait = education_martial_prowess_4
 	disallow_random_traits = yes
 
 	8101.1.1 = { # 3A 3588
@@ -8223,27 +5165,13 @@ cykras15 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-cykras16 = {
+cykras2 = {
 	name = Andron
 	dynasty = cykras
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cykras15
-
-	diplomacy = 4
-	martial = 10
-	intrigue = 5
-	stewardship = 5
-	learning = 4
-	prowess = 6
-
-	trait = brave
-	trait = humble
-	trait = impatient
-	trait = education_martial_2
-	trait = education_martial_prowess_3
-	disallow_random_traits = yes
+	father = cykras1
 
 	8123.1.1 = { # 3A 3610
 		birth = yes
@@ -8252,25 +5180,13 @@ cykras16 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-cykras17 = {
+cykras3 = {
 	name = Seryos
 	dynasty = cykras
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cykras16
-
-	diplomacy = 7
-	martial = 6
-	intrigue = 4
-	stewardship = 7
-	learning = 8
-	prowess = 6
-
-	trait = cynical
-	trait = generous
-	trait = wrathful
-	disallow_random_traits = yes
+	father = cykras2
 
 	8152.1.1 = { # 3A 3639
 		birth = yes
@@ -8279,109 +5195,28 @@ cykras17 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-cykras18 = {
-	name = Theras
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras16
-
-	diplomacy = 7
-	martial = 5
-	intrigue = 8
-	stewardship = 7
-	learning = 7
-	prowess = 6
-
-	trait = diligent
-	trait = greedy
-	trait = just
-	disallow_random_traits = yes
-
-	8155.1.1 = { # 3A 3642
-		birth = yes
-	}
-	8219.1.1 = { # 3A 3706
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras19 = {
+cykras4 = {
 	name = Oryaros
 	dynasty = cykras
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cykras16
-
-	diplomacy = 5
-	martial = 10
-	intrigue = 9
-	stewardship = 8
-	learning = 9
-	prowess = 5
-
-	trait = physique_good_3
-	trait = ambitious
-	trait = diligent
-	trait = greedy
-	disallow_random_traits = yes
+	father = cykras2
 
 	8159.1.1 = { # 3A 3646
 		birth = yes
 	}
 	8223.1.1 = { # 3A 3710
-		trait = ill
-		death = { death_reason = death_attempted_treatment }
-	}
-}
-cykras20 = {
-	name = Argantes
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras16
-
-	diplomacy = 7
-	martial = 8
-	intrigue = 5
-	stewardship = 5
-	learning = 6
-	prowess = 6
-
-	trait = arbitrary
-	trait = fickle
-	trait = zealous
-	sexuality = asexual
-	disallow_random_traits = yes
-
-	8164.1.1 = { # 3A 3651
-		birth = yes
-	}
-	8228.1.1 = { # 3A 3715
 		death = { death_reason = death_natural_causes }
 	}
 }
-cykras21 = {
+cykras5 = {
 	name = Rynatos
 	dynasty = cykras
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cykras16
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 6
-	stewardship = 9
-	learning = 7
-	prowess = 4
-
-	trait = content
-	trait = lazy
-	trait = trusting
-	disallow_random_traits = yes
+	father = cykras2
 
 	8165.1.1 = { # 3A 3652
 		birth = yes
@@ -8391,293 +5226,128 @@ cykras21 = {
 	}
 }
 
-## House Garosin
-garosin1 = {
-	name = Andrakon
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 9
-	stewardship = 6
-	learning = 3
-	prowess = 6
-
-	trait = generous
-	trait = lustful
-	trait = sadistic
-	trait = education_intrigue_3
-	trait = murderer
-	sexuality = homosexual
-	disallow_random_traits = yes
-
-	7869.1.1 = { # 3A 3356
-		birth = yes
-	}
-	7939.1.1 = { # 3A 3426
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin2 = {
-	name = Ouralon
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin1
-
-	diplomacy = 5
-	martial = 11
-	intrigue = 4
-	stewardship = 8
-	learning = 5
-	prowess = 5
-
-	trait = chaste
-	trait = honest
-	trait = patient
-	trait = education_martial_4
-	trait = education_martial_prowess_2
-	trait = berserker
-	trait = scarred
-	disallow_random_traits = yes
-
-	7904.1.1 = { # 3A 3391
-		birth = yes
-	}
-	7970.1.1 = { # 3A 3457
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin3 = {
-	name = Mepharos
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin2
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 5
-	stewardship = 7
-	learning = 7
-	prowess = 6
-
-	trait = intellect_good_1
-	trait = forgiving
-	trait = humble
-	trait = sadistic
-	trait = education_stewardship_1
-	trait = devoted
-	disallow_random_traits = yes
-
-	7933.1.1 = { # 3A 3420
-		birth = yes
-	}
-	8002.1.1 = { # 3A 3489
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin4 = {
-	name = Kastianos
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin3
-
-	diplomacy = 4
-	martial = 3
-	intrigue = 8
-	stewardship = 6
-	learning = 6
-	prowess = 9
-
-	trait = ambitious
-	trait = brave
-	trait = gregarious
-	trait = education_intrigue_3
-	trait = one_eyed
-	disallow_random_traits = yes
-
-	7973.1.1 = { # 3A 3460
-		birth = yes
-	}
-	8037.1.1 = { # 3A 3524
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin5 = {
-	name = Alenaros
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin4
-
-	diplomacy = 6
-	martial = 4
-	intrigue = 6
-	stewardship = 7
-	learning = 8
-	prowess = 2
-
-	trait = cynical
-	trait = humble
-	trait = impatient
-	trait = education_learning_2
-	trait = eccentric
-	trait = one_eyed
-	disallow_random_traits = yes
-
-	7995.1.1 = { # 3A 3482
-		birth = yes
-	}
-	8055.1.1 = { # 3A 3542
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin6 = {
-	name = Kastyas
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin5
-
-	diplomacy = 4
-	martial = 4
-	intrigue = 7
-	stewardship = 6
-	learning = 3
-	prowess = 7
-
-	trait = fickle
-	trait = patient
-	trait = shy
-	trait = education_intrigue_2
-	trait = celibate
-	disallow_random_traits = yes
-
-	8022.1.1 = { # 3A 3509
-		birth = yes
-	}
-	8082.1.1 = { # 3A 3569
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin7 = {
-	name = Oryaros
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin6
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 4
-	stewardship = 4
-	learning = 4
-	prowess = 6
-
-	trait = compassionate
-	trait = fickle
-	trait = temperate
-	trait = education_diplomacy_2
-	trait = lifestyle_wayfarer
-	sexuality = homosexual
-	disallow_random_traits = yes
-
-	8042.1.1 = { # 3A 3529
-		birth = yes
-	}
-	8102.1.1 = { # 3A 3589
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin8 = {
+## House Krynarias (Counts of Acrokephys)
+krynarias1 = {
 	name = Korydon
-	dynasty = garosin
+	dynasty = krynarias
 	religion = faith_anorath
 	culture = anorothic
-
-	father = garosin7
-
-	diplomacy = 5
-	martial = 5
-	intrigue = 5
-	stewardship = 9
-	learning = 4
-	prowess = 5
-
-	trait = bleeder
-	trait = gluttonous
-	trait = patient
-	trait = vengeful
-	trait = education_stewardship_3
-	disallow_random_traits = yes
-
-	8065.1.1 = { # 3A 3552
-		birth = yes
-	}
-	8130.1.1 = { # 3A 3617
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin9 = {
-	name = Vareos
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin8
 
 	diplomacy = 8
 	martial = 7
-	intrigue = 5
-	stewardship = 5
-	learning = 3
-	prowess = 7
+	intrigue = 6
+	stewardship = 3
+	learning = 8
+	prowess = 6
 
-	trait = deceitful
-	trait = gluttonous
-	trait = greedy
-	trait = education_diplomacy_4
-	trait = one_eyed
-	trait = possessed_genetic
+	trait = chaste
+	trait = impatient
+	trait = stubborn
+	trait = education_diplomacy_3
 	disallow_random_traits = yes
 
-	8085.1.1 = { # 3A 3572
+	8096.1.1 = { # 3A 3583
 		birth = yes
 	}
-	8162.1.1 = { # 3A 3649
+	8171.1.1 = { # 3A 3658
 		death = { death_reason = death_natural_causes }
 	}
 }
-garosin10 = {
+krynarias2 = {
+	name = Cyran
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	father = krynarias1
+
+	8113.1.1 = { # 3A 3600
+		birth = yes
+	}
+	8186.1.1 = { # 3A 3673
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias3 = {
+	name = Lysiane
+	female = yes
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	father = krynarias1
+
+	8139.1.1 = { # 3A 3626
+		birth = yes
+	}
+	8206.1.1 = { # 3A 3693
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias4 = {
+	name = Oryaros
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	father = krynarias1
+
+	8145.1.1 = { # 3A 3632
+		birth = yes
+	}
+	8209.1.1 = { # 3A 3696
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias5 = {
+	name = Aphyrelos
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	mother = krynarias3
+
+	8158.1.1 = { # 3A 3645
+		birth = yes
+	}
+	8210.1.1 = { # 3A 3697
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias6 = {
+	name = Kalaron
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	mother = krynarias3
+
+	8163.1.1 = { # 3A 3650
+		birth = yes
+	}
+	8238.1.1 = { # 4A 5
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Garosin (Counts of Olyrea)
+garosin1 = {
 	name = Pheros
 	dynasty = garosin
 	religion = faith_anorath
 	culture = anorothic
 
-	father = garosin9
-
-	diplomacy = 6
+	diplomacy = 4
 	martial = 5
 	intrigue = 6
 	stewardship = 6
 	learning = 5
-	prowess = 5
+	prowess = 2
 
 	trait = ambitious
 	trait = gluttonous
 	trait = impatient
 	trait = education_diplomacy_1
-	trait = lifestyle_mystic
 	trait = drunkard
 	disallow_random_traits = yes
 
@@ -8688,171 +5358,13 @@ garosin10 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-garosin11 = {
-	name = Lysaros
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 3
-	martial = 7
-	intrigue = 7
-	stewardship = 3
-	learning = 5
-	prowess = 4
-
-	trait = deceitful
-	trait = sadistic
-	trait = trusting
-	trait = education_martial_2
-	trait = education_martial_prowess_3
-	trait = tourney_participant
-	disallow_random_traits = yes
-
-	8149.1.1 = { # 3A 3636
-		birth = yes
-	}
-	8214.1.1 = { # 3A 3701
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin12 = {
-	name = Ouriane
-	female = yes
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 5
-	martial = 7
-	intrigue = 3
-	stewardship = 3
-	learning = 6
-	prowess = 6
-
-	trait = callous
-	trait = gregarious
-	trait = humble
-	disallow_random_traits = yes
-
-	8151.1.1 = { # 3A 3638
-		birth = yes
-	}
-	8229.1.1 = { # 3A 3716
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin13 = {
-	name = Kanon
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 5
-	martial = 3
-	intrigue = 9
-	stewardship = 9
-	learning = 3
-	prowess = 3
-
-	trait = humble
-	trait = shy
-	trait = wrathful
-	disallow_random_traits = yes
-
-	8152.1.1 = { # 3A 3639
-		birth = yes
-	}
-	8228.1.1 = { # 3A 3715
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin14 = {
-	name = Chrysiane
-	female = yes
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 4
-	stewardship = 5
-	learning = 10
-	prowess = 7
-
-	trait = callous
-	trait = gluttonous
-	trait = gregarious
-	disallow_random_traits = yes
-
-	8157.1.1 = { # 3A 3644
-		birth = yes
-	}
-	8234.1.1 = { # 4A 1
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin15 = {
-	name = Zephyron
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 7
-	martial = 8
-	intrigue = 4
-	stewardship = 9
-	learning = 5
-	prowess = 2
-
-	trait = infertile
-	trait = diligent
-	trait = humble
-	trait = temperate
-	trait = education_stewardship_4
-	disallow_random_traits = yes
-
-	8144.1.1 = { # 3A 3631
-		birth = yes
-	}
-	8218.1.1 = { # 3A 3705
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin16 = {
+garosin2 = {
 	name = Eryadros
 	dynasty = garosin
 	religion = faith_anorath
 	culture = anorothic
 
-	father = garosin10
-
-	diplomacy = 10
-	martial = 5
-	intrigue = 6
-	stewardship = 9
-	learning = 9
-	prowess = 5
-
-	trait = diligent
-	trait = temperate
-	trait = trusting
-	trait = education_diplomacy_3
-	trait = august
-	trait = journaller
-	trait = reclusive
-	disallow_random_traits = yes
+	father = garosin1
 
 	8145.1.1 = { # 3A 3632
 		birth = yes
@@ -8861,279 +5373,41 @@ garosin16 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-garosin17 = {
-	name = Aelynos
+garosin3 = {
+	name = Ouriane
+	female = yes
 	dynasty = garosin
 	religion = faith_anorath
 	culture = anorothic
 
-	father = garosin10
+	father = garosin1
 
-	diplomacy = 6
-	martial = 6
-	intrigue = 3
-	stewardship = 4
-	learning = 5
-	prowess = 7
-
-	trait = cynical
-	trait = forgiving
-	trait = generous
-	trait = education_diplomacy_1
-	trait = journaller
-	disallow_random_traits = yes
-
-	8147.1.1 = { # 3A 3634
+	8151.1.1 = { # 3A 3638
 		birth = yes
 	}
-	8221.1.1 = { # 3A 3708
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin18 = {
-	name = Myron
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 7
-	martial = 8
-	intrigue = 6
-	stewardship = 5
-	learning = 9
-	prowess = 4
-
-	trait = ambitious
-	trait = brave
-	trait = calm
-	disallow_random_traits = yes
-
-	8152.1.1 = { # 3A 3639
-		birth = yes
-	}
-	8216.1.1 = { # 3A 3703
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin19 = {
-	name = Astyron
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 6
-	martial = 10
-	intrigue = 6
-	stewardship = 6
-	learning = 8
-	prowess = 6
-
-	trait = giant
-	trait = ambitious
-	trait = cynical
-	trait = fickle
-	disallow_random_traits = yes
-
-	8157.1.1 = { # 3A 3644
-		birth = yes
-	}
-	8222.1.1 = { # 3A 3709
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin20 = {
-	name = Asteron
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 8
-	martial = 8
-	intrigue = 3
-	stewardship = 3
-	learning = 6
-	prowess = 5
-
-	trait = brave
-	trait = fickle
-	trait = paranoid
-	disallow_random_traits = yes
-
-	8158.1.1 = { # 3A 3645
-		birth = yes
-	}
-	8220.1.1 = { # 3A 3707
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin21 = {
-	name = Nyros
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 3
-	martial = 5
-	intrigue = 4
-	stewardship = 3
-	learning = 7
-	prowess = 8
-
-	trait = intellect_bad_3
-	trait = generous
-	trait = temperate
-	trait = wrathful
-	disallow_random_traits = yes
-
-	8162.1.1 = { # 3A 3649
-		birth = yes
-	}
-	8177.1.1 = { # 3A 3664
-		death = { death_reason = death_battle }
-	}
-}
-garosin22 = {
-	name = Valos
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin10
-
-	diplomacy = 6
-	martial = 7
-	intrigue = 2
-	stewardship = 8
-	learning = 8
-	prowess = 4
-
-	trait = generous
-	trait = gregarious
-	trait = just
-	disallow_random_traits = yes
-
-	8165.1.1 = { # 3A 3652
-		birth = yes
-	}
-	8238.1.1 = { # 4A 5
+	8229.1.1 = { # 3A 3716
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-## House Korthavan
+## House Korthavan (Counts of Elássos)
 korthavan1 = {
-	name = Nyraros
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 6
-	martial = 6
-	intrigue = 5
-	stewardship = 7
-	learning = 4
-	prowess = 5
-
-	trait = diligent
-	trait = gluttonous
-	trait = just
-	trait = education_stewardship_1
-	trait = zealous
-	disallow_random_traits = yes
-
-	8022.1.1 = { # 3A 3509
-		birth = yes
-	}
-	8091.1.1 = { # 3A 3578
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan2 = {
-	name = Galaros
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan1
-
-	diplomacy = 8
-	martial = 10
-	intrigue = 8
-	stewardship = 9
-	learning = 5
-	prowess = 6
-
-	trait = arrogant
-	trait = diligent
-	trait = fickle
-	trait = education_martial_3
-	trait = education_martial_prowess_2
-	trait = athletic
-	disallow_random_traits = yes
-
-	8043.1.1 = { # 3A 3530
-		birth = yes
-	}
-	8119.1.1 = { # 3A 3606
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan3 = {
-	name = Korylas
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan2
-
-	diplomacy = 7
-	martial = 6
-	intrigue = 5
-	stewardship = 9
-	learning = 8
-	prowess = 6
-
-	trait = generous
-	trait = trusting
-	trait = wrathful
-	trait = education_stewardship_2
-	trait = lifestyle_hunter
-	disallow_random_traits = yes
-
-	8066.1.1 = { # 3A 3553
-		birth = yes
-	}
-	8118.1.1 = { # 3A 3605
-		death = { death_reason = death_ended_on_feast_table }
-	}
-}
-korthavan4 = {
 	name = Gelaros
 	dynasty = korthavan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = korthavan3
-
 	diplomacy = 6
 	martial = 3
 	intrigue = 7
-	stewardship = 11
+	stewardship = 9
 	learning = 5
 	prowess = 7
 
 	trait = fickle
 	trait = lazy
 	trait = lustful
-	trait = education_stewardship_4
+	trait = education_stewardship_3
 	disallow_random_traits = yes
 
 	8110.1.1 = { # 3A 3597
@@ -9143,115 +5417,13 @@ korthavan4 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-korthavan5 = {
-	name = Damaraia
-	female = yes
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan4
-
-	diplomacy = 4
-	martial = 4
-	intrigue = 4
-	stewardship = 6
-	learning = 7
-	prowess = 5
-
-	trait = brave
-	trait = lustful
-	trait = sadistic
-	trait = education_learning_4
-	trait = lifestyle_poet
-	disallow_random_traits = yes
-
-	8139.1.1 = { # 3A 3626
-		birth = yes
-	}
-	8192.1.1 = { # 3A 3679
-		trait = leper
-		death = { death_reason = death_leper }
-	}
-}
-korthavan6 = {
-	name = Pylanes
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan4
-
-	diplomacy = 5
-	martial = 3
-	intrigue = 5
-	stewardship = 3
-	learning = 6
-	prowess = 5
-
-	trait = fickle
-	trait = humble
-	trait = lazy
-	trait = education_learning_2
-	trait = one_eyed
-	disallow_random_traits = yes
-
-	8147.1.1 = { # 3A 3634
-		birth = yes
-	}
-	8217.1.1 = { # 3A 3704
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan7 = {
-	name = Mikalos
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan4
-
-	diplomacy = 6
-	martial = 7
-	intrigue = 4
-	stewardship = 4
-	learning = 6
-	prowess = 8
-
-	trait = cynical
-	trait = diligent
-	trait = shy
-	trait = education_martial_2
-	trait = education_martial_prowess_3
-	trait = lifestyle_mystic
-	disallow_random_traits = yes
-
-	8150.1.1 = { # 3A 3637
-		birth = yes
-	}
-	8227.1.1 = { # 3A 3714
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan8 = {
+korthavan2 = {
 	name = Atranon
 	dynasty = korthavan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = korthavan4
-
-	diplomacy = 8
-	martial = 5
-	intrigue = 7
-	stewardship = 6
-	learning = 6
-	prowess = 5
-
-	trait = content
-	trait = shy
-	trait = zealous
-	disallow_random_traits = yes
+	father = korthavan1
 
 	8153.1.1 = { # 3A 3640
 		birth = yes
@@ -9260,25 +5432,13 @@ korthavan8 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-korthavan9 = {
+korthavan3 = {
 	name = Euryenon
 	dynasty = korthavan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = korthavan4
-
-	diplomacy = 10
-	martial = 8
-	intrigue = 4
-	stewardship = 7
-	learning = 6
-	prowess = 6
-
-	trait = callous
-	trait = gluttonous
-	trait = shy
-	disallow_random_traits = yes
+	father = korthavan1
 
 	8155.1.1 = { # 3A 3642
 		birth = yes
@@ -9287,52 +5447,13 @@ korthavan9 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-korthavan10 = {
-	name = Alkaros
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan4
-
-	diplomacy = 9
-	martial = 4
-	intrigue = 5
-	stewardship = 2
-	learning = 8
-	prowess = 8
-
-	trait = gregarious
-	trait = stubborn
-	trait = trusting
-	disallow_random_traits = yes
-
-	8160.1.1 = { # 3A 3647
-		birth = yes
-	}
-	8222.1.1 = { # 3A 3709
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan11 = {
+korthavan4 = {
 	name = Aerynon
 	dynasty = korthavan
 	religion = faith_anorath
 	culture = anorothic
 
-	father = korthavan4
-
-	diplomacy = 5
-	martial = 10
-	intrigue = 2
-	stewardship = 4
-	learning = 7
-	prowess = 5
-
-	trait = arrogant
-	trait = stubborn
-	trait = wrathful
-	disallow_random_traits = yes
+	father = korthavan1
 
 	8164.1.1 = { # 3A 3651
 		birth = yes
@@ -9342,178 +5463,24 @@ korthavan11 = {
 	}
 }
 
-## House Krysanon
+## House Krysanon (Dukes of Tavasár)
 krysanon1 = {
-	name = Korydon
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 7
-	martial = 12
-	intrigue = 4
-	stewardship = 4
-	learning = 6
-	prowess = 8
-
-	trait = brave
-	trait = generous
-	trait = gregarious
-	trait = education_martial_5
-	trait = education_martial_prowess_2
-	trait = strategist
-	trait = drunkard
-	disallow_random_traits = yes
-
-	7990.1.1 = { # 3A 3477
-		birth = yes
-	}
-	8042.1.1 = { # 3A 3529
-		trait = leper
-		death = { death_reason = death_leper }
-	}
-}
-krysanon2 = {
-	name = Athyron
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon1
-
-	diplomacy = 3
-	martial = 4
-	intrigue = 5
-	stewardship = 8
-	learning = 8
-	prowess = 8
-
-	trait = craven
-	trait = generous
-	trait = paranoid
-	trait = education_stewardship_3
-	trait = lifestyle_physician
-	trait = journaller
-	disallow_random_traits = yes
-
-	8008.1.1 = { # 3A 3495
-		birth = yes
-	}
-	8080.1.1 = { # 3A 3567
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon3 = {
-	name = Krynaros
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon2
-
-	diplomacy = 6
-	martial = 4
-	intrigue = 6
-	stewardship = 4
-	learning = 6
-	prowess = 8
-
-	trait = ambitious
-	trait = callous
-	trait = diligent
-	trait = education_diplomacy_2
-	disallow_random_traits = yes
-
-	8051.1.1 = { # 3A 3538
-		birth = yes
-	}
-	8114.1.1 = { # 3A 3601
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon4 = {
-	name = Tyran
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon3
-
-	diplomacy = 10
-	martial = 8
-	intrigue = 7
-	stewardship = 7
-	learning = 6
-	prowess = 6
-
-	trait = scaly
-	trait = just
-	trait = vengeful
-	trait = zealous
-	trait = education_diplomacy_3
-	trait = pilgrim
-	sexuality = asexual
-	disallow_random_traits = yes
-
-	8094.1.1 = { # 3A 3581
-		birth = yes
-	}
-	8161.1.1 = { # 3A 3648
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon5 = {
-	name = Ouryse
-	female = yes
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon4
-
-	diplomacy = 7
-	martial = 9
-	intrigue = 8
-	stewardship = 7
-	learning = 6
-	prowess = 7
-
-	trait = intellect_good_1
-	trait = fickle
-	trait = gluttonous
-	trait = greedy
-	trait = education_martial_2
-	trait = education_martial_prowess_2
-	trait = gallant
-	disallow_random_traits = yes
-
-	8119.1.1 = { # 3A 3606
-		birth = yes
-	}
-	8184.1.1 = { # 3A 3671
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon6 = {
 	name = Alkanos
 	dynasty = krysanon
 	religion = faith_anorath
 	culture = anorothic
 
-	father = krysanon4
-
 	diplomacy = 3
-	martial = 2
+	martial = 5
 	intrigue = 9
 	stewardship = 4
 	learning = 6
-	prowess = 6
+	prowess = 9
 
 	trait = brave
 	trait = just
 	trait = patient
-	trait = education_intrigue_2
-	trait = adulterer
+	trait = education_intrigue_3
 	trait = one_eyed
 	disallow_random_traits = yes
 
@@ -9524,1046 +5491,20 @@ krysanon6 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-krysanon7 = {
-	name = Heraia
-	female = yes
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
 
-	father = krysanon4
-
-	diplomacy = 8
-	martial = 4
-	intrigue = 10
-	stewardship = 8
-	learning = 8
-	prowess = 7
-
-	trait = arrogant
-	trait = gluttonous
-	trait = zealous
-	trait = education_intrigue_4
-	trait = seducer
-	trait = tourney_participant
-	disallow_random_traits = yes
-
-	8132.1.1 = { # 3A 3619
-		birth = yes
-	}
-	8193.1.1 = { # 3A 3680
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon8 = {
-	name = Tauras
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon4
-
-	diplomacy = 9
-	martial = 7
-	intrigue = 6
-	stewardship = 6
-	learning = 6
-	prowess = 6
-
-	trait = ambitious
-	trait = diligent
-	trait = wrathful
-	trait = education_diplomacy_4
-	trait = eccentric
-	trait = zealous
-	disallow_random_traits = yes
-
-	8124.1.1 = { # 3A 3611
-		birth = yes
-	}
-	8157.1.1 = { # 3A 3644
-		trait = smallpox
-		death = { death_reason = death_smallpox }
-	}
-}
-krysanon9 = {
-	name = Lyranaros
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 8
-	martial = 6
-	intrigue = 6
-	stewardship = 9
-	learning = 8
-	prowess = 5
-
-	trait = callous
-	trait = content
-	trait = forgiving
-	trait = education_stewardship_2
-	trait = celibate
-	trait = tourney_participant
-	disallow_random_traits = yes
-
-	8145.1.1 = { # 3A 3632
-		birth = yes
-	}
-	8191.1.1 = { # 3A 3678
-		death = { death_reason = death_battle }
-	}
-}
-krysanon10 = {
-	name = Kanaros
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 9
-	martial = 4
-	intrigue = 5
-	stewardship = 6
-	learning = 6
-	prowess = 5
-
-	trait = content
-	trait = lazy
-	trait = wrathful
-	trait = education_diplomacy_4
-	trait = lifestyle_physician
-	disallow_random_traits = yes
-
-	8150.1.1 = { # 3A 3637
-		birth = yes
-	}
-	8215.1.1 = { # 3A 3702
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon11 = {
-	name = Iaron
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 5
-	martial = 5
-	intrigue = 5
-	stewardship = 6
-	learning = 6
-	prowess = 4
-
-	trait = humble
-	trait = impatient
-	trait = shy
-	sexuality = homosexual
-	disallow_random_traits = yes
-
-	8151.1.1 = { # 3A 3638
-		birth = yes
-	}
-	8231.1.1 = { # 3A 3718
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon12 = {
-	name = Arkalon
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 7
-	martial = 8
-	intrigue = 5
-	stewardship = 4
-	learning = 7
-	prowess = 4
-
-	trait = brave
-	trait = calm
-	trait = stubborn
-	disallow_random_traits = yes
-
-	8152.1.1 = { # 3A 3639
-		birth = yes
-	}
-	8225.1.1 = { # 3A 3712
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon13 = {
-	name = Myron
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 4
-	martial = 7
-	intrigue = 7
-	stewardship = 5
-	learning = 7
-	prowess = 9
-
-	trait = callous
-	trait = shy
-	trait = vengeful
-	disallow_random_traits = yes
-
-	8153.1.1 = { # 3A 3640
-		birth = yes
-	}
-	8229.1.1 = { # 3A 3716
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon14 = {
-	name = Tauron
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 5
-	martial = 5
-	intrigue = 2
-	stewardship = 7
-	learning = 6
-	prowess = 7
-
-	trait = gregarious
-	trait = honest
-	trait = paranoid
-	disallow_random_traits = yes
-
-	8154.1.1 = { # 3A 3641
-		birth = yes
-	}
-	8225.1.1 = { # 3A 3712
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon15 = {
-	name = Nemaros
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 7
-	martial = 6
-	intrigue = 7
-	stewardship = 5
-	learning = 7
-	prowess = 3
-
-	trait = deceitful
-	trait = just
-	trait = trusting
-	disallow_random_traits = yes
-
-	8156.1.1 = { # 3A 3643
-		birth = yes
-	}
-	8227.1.1 = { # 3A 3714
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon16 = {
-	name = Astyron
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 6
-	martial = 6
-	intrigue = 6
-	stewardship = 5
-	learning = 5
-	prowess = 6
-
-	trait = sickly
-	trait = brave
-	trait = impatient
-	trait = trusting
-	disallow_random_traits = yes
-
-	8157.1.1 = { # 3A 3644
-		birth = yes
-	}
-	8219.1.1 = { # 3A 3706
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon17 = {
-	name = Valaros
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 3
-	stewardship = 9
-	learning = 5
-	prowess = 7
-
-	trait = deceitful
-	trait = impatient
-	trait = paranoid
-	disallow_random_traits = yes
-
-	8160.1.1 = { # 3A 3647
-		birth = yes
-	}
-	8222.1.1 = { # 3A 3709
-		death = { death_reason = death_natural_causes }
-	}
-}
-krysanon18 = {
-	name = Dalaros
-	dynasty = krysanon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krysanon8
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 9
-	stewardship = 7
-	learning = 9
-	prowess = 4
-
-	trait = diligent
-	trait = fickle
-	trait = shy
-	disallow_random_traits = yes
-
-	8163.1.1 = { # 3A 3650
-		birth = yes
-	}
-	8238.1.1 = { # 4A 5
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-## House Astramon
+## House Astramon (Counts of Elarissos)
 astramon1 = {
-	name = Atranon
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 7
-	martial = 2
-	intrigue = 5
-	stewardship = 3
-	learning = 8
-	prowess = 9
-
-	trait = ambitious
-	trait = honest
-	trait = just
-	trait = education_learning_2
-	disallow_random_traits = yes
-
-	7485.1.1 = { # 3A 2972
-		birth = yes
-	}
-	7563.1.1 = { # 3A 3050
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon2 = {
-	name = Theron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon1
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 5
-	stewardship = 5
-	learning = 6
-	prowess = 5
-
-	trait = wheezing
-	trait = callous
-	trait = content
-	trait = shy
-	trait = education_martial_4
-	trait = education_martial_prowess_3
-	trait = pilgrim
-	disallow_random_traits = yes
-
-	7504.1.1 = { # 3A 2991
-		birth = yes
-	}
-	7583.1.1 = { # 3A 3070
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon3 = {
-	name = Arkeron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon2
-
-	diplomacy = 5
-	martial = 8
-	intrigue = 8
-	stewardship = 7
-	learning = 6
-	prowess = 4
-
-	trait = calm
-	trait = gregarious
-	trait = lustful
-	trait = education_martial_4
-	trait = education_martial_prowess_3
-	trait = lunatic_genetic
-	disallow_random_traits = yes
-
-	7527.1.1 = { # 3A 3014
-		birth = yes
-	}
-	7594.1.1 = { # 3A 3081
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon4 = {
-	name = Alenaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon3
-
-	diplomacy = 8
-	martial = 9
-	intrigue = 4
-	stewardship = 5
-	learning = 4
-	prowess = 6
-
-	trait = brave
-	trait = just
-	trait = stubborn
-	trait = education_martial_4
-	trait = education_martial_prowess_4
-	disallow_random_traits = yes
-
-	7561.1.1 = { # 3A 3048
-		birth = yes
-	}
-	7621.1.1 = { # 3A 3108
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon5 = {
-	name = Aesaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon4
-
-	diplomacy = 7
-	martial = 5
-	intrigue = 5
-	stewardship = 5
-	learning = 6
-	prowess = 6
-
-	trait = gregarious
-	trait = lazy
-	trait = sadistic
-	trait = education_diplomacy_2
-	sexuality = bisexual
-	disallow_random_traits = yes
-
-	7597.1.1 = { # 3A 3084
-		birth = yes
-	}
-	7675.1.1 = { # 3A 3162
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon6 = {
-	name = Velaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon5
-
-	diplomacy = 8
-	martial = 11
-	intrigue = 8
-	stewardship = 6
-	learning = 6
-	prowess = 7
-
-	trait = callous
-	trait = diligent
-	trait = just
-	trait = education_martial_2
-	trait = education_martial_prowess_1
-	disallow_random_traits = yes
-
-	7620.1.1 = { # 3A 3107
-		birth = yes
-	}
-	7681.1.1 = { # 3A 3168
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon7 = {
-	name = Ephyron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon6
-
-	diplomacy = 7
-	martial = 3
-	intrigue = 5
-	stewardship = 8
-	learning = 4
-	prowess = 8
-
-	trait = craven
-	trait = impatient
-	trait = sadistic
-	trait = education_stewardship_3
-	disallow_random_traits = yes
-
-	7660.1.1 = { # 3A 3147
-		birth = yes
-	}
-	7730.1.1 = { # 3A 3217
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon8 = {
-	name = Alkyon
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon7
-
-	diplomacy = 6
-	martial = 7
-	intrigue = 10
-	stewardship = 8
-	learning = 5
-	prowess = 6
-
-	trait = calm
-	trait = content
-	trait = gregarious
-	trait = education_intrigue_3
-	trait = possessed_genetic
-	disallow_random_traits = yes
-
-	7683.1.1 = { # 3A 3170
-		birth = yes
-	}
-	7754.1.1 = { # 3A 3241
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon9 = {
-	name = Alkyron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon8
-
-	diplomacy = 5
-	martial = 6
-	intrigue = 7
-	stewardship = 7
-	learning = 4
-	prowess = 2
-
-	trait = callous
-	trait = shy
-	trait = wrathful
-	trait = education_stewardship_4
-	disallow_random_traits = yes
-
-	7713.1.1 = { # 3A 3200
-		birth = yes
-	}
-	7780.1.1 = { # 3A 3267
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon10 = {
-	name = Aethyron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon9
-
-	diplomacy = 6
-	martial = 7
-	intrigue = 9
-	stewardship = 6
-	learning = 5
-	prowess = 6
-
-	trait = just
-	trait = patient
-	trait = zealous
-	trait = education_intrigue_3
-	disallow_random_traits = yes
-
-	7732.1.1 = { # 3A 3219
-		birth = yes
-	}
-	7794.1.1 = { # 3A 3281
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon11 = {
-	name = Vareos
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon10
-
-	diplomacy = 7
-	martial = 11
-	intrigue = 11
-	stewardship = 7
-	learning = 3
-	prowess = 4
-
-	trait = content
-	trait = lazy
-	trait = shy
-	trait = education_martial_2
-	trait = education_martial_prowess_1
-	trait = tourney_participant
-	disallow_random_traits = yes
-
-	7752.1.1 = { # 3A 3239
-		birth = yes
-	}
-	7821.1.1 = { # 3A 3308
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon12 = {
-	name = Lyrandos
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon11
-
-	diplomacy = 11
-	martial = 7
-	intrigue = 4
-	stewardship = 10
-	learning = 8
-	prowess = 6
-
-	trait = sickly
-	trait = content
-	trait = generous
-	trait = trusting
-	trait = education_diplomacy_2
-	trait = lifestyle_poet
-	trait = devoted
-	trait = tourney_participant
-	disallow_random_traits = yes
-
-	7770.1.1 = { # 3A 3257
-		birth = yes
-	}
-	7832.1.1 = { # 3A 3319
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon13 = {
-	name = Nemaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon12
-
-	diplomacy = 7
-	martial = 6
-	intrigue = 7
-	stewardship = 8
-	learning = 6
-	prowess = 7
-
-	trait = diligent
-	trait = trusting
-	trait = vengeful
-	trait = education_stewardship_4
-	trait = lifestyle_traveler
-	trait = drunkard
-	disallow_random_traits = yes
-
-	7795.1.1 = { # 3A 3282
-		birth = yes
-	}
-	7863.1.1 = { # 3A 3350
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon14 = {
-	name = Ouralon
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon13
-
-	diplomacy = 2
-	martial = 8
-	intrigue = 5
-	stewardship = 7
-	learning = 8
-	prowess = 4
-
-	trait = shy
-	trait = trusting
-	trait = zealous
-	trait = education_martial_2
-	trait = education_martial_prowess_1
-	trait = pilgrim
-	trait = winter_soldier
-	disallow_random_traits = yes
-
-	7820.1.1 = { # 3A 3307
-		birth = yes
-	}
-	7894.1.1 = { # 3A 3381
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon15 = {
-	name = Damakon
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon14
-
-	diplomacy = 8
-	martial = 3
-	intrigue = 7
-	stewardship = 9
-	learning = 6
-	prowess = 6
-
-	trait = chaste
-	trait = compassionate
-	trait = fickle
-	trait = education_stewardship_3
-	trait = lifestyle_gardener
-	disallow_random_traits = yes
-
-	7848.1.1 = { # 3A 3335
-		birth = yes
-	}
-	7910.1.1 = { # 3A 3397
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon16 = {
-	name = Tauron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon15
-
-	diplomacy = 3
-	martial = 2
-	intrigue = 6
-	stewardship = 4
-	learning = 8
-	prowess = 8
-
-	trait = fickle
-	trait = gregarious
-	trait = wrathful
-	trait = education_learning_2
-	trait = athletic
-	disallow_random_traits = yes
-
-	7874.1.1 = { # 3A 3361
-		birth = yes
-	}
-	7940.1.1 = { # 3A 3427
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon17 = {
-	name = Kanon
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon16
-
-	diplomacy = 7
-	martial = 5
-	intrigue = 7
-	stewardship = 7
-	learning = 5
-	prowess = 8
-
-	trait = physique_bad_2
-	trait = impatient
-	trait = lazy
-	trait = lustful
-	trait = education_diplomacy_3
-	trait = devoted
-	trait = possessed_genetic
-	disallow_random_traits = yes
-
-	7891.1.1 = { # 3A 3378
-		birth = yes
-	}
-	7955.1.1 = { # 3A 3442
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon18 = {
-	name = Tauras
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon17
-
-	diplomacy = 9
-	martial = 9
-	intrigue = 4
-	stewardship = 4
-	learning = 6
-	prowess = 6
-
-	trait = beauty_good_1
-	trait = ambitious
-	trait = compassionate
-	trait = cynical
-	trait = education_diplomacy_2
-	trait = diplomat
-	trait = scarred
-	disallow_random_traits = yes
-
-	7921.1.1 = { # 3A 3408
-		birth = yes
-	}
-	8001.1.1 = { # 3A 3488
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon19 = {
-	name = Talyron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon18
-
-	diplomacy = 6
-	martial = 7
-	intrigue = 3
-	stewardship = 6
-	learning = 1
-	prowess = 6
-
-	trait = impatient
-	trait = lustful
-	trait = wrathful
-	trait = education_martial_4
-	trait = education_martial_prowess_2
-	trait = athletic
-	disallow_random_traits = yes
-
-	7955.1.1 = { # 3A 3442
-		birth = yes
-	}
-	8024.1.1 = { # 3A 3511
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon20 = {
-	name = Aphyron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon19
-
-	diplomacy = 6
-	martial = 2
-	intrigue = 6
-	stewardship = 4
-	learning = 5
-	prowess = 7
-
-	trait = physique_bad_1
-	trait = lazy
-	trait = sadistic
-	trait = zealous
-	trait = education_diplomacy_2
-	trait = possessed_genetic
-	trait = reclusive
-	disallow_random_traits = yes
-
-	7994.1.1 = { # 3A 3481
-		birth = yes
-	}
-	8068.1.1 = { # 3A 3555
-		trait = typhus
-		death = { death_reason = death_typhus }
-	}
-}
-astramon21 = {
-	name = Arthanes
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon20
-
-	diplomacy = 2
-	martial = 5
-	intrigue = 9
-	stewardship = 3
-	learning = 6
-	prowess = 6
-
-	trait = weak
-	trait = arrogant
-	trait = calm
-	trait = just
-	trait = education_intrigue_2
-	trait = lifestyle_poet
-	trait = celibate
-	trait = lunatic_genetic
-	disallow_random_traits = yes
-
-	8027.1.1 = { # 3A 3514
-		birth = yes
-	}
-	8105.1.1 = { # 3A 3592
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon22 = {
-	name = Eosanon
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon21
-
-	diplomacy = 10
-	martial = 8
-	intrigue = 10
-	stewardship = 9
-	learning = 6
-	prowess = 7
-
-	trait = impatient
-	trait = paranoid
-	trait = stubborn
-	trait = education_diplomacy_3
-	trait = disloyal
-	trait = drunkard
-	disallow_random_traits = yes
-
-	8046.1.1 = { # 3A 3533
-		birth = yes
-	}
-	8110.1.1 = { # 3A 3597
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon23 = {
-	name = Nyros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon22
-
-	diplomacy = 4
-	martial = 6
-	intrigue = 5
-	stewardship = 5
-	learning = 6
-	prowess = 5
-
-	trait = bleeder
-	trait = chaste
-	trait = gluttonous
-	trait = stubborn
-	trait = education_martial_3
-	trait = education_martial_prowess_3
-	trait = scarred
-	disallow_random_traits = yes
-
-	8082.1.1 = { # 3A 3569
-		birth = yes
-	}
-	8150.1.1 = { # 3A 3637
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon24 = {
 	name = Asteron
 	dynasty = astramon
 	religion = faith_anorath
 	culture = anorothic
 
-	father = astramon23
-
 	diplomacy = 3
 	martial = 9
 	intrigue = 5
 	stewardship = 8
 	learning = 8
-	prowess = 4
+	prowess = 7
 
 	trait = arbitrary
 	trait = deceitful
@@ -10579,30 +5520,14 @@ astramon24 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-astramon25 = {
+astramon2 = {
 	name = Tyriane
 	female = yes
 	dynasty = astramon
 	religion = faith_anorath
 	culture = anorothic
 
-	father = astramon24
-
-	diplomacy = 7
-	martial = 10
-	intrigue = 8
-	stewardship = 6
-	learning = 6
-	prowess = 5
-
-	trait = compassionate
-	trait = just
-	trait = lustful
-	trait = education_martial_2
-	trait = education_martial_prowess_3
-	trait = strategist
-	trait = forest_fighter
-	disallow_random_traits = yes
+	father = astramon1
 
 	8125.1.1 = { # 3A 3612
 		birth = yes
@@ -10611,26 +5536,13 @@ astramon25 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-astramon26 = {
+astramon3 = {
 	name = Vasylas
 	dynasty = astramon
 	religion = faith_anorath
 	culture = anorothic
 
-	father = astramon24
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 5
-	stewardship = 5
-	learning = 5
-	prowess = 8
-
-	trait = calm
-	trait = patient
-	trait = vengeful
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
+	father = astramon1
 
 	8134.1.1 = { # 3A 3621
 		birth = yes
@@ -10639,52 +5551,13 @@ astramon26 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-astramon27 = {
-	name = Galaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon26
-
-	diplomacy = 5
-	martial = 9
-	intrigue = 5
-	stewardship = 5
-	learning = 9
-	prowess = 4
-
-	trait = brave
-	trait = gluttonous
-	trait = greedy
-	disallow_random_traits = yes
-
-	8154.1.1 = { # 3A 3641
-		birth = yes
-	}
-	8225.1.1 = { # 3A 3712
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon28 = {
+astramon4 = {
 	name = Kastaros
 	dynasty = astramon
 	religion = faith_anorath
 	culture = anorothic
 
-	father = astramon26
-
-	diplomacy = 5
-	martial = 5
-	intrigue = 8
-	stewardship = 2
-	learning = 6
-	prowess = 8
-
-	trait = fickle
-	trait = honest
-	trait = lustful
-	disallow_random_traits = yes
+	father = astramon3
 
 	8157.1.1 = { # 3A 3644
 		birth = yes
@@ -10693,79 +5566,13 @@ astramon28 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-astramon29 = {
-	name = Ormaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon26
-
-	diplomacy = 5
-	martial = 4
-	intrigue = 9
-	stewardship = 7
-	learning = 6
-	prowess = 8
-
-	trait = arrogant
-	trait = brave
-	trait = stubborn
-	disallow_random_traits = yes
-
-	8162.1.1 = { # 3A 3649
-		birth = yes
-	}
-	8222.1.1 = { # 3A 3709
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon30 = {
-	name = Eratos
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon26
-
-	diplomacy = 7
-	martial = 7
-	intrigue = 2
-	stewardship = 7
-	learning = 6
-	prowess = 4
-
-	trait = arbitrary
-	trait = brave
-	trait = fickle
-	disallow_random_traits = yes
-
-	8163.1.1 = { # 3A 3650
-		birth = yes
-	}
-	8240.1.1 = { # 4A 7
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon31 = {
+astramon5 = {
 	name = Valaros
 	dynasty = astramon
 	religion = faith_anorath
 	culture = anorothic
 
-	father = astramon26
-
-	diplomacy = 6
-	martial = 5
-	intrigue = 2
-	stewardship = 10
-	learning = 7
-	prowess = 5
-
-	trait = cynical
-	trait = lazy
-	trait = stubborn
-	disallow_random_traits = yes
+	father = astramon3
 
 	8165.1.1 = { # 3A 3652
 		birth = yes

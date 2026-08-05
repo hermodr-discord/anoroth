@@ -92,7 +92,7 @@ d_ornethia = {
 	4514.1.1 = { change_development_level = 12 }
 
 	8166.1.1 = {
-		holder = orophastes2
+		holder = orophastes1
 		liege = e_anoroth
 		government = feudal_government
 	}
@@ -101,7 +101,7 @@ c_vanathra = {
 	4514.1.1 = { change_development_level = 12 }
 
 	8166.1.1 = {
-		holder = orophastes2
+		holder = orophastes1
 		liege = e_anoroth
 		government = feudal_government
 	}
@@ -110,7 +110,7 @@ c_castrynon = {
 	4514.1.1 = { change_development_level = 12 }
 
 	8166.1.1 = {
-		holder = orophastes2
+		holder = orophastes1
 		liege = e_anoroth
 		government = feudal_government
 	}
@@ -136,7 +136,7 @@ c_ilythelon = {
 	4514.1.1 = { change_development_level = 12 }
 
 	8166.1.1 = {
-		holder = argenor7
+		holder = argenor1
 		liege = d_ornethia
 		government = feudal_government
 	}

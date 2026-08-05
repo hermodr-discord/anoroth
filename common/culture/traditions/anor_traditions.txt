@@ -14,41 +14,40 @@ tradition_imperial_soldiers = { #Vathîrin Oúrapivêlis (OLD NAME)
 
 	layers = {
 		0 = martial
-		1 = mena
-		4 = soldiers.dds
+		1 = mediterranean
+		4 = knight.dds
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_anorothic
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+		OR = {
+			this = culture:anorothic
+			any_parent_culture_or_above = {
+				this = culture:anorothic
+			}
 		}
 	}
 	can_pick = {
-		has_cultural_pillar = heritage_anorothic
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+		OR = {
+			this = culture:anorothic
+			any_parent_culture_or_above = {
+				this = culture:anorothic
+			}
 		}
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
+		unlock_maa_anoroth_sun_knights = yes
+		unlock_maa_anoroth_legionnaires = yes
 		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
 	}
 	character_modifier = {
+		heavy_cavalry_max_size_add = 2
+		heavy_infantry_max_size_add = 2
+		counter_efficiency = 0.1
 		knight_limit = 2
 		negate_prowess_penalty_add = 5
 		accolade_glory_gain_mult = 0.2
+		glory_hound_opinion = 20
 	}
 	
 	cost = {
@@ -62,13 +61,12 @@ tradition_imperial_soldiers = { #Vathîrin Oúrapivêlis (OLD NAME)
 				limit = {
 					NOR = {
 						culture_pillar:ethos_bellicose = { is_in_list = traits }
-						culture_pillar:ethos_courtly = { is_in_list = traits }
-						culture_pillar:ethos_communal = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
 					}
 				}
 				add = {
 					value = tradition_incompatible_ethos_penalty
-					desc = not_bellicose_courtly_or_communal_desc
+					desc = not_bellicose_or_stoic_desc
 				}
 			}
 			if = {
@@ -100,41 +98,46 @@ tradition_right_of_anor = { #Right of Anór
 
 	layers = {
 		0 = martial
-		1 = mena
-		4 = soldiers.dds
+		1 = mediterranean
+		4 = speech.dds
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_anorothic
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+		OR = {
+			this = culture:anorothic
+			any_parent_culture_or_above = {
+				this = culture:anorothic
+			}
 		}
 	}
 	can_pick = {
-		has_cultural_pillar = heritage_anorothic
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+		OR = {
+			this = culture:anorothic
+			any_parent_culture_or_above = {
+				this = culture:anorothic
+			}
 		}
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
-		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
+		peasant_and_populist_factions_less_common = yes
+		expensive_convert_to_local_culture = yes
+		less_likely_to_promote_culture = yes
+		zealous_trait_more_common = yes
+		harder_to_convert_character_faith = yes
+		harder_to_convert_county_faith = yes
+	}
+	culture_modifier = {
+		cultural_acceptance_gain_mult = -0.25
 	}
 	character_modifier = {
-		knight_limit = 2
-		negate_prowess_penalty_add = 5
-		accolade_glory_gain_mult = 0.2
+		dread_baseline_add = 10
+		dread_decay_mult = -0.3
+		opinion_of_different_faith = -25
+		opinion_of_different_culture = -5
+		cultural_head_fascination_mult = -0.1
+		ai_zeal = 25
+		ai_boldness = 25
 	}
 	
 	cost = {
@@ -148,13 +151,13 @@ tradition_right_of_anor = { #Right of Anór
 				limit = {
 					NOR = {
 						culture_pillar:ethos_bellicose = { is_in_list = traits }
-						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
 						culture_pillar:ethos_communal = { is_in_list = traits }
 					}
 				}
 				add = {
 					value = tradition_incompatible_ethos_penalty
-					desc = not_bellicose_courtly_or_communal_desc
+					desc = not_bellicose_stoic_or_communal_desc
 				}
 			}
 			if = {
@@ -178,51 +181,62 @@ tradition_right_of_anor = { #Right of Anór
 		}
 	}
 
-	ai_will_do = { value = 400 }
+	ai_will_do = { value = 4000 }
 }
 
-######### BRÉNILOR
+######### BRÉNILORIC
 
 tradition_breniloric_aristocracy = { #Bréniloric Aristocracy
 	category = regional
 
 	layers = {
-		0 = martial
-		1 = mena
-		4 = soldiers.dds
+		0 = diplo
+		1 = mediterranean
+		4 = conversation.dds
 	}
-	
+
 	is_shown = {
-		has_cultural_pillar = heritage_anorothil
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+		OR = {
+			this = culture:brenilor
+			any_parent_culture_or_above = {
+				this = culture:brenilor
+			}
+		}
+		NOR = { 
+			has_cultural_tradition = tradition_hereditary_hierarchy
+			has_cultural_tradition = tradition_isolationist
+			has_cultural_tradition = tradition_staunch_traditionalists
 		}
 	}
-	can_pick = {
-		has_cultural_pillar = heritage_anorothic
-		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
-			has_cultural_tradition = tradition_seafaring
-			has_cultural_tradition = tradition_maritime_mercantilism
-			has_cultural_tradition = tradition_fishermen
+	can_pick = { 
+		OR = {
+			this = culture:brenilor
+			any_parent_culture_or_above = {
+				this = culture:brenilor
+			}
+		}
+		NOR = { 
+			has_cultural_tradition = tradition_hereditary_hierarchy
+			has_cultural_tradition = tradition_isolationist
+			has_cultural_tradition = tradition_staunch_traditionalists
 		}
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
-		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
+		less_likely_to_culture_convert = yes
+		harder_to_hybridize = yes
+		poorly_educated_leaders_distrusted = yes
+		loyal_trait_more_valued = yes
 	}
 	character_modifier = {
-		knight_limit = 2
-		negate_prowess_penalty_add = 5
-		accolade_glory_gain_mult = 0.2
+		diplomatic_range_mult = 0.2
+		courtly_opinion = 20
+		ai_war_chance = -0.25
+		ai_war_cooldown = 5
+	}
+	county_modifier = {
+		monthly_county_control_growth_add = 0.3
+		long_reign_bonus_mult = 0.25
 	}
 	
 	cost = {
@@ -266,7 +280,7 @@ tradition_breniloric_aristocracy = { #Bréniloric Aristocracy
 		}
 	}
 
-	ai_will_do = { value = 400 }
+	ai_will_do = { value = 4000 }
 }
 
 ######### LUVERAN
@@ -274,14 +288,19 @@ tradition_breniloric_aristocracy = { #Bréniloric Aristocracy
 tradition_people_of_the_tides = { #People of the Tides
 	category = regional
 
-	layers = {
-		0 = martial
-		1 = mena
-		4 = soldiers.dds
+	layers = { #WIP, looks crappy
+		0 = diplo
+		1 = western
+		4 = hunter.dds
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_luveran
+		OR = {
+			this = culture:luveran
+			any_parent_culture_or_above = {
+				this = culture:luveran
+			}
+		}
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -289,7 +308,12 @@ tradition_people_of_the_tides = { #People of the Tides
 		}
 	}
 	can_pick = {
-		has_cultural_pillar = heritage_luveran
+		OR = {
+			this = culture:luveran
+			any_parent_culture_or_above = {
+				this = culture:luveran
+			}
+		}
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -298,19 +322,17 @@ tradition_people_of_the_tides = { #People of the Tides
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
-		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
+		unlock_maa_luveran_tide_warriors = yes
+		unlock_maa_luveran_hunters = yes
+		trade_ports_stationed_maa_bonus = yes
+		trade_ports_enabled_for_tribals = yes
+		next_level_trade_ports = yes
 	}
 	character_modifier = {
-		knight_limit = 2
-		negate_prowess_penalty_add = 5
-		accolade_glory_gain_mult = 0.2
+		sea_travel_danger = medium_sea_danger_reduction
+		coastal_sea_travel_danger = medium_sea_danger_reduction
+		coastal_advantage = 10
+		supply_capacity_mult = 0.5
 	}
 	
 	cost = {
@@ -354,7 +376,7 @@ tradition_people_of_the_tides = { #People of the Tides
 		}
 	}
 
-	ai_will_do = { value = 400 }
+	ai_will_do = { value = 4000 }
 }
 
 ######### OREG-GARNA
@@ -363,13 +385,18 @@ tradition_children_of_oreg_garna = { #Children of Oreg-Garna
 	category = regional
 
 	layers = {
-		0 = martial
-		1 = mena
-		4 = soldiers.dds
+		0 = steward
+		1 = western
+		4 = swamp.dds
 	}
 	
 	is_shown = {
-		has_cultural_pillar = heritage_oreg_garna
+		OR = {
+			this = culture:oreg_garna
+			any_parent_culture_or_above = {
+				this = culture:oreg_garna
+			}
+		}
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -377,7 +404,12 @@ tradition_children_of_oreg_garna = { #Children of Oreg-Garna
 		}
 	}
 	can_pick = {
-		has_cultural_pillar = heritage_oreg_garna
+		OR = {
+			this = culture:oreg_garna
+			any_parent_culture_or_above = {
+				this = culture:oreg_garna
+			}
+		}
 		NOR = { #Replaces Seafaring/Maritime Mercantilism/Dextrous Fishermen
 			has_cultural_tradition = tradition_seafaring
 			has_cultural_tradition = tradition_maritime_mercantilism
@@ -386,19 +418,21 @@ tradition_children_of_oreg_garna = { #Children of Oreg-Garna
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
-		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
+		unlock_maa_oreg_garna_skirmishers = yes
+		unlock_maa_oreg_garna_archers = yes
+		harder_to_hybridize = yes
+		harder_to_convert_county_culture = yes
+		peat_quarries_building_bonuses = yes
+		wetlands_hunt_success_chance = yes
+	}
+	culture_modifier = {
+		cultural_acceptance_gain_mult = -0.25
 	}
 	character_modifier = {
-		knight_limit = 2
-		negate_prowess_penalty_add = 5
-		accolade_glory_gain_mult = 0.2
+		wetlands_advantage = 10
+		wetlands_travel_danger = wetlands_high_danger_reduction
+		same_culture_opinion = 5
+		different_culture_opinion = -25
 	}
 	
 	cost = {
@@ -442,7 +476,7 @@ tradition_children_of_oreg_garna = { #Children of Oreg-Garna
 		}
 	}
 
-	ai_will_do = { value = 400 }
+	ai_will_do = { value = 4000 }
 }
 
 ######### SHIDONEM
@@ -451,9 +485,10 @@ tradition_the_golden_strait = { #The Golden Strait
 	category = regional
 
 	layers = {
-		0 = martial
+		0 = diplo
 		1 = mena
-		4 = soldiers.dds
+		3 = 6.dds
+		4 = golden_strait.dds
 	}
 	
 	is_shown = {
@@ -474,19 +509,19 @@ tradition_the_golden_strait = { #The Golden Strait
 	}
 	
 	parameters = {
-		unlock_maa_ayyar = yes
-		can_use_sparring_duel = yes
-		martial_education_more_valued = yes
-		prowess_traits_more_valued = yes
-		blademaster_trait_bonuses = yes
-		craven_and_content_traits_looked_down_upon = yes
-		knights_slightly_more_prone_to_injury = yes
-		unlock_voluntary_laampdom = yes
+		next_level_trade_ports = yes
+		maritime_mercantilism_coastal_holdings = yes
+		maritime_mercantilism_avaricious_bonus = yes
+		#CAN ESTABLISH TRADE-CITY TRIBUTARIES
+		#Trade Protectorate (what is this? - Ramos)
+	}
+	culture_modifier = {
+		mercenary_count_mult = 2
 	}
 	character_modifier = {
-		knight_limit = 2
-		negate_prowess_penalty_add = 5
-		accolade_glory_gain_mult = 0.2
+		levy_size = -0.5
+		mercenary_hire_cost_mult = -0.5
+		men_at_arms_cap = -2
 	}
 	
 	cost = {
@@ -530,5 +565,5 @@ tradition_the_golden_strait = { #The Golden Strait
 		}
 	}
 
-	ai_will_do = { value = 400 }
+	ai_will_do = { value = 4000 }
 }

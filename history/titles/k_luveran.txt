@@ -1,68 +1,196 @@
 k_luveran = {
 
-	8074.1.1 = {
-		holder = lineofluveran1
+	8064.5.22 = {
+		holder = lysan1
+		succession_laws = { tribal_elective_succession_law }
 	}
-	8100.1.1 = {
-		holder = lineofluveran2
+	8096.3.12 = {
+		holder = lysan2
 	}
-	8112.1.1 = {
-		holder = lineofluveran3
+	8108.5.14 = {
+		holder = kaveh1
 	}
-	8131.1.1 = {
-		holder = lineofluveran4
+	8127.11.27 = {
+		holder = nusa1
 	}
-	8146.1.1 = {
-		holder = lineofluveran5
+	8143.6.2 = {
+		holder = lovan1
 	}
 	8174.1.1 = {
-		holder = lineofluveran6
+		holder = lovan4
 	}
 	8166.1.1 = { government = tribal_government }
 }
 
-d_lysan = {
+d_lysendra = {
 
-	8074.1.1 = {
-		holder = lineofluveran1
+	8064.5.22 = {
+		holder = lysan1
 	}
-	8100.1.1 = {
-		holder = lineofluveran2
+	8096.3.12 = {
+		holder = lysan2
 	}
-	8112.1.1 = {
-		holder = lineofluveran3
+	8108.5.14 = {
+		holder = kaveh1
 	}
-	8131.1.1 = {
-		holder = lineofluveran4
+	8127.11.27 = {
+		holder = nusa1
 	}
-	8146.1.1 = {
-		holder = lineofluveran5
+	8143.6.2 = {
+		holder = lovan1
 	}
 	8174.1.1 = {
-		holder = lineofluveran6
+		holder = lovan4
 	}
 	8166.1.1 = { government = tribal_government }
 }
 
 c_lysan = {
 
-	8074.1.1 = {
-		holder = lineofluveran1
+	8064.5.22 = { change_development_level = 6 }
+	8166.1.1 = { change_development_level = 12 }
+
+	8064.5.22 = {
+		holder = lysan1
 	}
-	8100.1.1 = {
-		holder = lineofluveran2
+	8096.3.12 = {
+		special_building_slot = lysan_obelisk_01
+		special_building = lysan_obelisk_01
+		holder = lysan2
 	}
-	8112.1.1 = {
-		holder = lineofluveran3
+	8108.1.1 = {
+		holder = kaveh1
 	}
-	8131.1.1 = {
-		holder = lineofluveran4
+	8127.1.1 = {
+		holder = nusa1
 	}
-	8146.1.1 = {
-		holder = lineofluveran5
+	8143.6.2 = {
+		holder = lovan1
 	}
 	8174.1.1 = {
-		holder = lineofluveran6
+		holder = lovan4
 	}
-	8166.1.1 = { government = tribal_government }
+}
+
+b_lysan = {
+	8096.3.12 = {
+		special_building_slot = lysan_obelisk_01
+		special_building = lysan_obelisk_01
+	}
+}
+
+c_aila = {
+
+	8143.6.2 = {
+		holder = lovan1
+	}
+	8174.1.1 = {
+		holder = lovan4
+	}
+}
+
+c_tiaran = {
+	8166.1.1 = {
+		holder = luveran_vassal_10
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+d_osan = { }
+
+c_keala = {
+	8166.1.1 = {
+		holder = luveran_vassal_1
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+c_ilona = {
+	8166.1.1 = {
+		holder = luveran_vassal_2
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+d_venara = { }
+
+c_isotera = {
+	8166.1.1 = {
+		holder = luveran_vassal_3
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+c_arvei = {
+	8166.1.1 = {
+		holder = luveran_vassal_4
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+c_rina = {
+	8166.1.1 = {
+		holder = luveran_vassal_5
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+d_ganathen = { }
+
+c_rineala = {
+	8166.1.1 = {
+		holder = luveran_vassal_6
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+c_isar = {
+	8166.1.1 = {
+		holder = luveran_vassal_7
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+c_rian = {
+	8166.1.1 = {
+		holder = luveran_vassal_8
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
+}
+
+c_venatha = {
+	8166.1.1 = {
+		holder = luveran_vassal_9
+		tributary_of = {
+			suzerain = k_luveran
+			contract_group = tributary_luveran_confederate
+		}
+	}
 }

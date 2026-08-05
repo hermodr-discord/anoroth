@@ -14,3 +14,15 @@ c_tarwicbona = {
 		holder = evilguy1
 	}
 }
+
+c_wulfryc = {
+	8166.1.1 = {
+		holder = lovan1
+	}
+}
+
+c_hyseden = {
+	8166.1.1 = {
+		holder = lovan1
+	}
+}

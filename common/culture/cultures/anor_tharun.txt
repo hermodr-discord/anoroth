@@ -58,6 +58,10 @@ brynor = {
 
 funerathic = {
 	color = { 78 47 98 }
+	created = 7632.01.01
+	#parents = { anorothic tharun (??) }
+
+	history_loc_override = funerathic_history_loc
 	
 	ethos = ethos_communal
 	heritage = heritage_tharun

@@ -1,0 +1,8 @@
+﻿l_english:
+
+ culture_parameter_unlock_maa_anoroth_sun_knights:0 "Can recruit [GetMaA('anoroth_sun_knights').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_anoroth_legionnaires:0 "Can recruit [GetMaA('anoroth_legionnaires').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_luveran_tide_warriors:0 "Can recruit [GetMaA('luveran_tide_warriors').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_luveran_hunters:0 "Can recruit [GetMaA('luveran_hunters').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_oreg_garna_skirmishers:0 "Can recruit [GetMaA('oreg_garna_skirmishers').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_oreg_garna_archers:0 "Can recruit [GetMaA('oreg_garna_archers').GetName] as [men_at_arms|E]"

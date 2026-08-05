@@ -20,10 +20,10 @@
 	unit_gfx = { western_unit_gfx } 	
 
 	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -49,10 +49,10 @@ bregan = {
 	unit_gfx = { western_unit_gfx } 	
 
 	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -78,10 +78,10 @@ tunorar = {
 	unit_gfx = { western_unit_gfx } 	
 
 	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -107,9 +107,9 @@ mehenan = {
 	unit_gfx = { western_unit_gfx } 	
 
 	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
+		30 = caucasian_blond
+		20 = caucasian_ginger
+		30 = caucasian_brown_hair
+		20 = caucasian_dark_hair
 	}
 }

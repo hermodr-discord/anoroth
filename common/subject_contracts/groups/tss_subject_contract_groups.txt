@@ -1,0 +1,38 @@
+﻿
+tributary_luveran_confederate = {
+	is_tributary = yes
+	suzerain_line_type = line_suzerain
+	tributary_line_type = line_tributary
+	should_show_as_suzerain_realm_name = yes
+	should_show_as_suzerain_realm_color = yes
+	tributary_heir_succession = yes
+	suzerain_heir_succession = yes
+	
+#	is_valid_tributary_contract = {
+#		if = {
+#			limit = { tss_luveran_confederation_collapse = no }
+#			scope:suzerain = {
+#				title = k_luveran
+#			}
+#		scope:suzerain = {
+#			has_primary_title = k_luveran
+#			culture = luveran
+#		}
+#	}
+
+	tributary_can_break_free = {
+		if = {
+			limit = { tss_luveran_confederation_collapse = yes }
+			always = yes
+		}
+		always = no
+	}
+
+	contracts = {
+		default_tributary_taxes
+		default_tributary_levies
+		default_tributary_prestige
+		suzerain_war_participation_guarantee
+		tributary_war_participation_obligation
+	}
+}

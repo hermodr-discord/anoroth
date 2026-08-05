@@ -21,19 +21,23 @@
 	unit_gfx = { western_unit_gfx } 	
 
 	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
 	}
 }
 
 zatyshyn = {
 	color = { 164 85 20 }
-	
+	created = 7925.01.01
+	parents = { behatyn }
+
+	history_loc_override = zatyshyn_history_loc
+
 	ethos = ethos_spiritual
 	heritage = heritage_behatyn
-	language = language_zatyshyn
+	language = language_behatyn
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_agrarian
@@ -50,9 +54,9 @@ zatyshyn = {
 	unit_gfx = { western_unit_gfx } 	
 
 	ethnicities = {
-		25 = caucasian_blond
-		15 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
 	}
 }

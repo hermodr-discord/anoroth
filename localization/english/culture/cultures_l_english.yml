@@ -99,17 +99,22 @@
  #Oreg group
  oreg_garna_group:0 "Oreg-Garna"
  oreg_garna_group_collective_noun:1 "Oreg-Garnans"
- oreg_hagan:0 "Oreg-Hagan"
- oreg_hagan_prefix:0 "Oreg-Hagan"
- oreg_hagan_collective_noun:1 "Oreg-Hagans"
 
- oreg_bagat:0 "Oreg-Bagat"
- oreg_bagat_prefix:0 "Oreg-Bagat"
- oreg_bagat_collective_noun:1 "Oreg-Bagats"
+ oreg_garna:0 "Oreg-Garna"
+ oreg_garna_prefix:0 "Oreg-Garna"
+ oreg_garna_collective_noun:1 "Oreg-Garnans"
 
- oreg_suran:0 "Oreg-Suran"
- oreg_suran_prefix:0 "Oreg-Suran"
- oreg_suran_collective_noun:1 "Oreg-Surans"
+# oreg_hagan:0 "Oreg-Hagan"
+# oreg_hagan_prefix:0 "Oreg-Hagan"
+# oreg_hagan_collective_noun:1 "Oreg-Hagans"
+
+# oreg_bagat:0 "Oreg-Bagat"
+# oreg_bagat_prefix:0 "Oreg-Bagat"
+# oreg_bagat_collective_noun:1 "Oreg-Bagats"
+
+# oreg_suran:0 "Oreg-Suran"
+# oreg_suran_prefix:0 "Oreg-Suran"
+# oreg_suran_collective_noun:1 "Oreg-Surans"
 
  #Shidonem group
  shidonem_group:0 "Shidonem"

@@ -59,3 +59,29 @@ atyrin = {
 		instance = { scale = { 1.25 1.25 } depth = 6.01 }
 	}
 }
+
+#LUVERAN COA
+lovan={
+	pattern="pattern_solid.dds"
+	color1=green
+	colored_emblem={
+		color1=white
+		color2=green
+		color3=yellow_light
+		texture="ce_flower.dds"
+		instance={
+			scale={ 0.900000 0.900000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow_light
+		texture="ce_sun_frame.dds"
+		instance={
+			depth=1.01
+		}
+
+	}
+
+}

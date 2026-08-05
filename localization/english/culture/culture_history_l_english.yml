@@ -1,0 +1,11 @@
+﻿l_english:
+ #kochinim_history_loc:0 "Formed from [CULTURE.GetName] and an unknown culture of $israelite_group$ [heritage|E] in the year [DATE.GetYear]"
+ #vlach_history_loc:0 "Formed from [CULTURE.GetName] and an unknown culture of $south_slavic_group$ [heritage|E] in the year [DATE.GetYear]"
+ #bulgarian_history_loc:0 "Formed from [CULTURE.GetName] and an unknown culture of $south_slavic_group$ [heritage|E] in the year [DATE.GetYear]"
+ #scythian_heritage_loc: "Diverged from Scythian in the year [DATE.GetYear]"
+ #bactrian_heritage_loc: "Formed from Bactrian and [CULTURE.GetName] in the year [DATE.GetYear]"
+
+ luveran_history_loc:0 "Emerged from the refugees of Lys's Exodus and the native islander cultures around T.A. 3599"
+ zatyshyn_history_loc:0 "Diverged from [CULTURE.GetName] in the year T.A 3412" 
+ funerathic_history_loc:0 "Formed from $anorothic$ [culture|E] and various $tharun_group$ migrations in the mid T.A. 3100s"
+ anorosyn_history_loc:0 "Formed from the descendants of the [ninth_legion|E] left behind in Behtava in T.A. 3442" 

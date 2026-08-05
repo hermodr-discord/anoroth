@@ -1998,7 +1998,8 @@
  ## Kingdom of Luveran
  ### Duchy of Lysendra
  #### County of Lysan
- k_luveran:0 "Luveran"
+ k_luveran_article:0 "the "
+ k_luveran:0 "Luveran Confederation"
  k_luveran_adj:0 "Luveran"
  d_lysendra:0 "Lysendra"
  c_lysan:0 "Lysan"
@@ -2066,6 +2067,6 @@
  b_lyera:0 "Lyera"
  b_teana:0 "Teana"
  
-
- k_eclipsed_realm:0 "The Eclipsed Realm"
+ k_eclipsed_realm_article:0 "the "
+ k_eclipsed_realm:0 "Eclipsed Realm"
  k_eclipsed_realm_adj:0 "Eclipsed"

@@ -127,7 +127,17 @@
 
  ### Luveran Dynasties
  dynn_Lysan:0 "Lysan"
- dynn_Dovalin:0 "Dovalin"
+ dynn_Lovan:0 "Lovan"
+ dynn_Damiran:0 "Damiran"
+ dynn_Maziran:0 "Maziran"
+ dynn_Kaveh:0 "Kaveh"
+ dynn_Eshavar:0 "Eshavar"
+ dynn_Harad:0 "Harad"
+ dynn_Velam:0 "Velam"
+ dynn_Nereth:0 "Nereth"
+ dynn_Ravid:0 "Ravid"
+ dynn_Nusa:0 "Nusa"
+ dynn_Shaddan:0 "Shaddan"
 
  ### Hélyv Dynasties
  dynn_Borsan:0 "Borsán"

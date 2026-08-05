@@ -1,19 +1,19 @@
 364 = {	#
-	culture = oreg_bagat
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 365 = {	#
-	culture = oreg_suran
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 366 = {	#
 	holding = none
 }
 367 = {	#
-	culture = oreg_hagan
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 368 = {	#
@@ -23,8 +23,8 @@
 	holding = none
 }
 370 = {	#
-	culture = oreg_bagat
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 371 = {	#
@@ -34,8 +34,8 @@
 	holding = none
 }
 373 = {	#
-	culture = oreg_hagan
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 374 = {	#
@@ -54,8 +54,8 @@
 	holding = none
 }
 379 = {	#
-	culture = oreg_hagan
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 380 = {	#
@@ -86,16 +86,16 @@
 	holding = none
 }
 389 = {	#
-	culture = oreg_hagan
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 390 = {	#
 	holding = none
 }
 391 = {	#
-	culture = oreg_bagat
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 392 = {	#
@@ -111,8 +111,8 @@
 	holding = none
 }
 396 = {	#
-	culture = oreg_suran
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 397 = {	#
@@ -125,8 +125,8 @@
 	holding = none
 }
 400 = {	#
-	culture = oreg_suran
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 401 = {	#
@@ -142,8 +142,8 @@
 	holding = none
 }
 405 = {	#
-	culture = oreg_suran
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 406 = {	#
@@ -159,15 +159,15 @@
 	holding = none
 }
 410 = {	#
-	culture = oreg_suran
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }
 411 = {	#
 	holding = none
 }
 412 = {	#
-	culture = oreg_suran
-	religion = faith_ilg_e_garna
+	culture = oreg_garna
+	religion = ilg_e_garna
 	holding = tribal_holding
 }

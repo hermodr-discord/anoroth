@@ -5551,6 +5551,7 @@ e_eburomarc = { # Eburomarc / Agalreman
 	k_luveran = { # Luveran
         color = { 47 177 186 }
         capital = c_lysan
+	definite_form = yes
 
         d_lysendra = { # Lysendra
             color = { 47 177 186 }

@@ -1,0 +1,5 @@
+﻿l_english: 
+
+ #Tributaries
+ tributary_luveran_confederate: "Luveran Confederate"
+ tributary_luveran_confederate_desc: "A Luveran Confederate [tributary|E] provides their [suzerain|E] with [gold|E], [levies|E], and [prestige|E] on a regular basis.\n\nLuveran Confederates are various clans who control different islands in the Luveran Archipelago, and may not leave the confederation unless the power of the reigning leader gets too weak.\n\n$tributary_common_desc$"

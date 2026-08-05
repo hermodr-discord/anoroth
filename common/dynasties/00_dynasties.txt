@@ -72,12 +72,68 @@ borsan = { # Clan Borsán, Clan of Kegyúr the Veilbreaker
 	culture = "helyv"
 }
 
-luveran1 = {
+#Luveran Dynasties
+lysan = { # Dynasty/House of Lys the Navigator
 	name = "dynn_Lysan"
 	culture = "luveran"
 }
 
-luveran2 = {
-	name = "dynn_Dovalin"
+lovan = { # Clan Lovan - Current ruling clan of the Luveran Confederation
+	name = "dynn_Lovan"
 	culture = "luveran"
 }
+
+damiran = { # Clan Damiran - Loyal and major clan, named after Damir - A man who controlled a fairly decent portion of the flotilla
+	name = "dynn_Damiran"
+	culture = "luveran"
+}
+
+maziran = { # Clan Maziran, named after a town in the old homeland.
+	name = "dynn_Maziran"
+	culture = "luveran"
+}
+
+kaveh = { # Clan Kaveh = Major clan in the east, former ruling clan
+	name = "dynn_Kaveh"
+	culture = "luveran"
+}
+
+eshavar = { # Clan Eshavar - Minor clan in the west.
+	name = "dynn_Eshavar"
+	culture = "luveran"
+}
+
+harad = { # Clan Harad - Minor clan in the west.
+	name = "dynn_Harad"
+	culture = "luveran"
+}
+
+velam = { # Clan Velam - Minor clan in the west
+	name = "dynn_Velam"
+	culture = "luveran"
+}
+
+nereth = { # Clan Nereth - Minor clan in the east.
+	name = "dynn_Nereth"
+	culture = "luveran"
+}
+
+ravid = { # Clan Ravid - Minor clan in the east.
+	name = "dynn_Ravid"
+	culture = "luveran"
+}
+
+nusa = { # Clan Nusa - Clan of the Javad the Tyrant. Destroyed.
+	name = "dynn_Nusa"
+	culture = "luveran"
+}
+
+shaddan = { # Clan Shaddan - Minor clan on Tiaran.
+	name = "dynn_Shaddan"
+	culture = "luveran"
+}
+
+#hadat = { #Clan Hadat
+#	name = "dynn_Hadat"
+#	culture = "luveran"
+#}

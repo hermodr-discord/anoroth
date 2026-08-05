@@ -1,11 +1,46 @@
 ﻿
-culture_era_tribal = {
-	year = 0
+### ANOROTH AGES
+
+## First Age (1 - 2135)
+#   Length: 2,135 Years
+#   Began: Dawn of Creation
+#  Ended: Death of Peace
+
+## Second Age (2136 - 4513)
+#   Length: 2,377 Years
+#   Began: Death of Peace
+#  Ended: Formation of the Empire of Anoroth
+
+## Third Age (4514 - 8233)
+#   Length: 3,719 Years
+#   Began: Formation of the Empire of Anoroth
+#  Ended: Collapse of the Empire of Anoroth
+
+## Fourth Age (8234 - 11157)
+#   Length: 2,925 Years
+#   Began: Collapse of the Empire of Anoroth
+#  Ended: End of the War of Eternity
+
+### Current year is 3A 3653 (8166) 
+
+#culture_era_first_age = { # First Age
+#	year = 0
+#}
+
+culture_era_second_age = { # Late Second Age
+	year = 2136
 }
 
-culture_era_early_medieval = {	
-	year = 900
+culture_era_tribal = { # Early Third Age
+	year = 4514
+}
+
+culture_era_early_medieval = { # Anorothic Golden Age
+	year = 6000
 	invalid_for_government = tribal_government
+	invalid_for_government = nomad_government
+	invalid_for_government = herder_government
+	invalid_for_government = wanua_government
 	
 	culture_modifier = {
 		culture_tradition_max_add = 1
@@ -18,12 +53,20 @@ culture_era_early_medieval = {
 	# MAA Upgrades
 
 	# Cultural 
+	# ANOROTH DISABLED
 	## Longbowmen
-	maa_upgrade = {
-		men_at_arms = longbowmen
-		damage = 10
-		toughness = 2
-	}
+	#maa_upgrade = {
+	#	men_at_arms = longbowmen
+	#	damage = 10
+	#	toughness = 2
+	#}
+
+	## Gakgung Archers
+	#maa_upgrade = {
+	#	men_at_arms = gakgung_archers
+	#	damage = 5
+	#	toughness = 2
+	#}
 
 	# Accolade
 	## Accolade Archers
@@ -53,9 +96,12 @@ culture_era_early_medieval = {
 	}
 }
 
-culture_era_high_medieval = {
-	year = 1050
+culture_era_high_medieval = { # High Third Age
+	year = 8100
 	invalid_for_government = tribal_government
+	invalid_for_government = nomad_government
+	invalid_for_government = herder_government
+	invalid_for_government = wanua_government
 	
 	culture_modifier = {
 		culture_tradition_max_add = 1
@@ -72,12 +118,27 @@ culture_era_high_medieval = {
 	# MAA Upgrades
 
 	# Cultural 
+	# ANOROTH DISABLED
 	## Longbowmen
-	maa_upgrade = {
-		men_at_arms = longbowmen
-		damage = 10
-		toughness = 2
-	}
+	#maa_upgrade = {
+	#	men_at_arms = longbowmen
+	#	damage = 10
+	#	toughness = 2
+	#}
+
+	## Gakgung Archers
+	#maa_upgrade = {
+	#	men_at_arms = gakgung_archers
+	#	damage = 6
+	#	toughness = 2
+	#}
+
+	## Fire Lancers
+	#maa_upgrade = {
+	#	men_at_arms = fire_lancers
+	#	damage = 5
+	#	screen = 3
+	#}
 
 	# Accolade
 	## Accolade Archers
@@ -129,9 +190,12 @@ culture_era_high_medieval = {
 	}
 }
 
-culture_era_late_medieval = {
-	year = 1200
+culture_era_late_medieval = { # Late Third Age (4th Era?)
+	year = 8450
 	invalid_for_government = tribal_government
+	invalid_for_government = nomad_government
+	invalid_for_government = herder_government
+	invalid_for_government = wanua_government
 	
 	culture_modifier = {
 		culture_tradition_max_add = 1
@@ -149,12 +213,27 @@ culture_era_late_medieval = {
 	# MAA Upgrades
 
 	# Cultural 
+	# ANOROTH DISABLED
 	## Longbowmen
-	maa_upgrade = {
-		men_at_arms = longbowmen
-		damage = 10
-		toughness = 2
-	}
+	#maa_upgrade = {
+	#	men_at_arms = longbowmen
+	#	damage = 10
+	#	toughness = 2
+	#}
+
+	## Gakgung Archers
+	#maa_upgrade = {
+	#	men_at_arms = gakgung_archers
+	#	damage = 8
+	#	toughness = 2
+	#}
+
+	## Fire Lancers
+	#maa_upgrade = {
+	#	men_at_arms = fire_lancers
+	#	damage = 8
+	#	screen = 5
+	#}
 
 	# Accolade
 	## Accolade Archers

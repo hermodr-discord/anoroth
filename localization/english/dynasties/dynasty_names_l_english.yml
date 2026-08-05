@@ -22,7 +22,6 @@
  dynn_Anomar:0 "Anómar"
  dynn_Arcerin:0 "Arcerin"
  dynn_Ardamnos:0 "Ardamnos"
- dynn_Argenor:0 "Argenor"
  dynn_Arkonas:0 "Arkonas"
  dynn_Argyrian:0 "Argyrian"
  dynn_Asterikon:0 "Asterikon"
@@ -93,7 +92,6 @@
  dynn_Olystrenes:0 "Olystrenes"
  dynn_Ondrakion:0 "Ondrakion"
  dynn_Ores:0 "Ores"
- dynn_Orophastes:0 "Orophastes"
  dynn_Orynthalos:0 "Orynthalos"
  dynn_Oskalyon:0 "Oskalyon"
  dynn_Ostramnon:0 "Ostramnon"
@@ -125,19 +123,26 @@
  dynn_Veloras:0 "Veloras"
  dynn_Vyras:0 "Vyras"
 
+ ### Bréniloric Dynasties
+ dynn_Kopos:0 "Kopos"
+
+ ### Funérathic Dynasties
+ dynn_Argenor:0 "Argenor"
+ dynn_Orophastes:0 "Orophastes"
+
  ### Luveran Dynasties
- dynn_Lysan:0 "Lysan"
- dynn_Lovan:0 "Lovan"
  dynn_Damiran:0 "Damiran"
- dynn_Maziran:0 "Maziran"
- dynn_Kaveh:0 "Kaveh"
  dynn_Eshavar:0 "Eshavar"
  dynn_Harad:0 "Harad"
- dynn_Velam:0 "Velam"
+ dynn_Kaveh:0 "Kaveh"
+ dynn_Lysan:0 "Lysan"
+ dynn_Lovan:0 "Lovan"
+ dynn_Maziran:0 "Maziran"
  dynn_Nereth:0 "Nereth"
- dynn_Ravid:0 "Ravid"
  dynn_Nusa:0 "Nusa"
+ dynn_Ravid:0 "Ravid"
  dynn_Shaddan:0 "Shaddan"
+ dynn_Velam:0 "Velam"
 
  ### Hélyv Dynasties
  dynn_Borsan:0 "Borsán"

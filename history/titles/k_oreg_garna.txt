@@ -1,0 +1,149 @@
+﻿
+k_oreg_garna = {
+	4514.1.1 = { change_development_level = 8 }
+
+	8166.1.1 = { # Governor Valos Orphanian | 3A 3653 - 3A 3655
+		holder = orphanian1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+### Duchy of Suran
+d_suran = {
+	4514.1.1 = { change_development_level = 8 }
+
+	8166.1.1 = { # Governor Valos Orphanian | 3A 3653 - 3A 3655
+		holder = orphanian1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ag_surna = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Governor Valos Orphanian | 3A 3653 - 3A 3655
+		holder = orphanian1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_slorag = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Curnagun Ogmar | 3A 3653 - 3A 3694
+		holder = ogmar1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_orna_siret = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Count Nurag Fernul | 3A 3653 - 3A 3693
+		holder = fernul1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+### Duchy of Bagat
+d_bagat = {
+	4514.1.1 = { change_development_level = 8 }
+}
+c_yurnagul = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Count Agorn Yugmal | 3A 3653 - 3A 3680
+		holder = yugmal1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_elsha_goru = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Surul Hulgesh | 3A 3653 - 3A 3708
+		holder = hulgesh1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_bragan = {
+	4514.1.1 = { change_development_level = 7 }
+
+	8166.1.1 = { # Count Bolg Fessaral | 3A 3653 - 3A 3668
+		holder = fessaral1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+### Duchy of Hagan
+d_hagan = {
+	4514.1.1 = { change_development_level = 8 }
+}
+c_oru_gareth = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Count Bleg Yorn | 3A 3653 - 4A 1
+		holder = yorn1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_surnegul = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Gorn-Surna Domgul | 3A 3653 - 3A 3671
+		holder = domgul1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_irulnath = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Ulg Yenog | 3A 3653 - 3A 3658
+		holder = yenog1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+### Duchy of Irul
+d_irul = {
+	4514.1.1 = { change_development_level = 8 }
+}
+c_irul = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Dolg-Urgesh Ognul | 3A 3653 - 3A 3658
+		holder = ognul1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_ulg_rasan = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Ilgaresh Fessagol | 3A 3653 - 3A 3673
+		holder = fessagol1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_ulg_surnai = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Olgun Doskag | 3A 3653 - 3A 3692
+		holder = doskag1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}
+c_drelun = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Count Sorn-Esha Aiognul | 3A 3653 - 3A 3683
+		holder = aiognul1
+		liege = k_oreg_garna
+		government = tribal_government
+	}
+}

@@ -417,7 +417,6 @@ e_anoroth = {
 		holder = atyrin17
 	}
 }
-
 k_anorcedia = {
 	4514.1.1 = { change_development_level = 20 }
 
@@ -837,7 +836,7 @@ k_anorcedia = {
 		holder = atyrin17
 	}
 }
-
+### Duchy of Anórcedia
 d_anorcedia = {
 	4514.1.1 = { change_development_level = 20 }
 
@@ -1257,9 +1256,8 @@ d_anorcedia = {
 		holder = atyrin17
 	}
 }
-
 c_anorcedia = {
-	4514.1.1 = { change_development_level = 43 }
+	4514.1.1 = { change_development_level = 41 }
 
 	4514.1.1 = { # Calyreos Agrás I 'the Sun King' Anómar | 3A 1 - 3A 98
 		holder = anomar1
@@ -1666,5 +1664,32 @@ c_anorcedia = {
 	}
 	8107.1.1 = { # Calyreos Ouralon IV Atyrin | 3A 3594 - 3A 3661
 		holder = atyrin17
+	}
+}
+c_anthelyon = {
+	4514.1.1 = { change_development_level = 27 }
+
+	8166.1.1 = { # Count Kyros Ovrásethes | 3A 3653 - 3A 3661
+		holder = ovrasethes1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_herasyon = {
+	4514.1.1 = { change_development_level = 26 }
+
+	8166.1.1 = { # Count Arthanos Kadrás | 3A 3653 - 3A 3661
+		holder = kadras1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_thyrelos = {
+	4514.1.1 = { change_development_level = 29 }
+
+	8166.1.1 = { # Count Tyran Drúmanos | 3A 3653 - 3A 3661
+		holder = drumanos1
+		liege = e_anoroth
+		government = feudal_government
 	}
 }

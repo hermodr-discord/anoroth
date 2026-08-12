@@ -1,0 +1,104 @@
+﻿## House Aiartxandi
+aiartxandi1 = {
+	name = Garrain
+	dynasty = aiartxandi
+	religion = faith_telasatz
+	culture = kintir
+
+	8149.1.1 = { # 3A 3636
+		birth = yes
+	}
+	8224.1.1 = { # 3A 3711
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Bidarte
+bidarte1 = {
+	name = Arrangor
+	dynasty = bidarte
+	religion = faith_anorath
+	culture = kintir
+
+	8109.1.1 = { # 3A 3596
+		birth = yes
+	}
+	8187.1.1 = { # 3A 3674
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Gaztelu
+gaztelu1 = {
+	name = Izar
+	dynasty = gaztelu
+	religion = faith_anorath
+	culture = kintir
+
+	8127.1.1 = { # 3A 3614
+		birth = yes
+	}
+	8198.1.1 = { # 3A 3685
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Iturmendi
+iturmendi1 = {
+	name = Tarain
+	dynasty = iturmendi
+	religion = faith_anorath
+	culture = kintir
+
+	8114.1.1 = { # 3A 3601
+		birth = yes
+	}
+	8193.1.1 = { # 3A 3680
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Iturrieta
+iturrieta1 = {
+	name = Etxerain
+	dynasty = iturrieta
+	religion = faith_anorath
+	culture = kintir
+
+	8135.1.1 = { # 3A 3622
+		birth = yes
+	}
+	8209.1.1 = { # 3A 3696
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Kortxabe
+kortxabe1 = {
+	name = Indar
+	dynasty = kortxabe
+	religion = faith_telasatz
+	culture = kintir
+
+	8090.1.1 = { # 3A 3577
+		birth = yes
+	}
+	8173.1.1 = { # 3A 3660
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Larratxeta
+larratxeta1 = {
+	name = Sinaitz
+	dynasty = larratxeta
+	religion = faith_telasatz
+	culture = kintir
+
+	8124.1.1 = { # 3A 3611
+		birth = yes
+	}
+	8211.1.1 = { # 3A 3698
+		death = { death_reason = death_natural_causes }
+	}
+}

@@ -1,4 +1,49 @@
-﻿## House Orophastes
+﻿## House Argenor
+argenor1 = {
+	name = Kyranos
+	dynasty = argenor
+	religion = faith_funethresca
+	culture = funerathic
+
+	8124.1.1 = { # 3A 3611
+		birth = yes
+	}
+	8202.1.1 = { # 3A 3689
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Asphareus
+asphareus1 = {
+	name = Larichos
+	dynasty = asphareus
+	religion = faith_anorath
+	culture = funerathic
+
+	8139.1.1 = { # 3A 3626
+		birth = yes
+	}
+	8219.1.1 = { # 3A 3706
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Kydranon
+kydranon1 = {
+	name = Euryenon
+	dynasty = kydranon
+	religion = faith_anorath
+	culture = funerathic
+
+	8125.1.1 = { # 3A 3612
+		birth = yes
+	}
+	8198.1.1 = { # 3A 3685
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Orophastes
 orophastes1 = {
 	name = Pheros
 	dynasty = orophastes
@@ -59,17 +104,17 @@ orophastes4 = {
 	}
 }
 
-## House Argenor
-argenor1 = {
-	name = Kyranos
-	dynasty = argenor
-	religion = faith_funethresca
+## House Thermeneas
+thermeneas1 = {
+	name = Kanon
+	dynasty = thermeneas
+	religion = faith_anorath
 	culture = funerathic
 
-	8124.1.1 = { # 3A 3611
+	8129.1.1 = { # 3A 3616
 		birth = yes
 	}
-	8202.1.1 = { # 3A 3689
+	8213.1.1 = { # 3A 3700
 		death = { death_reason = death_natural_causes }
 	}
 }

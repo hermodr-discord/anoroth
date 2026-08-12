@@ -1,0 +1,141 @@
+### Duchy of Ilynath
+d_ilynath = {
+	4514.1.1 = { change_development_level = 14 }
+	
+	8166.1.1 = { # Duke Myras I Rhysales | 3A 3653 - 3A 3667
+		holder = rhysales1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_incanathar = {
+	4514.1.1 = { change_development_level = 21 }
+	
+	8166.1.1 = { # Duke Myras I Rhysales | 3A 3653 - 3A 3667
+		holder = rhysales1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_velomasson = {
+	4514.1.1 = { change_development_level = 15 }
+	
+	8166.1.1 = { # Count Ikaron Karphelas | 3A 3653 - 3A 3660
+		holder = karphelas1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+c_karandros = {
+	4514.1.1 = { change_development_level = 17 }
+	
+	8166.1.1 = { # Duke Myras I Rhysales | 3A 3653 - 3A 3667
+		holder = rhysales1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_myraphasyon = {
+	4514.1.1 = { change_development_level = 19 }
+	
+	8166.1.1 = { # Count Ordanos Meletrin | 3A 3653 - 3A 3688
+		holder = meletrin1
+		liege = d_ilynath
+		government = feudal_government
+	}
+}
+### Duchy of Antakonos
+d_antakonos = {
+	4514.1.1 = { change_development_level = 14 }
+}
+c_arthaneis = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Iarelos Symbares | 3A 3653 - 3A 3666
+		holder = symbares1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+c_ancovarath = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Iarelos Symbares | 3A 3653 - 3A 3666
+		holder = symbares1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+c_cethaphasyon = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Count Tauran Orphestas | 3A 3653 - 3A 3688
+		holder = orphestas1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+c_ornesson = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Atrakos Melandrias | 3A 3653 - 3A 3681
+		holder = melandrias1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+### Duchy of Orthacos
+d_orthacos = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8163.1.1 = { # Duke Kaesaros I Thrakenides | 3A 3650 - 3A 3717
+		holder = thrakenides1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_vartharos = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8163.1.1 = { # Duke Kaesaros I Thrakenides | 3A 3650 - 3A 3717
+		holder = thrakenides1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_incanareia = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8163.1.1 = { # Duke Kaesaros I Thrakenides | 3A 3650 - 3A 3717
+		holder = thrakenides1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_seuneas = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8163.1.1 = { # Duke Kaesaros I Thrakenides | 3A 3650 - 3A 3717
+		holder = thrakenides1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_tharalaon = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Ikaron Karphelas | 3A 3653 - 3A 3660
+		holder = karphelas1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+c_ilyamnos = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Ikaron Karphelas | 3A 3653 - 3A 3660
+		holder = karphelas1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}

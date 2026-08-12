@@ -1618,7 +1618,7 @@ e_anoroth = { # Anóroth
         }
         d_orthacos = { # Orthacos
             color = { 192 135 29 }
-            capital = c_county_80
+            capital = c_vartharos
 
             c_vartharos = { # Vartharos
                 color = { 192 135 29 }

@@ -2,142 +2,237 @@
 d_verynthos = {
 	4514.1.1 = { change_development_level = 16 }
 	
-	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+	8070.1.1 = { # Duke Andron I Rhyceros | 3A 3557 - 3A 3587
 		holder = rhyceros1
 		liege = e_anoroth
 		government = feudal_government
 	}
-	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+	8100.1.1 = { # Duke Lykaron I Rhyceros | 3A 3587 - 3A 3594
 		holder = rhyceros2
 	}
-	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
+	8107.1.1 = { # Duke Tyran I Rhyceros | 3A 3594 - 3A 3642
 		holder = rhyceros11
 	}
-	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
+	8155.1.1 = { # Duke Tyros I Rhyceros | 3A 3642 - 3A 3671
 		holder = rhyceros15
 	}
 }
 c_verynthos = {
-	4514.1.1 = { change_development_level = 28 }
+	4514.1.1 = { change_development_level = 26 }
 	
-	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+	8070.1.1 = { # Duke Andron I Rhyceros | 3A 3557 - 3A 3587
 		holder = rhyceros1
 		liege = d_verynthos
 		government = feudal_government
 	}
-	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+	8100.1.1 = { # Duke Lykaron I Rhyceros | 3A 3587 - 3A 3594
 		holder = rhyceros2
 	}
-	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
+	8107.1.1 = { # Duke Tyran I Rhyceros | 3A 3594 - 3A 3642
 		holder = rhyceros11
 	}
-	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
-		holder = rhyceros15
-	}
-}
-c_calythra = {
-	4514.1.1 = { change_development_level = 16 }
-
-	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
-		holder = rhyceros1
-		liege = d_verynthos
-		government = feudal_government
-	}
-	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
-		holder = rhyceros2
-	}
-	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
-		holder = rhyceros11
-	}
-	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
-		holder = rhyceros15
-	}
-}
-c_sarmessa = {
-	4514.1.1 = { change_development_level = 16 }
-
-	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
-		holder = rhyceros1
-		liege = d_verynthos
-		government = feudal_government
-	}
-	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
-		holder = rhyceros2
-	}
-	8107.1.1 = { # Duke Tyran I | 3A 3594 - 3A 3642
-		holder = rhyceros11
-	}
-	8155.1.1 = { # Duke Tyros I | 3A 3642 - 3A 3671
+	8155.1.1 = { # Duke Tyros I Rhyceros | 3A 3642 - 3A 3671
 		holder = rhyceros15
 	}
 }
 c_gessikon = {
-	4514.1.1 = { change_development_level = 20 }
+	4514.1.1 = { change_development_level = 22 }
 
-	8070.1.1 = { # Duke Andron I | 3A 3557 - 3A 3587
+	8070.1.1 = { # Duke Andron I Rhyceros | 3A 3557 - 3A 3587
 		holder = rhyceros1
 		liege = d_verynthos
 		government = feudal_government
 	}
-	8100.1.1 = { # Duke Lykaron I | 3A 3587 - 3A 3594
+	8100.1.1 = { # Duke Lykaron I Rhyceros | 3A 3587 - 3A 3594
 		holder = rhyceros2
 	}
-	8107.1.1 = { # Count Ceneros I | 3A 3594 - 3A 3654
+	8107.1.1 = { # Count Ceneros Rhyceros | 3A 3594 - 3A 3654
 		holder = rhyceros13
+	}
+}
+c_calythra = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8070.1.1 = { # Duke Andron I Rhyceros | 3A 3557 - 3A 3587
+		holder = rhyceros1
+		liege = d_verynthos
+		government = feudal_government
+	}
+	8100.1.1 = { # Duke Lykaron I Rhyceros | 3A 3587 - 3A 3594
+		holder = rhyceros2
+	}
+	8107.1.1 = { # Duke Tyran I Rhyceros | 3A 3594 - 3A 3642
+		holder = rhyceros11
+	}
+	8155.1.1 = { # Duke Tyros I Rhyceros | 3A 3642 - 3A 3671
+		holder = rhyceros15
+	}
+}
+c_sarmessa = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8070.1.1 = { # Duke Andron I Rhyceros | 3A 3557 - 3A 3587
+		holder = rhyceros1
+		liege = d_verynthos
+		government = feudal_government
+	}
+	8100.1.1 = { # Duke Lykaron I Rhyceros | 3A 3587 - 3A 3594
+		holder = rhyceros2
+	}
+	8107.1.1 = { # Duke Tyran I Rhyceros | 3A 3594 - 3A 3642
+		holder = rhyceros11
+	}
+	8155.1.1 = { # Duke Tyros I Rhyceros | 3A 3642 - 3A 3671
+		holder = rhyceros15
+	}
+}
+
+### Duchy of Korthanór
+d_korthanor = {
+	4514.1.1 = { change_development_level = 16 }
+	
+	8166.1.1 = { # Duke Ophyron I Philyros | 3A 3653 - 3A 3669
+		holder = philyros3
+		liege = e_anoroth
+		government = theocracy_government
+	}
+}
+c_korthanor = {
+	4514.1.1 = { change_development_level = 17 }
+	
+	8166.1.1 = { # Duke Ophyron I Philyros | 3A 3653 - 3A 3669
+		holder = philyros3
+		liege = e_anoroth
+		government = theocracy_government
+	}
+}
+c_anorakos = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Duke Ophyron I Philyros | 3A 3653 - 3A 3669
+		holder = philyros3
+		liege = e_anoroth
+		government = theocracy_government
+	}
+}
+c_neryn = {
+	4514.1.1 = { change_development_level = 21 }
+
+	8166.1.1 = { # Count Ordanos Meletrin | 3A 3653 - 3A 3688
+		holder = meletrin1
+		liege = d_ilynath
+		government = feudal_government
+	}
+}
+
+### Duchy of Korthon
+d_korthon = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Drakanos I tou Argoneia | 3A 3653 - 3A 3680
+		holder = argoneia1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_argon = {
+	4514.1.1 = { change_development_level = 22 }
+
+	8166.1.1 = { # Duke Drakanos I tou Argoneia | 3A 3653 - 3A 3680
+		holder = argoneia1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_selys = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Duke Drakanos I tou Argoneia | 3A 3653 - 3A 3680
+		holder = argoneia1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_aphanis = {
+	4514.1.1 = { change_development_level = 20 }
+
+	8166.1.1 = { # Count Kanon Thermeneas | 3A 3653 - 3A 3700
+		holder = thermeneas1
+		liege = d_korthon
+		government = feudal_government
+	}
+}
+c_velasson = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Euryenon Kydranon | 3A 3653 - 3A 3685
+		holder = kydranon1
+		liege = d_korthon
+		government = feudal_government
+	}
+}
+c_vyzantios = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Euryenon Kydranon | 3A 3653 - 3A 3685
+		holder = kydranon1
+		liege = d_korthon
+		government = feudal_government
 	}
 }
 
 ### Duchy of Ornethia
 d_ornethia = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 16 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Duke Pheros I Orophastes | 3A 3653 - 3A 3675
 		holder = orophastes1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_vanathra = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 19 }
 
-	8166.1.1 = {
-		holder = orophastes1
-		liege = e_anoroth
-		government = feudal_government
-	}
-}
-c_castrynon = {
-	4514.1.1 = { change_development_level = 12 }
-
-	8166.1.1 = {
+	8166.1.1 = { # Duke Pheros I Orophastes | 3A 3653 - 3A 3675
 		holder = orophastes1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_elarissos = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 14 }
 
-	8166.1.1 = {
-		holder = astramon24
+	8166.1.1 = { # Count Asteron Astramon | 3A 3653 - 3656
+		holder = astramon1
+		liege = d_ornethia
+		government = feudal_government
+	}
+}
+c_castrynon = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Pheros I Orophastes | 3A 3653 - 3A 3675
+		holder = orophastes1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ilythelon = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Kyranos Argenor | 3A 3653 - 3A 3689
+		holder = argenor1
 		liege = d_ornethia
 		government = feudal_government
 	}
 }
 c_kaloryn = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 16 }
 
-	8166.1.1 = {
-		holder = atyrin17
-		government = feudal_government
-	}
-}
-c_ilythelon = {
-	4514.1.1 = { change_development_level = 12 }
-
-	8166.1.1 = {
-		holder = argenor1
-		liege = d_ornethia
+	8166.1.1 = { # Count Euryenon Kydranon | 3A 3653 - 3A 3685
+		holder = kydranon1
+		liege = d_korthon
 		government = feudal_government
 	}
 }

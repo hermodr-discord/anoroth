@@ -1,3 +1,176 @@
+﻿### Duchy of Myrathos
+d_myrathos = {
+	4514.1.1 = { change_development_level = 16 }
+	
+	8166.1.1 = { # Duke Tyran I Chrysenas | 3A 3653 - 3A 3677
+		holder = chrysenas1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_calantheia = {
+	4514.1.1 = { change_development_level = 23 }
+	
+	8166.1.1 = { # Duke Tyran I Chrysenas | 3A 3653 - 3A 3677
+		holder = chrysenas1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_pelanthe = {
+	4514.1.1 = { change_development_level = 16 }
+	
+	8166.1.1 = { # Count Arthanes Aristenas | 3A 3653 - 3A 3703
+		holder = aristenas1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+c_aethrion = {
+	4514.1.1 = { change_development_level = 15 }
+	
+	8166.1.1 = { # Count Arthanes Aristenas | 3A 3653 - 3A 3703
+		holder = aristenas1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+c_thanovyra = {
+	4514.1.1 = { change_development_level = 18 }
+	
+	8166.1.1 = { # Count Kaleron Isidoros | 3A 3653 - 3A 3679
+		holder = isidoros1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+### Duchy of Lytheron
+d_lytheron = {
+	4514.1.1 = { change_development_level = 16 }
+}
+c_panelyon = {
+	4514.1.1 = { change_development_level = 20 }
+	
+	8166.1.1 = { # Count Kaleron Isidoros | 3A 3653 - 3A 3679
+		holder = isidoros1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+c_darossia = {
+	4514.1.1 = { change_development_level = 16 }
+	
+	8166.1.1 = { # Count Ekaryon Sotirakis | 3A 3653 - 3A 3684
+		holder = sotirakis1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+c_ornyros = {
+	4514.1.1 = { change_development_level = 19 }
+	
+	8166.1.1 = { # Count Kaleron Isidoros | 3A 3653 - 3A 3679
+		holder = isidoros1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+### Duchy of Oranthor
+d_oranthor = {
+	4514.1.1 = { change_development_level = 16 }
+}
+c_darion = {
+	4514.1.1 = { change_development_level = 17 }
+	
+	8166.1.1 = { # Count Aesaros Sotomenas | 3A 3653 - 3A 3710
+		holder = sotomenas1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+c_thyralos = {
+	4514.1.1 = { change_development_level = 19 }
+	
+	8166.1.1 = { # Duke Tyran I Chrysenas | 3A 3653 - 3A 3677
+		holder = chrysenas1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_syrnos = {
+	4514.1.1 = { change_development_level = 13 }
+	
+	8166.1.1 = { # Count Pylas Aristonian | 3A 3653 - 3A 3684
+		holder = aristonian1
+		liege = d_myrathos
+		government = feudal_government
+	}
+}
+c_verony = {
+	4514.1.1 = { change_development_level = 14 }
+	
+	8166.1.1 = { # Count Andron Andronin | 3A 3653 - 3A 3693
+		holder = andronin1
+		liege = d_drezdany
+		government = feudal_government
+	}
+}
+### Duchy of Drezdány
+d_drezdany = {
+	4514.1.1 = { change_development_level = 12 }
+	
+	8163.1.1 = { # Duke Nephyron I Eutyros | 3A 3650 - 3A 3658
+		holder = eutyros1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_voltorvar = {
+	4514.1.1 = { change_development_level = 15 }
+	
+	8163.1.1 = { # Duke Nephyron I Eutyros | 3A 3650 - 3A 3658
+		holder = eutyros1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_detrasz = {
+	4514.1.1 = { change_development_level = 13 }
+	
+	8166.1.1 = { # Count Andron Andronin | 3A 3653 - 3A 3693
+		holder = andronin1
+		liege = d_drezdany
+		government = feudal_government
+	}
+}
+c_karacsas = {
+	4514.1.1 = { change_development_level = 13 }
+	
+	8163.1.1 = { # Duke Nephyron I Eutyros | 3A 3650 - 3A 3658
+		holder = eutyros1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_phyrna = {
+	4514.1.1 = { change_development_level = 16 }
+	
+	8163.1.1 = { # Duke Nephyron I Eutyros | 3A 3650 - 3A 3658
+		holder = eutyros1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_almyros = {
+	4514.1.1 = { change_development_level = 15 }
+	
+	8166.1.1 = { # Count Atreos Ephron | 3A 3653 - 3A 3677
+		holder = ephron1
+		liege = d_thanovia
+		government = feudal_government
+	}
+}
+### Duchy of Thanóvia
 d_thanovia = {
 	4514.1.1 = { change_development_level = 15 }
 	
@@ -19,7 +192,7 @@ c_mesaia = {
 c_kelsareia = {
 	4514.1.1 = { change_development_level = 18 }
 	
-	8163.1.1 = { # Count Depharos tou Ophyreas | 3A 3650 - 3A 3701
+	8166.1.1 = { # Count Depharos tou Ophyreas | 3A 3653 - 3A 3701
 		holder = ophyreas1
 		liege = d_thanovia
 		government = feudal_government
@@ -28,24 +201,34 @@ c_kelsareia = {
 c_ossaros = {
 	4514.1.1 = { change_development_level = 16 }
 	
-	8130.1.1 = { # Duke Kaston I Tarenas | 3A 3617 - 3A 3659
-		holder = tarenas28
-		liege = e_anoroth
+	8166.1.1 = { # Count Atreos Ephron | 3A 3653 - 3A 3677
+		holder = ephron1
+		liege = d_thanovia
 		government = feudal_government
 	}
 }
 c_anachi = {
 	4514.1.1 = { change_development_level = 17 }
 
+	8130.1.1 = { # Duke Kaston I Tarenas | 3A 3617 - 3A 3637
+		holder = tarenas28
+		liege = e_anoroth
+		government = feudal_government
+	}
 	8150.1.1 = { # Count Lynas Tarenas | 3A 3637 - 3A 3698
-		holder = d_thanovia
-		liege = d
+		holder = tarenas31
+		liege = d_thanovia
 		government = feudal_government
 	}
 }
 c_achinos = {
 	4514.1.1 = { change_development_level = 18 }
 
+	8130.1.1 = { # Duke Kaston I Tarenas | 3A 3617 - 3A 3637
+		holder = tarenas28
+		liege = e_anoroth
+		government = feudal_government
+	}
 	8150.1.1 = { # Count Lynas Tarenas | 3A 3637 - 3A 3698
 		holder = tarenas31
 		liege = d_thanovia

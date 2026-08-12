@@ -1,74 +1,93 @@
 ﻿name_list_larrun = { # basque
 
 	cadet_dynasty_names = {
-		{ "dynnp_de" "dynn_Agurto" }
-		{ "dynnp_de" "dynn_Vizcaya" }
-		{ "dynnp_d_" "dynn_A_valos" }
-		{ "dynnp_de" "dynn_BazA_n" }
-		{ "dynnp_de" "dynn_NA_jera" }
-		{ "dynnp_de" "dynn_Noboa" }
-		{ "dynnp_de" "dynn_Vidaure" }
-		{ "dynnp_de" "dynn_Azagra" }
-		"dynn_Benavides"
-		{ "dynnp_de" "dynn_ZU_N_iga" }
-		"dynn_Coronel"
-		{ "dynnp_de" "dynn_Viguera" }
-		{ "dynnp_de" "dynn_Cea" }
-		"dynn_Cajal"
-		{ "dynnp_de" "dynn_los_Cameros" }
-		{ "dynnp_de" "dynn_EstI_baliz" }
-		{ "dynnp_de" "dynn_Viscaya" }
-		{ "dynnp_de" "dynn_La_Rioja" }
-		{ "dynnp_de" "dynn_Jaca" }
-		{ "dynnp_de" "dynn_Laturce" }
-		"dynn_LadrO_n_de_Guevara"
+		"dynn_Agirre"
+		"dynn_Aitzur"
+		"dynn_Aranburu"
+		"dynn_Ardantzeta"
+		"dynn_Arriondoa"
+		"dynn_Bakur"
+		"dynn_Basartegi"
+		"dynn_Errin"
+		"dynn_Errekondo"
+		"dynn_Errondo"
+		"dynn_Errotarte"
+		"dynn_Etxarri"
+		"dynn_Etxeberri"
+		"dynn_Goikoetxe"
+		"dynn_Gorostiza"
+		"dynn_Gorotza"
+		"dynn_Herasti"
+		"dynn_Igartuza"
+		"dynn_Iratz"
+		"dynn_Larrabe"
+		"dynn_Lekun"
+		"dynn_Munar"
+		"dynn_Ondarraga"
+		"dynn_Otsarain"
+		"dynn_Otxandari"
+		"dynn_Otxandi"
+		"dynn_Otxar"
+		"dynn_Otzain"
+		"dynn_Otzarreta"
+		"dynn_Otzeta"
+		"dynn_Sarasketa"
+		"dynn_Sarasti"
+		"dynn_Urruti"
+		"dynn_Urrutibe"
+		"dynn_Zarratxea"
+		"dynn_Zilar"
 	}
 
 	dynasty_names = {
-		{ "dynnp_de" "dynn_Agurto" }
-		{ "dynnp_de" "dynn_Vizcaya" }
-		{ "dynnp_d_" "dynn_A_valos" }
-		{ "dynnp_de" "dynn_BazA_n" }
-		{ "dynnp_de" "dynn_NA_jera" }
-		{ "dynnp_de" "dynn_Noboa" }
-		{ "dynnp_de" "dynn_Vidaure" }
-		{ "dynnp_de" "dynn_Azagra" }
-		"dynn_Benavides"
-		{ "dynnp_de" "dynn_ZU_N_iga" }
-		"dynn_Coronel"
-		{ "dynnp_de" "dynn_Viguera" }
-		{ "dynnp_de" "dynn_Cea" }
-		"dynn_Cajal"
-		{ "dynnp_de" "dynn_los_Cameros" }
-		{ "dynnp_de" "dynn_EstI_baliz" }
-		{ "dynnp_de" "dynn_Viscaya" }
-		{ "dynnp_de" "dynn_La_Rioja" }
-		{ "dynnp_de" "dynn_Laturce" }
-		"dynn_LadrO_n_de_Guevara"
+		"dynn_Agirre"
+		"dynn_Aitzur"
+		"dynn_Aranburu"
+		"dynn_Ardantzeta"
+		"dynn_Arriondoa"
+		"dynn_Bakur"
+		"dynn_Basartegi"
+		"dynn_Errin"
+		"dynn_Errekondo"
+		"dynn_Errondo"
+		"dynn_Errotarte"
+		"dynn_Etxarri"
+		"dynn_Etxeberri"
+		"dynn_Goikoetxe"
+		"dynn_Gorostiza"
+		"dynn_Gorotza"
+		"dynn_Herasti"
+		"dynn_Igartuza"
+		"dynn_Iratz"
+		"dynn_Larrabe"
+		"dynn_Lekun"
+		"dynn_Munar"
+		"dynn_Ondarraga"
+		"dynn_Otsarain"
+		"dynn_Otxandari"
+		"dynn_Otxandi"
+		"dynn_Otxar"
+		"dynn_Otzain"
+		"dynn_Otzarreta"
+		"dynn_Otzeta"
+		"dynn_Sarasketa"
+		"dynn_Sarasti"
+		"dynn_Urruti"
+		"dynn_Urrutibe"
+		"dynn_Zarratxea"
+		"dynn_Zilar"
 	}
 
 	male_names = {
-		Alfontso Alvar Antso Armengol Aznar Belasko Bermudo Bernart Diego Donato
-		Egidio Eneko Erramun Fernando Filipe Fortun Galindo Gartzia Gil Gilen
-		Gomez Gontzal Henrique Herramel Jakue Joanes Karlos Kasio Ladron Lope
-		Luis Manrike MartI_n Munio NuN_o Obeko OrdoN_o Pelaio Piarres Ramiro
-		Rodrigo Suero Tibalt Vela Ximeno Zentulo
-
-#			Abdala Isa Ismail Mohamed Motarrif Muza Saad Salama Taur Yahya Yunus Zahir
+		Alborrain Alkaintzor Alkorraitzor Altzarain Alzain Araintze Argigor Arkor Armin Arrain Arrangor Arrankor Arron Atxain Atxarraitz Azar Azkar Azkaraitz Basogor Basoraitz Bazain Belkor Bihotzkor Darrain Elkor Erkaitz Erron Etxegor Etxerain Ezkain Garrain Geraitz Gorrin Ibaigor Ilungor Indar Indarain Irain Iraitz Itzakor Izar Izargor Izkor Malkor Marain Maraitz Narain Oihantz Orrain Otsain Otsaintz Saraitz Sengor Sinaitz Sirain Tarain Taraitz Zilar
 	}
 	female_names = {
-		Adalais Aines Alausia Aldontza Anderkina Andregoto Antsa Assona Ava Azibella
-		Beatritz Belaskita Berengaria Blanka Briska Elbira Elisabet Eliza Emili Endulcia
-		Ermesinda Estefania Fakilo Fronilde Gersenda Guntroda Joana Katalina Kisilo Konstantzia
-		Leonor Maior Maria Matilda Matrona Mentzia Munia Muniadona Nunila NuN_a
-		Oneka Oria Plazentzia Tekla Teresa Toda Toda-Adalais Urraka Ximena
-	
-#			Awriya
+		Araintze Arantza Argitze Arranixe Arrintzia Atxanixe Atzanixe Basoane Basotze Bihotzane Darrantze Ezkaia Ezkanixe Ezkanoa Geranoa Gorrane Gorritze Hartzane Ibaitze Ibaixe Indartze Izarixe Izarkorrane Izarne Izartze Izaskun Kattalin Lore Loreixe Loretze Maite Maiteixe Maitetze Miraixe Miren Nereixe Neretze Otsoane Otsoixe Sutze Taraintze Urraixe Urrane Uxue
 	}
-	dynasty_of_location_prefix = "dynnp_de"
+	dynasty_of_location_suffix = "dynnp_en"
 	
-	patronym_suffix_male = "dynnpat_suf_ez"
-	patronym_suffix_female = "dynnpat_suf_ez"
+	patronym_suffix_male = "dynnpat_suf_ak"
+	patronym_suffix_female = "dynnpat_suf_ak"
 	always_use_patronym = yes	
 
 	pat_grf_name_chance = 80

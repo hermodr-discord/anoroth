@@ -1,5 +1,5 @@
 ﻿# IMPERIAL HOUSES
-## House Anómar (Emperors 3A 1 - 3A 1021)
+## House Anómar (Calyreoi of Anóroth 3A 1 - 3A 1021)
 anomar1 = {
 	name = AgrA_s
 	dynasty = anomar
@@ -831,7 +831,7 @@ anomar53 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-## House Vasylidon (Emperors 3A 1047 - 3A 1578)
+## House Vasylidon (Calyreoi of Anóroth 3A 1047 - 3A 1578)
 vasylidon1 = {
 	name = Nikaron
 	dynasty = vasylidon
@@ -1183,7 +1183,7 @@ vasylidon23 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-## House Saphyros (Emperors 3A 1578 - 3A 1961)
+## House Saphyros (Calyreoi of Anóroth 3A 1578 - 3A 1961)
 saphyros1 = {
 	name = Saphyras
 	dynasty_house = saphyros
@@ -1611,7 +1611,7 @@ saphyros28 = {
 		death = { death_reason = death_execution }
 	}
 }
-## House Arcerin (Emperors 3A 1961 - 3A 2571)
+## House Arcerin (Calyreoi of Anóroth 3A 1961 - 3A 2571)
 arcerin1 = {
 	name = Ophyron
 	dynasty = arcerin
@@ -2410,7 +2410,7 @@ arcerin53 = {
 	}
 }
 
-## House Argyrian (Emperors 3A 2624 - 3A 3207)
+## House Argyrian (Calyreoi of Anóroth 3A 2624 - 3A 3207)
 argyrian1 = {
 	name = Argyros
 	dynasty = argyrian
@@ -3144,7 +3144,7 @@ argyrian46 = {
 		death = { death_reason = death_battle }
 	}
 }
-## House Tarenas (Cadet Branch of House Argyrian - Dukes of Thanóvia 3A 2827 - 3A 3719)
+## House Tarenas (Cadet Branch of House Argyrian)
 tarenas1 = {
 	name = Tyros
 	dynasty_house = tarenas
@@ -3674,7 +3674,7 @@ tarenas34 = {
 	}
 }
 
-## House Atyrin (Emperors 3A 3291 - 3A 3719)
+## House Atyrin (Calyreoi of Anóroth 3A 3291 - 3A 3719)
 atyrin1 = {
 	name = Kaesaros
 	dynasty = atyrin
@@ -4140,7 +4140,7 @@ atyrin29 = {
 		death = { death_reason = death_stress }
 	}
 }
-## House Rhyceros (Cadet Branch of House Atyrin - Dukes of Verynthos 3A 3557 - 3A 3719)
+## House Rhyceros (Cadet Branch of House Atyrin)
 rhyceros1 = {
 	name = Andron
 	dynasty_house = rhyceros
@@ -4530,7 +4530,412 @@ rhyceros25 = {
 	}
 }
 
-## House Ilmenas (Dukes of Syphoreia)
+## House tou Argoneia
+argoneia1 = {
+	name = Drakanos
+	dynasty = argoneia
+	religion = faith_anorath
+	culture = anorothic
+
+	8114.1.1 = { # 3A 3601
+		birth = yes
+	}
+	8193.1.1 = { # 3A 3680
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Aristenas
+aristenas1 = {
+	name = Arthanes
+	dynasty = aristenas
+	religion = faith_anorath
+	culture = anorothic
+
+	8137.1.1 = { # 3A 3624
+		birth = yes
+	}
+	8216.1.1 = { # 3A 3703
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Aristonian
+aristonian1 = {
+	name = Pylas
+	dynasty = aristonian
+	religion = faith_anorath
+	culture = anorothic
+
+	8127.1.1 = { # 3A 3614
+		birth = yes
+	}
+	8197.1.1 = { # 3A 3684
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Astramon
+astramon1 = {
+	name = Asteron
+	dynasty = astramon
+	religion = faith_anorath
+	culture = anorothic
+
+	diplomacy = 3
+	martial = 9
+	intrigue = 5
+	stewardship = 8
+	learning = 8
+	prowess = 7
+
+	trait = arbitrary
+	trait = deceitful
+	trait = stubborn
+	trait = education_martial_3
+	trait = education_martial_prowess_2
+	disallow_random_traits = yes
+
+	8101.1.1 = { # 3A 3588
+		birth = yes
+	}
+	8169.1.1 = { # 3A 3656
+		death = { death_reason = death_natural_causes }
+	}
+}
+astramon2 = {
+	name = Tyriane
+	female = yes
+	dynasty = astramon
+	religion = faith_anorath
+	culture = anorothic
+
+	father = astramon1
+
+	8125.1.1 = { # 3A 3612
+		birth = yes
+	}
+	8195.1.1 = { # 3A 3682
+		death = { death_reason = death_natural_causes }
+	}
+}
+astramon3 = {
+	name = Vasylas
+	dynasty = astramon
+	religion = faith_anorath
+	culture = anorothic
+
+	father = astramon1
+
+	8134.1.1 = { # 3A 3621
+		birth = yes
+	}
+	8204.1.1 = { # 3A 3691
+		death = { death_reason = death_natural_causes }
+	}
+}
+astramon4 = {
+	name = Kastaros
+	dynasty = astramon
+	religion = faith_anorath
+	culture = anorothic
+
+	father = astramon3
+
+	8157.1.1 = { # 3A 3644
+		birth = yes
+	}
+	8223.1.1 = { # 3A 3710
+		death = { death_reason = death_natural_causes }
+	}
+}
+astramon5 = {
+	name = Valaros
+	dynasty = astramon
+	religion = faith_anorath
+	culture = anorothic
+
+	father = astramon3
+
+	8165.1.1 = { # 3A 3652
+		birth = yes
+	}
+	8239.1.1 = { # 4A 6
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Cerinas
+cerinas1 = {
+	name = Pheros
+	dynasty = cerinas
+	religion = faith_anorath
+	culture = anorothic
+
+	diplomacy = 8
+	martial = 5
+	intrigue = 9
+	stewardship = 6
+	learning = 8
+	prowess = 9
+
+	trait = chaste
+	trait = paranoid
+	trait = stubborn
+	trait = education_intrigue_4
+	disallow_random_traits = yes
+
+	8101.1.1 = { # 3A 3588
+		birth = yes
+	}
+	8180.1.1 = { # 3A 3667
+		death = { death_reason = death_natural_causes }
+	}
+}
+cerinas2 = {
+	name = Tauras
+	dynasty = cerinas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cerinas1
+
+	8133.1.1 = { # 3A 3620
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+cerinas3 = {
+	name = Neryse
+	female = yes
+	dynasty = cerinas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cerinas1
+
+	8142.1.1 = { # 3A 3629
+		birth = yes
+	}
+	8212.1.1 = { # 3A 3699
+		death = { death_reason = death_natural_causes }
+	}
+}
+cerinas4 = {
+	name = Heliane
+	female = yes
+	dynasty = cerinas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cerinas1
+
+	8146.1.1 = { # 3A 3633
+		birth = yes
+	}
+	8215.1.1 = { # 3A 3702
+		death = { death_reason = death_natural_causes }
+	}
+}
+cerinas5 = {
+	name = Seleia
+	female = yes
+	dynasty = cerinas
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cerinas2
+
+	8157.1.1 = { # 3A 3644
+		birth = yes
+	}
+	8227.1.1 = { # 3A 3714
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Chrysenas
+chrysenas1 = {
+	name = Tyran
+	dynasty = chrysenas
+	religion = faith_anorath
+	culture = anorothic
+
+	8131.1.1 = { # 3A 3618
+		birth = yes
+	}
+	8208.1.1 = { # 3A 3695
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Cykras
+cykras1 = {
+	name = Nemaron
+	dynasty = cykras
+	religion = faith_anorath
+	culture = anorothic
+
+	diplomacy = 5
+	martial = 11
+	intrigue = 7
+	stewardship = 5
+	learning = 8
+	prowess = 11
+
+	trait = brave
+	trait = content
+	trait = just
+	trait = education_martial_4
+	trait = education_martial_prowess_4
+	disallow_random_traits = yes
+
+	8101.1.1 = { # 3A 3588
+		birth = yes
+	}
+	8179.1.1 = { # 3A 3666
+		death = { death_reason = death_natural_causes }
+	}
+}
+cykras2 = {
+	name = Andron
+	dynasty = cykras
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cykras1
+
+	8123.1.1 = { # 3A 3610
+		birth = yes
+	}
+	8190.1.1 = { # 3A 3677
+		death = { death_reason = death_natural_causes }
+	}
+}
+cykras3 = {
+	name = Seryos
+	dynasty = cykras
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cykras2
+
+	8152.1.1 = { # 3A 3639
+		birth = yes
+	}
+	8215.1.1 = { # 3A 3702
+		death = { death_reason = death_natural_causes }
+	}
+}
+cykras4 = {
+	name = Oryaros
+	dynasty = cykras
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cykras2
+
+	8159.1.1 = { # 3A 3646
+		birth = yes
+	}
+	8223.1.1 = { # 3A 3710
+		death = { death_reason = death_natural_causes }
+	}
+}
+cykras5 = {
+	name = Rynatos
+	dynasty = cykras
+	religion = faith_anorath
+	culture = anorothic
+
+	father = cykras2
+
+	8165.1.1 = { # 3A 3652
+		birth = yes
+	}
+	8230.1.1 = { # 3A 3717
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Drúmanos
+drumanos1 = {
+	name = Tyran
+	dynasty = drumanos
+	religion = faith_anorath
+	culture = anorothic
+
+	8109.1.1 = { # 3A 3596
+		birth = yes
+	}
+	8174.1.1 = { # 3A 3661
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Garosin
+garosin1 = {
+	name = Pheros
+	dynasty = garosin
+	religion = faith_anorath
+	culture = anorothic
+
+	diplomacy = 4
+	martial = 5
+	intrigue = 6
+	stewardship = 6
+	learning = 5
+	prowess = 2
+
+	trait = ambitious
+	trait = gluttonous
+	trait = impatient
+	trait = education_diplomacy_1
+	trait = drunkard
+	disallow_random_traits = yes
+
+	8114.1.1 = { # 3A 3601
+		birth = yes
+	}
+	8182.1.1 = { # 3A 3669
+		death = { death_reason = death_natural_causes }
+	}
+}
+garosin2 = {
+	name = Eryadros
+	dynasty = garosin
+	religion = faith_anorath
+	culture = anorothic
+
+	father = garosin1
+
+	8145.1.1 = { # 3A 3632
+		birth = yes
+	}
+	8219.1.1 = { # 3A 3706
+		death = { death_reason = death_natural_causes }
+	}
+}
+garosin3 = {
+	name = Ouriane
+	female = yes
+	dynasty = garosin
+	religion = faith_anorath
+	culture = anorothic
+
+	father = garosin1
+
+	8151.1.1 = { # 3A 3638
+		birth = yes
+	}
+	8229.1.1 = { # 3A 3716
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Ilmenas
 ilmenas1 = {
 	name = Lykaron
 	dynasty = ilmenas
@@ -4707,7 +5112,7 @@ ilmenas11 = {
 		death = { death_reason = death_natural_causes }
 	}
 }
-## House Derinan (Cadet Branch of House Ilmenas - Lords of Neothason)
+## House Derinan (Cadet Branch of House Ilmenas)
 derinan1 = {
 	name = Alkyon
 	dynasty_house = derinan
@@ -4920,7 +5325,243 @@ derinan13 = {
 	}
 }
 
-## House Olyran (Dukes of Lameia)
+## House Isidoros
+isidoros1 = {
+	name = Kaleron
+	dynasty = isidoros
+	religion = faith_anorath
+	culture = anorothic
+
+	8124.1.1 = { # 3A 3611
+		birth = yes
+	}
+	8192.1.1 = { # 3A 3679
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Kadrás
+kadras1 = {
+	name = Arthanos
+	dynasty = kadras
+	religion = faith_anorath
+	culture = anorothic
+
+	8118.1.1 = { # 3A 3605
+		birth = yes
+	}
+	8174.1.1 = { # 3A 3661
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Korthavan
+korthavan1 = {
+	name = Gelaros
+	dynasty = korthavan
+	religion = faith_anorath
+	culture = anorothic
+
+	diplomacy = 6
+	martial = 3
+	intrigue = 7
+	stewardship = 9
+	learning = 5
+	prowess = 7
+
+	trait = fickle
+	trait = lazy
+	trait = lustful
+	trait = education_stewardship_3
+	disallow_random_traits = yes
+
+	8110.1.1 = { # 3A 3597
+		birth = yes
+	}
+	8179.1.1 = { # 3A 3666
+		death = { death_reason = death_natural_causes }
+	}
+}
+korthavan2 = {
+	name = Atranon
+	dynasty = korthavan
+	religion = faith_anorath
+	culture = anorothic
+
+	father = korthavan1
+
+	8153.1.1 = { # 3A 3640
+		birth = yes
+	}
+	8226.1.1 = { # 3A 3713
+		death = { death_reason = death_natural_causes }
+	}
+}
+korthavan3 = {
+	name = Euryenon
+	dynasty = korthavan
+	religion = faith_anorath
+	culture = anorothic
+
+	father = korthavan1
+
+	8155.1.1 = { # 3A 3642
+		birth = yes
+	}
+	8221.1.1 = { # 3A 3708
+		death = { death_reason = death_natural_causes }
+	}
+}
+korthavan4 = {
+	name = Aerynon
+	dynasty = korthavan
+	religion = faith_anorath
+	culture = anorothic
+
+	father = korthavan1
+
+	8164.1.1 = { # 3A 3651
+		birth = yes
+	}
+	8224.1.1 = { # 3A 3711
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Krynarias
+krynarias1 = {
+	name = Korydon
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	diplomacy = 8
+	martial = 7
+	intrigue = 6
+	stewardship = 3
+	learning = 8
+	prowess = 6
+
+	trait = chaste
+	trait = impatient
+	trait = stubborn
+	trait = education_diplomacy_3
+	disallow_random_traits = yes
+
+	8096.1.1 = { # 3A 3583
+		birth = yes
+	}
+	8171.1.1 = { # 3A 3658
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias2 = {
+	name = Cyran
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	father = krynarias1
+
+	8113.1.1 = { # 3A 3600
+		birth = yes
+	}
+	8186.1.1 = { # 3A 3673
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias3 = {
+	name = Lysiane
+	female = yes
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	father = krynarias1
+
+	8139.1.1 = { # 3A 3626
+		birth = yes
+	}
+	8206.1.1 = { # 3A 3693
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias4 = {
+	name = Oryaros
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	father = krynarias1
+
+	8145.1.1 = { # 3A 3632
+		birth = yes
+	}
+	8209.1.1 = { # 3A 3696
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias5 = {
+	name = Aphyrelos
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	mother = krynarias3
+
+	8158.1.1 = { # 3A 3645
+		birth = yes
+	}
+	8210.1.1 = { # 3A 3697
+		death = { death_reason = death_natural_causes }
+	}
+}
+krynarias6 = {
+	name = Kalaron
+	dynasty = krynarias
+	religion = faith_anorath
+	culture = anorothic
+
+	mother = krynarias3
+
+	8163.1.1 = { # 3A 3650
+		birth = yes
+	}
+	8238.1.1 = { # 4A 5
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Krysanon
+krysanon1 = {
+	name = Alkanos
+	dynasty = krysanon
+	religion = faith_anorath
+	culture = anorothic
+
+	diplomacy = 3
+	martial = 5
+	intrigue = 9
+	stewardship = 4
+	learning = 6
+	prowess = 9
+
+	trait = brave
+	trait = just
+	trait = patient
+	trait = education_intrigue_3
+	trait = one_eyed
+	disallow_random_traits = yes
+
+	8128.1.1 = { # 3A 3615
+		birth = yes
+	}
+	8202.1.1 = { # 3A 3689
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Olyran
 olyran1 = {
 	name = Kaston
 	dynasty = olyran
@@ -5046,545 +5687,125 @@ olyran7 = {
 	}
 }
 
-## House Cerinas (Counts of Ermirios)
-cerinas1 = {
-	name = Pheros
-	dynasty = cerinas
+## House Orphanian
+orphanian1 = {
+	name = Valos
+	dynasty = orphanian
 	religion = faith_anorath
 	culture = anorothic
 
-	diplomacy = 8
-	martial = 5
-	intrigue = 9
-	stewardship = 6
-	learning = 8
-	prowess = 9
-
-	trait = chaste
-	trait = paranoid
-	trait = stubborn
-	trait = education_intrigue_4
-	disallow_random_traits = yes
-
-	8101.1.1 = { # 3A 3588
+	8129.1.1 = { # 3A 3616
 		birth = yes
 	}
-	8180.1.1 = { # 3A 3667
-		death = { death_reason = death_natural_causes }
+	8168.1.1 = { # 3A 3655
+		death = { death_reason = death_murder }
 	}
 }
-cerinas2 = {
-	name = Tauras
-	dynasty = cerinas
+
+## House Ovrásethes
+ovrasethes1 = {
+	name = Kyros
+	dynasty = ovrasethes
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cerinas1
-
-	8133.1.1 = { # 3A 3620
+	8127.1.1 = { # 3A 3614
 		birth = yes
 	}
-	8201.1.1 = { # 3A 3688
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas3 = {
-	name = Neryse
-	female = yes
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas1
-
-	8142.1.1 = { # 3A 3629
-		birth = yes
-	}
-	8212.1.1 = { # 3A 3699
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas4 = {
-	name = Heliane
-	female = yes
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas1
-
-	8146.1.1 = { # 3A 3633
-		birth = yes
-	}
-	8215.1.1 = { # 3A 3702
-		death = { death_reason = death_natural_causes }
-	}
-}
-cerinas5 = {
-	name = Seleia
-	female = yes
-	dynasty = cerinas
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cerinas2
-
-	8157.1.1 = { # 3A 3644
-		birth = yes
-	}
-	8227.1.1 = { # 3A 3714
+	8174.1.1 = { # 3A 3661
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-## House Cykras (Dukes of Valas)
-cykras1 = {
-	name = Nemaron
-	dynasty = cykras
+## House Philyros
+philyros1 = {
+	name = Athyron
+	dynasty = philyros
 	religion = faith_anorath
 	culture = anorothic
 
-	diplomacy = 5
-	martial = 11
-	intrigue = 7
-	stewardship = 5
-	learning = 8
-	prowess = 11
-
-	trait = brave
-	trait = content
-	trait = just
-	trait = education_martial_4
-	trait = education_martial_prowess_4
-	disallow_random_traits = yes
-
-	8101.1.1 = { # 3A 3588
+	8068.1.1 = { # 3A 3555
 		birth = yes
 	}
-	8179.1.1 = { # 3A 3666
+	8144.1.1 = { # 3A 3631
 		death = { death_reason = death_natural_causes }
 	}
 }
-cykras2 = {
-	name = Andron
-	dynasty = cykras
+philyros2 = {
+	name = Kastianos
+	dynasty = philyros
 	religion = faith_anorath
 	culture = anorothic
 
-	father = cykras1
+	father = philyros1
 
-	8123.1.1 = { # 3A 3610
+	8089.1.1 = { # 3A 3576
 		birth = yes
 	}
-	8190.1.1 = { # 3A 3677
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras3 = {
-	name = Seryos
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras2
-
-	8152.1.1 = { # 3A 3639
-		birth = yes
-	}
-	8215.1.1 = { # 3A 3702
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras4 = {
-	name = Oryaros
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras2
-
-	8159.1.1 = { # 3A 3646
-		birth = yes
-	}
-	8223.1.1 = { # 3A 3710
-		death = { death_reason = death_natural_causes }
-	}
-}
-cykras5 = {
-	name = Rynatos
-	dynasty = cykras
-	religion = faith_anorath
-	culture = anorothic
-
-	father = cykras2
-
-	8165.1.1 = { # 3A 3652
-		birth = yes
-	}
-	8230.1.1 = { # 3A 3717
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-## House Krynarias (Counts of Acrokephys)
-krynarias1 = {
-	name = Korydon
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 8
-	martial = 7
-	intrigue = 6
-	stewardship = 3
-	learning = 8
-	prowess = 6
-
-	trait = chaste
-	trait = impatient
-	trait = stubborn
-	trait = education_diplomacy_3
-	disallow_random_traits = yes
-
-	8096.1.1 = { # 3A 3583
-		birth = yes
-	}
-	8171.1.1 = { # 3A 3658
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias2 = {
-	name = Cyran
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias1
-
-	8113.1.1 = { # 3A 3600
-		birth = yes
-	}
-	8186.1.1 = { # 3A 3673
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias3 = {
-	name = Lysiane
-	female = yes
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias1
-
-	8139.1.1 = { # 3A 3626
-		birth = yes
-	}
-	8206.1.1 = { # 3A 3693
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias4 = {
-	name = Oryaros
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	father = krynarias1
-
-	8145.1.1 = { # 3A 3632
-		birth = yes
-	}
-	8209.1.1 = { # 3A 3696
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias5 = {
-	name = Aphyrelos
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	mother = krynarias3
-
-	8158.1.1 = { # 3A 3645
-		birth = yes
-	}
-	8210.1.1 = { # 3A 3697
-		death = { death_reason = death_natural_causes }
-	}
-}
-krynarias6 = {
-	name = Kalaron
-	dynasty = krynarias
-	religion = faith_anorath
-	culture = anorothic
-
-	mother = krynarias3
-
 	8163.1.1 = { # 3A 3650
-		birth = yes
-	}
-	8238.1.1 = { # 4A 5
 		death = { death_reason = death_natural_causes }
 	}
 }
-
-## House Garosin (Counts of Olyrea)
-garosin1 = {
-	name = Pheros
-	dynasty = garosin
+philyros3 = {
+	name = Ophyron
+	dynasty = philyros
 	religion = faith_anorath
 	culture = anorothic
 
-	diplomacy = 4
-	martial = 5
-	intrigue = 6
-	stewardship = 6
-	learning = 5
-	prowess = 2
+	father = philyros1
 
-	trait = ambitious
-	trait = gluttonous
-	trait = impatient
-	trait = education_diplomacy_1
-	trait = drunkard
-	disallow_random_traits = yes
-
-	8114.1.1 = { # 3A 3601
+	8095.1.1 = { # 3A 3582
 		birth = yes
 	}
 	8182.1.1 = { # 3A 3669
 		death = { death_reason = death_natural_causes }
 	}
 }
-garosin2 = {
-	name = Eryadros
-	dynasty = garosin
+philyros4 = {
+	name = Mepharos
+	dynasty = philyros
 	religion = faith_anorath
 	culture = anorothic
 
-	father = garosin1
+	father = philyros2
 
-	8145.1.1 = { # 3A 3632
+	8118.1.1 = { # 3A 3605
 		birth = yes
 	}
-	8219.1.1 = { # 3A 3706
-		death = { death_reason = death_natural_causes }
-	}
-}
-garosin3 = {
-	name = Ouriane
-	female = yes
-	dynasty = garosin
-	religion = faith_anorath
-	culture = anorothic
-
-	father = garosin1
-
-	8151.1.1 = { # 3A 3638
-		birth = yes
-	}
-	8229.1.1 = { # 3A 3716
+	8188.1.1 = { # 3A 3675
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-## House Korthavan (Counts of Elássos)
-korthavan1 = {
-	name = Gelaros
-	dynasty = korthavan
+## House Sotirakis
+sotirakis1 = {
+	name = Ekaryon
+	dynasty = sotirakis
 	religion = faith_anorath
 	culture = anorothic
 
-	diplomacy = 6
-	martial = 3
-	intrigue = 7
-	stewardship = 9
-	learning = 5
-	prowess = 7
-
-	trait = fickle
-	trait = lazy
-	trait = lustful
-	trait = education_stewardship_3
-	disallow_random_traits = yes
-
-	8110.1.1 = { # 3A 3597
+	8127.1.1 = { # 3A 3614
 		birth = yes
 	}
-	8179.1.1 = { # 3A 3666
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan2 = {
-	name = Atranon
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan1
-
-	8153.1.1 = { # 3A 3640
-		birth = yes
-	}
-	8226.1.1 = { # 3A 3713
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan3 = {
-	name = Euryenon
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan1
-
-	8155.1.1 = { # 3A 3642
-		birth = yes
-	}
-	8221.1.1 = { # 3A 3708
-		death = { death_reason = death_natural_causes }
-	}
-}
-korthavan4 = {
-	name = Aerynon
-	dynasty = korthavan
-	religion = faith_anorath
-	culture = anorothic
-
-	father = korthavan1
-
-	8164.1.1 = { # 3A 3651
-		birth = yes
-	}
-	8224.1.1 = { # 3A 3711
+	8197.1.1 = { # 3A 3684
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-## House Krysanon (Dukes of Tavasár)
-krysanon1 = {
-	name = Alkanos
-	dynasty = krysanon
+## House Sotomenas
+sotomenas1 = {
+	name = Aesaros
+	dynasty = sotomenas
 	religion = faith_anorath
 	culture = anorothic
 
-	diplomacy = 3
-	martial = 5
-	intrigue = 9
-	stewardship = 4
-	learning = 6
-	prowess = 9
-
-	trait = brave
-	trait = just
-	trait = patient
-	trait = education_intrigue_3
-	trait = one_eyed
-	disallow_random_traits = yes
-
-	8128.1.1 = { # 3A 3615
-		birth = yes
-	}
-	8202.1.1 = { # 3A 3689
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-## House Astramon (Counts of Elarissos)
-astramon1 = {
-	name = Asteron
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	diplomacy = 3
-	martial = 9
-	intrigue = 5
-	stewardship = 8
-	learning = 8
-	prowess = 7
-
-	trait = arbitrary
-	trait = deceitful
-	trait = stubborn
-	trait = education_martial_3
-	trait = education_martial_prowess_2
-	disallow_random_traits = yes
-
-	8101.1.1 = { # 3A 3588
-		birth = yes
-	}
-	8169.1.1 = { # 3A 3656
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon2 = {
-	name = Tyriane
-	female = yes
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon1
-
-	8125.1.1 = { # 3A 3612
-		birth = yes
-	}
-	8195.1.1 = { # 3A 3682
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon3 = {
-	name = Vasylas
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon1
-
-	8134.1.1 = { # 3A 3621
-		birth = yes
-	}
-	8204.1.1 = { # 3A 3691
-		death = { death_reason = death_natural_causes }
-	}
-}
-astramon4 = {
-	name = Kastaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon3
-
-	8157.1.1 = { # 3A 3644
+	8146.1.1 = { # 3A 3633
 		birth = yes
 	}
 	8223.1.1 = { # 3A 3710
 		death = { death_reason = death_natural_causes }
 	}
 }
-astramon5 = {
-	name = Valaros
-	dynasty = astramon
-	religion = faith_anorath
-	culture = anorothic
-
-	father = astramon3
-
-	8165.1.1 = { # 3A 3652
-		birth = yes
-	}
-	8239.1.1 = { # 4A 6
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-##
-
-
 
 
 

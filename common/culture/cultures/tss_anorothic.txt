@@ -23,23 +23,15 @@
 		10 = mediterranean_byzantine
 	}
 }
-
 anorosyn = {
 	color = { 127 0 0 }
 	created = 7955.1.1
-
-	history_loc_override = anorosyn_history_loc
-	
 	parents = { anorothic behatyn }
-	created = 7993.1.1
 
 	ethos = ethos_bellicose
 	heritage = heritage_anorothic
 	language = language_behatyn
 	martial_custom = martial_custom_male_only
-
-	parents = { anorothic behatyn }
-	
 
 	traditions = {
 		tradition_spartan
@@ -60,9 +52,10 @@ anorosyn = {
 		10 = mediterranean_byzantine
 	}
 }
-
 brenilor = {
 	color = { 189 51 56 }
+	created = 5363.1.1
+	parents = { anorothic helesz }
 	
 	ethos = ethos_courtly
 	heritage = heritage_anorothic
@@ -86,9 +79,10 @@ brenilor = {
 		10 = mediterranean_byzantine
 	}
 }
-
 ourimetanath = {
 	color = { 163 29 10 }
+	created = 5913.1.1
+	parents = { anorothic }
 	
 	ethos = ethos_courtly
 	heritage = heritage_anorothic

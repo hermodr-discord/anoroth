@@ -19,6 +19,19 @@ atyrin = { # Sixth Imperial Dynasty of Anóroth | Reigned 3A 3291 - 3A 3719
 	name = "dynn_Atyrin"
 	culture = "anorothic"
 }
+argoneia = {
+	prefix = "dynnp_tou"
+	name = "dynn_Argoneia"
+	culture = "anorothic"
+}
+aristenas = {
+	name = "dynn_Aristenas"
+	culture = "anorothic"
+}
+aristonian = {
+	name = "dynn_Aristonian"
+	culture = "anorothic"
+}
 astramon = {
 	name = "dynn_Astramon"
 	culture = "anorothic"
@@ -27,16 +40,32 @@ cerinas = {
 	name = "dynn_Cerinas"
 	culture = "anorothic"
 }
+chrysenas = {
+	name = "dynn_Chrysenas"
+	culture = "anorothic"
+}
 cykras = {
 	name = "dynn_Cykras"
+	culture = "anorothic"
+}
+drumanos = {
+	name = "dynn_Drumanos"
 	culture = "anorothic"
 }
 garosin = {
 	name = "dynn_Garosin"
 	culture = "anorothic"
 }
-ilmenas = { # Dukes of Syphoreia since
+ilmenas = {
 	name = "dynn_Ilmenas"
+	culture = "anorothic"
+}
+isidoros = {
+	name = "dynn_Isidoros"
+	culture = "anorothic"
+}
+kadras = {
+	name = "dynn_Kadras"
 	culture = "anorothic"
 }
 korthavan = {
@@ -51,36 +80,141 @@ krysanon = {
 	name = "dynn_Krysanon"
 	culture = "anorothic"
 }
-olyran = { # Dukes of Lameia since 3A 3225
+olyran = {
 	name = "dynn_Olyran"
 	culture = "anorothic"
 }
+orphanian = {
+	name = "dynn_Orphanian"
+	culture = "anorothic"
+}
+ovrasethes = {
+	name = "dynn_Ovrasethes"
+	culture = "anorothic"
+}
+philyros = {
+	name = "dynn_Philyros"
+	culture = "anorothic"
+}
+sotirakis = {
+	name = "dynn_Sotirakis"
+	culture = "anorothic"
+}
+sotomenas = {
+	name = "dynn_Sotomenas"
+	culture = "anorothic"
+}
 
-# Bréniloric Dynasties
+## Bréniloric Dynasties
+andronin = {
+	name = "dynn_Andronin"
+	culture = "breniloric"
+}
+ephron = {
+	name = "dynn_Ephron"
+	culture = "breniloric"
+}
+eutyros = {
+	name = "dynn_Eutyros"
+	culture = "breniloric"
+}
 kopos = {
 	name = "dynn_Kopos"
-	culture = "brenlioric"
+	culture = "breniloric"
 }
 ophyreas = {
 	prefix = "dynnp_tou"
 	name = "dynn_Ophyreas"
-	culture = "brenlioric"
+	culture = "breniloric"
 }
 
-# Funérathic Dynasties
+## Funérathic Dynasties
 argenor = {
 	name = "dynn_Argenor"
+	culture = "funerathic"
+}
+asphareus = {
+	name = "dynn_Asphareus"
+	culture = "funerathic"
+}
+kydranon = {
+	name = "dynn_Kydranon"
 	culture = "funerathic"
 }
 orophastes = {
 	name = "dynn_Orophastes"
 	culture = "funerathic"
 }
+thermeneas = {
+	name = "dynn_Thermeneas"
+	culture = "funerathic"
+}
+
+## Ourimetánath Dynasties
+karphelas = {
+	name = "dynn_Karphelas"
+	culture = "ourimetanath"
+}
+melandrias = {
+	name = "dynn_Melandrias"
+	culture = "ourimetanath"
+}
+meletrin = {
+	name = "dynn_Meletrin"
+	culture = "ourimetanath"
+}
+orphestas = {
+	name = "dynn_Orphestas"
+	culture = "ourimetanath"
+}
+rhysales = {
+	name = "dynn_Rhysales"
+	culture = "ourimetanath"
+}
+symbares = {
+	name = "dynn_Symbares"
+	culture = "ourimetanath"
+}
+thrakenides = {
+	name = "dynn_Thrakenides"
+	culture = "ourimetanath"
+}
 
 # Hélyv Dynasties
 borsan = { # Clan Borsán, Clan of Kegyúr the Veilbreaker
 	name = "dynn_Borsan"
 	culture = "helyv"
+}
+
+# Larrunic Dynasties
+## Kintir Dynasties
+aiartxandi = {
+	name = "dynn_Aiartxandi"
+	culture = "kintir"
+}
+bidarte = {
+	name = "dynn_Bidarte"
+	culture = "kintir"
+}
+gaztelu = {
+	name = "dynn_Gaztelu"
+	culture = "kintir"
+}
+iturmendi = {
+	name = "dynn_Iturmendi"
+	culture = "kintir"
+}
+iturrieta = {
+	name = "dynn_Iturrieta"
+	culture = "kintir"
+}
+kortxabe = {
+	name = "dynn_Kortxabe"
+	culture = "kintir"
+}
+larratxeta = {
+	name = "dynn_Larratxeta"
+	culture = "kintir"
 }
 
 # Luveran Dynasties
@@ -136,3 +270,77 @@ shaddan = { # Clan Shaddan - Minor clan on Tiaran.
 #	name = "dynn_Hadat"
 #	culture = "luveran"
 #}
+
+# Oreg Dynasties
+## Oreg-Garna Dynasties
+aiognul = {
+	name = "dynn_Aiognul"
+	culture = "oreg_garna"
+}
+domgul = {
+	name = "dynn_Domgul"
+	culture = "oreg_garna"
+}
+doskag = {
+	name = "dynn_Doskag"
+	culture = "oreg_garna"
+}
+fernul = {
+	name = "dynn_Fernul"
+	culture = "oreg_garna"
+}
+fessagol = {
+	name = "dynn_Fessagol"
+	culture = "oreg_garna"
+}
+fessaral = {
+	name = "dynn_Fessaral"
+	culture = "oreg_garna"
+}
+hulgesh = {
+	name = "dynn_Hulgesh"
+	culture = "oreg_garna"
+}
+ogmar = {
+	name = "dynn_Ogmar"
+	culture = "oreg_garna"
+}
+ognul = {
+	name = "dynn_Ognul"
+	culture = "oreg_garna"
+}
+yenog = {
+	name = "dynn_Yenog"
+	culture = "oreg_garna"
+}
+yorn = {
+	name = "dynn_Yorn"
+	culture = "oreg_garna"
+}
+yugmal = {
+	name = "dynn_Yugmal"
+	culture = "oreg_garna"
+}
+
+# Tharun Dynasties
+## Brynor Dynasties
+hrisgnarr = {
+	name = "dynn_Hrisgnarr"
+	culture = "brynor"
+}
+hrost = {
+	name = "dynn_Hrost"
+	culture = "brynor"
+}
+svafnangeirr = {
+	name = "dynn_Svafnangeirr"
+	culture = "brynor"
+}
+vodr = {
+	name = "dynn_Vodr"
+	culture = "brynor"
+}
+vollungr = {
+	name = "dynn_Vollungr"
+	culture = "brynor"
+}

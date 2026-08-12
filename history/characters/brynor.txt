@@ -1,0 +1,74 @@
+﻿## House Hrísgnárr
+hrisgnarr1 = { 
+	name = Anvargr
+	dynasty = hrisgnarr
+	religion = faith_anorath
+	culture = brynor
+
+	8142.1.1 = { # 3A 3629
+		birth = yes
+	}
+	8231.1.1 = { # 3A 3718
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Hröst
+hrost1 = { 
+	name = VA_ngrI_mr
+	dynasty = hrost
+	religion = faith_ronarvir
+	culture = brynor
+
+	8105.1.1 = { # 3A 3592
+		birth = yes
+	}
+	8179.1.1 = { # 3A 3666
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Sváfnangeirr
+svafnangeirr1 = { 
+	name = Vesmarr
+	dynasty = svafnangeirr
+	religion = faith_ronarvir
+	culture = brynor
+
+	8127.1.1 = { # 3A 3614
+		birth = yes
+	}
+	8200.1.1 = { # 3A 3687
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Vöðr
+vodr1 = { 
+	name = I_sgnA_rr
+	dynasty = vodr
+	religion = faith_ronarvir
+	culture = brynor
+
+	8147.1.1 = { # 3A 3634
+		birth = yes
+	}
+	8236.1.1 = { # 4A 4
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Völlungr
+vollungr1 = { 
+	name = EingrI_mr
+	dynasty = vollungr
+	religion = faith_anorath
+	culture = brynor
+
+	8120.1.1 = { # 3A 3607
+		birth = yes
+	}
+	8200.1.1 = { # 3A 3687
+		death = { death_reason = death_natural_causes }
+	}
+}

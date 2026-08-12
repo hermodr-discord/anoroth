@@ -1,0 +1,202 @@
+﻿### Duchy of Karrezun
+d_karrezun = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Mepharos I Philyros | 3A 3653 - 3A 3675
+		holder = philyros4
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ourios = {
+	4514.1.1 = { change_development_level = 24 }
+
+	8166.1.1 = { # Duke Mepharos I Philyros | 3A 3653 - 3A 3675
+		holder = philyros4
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_urrazun = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Mepharos I Philyros | 3A 3653 - 3A 3675
+		holder = philyros4
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_harain = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Etxerain Iurrieta | 3A 3653 - 3A 3696
+		holder = iturrieta1
+		liege = d_karrezun
+		government = feudal_government
+	}
+}
+c_kalune = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Etxerain Iurrieta | 3A 3653 - 3A 3696
+		holder = iturrieta1
+		liege = d_karrezun
+		government = feudal_government
+	}
+}
+c_garreta = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Izar Gaztelu | 3A 3653 - 3A 3685
+		holder = gaztelu1
+		liege = d_taregora
+		government = feudal_government
+	}
+}
+c_orren = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Count Arrangor Bidarte | 3A 3653 - 3A 3674
+		holder = bidarte1
+		liege = d_taregora
+		government = feudal_government
+	}
+}
+### Duchy of Taregora
+d_taregora = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Tarain I Iturmendi | 3A 3653 - 3A 3680
+		holder = iturmendi1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ariben = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Duke Tarain I Iturmendi | 3A 3653 - 3A 3680
+		holder = iturmendi1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_kataga = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Izar Gaztelu | 3A 3653 - 3A 3685
+		holder = gaztelu1
+		liege = d_taregora
+		government = feudal_government
+	}
+}
+c_torran = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Tarain I Iturmendi | 3A 3653 - 3A 3680
+		holder = iturmendi1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_endagor = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Arrangor Bidarte | 3A 3653 - 3A 3674
+		holder = bidarte1
+		liege = d_taregora
+		government = feudal_government
+	}
+}
+### Duchy of Larrezain
+d_larrezain = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Garrain I Aiartxandi | 3A 3653 - 3A 3711
+		holder = aiartxandi1
+		government = feudal_government
+	}
+}
+c_larrain = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Duke Garrain I Aiartxandi | 3A 3653 - 3A 3711
+		holder = aiartxandi1
+		government = feudal_government
+	}
+}
+c_almeth = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Duke Kaesaros I Thrakenides | 3A 3653 - 3A 3717
+		holder = thrakenides1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ilabar = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Duke Garrain I Aiartxandi | 3A 3653 - 3A 3711
+		holder = aiartxandi1
+		government = feudal_government
+	}
+}
+c_malain = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Indar Kortxabe | 3A 3653 - 3A 3660
+		holder = kortxabe1
+		liege = d_larrezain
+		government = feudal_government
+	}
+}
+### Duchy of Zerrun
+d_zerrun = {
+	4514.1.1 = { change_development_level = 14 }
+}
+c_karran = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Sinaitz Larratxeta | 3A 3653 - 3A 3698
+		holder = larratxeta1
+		liege = d_larrezain
+		government = feudal_government
+	}
+}
+c_idantza = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Tarain I Iturmendi | 3A 3653 - 3A 3680
+		holder = iturmendi1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ornoss = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Atrakos Melandrias | 3A 3653 - 3A 3681
+		holder = melandrias1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+c_ornamion = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Atrakos Melandrias | 3A 3653 - 3A 3681
+		holder = melandrias1
+		liege = d_orthacos
+		government = feudal_government
+	}
+}
+c_morzeta = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Sinaitz Larratxeta | 3A 3653 - 3A 3698
+		holder = larratxeta1
+		liege = d_larrezain
+		government = feudal_government
+	}
+}

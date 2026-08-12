@@ -1,4 +1,4 @@
-k_luveran = {
+﻿k_luveran = {
 
 	8064.5.22 = {
 		holder = lysan1
@@ -54,8 +54,6 @@ c_lysan = {
 		holder = lysan1
 	}
 	8096.3.12 = {
-		special_building_slot = lysan_obelisk_01
-		special_building = lysan_obelisk_01
 		holder = lysan2
 	}
 	8108.1.1 = {
@@ -69,13 +67,6 @@ c_lysan = {
 	}
 	8174.1.1 = {
 		holder = lovan4
-	}
-}
-
-b_lysan = {
-	8096.3.12 = {
-		special_building_slot = lysan_obelisk_01
-		special_building = lysan_obelisk_01
 	}
 }
 

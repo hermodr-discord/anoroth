@@ -1,0 +1,180 @@
+﻿## House Aiognul
+aiognul1 = {
+	name = Sorn_Esha
+	dynasty = aiognul
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8123.1.1 = { # 3A 3610
+		birth = yes
+	}
+	8196.1.1 = { # 3A 3683
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Domgul
+domgul1 = {
+	name = Gorn_Surna
+	dynasty = domgul
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8113.1.1 = { # 3A 3600
+		birth = yes
+	}
+	8184.1.1 = { # 3A 3671
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Doskag
+doskag1 = {
+	name = Olgun
+	dynasty = doskag
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8137.1.1 = { # 3A 3624
+		birth = yes
+	}
+	8205.1.1 = { # 3A 3692
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Fernul
+fernul1 = {
+	name = Nurag
+	dynasty = fernul
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8114.1.1 = { # 3A 3601
+		birth = yes
+	}
+	8206.1.1 = { # 3A 3693
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Fessagol
+fessagol1 = {
+	name = Ilgaresh
+	dynasty = fessagol
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8115.1.1 = { # 3A 3602
+		birth = yes
+	}
+	8186.1.1 = { # 3A 3673
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Fessaral
+fessaral1 = {
+	name = Bolg
+	dynasty = fessaral
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8104.1.1 = { # 3A 3591
+		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Hulgesh
+hulgesh1 = {
+	name = Surul
+	dynasty = hulgesh
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8135.1.1 = { # 3A 3622
+		birth = yes
+	}
+	8221.1.1 = { # 3A 3708
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Ogmar
+ogmar1 = {
+	name = Curnagun
+	dynasty = ogmar
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8138.1.1 = { # 3A 3625
+		birth = yes
+	}
+	8207.1.1 = { # 3A 3694
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Ognul
+ognul1 = {
+	name = Dolg_Urgesh
+	dynasty = ognul
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8082.1.1 = { # 3A 3569
+		birth = yes
+	}
+	8171.1.1 = { # 3A 3658
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Yenog
+yenog1 = {
+	name = Ulg
+	dynasty = yenog
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8098.1.1 = { # 3A 3585
+		birth = yes
+	}
+	8171.1.1 = { # 3A 3658
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Yorn
+yorn1 = {
+	name = Bleg
+	dynasty = yorn
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8144.1.1 = { # 3A 3631
+		birth = yes
+	}
+	8233.1.1 = { # 4A 1
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Yugmal
+yugmal1 = {
+	name = Agorn
+	female = yes
+	dynasty = yugmal
+	religion = faith_oreg_garna
+	culture = oreg_garna
+
+	8122.1.1 = { # 3A 3609
+		birth = yes
+	}
+	8193.1.1 = { # 3A 3680
+		death = { death_reason = death_natural_causes }
+	}
+}

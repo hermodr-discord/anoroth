@@ -20,8 +20,13 @@
 980 = {	#
 	holding = none
 }
-981 = {	#
+981 = {	# Lysan
 	holding = city_holding
+
+	8096.3.12 = {
+		special_building_slot = lysan_obelisk_01
+		special_building = lysan_obelisk_01
+	}
 }
 982 = {	#
 	holding = none
@@ -68,7 +73,7 @@
 994 = {	#
 	holding = none
 }
-995 = {	#
+995 = {	# 
 	culture = luveran
 	religion = faith_isanara
 	holding = castle_holding

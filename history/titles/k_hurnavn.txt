@@ -1,0 +1,119 @@
+﻿### Duchy of Marvikir
+d_marvikir = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8165.1.1 = { # Duke Eingrímr I Völlungr | 3A 3652 - 3A 3687
+		holder = vollungr1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_runvatn = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8165.1.1 = { # Duke Eingrímr I Völlungr | 3A 3652 - 3A 3687
+		holder = vollungr1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_nandrvik = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8165.1.1 = { # Duke Eingrímr I Völlungr | 3A 3652 - 3A 3687
+		holder = vollungr1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_forynthos = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Larichos Asphareus | 3A 3653 - 3A 3706
+		holder = asphareus1
+		liege = d_marvikir
+		government = feudal_government
+	}
+}
+c_delphyra = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Larichos Asphareus | 3A 3653 - 3A 3706
+		holder = asphareus1
+		liege = d_marvikir
+		government = feudal_government
+	}
+}
+c_roskettir = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Count Anvargr Hrísgnárr | 3A 3653 - 3A 3718
+		holder = hrisgnarr1
+		liege = d_marvikir
+		government = feudal_government
+	}
+}
+### Duchy of Nyrrkann
+d_nyrrkann = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Duke Vesmarr I Sváfnangeirr | 3A 3653 - 3A 3687
+		holder = svafnangeirr1
+		liege = e_anoroth
+		government = tribal_government
+	}
+}
+c_nyrrungar = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Vesmarr I Sváfnangeirr | 3A 3653 - 3A 3687
+		holder = svafnangeirr1
+		liege = e_anoroth
+		government = tribal_government
+	}
+}
+c_baskrinn = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Vesmarr I Sváfnangeirr | 3A 3653 - 3A 3687
+		holder = svafnangeirr1
+		liege = e_anoroth
+		government = tribal_government
+	}
+}
+c_arnskett = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Duke Vesmarr I Sváfnangeirr | 3A 3653 - 3A 3687
+		holder = svafnangeirr1
+		liege = e_anoroth
+		government = tribal_government
+	}
+}
+c_ilvanger = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Vángrímr Hröst | 3A 3653 - 3A 3666
+		holder = hrost1
+		liege = d_nyrrkann
+		government = tribal_government
+	}
+}
+c_kyrngard = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Duke Vesmarr I Sváfnangeirr | 3A 3653 - 3A 3687
+		holder = svafnangeirr1
+		liege = e_anoroth
+		government = tribal_government
+	}
+}
+c_alduinn = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Count Ísgnárr Vöðr | 3A 3653 - 4A 4
+		holder = vodr1
+		liege = d_nyrrkann
+		government = tribal_government
+	}
+}

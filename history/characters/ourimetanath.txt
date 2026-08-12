@@ -1,0 +1,104 @@
+﻿## House Karphelas
+karphelas1 = {
+	name = Ikaron
+	dynasty = karphelas
+	religion = faith_anorath
+	culture = ourimetanath
+
+	8095.1.1 = { # 3A 3582
+		birth = yes
+	}
+	8173.1.1 = { # 3A 3660
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Melandrias
+melandrias1 = {
+	name = Atrakos
+	dynasty = melandrias
+	religion = faith_anorath
+	culture = ourimetanath
+
+	8124.1.1 = { # 3A 3611
+		birth = yes
+	}
+	8194.1.1 = { # 3A 3681
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Meletrin
+meletrin1 = {
+	name = Ordanos
+	dynasty = meletrin
+	religion = faith_anorath
+	culture = ourimetanath
+
+	8126.1.1 = { # 3A 3613
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Orphestas
+orphestas1 = {
+	name = Tauran
+	dynasty = orphestas
+	religion = faith_anorath
+	culture = ourimetanath
+
+	8128.1.1 = { # 3A 3615
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Rhysales
+rhysales1 = {
+	name = Myras
+	dynasty = rhysales
+	religion = faith_anorath
+	culture = ourimetanath
+
+	8107.1.1 = { # 3A 3594
+		birth = yes
+	}
+	8180.1.1 = { # 3A 3667
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Symbares
+symbares1 = {
+	name = Iarelos
+	dynasty = symbares
+	religion = faith_anorath
+	culture = ourimetanath
+
+	8105.1.1 = { # 3A 3592
+		birth = yes
+	}
+	8179.1.1 = { # 3A 3666
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Thrakenides
+thrakenides1 = {
+	name = Kaesaros
+	dynasty = thrakenides
+	religion = faith_anorath
+	culture = ourimetanath
+
+	8146.1.1 = { # 3A 3633
+		birth = yes
+	}
+	8230.1.1 = { # 3A 3717
+		death = { death_reason = death_natural_causes }
+	}
+}

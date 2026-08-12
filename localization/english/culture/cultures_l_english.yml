@@ -13,13 +13,13 @@
  anorosyn_prefix:0 "Anorosyn"
  anorosyn_collective_noun:1 "Anorosyn"
 
- brenilor:0 "Bréniloric"
- brenilor_prefix:0 "Bréniloric"
- brenilor_collective_noun:1 "Brénilorics"
+ brenilor:0 "Brénilor"
+ brenilor_prefix:0 "Brénilor"
+ brenilor_collective_noun:1 "Brénilors"
 
- ourimetanath:0 "Ourimetanath"
- ourimetanath_prefix:0 "Ourimetan"
- ourimetanath_collective_noun:1 "Ourimetans"
+ ourimetanath:0 "Ourimetánath"
+ ourimetanath_prefix:0 "Ourimetán"
+ ourimetanath_collective_noun:1 "Ourimetáns"
 
  #Behatyn group
  behatyn_group:0 "Behatyn"

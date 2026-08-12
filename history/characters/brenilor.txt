@@ -1,0 +1,74 @@
+﻿## House Andronin
+andronin1 = {
+	name = Andron
+	dynasty = andronin
+	religion = faith_anorath
+	culture = brenilor
+
+	8130.1.1 = { # 3A 3617
+		birth = yes
+	}
+	8206.1.1 = { # 3A 3693
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Ephron
+ephron1 = {
+	name = Atreos
+	dynasty = ephron
+	religion = faith_anorath
+	culture = brenilor
+
+	8111.1.1 = { # 3A 3598
+		birth = yes
+	}
+	8190.1.1 = { # 3A 3677
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Eutyros
+eutyros1 = {
+	name = Nephyron
+	dynasty = eutyros
+	religion = faith_anorath
+	culture = brenilor
+
+	8095.1.1 = { # 3A 3582
+		birth = yes
+	}
+	8171.1.1 = { # 3A 3658
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Kopos
+kopos1 = {
+	name = Eosanon
+	dynasty = kopos
+	religion = faith_anorath
+	culture = brenilor
+
+	8132.1.1 = { # 3A 3619
+		birth = yes
+	}
+	8204.1.1 = { # 3A 3691
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House tou Ophyreas
+ophyreas1 = {
+	name = Depharos
+	dynasty = ophyreas
+	religion = faith_anorath
+	culture = brenilor
+
+	8144.1.1 = { # 3A 3631
+		birth = yes
+	}
+	8214.1.1 = { # 3A 3701
+		death = { death_reason = death_natural_causes }
+	}
+}

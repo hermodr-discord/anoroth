@@ -1,53 +1,53 @@
-### Duchy of Syphoreia
+﻿### Duchy of Syphoreia
 d_syphoreia = {
 	4514.1.1 = { change_development_level = 14 }
 	
-	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3655
 		holder = ilmenas7
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_syphoreion = {
-	4514.1.1 = { change_development_level = 26 }
+	4514.1.1 = { change_development_level = 25 }
 	
-	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3655
 		holder = ilmenas7
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_thesalios = {
-	4514.1.1 = { change_development_level = 19 }
+	4514.1.1 = { change_development_level = 21 }
 	
-	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3655
 		holder = ilmenas7
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_pavala = {
-	4514.1.1 = { change_development_level = 17 }
+	4514.1.1 = { change_development_level = 19 }
 	
-	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3671
+	8166.1.1 = { # Duke Cyras I Ilmenas | 3A 3642 - 3A 3655
 		holder = ilmenas7
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
-c_nagyerug = {
-	4514.1.1 = { change_development_level = 13 }
+c_sidothason = {
+	4514.1.1 = { change_development_level = 16 }
 	
-	8166.1.1 = { # Lord Kaelas I Derinan | 3A 3642 - 3A 3671
+	8166.1.1 = { # Count Orestas Derinan | 3A 3642 - 3A 3684
 		holder = derinan8
 		liege = d_syphoreia
 		government = feudal_government
 	}
 }
-c_sidothason = {
+c_nagyerug = {
 	4514.1.1 = { change_development_level = 14 }
 	
-	8166.1.1 = { # Lord Kaelas I Derinan | 3A 3642 - 3A 3671
+	8166.1.1 = { # Count Orestas Derinan | 3A 3642 - 3A 3684
 		holder = derinan8
 		liege = d_syphoreia
 		government = feudal_government
@@ -57,7 +57,7 @@ c_sidothason = {
 d_lameia = {
 	4514.1.1 = { change_development_level = 13 }
 
-	8166.1.1 = { # Duke Lykas I Olyran
+	8166.1.1 = { # Duke Lykas I Olyran | 3A 3653 - 3A 3658
 		holder = olyran4
 		liege = e_anoroth
 		government = feudal_government
@@ -66,16 +66,7 @@ d_lameia = {
 c_lameia = {
 	4514.1.1 = { change_development_level = 20 }
 
-	8166.1.1 = { # Duke Lykas I Olyran
-		holder = olyran4
-		liege = e_anoroth
-		government = feudal_government
-	}
-}
-c_lyrianthe = {
-	4514.1.1 = { change_development_level = 18 }
-
-	8166.1.1 = { # Duke Lykas I Olyran
+	8166.1.1 = { # Duke Lykas I Olyran | 3A 3653 - 3A 3658
 		holder = olyran4
 		liege = e_anoroth
 		government = feudal_government
@@ -84,18 +75,27 @@ c_lyrianthe = {
 c_ermirios = {
 	4514.1.1 = { change_development_level = 16 }
 
-	8166.1.1 = { # Lord Pheros I Cerinas
+	8166.1.1 = { # Count Pheros Cerinas | 3A 3653 - 3A 3667
 		holder = cerinas1
 		liege = d_lameia
 		government = feudal_government
 	}
 }
 c_acrokephys = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 14 }
 
-	8166.1.1 = { # Lord Cyran I Krynarias
+	8166.1.1 = { # Count Korydon Krynarias | 3A 3653 - 3A 3658
 		holder = krynarias1
 		liege = d_valas
+		government = feudal_government
+	}
+}
+c_lyrianthe = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Duke Lykas I Olyran | 3A 3653 - 3A 3658
+		holder = olyran4
+		liege = e_anoroth
 		government = feudal_government
 	}
 }
@@ -103,54 +103,54 @@ c_acrokephys = {
 d_valas = {
 	4514.1.1 = { change_development_level = 14 }
 
-	8166.1.1 = { # Duke Nemaron I Cykras
+	8166.1.1 = { # Duke Nemaron I Cykras | 3A 3653 - 3A 3666
 		holder = cykras1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_valassos = {
-	4514.1.1 = { change_development_level = 23 }
+	4514.1.1 = { change_development_level = 21 }
 
-	8166.1.1 = { # Duke Nemaron I Cykras
+	8166.1.1 = { # Duke Nemaron I Cykras | 3A 3653 - 3A 3666
 		holder = cykras1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_olyrea = {
-	4514.1.1 = { change_development_level = 19 }
+	4514.1.1 = { change_development_level = 18 }
 
-	8166.1.1 = { # Lord Pheros I Garosin
+	8166.1.1 = { # Count Pheros Garosin | 3A 3653 - 3A 3669
 		holder = garosin1
 		liege = d_valas
 		government = feudal_government
 	}
 }
 c_kasoria = {
-	4514.1.1 = { change_development_level = 15 }
+	4514.1.1 = { change_development_level = 17 }
 
-	8166.1.1 = { # Lord Cyran I Krynarias
+	8166.1.1 = { # Count Korydon Krynarias | 3A 3653 - 3A 3658
 		holder = krynarias1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_elassos = {
-	4514.1.1 = { change_development_level = 18 }
+	4514.1.1 = { change_development_level = 15 }
 
-	8166.1.1 = { # Lord Gelaros I Korthavan
+	8166.1.1 = { # Count Gelaros Korthavan | 3A 3653 - 3A 3666
 		holder = korthavan1
 		liege = d_valas
 		government = feudal_government
 	}
 }
 c_szarony = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 14 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Count Eosanon Kopos | 3A 3653 - 3A 3691
 		holder = kopos1
-		liege = e_anoroth
+		liege = d_drezdany
 		government = feudal_government
 	}
 }
@@ -158,43 +158,43 @@ c_szarony = {
 d_tavasar = {
 	4514.1.1 = { change_development_level = 12 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Duke Alkanos I Krysanon | 3A 3653 - 3A 3689
 		holder = krysanon1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_tavasar = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 13 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Duke Alkanos I Krysanon | 3A 3653 - 3A 3689
 		holder = krysanon1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_feketehalom = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 14 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Duke Alkanos I Krysanon | 3A 3653 - 3A 3689
 		holder = krysanon1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_nagyhajlas = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 11 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Duke Alkanos I Krysanon | 3A 3653 - 3A 3689
 		holder = krysanon1
 		liege = e_anoroth
 		government = feudal_government
 	}
 }
 c_nagyszinet = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 14 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Duke Alkanos I Krysanon | 3A 3653 - 3A 3689
 		holder = krysanon1
 		liege = e_anoroth
 		government = feudal_government
@@ -203,9 +203,9 @@ c_nagyszinet = {
 c_nyarogos = {
 	4514.1.1 = { change_development_level = 12 }
 
-	8166.1.1 = {
+	8166.1.1 = { # Count Eosanon Kopos | 3A 3653 - 3A 3691
 		holder = kopos1
-		liege = e_anoroth
+		liege = d_drezdany
 		government = feudal_government
 	}
 }

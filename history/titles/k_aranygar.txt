@@ -1,43 +1,40 @@
-k_aranygar = {
+﻿k_aranygar = {
 	4514.1.1 = { change_development_level = 6 }
 
-	8107.1.1 = {
+	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
 		government = tribal_government
 	}
 }
-
-d_duchy_32 = {
+### Duchy of Uyföld
+d_uyfold = {
 	4514.1.1 = { change_development_level = 6 }
 
-	8107.1.1 = {
+	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
 		government = tribal_government
 	}
 }
-
-c_county_140 = {
+c_elsorendes = {
 	4514.1.1 = { change_development_level = 6 }
 
-	8107.1.1 = {
+	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
 		government = tribal_government
 	}
 }
-
-c_county_141 = {
+c_gatzalde = {
 	4514.1.1 = { change_development_level = 6 }
 
-	8107.1.1 = {
+	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
 		government = tribal_government
 	}
 }
-
-c_county_142 = {
+c_tolszen = {
 	4514.1.1 = { change_development_level = 6 }
 
-	8107.1.1 = {
+	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
 		government = tribal_government
 	}

@@ -1,5 +1,36 @@
-﻿eyarir = {
+﻿tharun = {
+	color = { 50 50 100 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_tharun
+	language = language_tharun
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fp1_coastal_warriors
+		tradition_seafaring
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_tharun
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+eyarir = {
 	color = { 74 66 87 }
+	created = 7653.01.01
+	parents = { tharun }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_tharun
@@ -29,6 +60,8 @@
 
 brynor = {
 	color = { 103 54 103 }
+	created = 7633.01.01
+	parents = { tharun }
 	
 	ethos = ethos_stoic
 	heritage = heritage_tharun
@@ -58,8 +91,8 @@ brynor = {
 
 funerathic = {
 	color = { 78 47 98 }
-	created = 7632.01.01
-	#parents = { anorothic tharun (??) }
+	created = 7763.01.01
+	parents = { anorothic tharun }
 
 	history_loc_override = funerathic_history_loc
 	

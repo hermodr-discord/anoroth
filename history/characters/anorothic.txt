@@ -4530,6 +4530,21 @@ rhyceros25 = {
 	}
 }
 
+## House tou Argassos
+argassos1 = {
+	name = Argantes
+	dynasty = argassos
+	religion = faith_anorath
+	culture = anorothic
+
+	8122.1.1 = { # 3A 3609
+		birth = yes
+	}
+	8192.1.1 = { # 3A 3679
+		death = { death_reason = death_natural_causes }
+	}
+}
+
 ## House tou Argoneia
 argoneia1 = {
 	name = Drakanos

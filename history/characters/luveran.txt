@@ -107,8 +107,6 @@ lysan1 = { # Lys the Navigator
 	dna = lyslsyan
 	female = yes
 
-	nickname = nick_the_navigator
-
 	diplomacy = 8
 	martial = 4
 	stewardship = 7

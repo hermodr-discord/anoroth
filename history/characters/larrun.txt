@@ -1,0 +1,134 @@
+﻿## House Aitzun
+aitzun1 = {
+	name = Basogor
+	dynasty = aitzun
+	religion = faith_anatzeve
+	culture = larrun
+
+	8129.1.1 = { # 3A 3616
+		birth = yes
+	}
+	8199.1.1 = { # 3A 3686
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Arrigor
+arrigor1 = {
+	name = Otsaintz
+	dynasty = arrigor
+	religion = faith_anatzeve
+	culture = larrun
+
+	8108.1.1 = { # 3A 3595
+		birth = yes
+	}
+	8178.1.1 = { # 3A 3665
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Etxarte
+etxarte1 = {
+	name = Azar
+	dynasty = etxarte
+	religion = faith_anorath
+	culture = larrun
+
+	8131.1.1 = { # 3A 3618
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Garaikoa
+garaikoa1 = {
+	name = Sirain
+	dynasty = garaikoa
+	religion = faith_anatzeve
+	culture = larrun
+
+	8115.1.1 = { # 3A 3602
+		birth = yes
+	}
+	8185.1.1 = { # 3A 3672
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Igartxandi
+igartxandi1 = {
+	name = Indar
+	dynasty = igartxandi
+	religion = faith_anorath
+	culture = larrun
+
+	8139.1.1 = { # 3A 3626
+		birth = yes
+	}
+	8211.1.1 = { # 3A 3698
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Lekartxoa
+lekartxoa1 = {
+	name = Alzain
+	dynasty = lekartxoa
+	religion = faith_anorath
+	culture = larrun
+
+	8096.1.1 = { # 3A 3583
+		birth = yes
+	}
+	8170.1.1 = { # 3A 3657
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Otsagieta
+otsagieta1 = {
+	name = Etxegor
+	dynasty = otsagieta
+	religion = faith_anatzeve
+	culture = larrun
+
+	8105.1.1 = { # 3A 3612
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Txurruka
+txurruka1 = {
+	name = Atxain
+	dynasty = txurruka
+	religion = faith_anatzeve
+	culture = larrun
+
+	8136.1.1 = { # 3A 3623
+		birth = yes
+	}
+	8206.1.1 = { # 3A 3693
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Urkiondo
+urkiondo1 = {
+	name = Alkaintzor
+	dynasty = urkiondo
+	religion = faith_anorath
+	culture = larrun
+
+	8119.1.1 = { # 3A 3606
+		birth = yes
+	}
+	8189.1.1 = { # 3A 3676
+		death = { death_reason = death_natural_causes }
+	}
+}

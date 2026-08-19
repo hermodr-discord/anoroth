@@ -29,7 +29,7 @@ c_urrazun = {
 c_harain = {
 	4514.1.1 = { change_development_level = 17 }
 
-	8166.1.1 = { # Count Etxerain Iurrieta | 3A 3653 - 3A 3696
+	8166.1.1 = { # Count Etxerain Iturrieta | 3A 3653 - 3A 3696
 		holder = iturrieta1
 		liege = d_karrezun
 		government = feudal_government
@@ -38,7 +38,7 @@ c_harain = {
 c_kalune = {
 	4514.1.1 = { change_development_level = 15 }
 
-	8166.1.1 = { # Count Etxerain Iurrieta | 3A 3653 - 3A 3696
+	8166.1.1 = { # Count Etxerain Iturrieta | 3A 3653 - 3A 3696
 		holder = iturrieta1
 		liege = d_karrezun
 		government = feudal_government

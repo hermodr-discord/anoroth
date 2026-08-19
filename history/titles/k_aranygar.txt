@@ -8,7 +8,7 @@
 }
 ### Duchy of Uyföld
 d_uyfold = {
-	4514.1.1 = { change_development_level = 6 }
+	4514.1.1 = { change_development_level = 10 }
 
 	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
@@ -16,7 +16,7 @@ d_uyfold = {
 	}
 }
 c_elsorendes = {
-	4514.1.1 = { change_development_level = 6 }
+	4514.1.1 = { change_development_level = 14 }
 
 	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
@@ -24,7 +24,7 @@ c_elsorendes = {
 	}
 }
 c_gatzalde = {
-	4514.1.1 = { change_development_level = 6 }
+	4514.1.1 = { change_development_level = 16 }
 
 	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
@@ -32,10 +32,68 @@ c_gatzalde = {
 	}
 }
 c_tolszen = {
-	4514.1.1 = { change_development_level = 6 }
+	4514.1.1 = { change_development_level = 13 }
 
 	8107.1.1 = { # King Kegyúr I Borsán | 3A 3594 - 3A 3656
 		holder = borsan1
+		government = tribal_government
+	}
+}
+c_arran = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Count Bés Hadvihar | 3A 3653 - 3A 3688
+		holder = hadvihar1
+		liege = k_aranygar
+		government = tribal_government
+	}
+}
+c_lorrantz = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Zúzmar Áradat | 3A 3653 - 3A 3691
+		holder = aradat1
+		liege = k_aranygar
+		government = tribal_government
+	}
+}
+c_urdin = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Zúzmar Áradat | 3A 3653 - 3A 3691
+		holder = aradat1
+		liege = k_aranygar
+		government = tribal_government
+	}
+}
+### Duchy of Zegorri
+d_zegorri = {
+	4514.1.1 = { change_development_level = 10 }
+}
+c_haizetxe = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Avar Gyözelmes | 3A 3653 - 3A 3671
+		holder = gyozelmes1
+		liege = k_aranygar
+		government = tribal_government
+	}
+}
+c_axkarain = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Avar Gyözelmes | 3A 3653 - 3A 3671
+		holder = gyozelmes1
+		liege = k_aranygar
+		government = tribal_government
+	}
+}
+c_irretz = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Eszély Medveség | 3A 3653 - 3A 3705
+		holder = medveseg1
+		liege = k_aranygar
 		government = tribal_government
 	}
 }

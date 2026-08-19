@@ -1,0 +1,245 @@
+﻿### Duchy of Taranion
+d_taranion = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Charanos I Aspheron | 3A 3653 - 3A 3708
+		holder = aspheron1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_taranion = {
+	4514.1.1 = { change_development_level = 28 }
+
+	8166.1.1 = { # Duke Charanos I Aspheron | 3A 3653 - 3A 3708
+		holder = aspheron1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_astossa = {
+	4514.1.1 = { change_development_level = 23 }
+
+	8166.1.1 = { # Count Damakon Orzenas | 3A 3653 - 3A 3693
+		holder = orzenas1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+c_nerelos = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Damakon Orzenas | 3A 3653 - 3A 3693
+		holder = orzenas1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+c_lymnos = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Astyron Melvaros | 3A 3653 - 3A 3686
+		holder = melvaros1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+c_seranon = {
+	4514.1.1 = { change_development_level = 20 }
+
+	8166.1.1 = { # Count Astyron Melvaros | 3A 3653 - 3A 3686
+		holder = melvaros1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+c_ipanon = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Astyron Melvaros | 3A 3653 - 3A 3686
+		holder = melvaros1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+c_syranion = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Count Nikanor Orykatos | 3A 3653 - 3A 3678
+		holder = orykatos1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+### Duchy of Syration
+d_syration = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Tauran I Symrazenos | 3A 3653 - 3A 3660
+		holder = symrazenos1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_orvethos = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Duke Tauran I Symrazenos | 3A 3653 - 3A 3660
+		holder = symrazenos1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_ornyn = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Duke Tauran I Symrazenos | 3A 3653 - 3A 3660
+		holder = symrazenos1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_mirieneia = {
+	4514.1.1 = { change_development_level = 21 }
+
+	8166.1.1 = { # Count Nikanor Orykatos | 3A 3653 - 3A 3678
+		holder = orykatos1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+### Duchy of Arrizabal
+d_arrizabal = {
+	4514.1.1 = { change_development_level = 16 }
+}
+c_urdazuri = {
+	4514.1.1 = { change_development_level = 20 }
+
+	8166.1.1 = { # Count Alkaintzor Urkiondo | 3A 3653 - 3A 3676
+		holder = urkiondo1
+		liege = d_ephyreia
+		government = feudal_government
+	}
+}
+c_berroeta = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Indar Igartxandi | 3A 3653 - 3A 3698
+		holder = igartxandi1
+		liege = d_ephyreia
+		government = feudal_government
+	}
+}
+c_irurtzun = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Count Damakon Orzenas | 3A 3653 - 3A 3693
+		holder = orzenas1
+		liege = d_taranion
+		government = feudal_government
+	}
+}
+c_harralde = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Count Alzain Lekartxoa | 3A 3653 - 3A 3557
+		holder = lekartxoa1
+		liege = d_ephyreia
+		government = feudal_government
+	}
+}
+c_zuralde = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Alzain Lekartxoa | 3A 3653 - 3A 3557
+		holder = lekartxoa1
+		liege = d_ephyreia
+		government = feudal_government
+	}
+}
+### Duchy of Ephyreia
+d_ephyreia = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8163.1.1 = { # Duke Atrakos I Kastavár | 3A 3650 - 3A 3688
+		holder = kastavar1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_aldoros = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8163.1.1 = { # Duke Atrakos I Kastavár | 3A 3650 - 3A 3688
+		holder = kastavar1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_arizketa = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8163.1.1 = { # Duke Atrakos I Kastavár | 3A 3650 - 3A 3688
+		holder = kastavar1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_almareia = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8163.1.1 = { # Duke Atrakos I Kastavár | 3A 3650 - 3A 3688
+		holder = kastavar1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_aldoranon = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Duke Tauran I Symrazenos | 3A 3653 - 3A 3660
+		holder = symrazenos1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+### Duchy of Caleseia
+d_caleseia = {
+	4514.1.1 = { change_development_level = 12 }
+}
+c_anessoros = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Rhion Kastrazar | 3A 3653 - 3A 3718
+		holder = kastrazar1
+		liege = d_morannos
+		government = feudal_government
+	}
+}
+c_ornyreia = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Count Eosanon Sarzon | 3A 3653 - 3A 3690
+		holder = sarzon1
+		liege = d_syration
+		government = feudal_government
+	}
+}
+c_kervoria = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Count Eosanon Sarzon | 3A 3653 - 3A 3690
+		holder = sarzon1
+		liege = d_syration
+		government = feudal_government
+	}
+}
+c_metirasson = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Eryadros Vaszan | 3A 3653 - 3A 3700
+		holder = vaszan1
+		liege = d_syration
+		government = feudal_government
+	}
+}

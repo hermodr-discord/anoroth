@@ -13,6 +13,21 @@ andronin1 = {
 	}
 }
 
+## House Aspheron
+aspheron1 = {
+	name = Charanos
+	dynasty = aspheron
+	religion = faith_anorath
+	culture = brenilor
+
+	8142.1.1 = { # 3A 3629
+		birth = yes
+	}
+	8221.1.1 = { # 3A 3708
+		death = { death_reason = death_natural_causes }
+	}
+}
+
 ## House Ephron
 ephron1 = {
 	name = Atreos
@@ -58,6 +73,21 @@ kopos1 = {
 	}
 }
 
+## House Melvaros
+melvaros1 = {
+	name = Astyron
+	dynasty = melvaros
+	religion = faith_anorath
+	culture = brenilor
+
+	8125.1.1 = { # 3A 3612
+		birth = yes
+	}
+	8199.1.1 = { # 3A 3686
+		death = { death_reason = death_natural_causes }
+	}
+}
+
 ## House tou Ophyreas
 ophyreas1 = {
 	name = Depharos
@@ -69,6 +99,66 @@ ophyreas1 = {
 		birth = yes
 	}
 	8214.1.1 = { # 3A 3701
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Orykatos
+orykatos1 = {
+	name = Nikanor
+	dynasty = orykatos
+	religion = faith_anorath
+	culture = brenilor
+
+	8120.1.1 = { # 3A 3607
+		birth = yes
+	}
+	8191.1.1 = { # 3A 3678
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Orzenas
+orzenas1 = {
+	name = Damakon
+	dynasty = orzenas
+	religion = faith_anorath
+	culture = brenilor
+
+	8135.1.1 = { # 3A 3622
+		birth = yes
+	}
+	8206.1.1 = { # 3A 3693
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Symrazenos
+symrazenos1 = {
+	name = Tauran
+	dynasty = symrazenos
+	religion = faith_anorath
+	culture = brenilor
+
+	8102.1.1 = { # 3A 3589
+		birth = yes
+	}
+	8173.1.1 = { # 3A 3660
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Vestyles
+vestyles1 = {
+	name = Tauran
+	dynasty = vestyles
+	religion = faith_anorath
+	culture = brenilor
+
+	8128.1.1 = { # 3A 3615
+		birth = yes
+	}
+	8199.1.1 = { # 3A 3686
 		death = { death_reason = death_natural_causes }
 	}
 }

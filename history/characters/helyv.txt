@@ -1,4 +1,5 @@
-﻿borsan1 = { 
+﻿## Clan Borsán
+borsan1 = { 
 	name = KegyU_r
 	dynasty = borsan
 	religion = faith_oszeseg
@@ -28,6 +29,126 @@
 		birth = yes
 	}
 	8169.1.1 = { # 3A 3656
-		death = yes
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Áradat
+aradat1 = {
+	name = ZU_zmar
+	dynasty = aradat
+	religion = faith_oszeseg
+	culture = helyv
+
+	8121.1.1 = { # 3A 3608
+		birth = yes
+	}
+	8204.1.1 = { # 3A 3691
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Gyözelmes
+gyozelmes1 = {
+	name = Avar
+	dynasty = gyozelmes
+	religion = faith_oszeseg
+	culture = helyv
+
+	8109.1.1 = { # 3A 3596
+		birth = yes
+	}
+	8184.1.1 = { # 3A 3671
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Hadvihar
+hadvihar1 = {
+	name = BE_s
+	dynasty = hadvihar
+	religion = faith_oszeseg
+	culture = helyv
+
+	8127.1.1 = { # 3A 3614
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Medveség
+medveseg1 = {
+	name = EszE_ly
+	dynasty = medveseg
+	religion = faith_oszeseg
+	culture = helyv
+
+	8140.1.1 = { # 3A 3627
+		birth = yes
+	}
+	8218.1.1 = { # 3A 3705
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Sólyom
+solyom1 = {
+	name = O_sgyO_zmE_n
+	dynasty = solyom
+	religion = faith_oszeseg
+	culture = helyv
+
+	8149.1.1 = { # 3A 3636
+		birth = yes
+	}
+	8232.1.1 = { # 3A 3719
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Turul
+turul1 = {
+	name = KardA_n
+	dynasty = turul
+	religion = faith_anorath
+	culture = helyv
+
+	8139.1.1 = { # 3A 3626
+		birth = yes
+	}
+	8209.1.1 = { # 3A 3696
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Zivatar
+zivatar1 = {
+	name = O_rs
+	dynasty = zivatar
+	religion = faith_anorath
+	culture = helyv
+
+	8110.1.1 = { # 3A 3597
+		birth = yes
+	}
+	8180.1.1 = { # 3A 3667
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Zuhatag
+zuhatag1 = {
+	name = VadU_r
+	dynasty = zuhatag
+	religion = faith_oszeseg
+	culture = helyv
+
+	8115.1.1 = { # 3A 3602
+		birth = yes
+	}
+	8185.1.1 = { # 3A 3672
+		death = { death_reason = death_natural_causes }
 	}
 }

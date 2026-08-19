@@ -1,21 +1,193 @@
 k_urrezabe = {
-	
+	4514.1.1 = { change_development_level = 10 }
+
+	8162.1.1 = { # Governor Argantes I tou Argassos | 3A 3649 - 3A 3679
+		holder = argassos1
+		liege = e_anoroth
+		government = feudal_government
+	}
 }
+### Duchy of Rabirne
+d_rabirne = {
+	4514.1.1 = { change_development_level = 16 }
 
+	8162.1.1 = { # Governor Argantes I tou Argassos | 3A 3649 - 3A 3679
+		holder = argassos1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_larreia = {
+	4514.1.1 = { change_development_level = 27 }
+
+	8162.1.1 = { # Governor Argantes I tou Argassos | 3A 3649 - 3A 3679
+		holder = argassos1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
 c_askarain = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 25 }
 
-	8107.1.1 = {
-		holder = borsan1
+	8166.1.1 = { # Count Vadúr Zuhatag | 3A 3653 - 3A 3672
+		holder = zuhatag1
+		liege = k_aranygar
 		government = tribal_government
 	}
 }
-
 c_arzabal = {
+	4514.1.1 = { change_development_level = 22 }
+
+	8166.1.1 = { # Count Ösgyözmén Sólyom | 3A 3653 - 3A 3719
+		holder = solyom1
+		liege = k_aranygar
+		government = tribal_government
+	}
+}
+### Duchy of Morannos
+d_morannos = {
 	4514.1.1 = { change_development_level = 12 }
 
-	8107.1.1 = {
-		holder = borsan1
-		government = tribal_government
+	8163.1.1 = { # Duke Azar I Extarte | 3A 3650 - 3A 3688
+		holder = etxarte1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_morzain = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8163.1.1 = { # Duke Azar I Extarte | 3A 3650 - 3A 3688
+		holder = etxarte1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_etzarra = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8163.1.1 = { # Duke Azar I Extarte | 3A 3650 - 3A 3688
+		holder = etxarte1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_arrtan = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Aphyrelos Orlovath | 3A 3653 - 3A 3666
+		holder = orlovath1
+		liege = d_morannos
+		government = feudal_government
+	}
+}
+c_erromara = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Rhion Kastrazar | 3A 3653 - 3A 3718
+		holder = kastrazar1
+		liege = d_morannos
+		government = feudal_government
+	}
+}
+### Duchy of Belvatz
+d_belvatz = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8164.1.1 = { # Duke Sirain I Garaikoa | 3A 3651 - 3A 3672
+		holder = garaikoa1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_beltrava = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8164.1.1 = { # Duke Sirain I Garaikoa | 3A 3651 - 3A 3672
+		holder = garaikoa1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_syralion = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Larichos Zserovár | 3A 3653 - 3A 3659
+		holder = zserovar1
+		liege = d_belvatz
+		government = feudal_government
+	}
+}
+c_zurzona = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8164.1.1 = { # Duke Sirain I Garaikoa | 3A 3651 - 3A 3672
+		holder = garaikoa1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+### Duchy of Ulvorna
+d_ulvorna = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8163.1.1 = { # Duke Otsaintz I Arrigor | 3A 3650 - 3A 3665
+		holder = arrigor1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_eskuren = {
+	4514.1.1 = { change_development_level = 23 }
+
+	8163.1.1 = { # Duke Otsaintz I Arrigor | 3A 3650 - 3A 3665
+		holder = arrigor1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_dorzuven = {
+	4514.1.1 = { change_development_level = 21 }
+
+	8166.1.1 = { # Count Basogor Aitzun | 3A 3653 - 3A 3686
+		holder = aitzun1
+		liege = d_ulvorna
+		government = feudal_government
+	}
+}
+c_veltrana = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Basogor Aitzun | 3A 3653 - 3A 3686
+		holder = aitzun1
+		liege = d_ulvorna
+		government = feudal_government
+	}
+}
+c_betzovan = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Etxegor Otsagieta | 3A 3653 - 3A 3688
+		holder = otsagieta1
+		liege = k_urrezabe
+		government = feudal_government
+	}
+}
+c_kretzuna = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Atxain Txurruka | 3A 3653 - 3A 3693
+		holder = txurruka1
+		liege = d_ulvorna
+		government = feudal_government
+	}
+}
+c_nortzavel = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Atxain Txurruka | 3A 3653 - 3A 3693
+		holder = txurruka1
+		liege = d_ulvorna
+		government = feudal_government
 	}
 }

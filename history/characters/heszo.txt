@@ -1,0 +1,14 @@
+﻿## Clan Öz
+oz1 = {
+	name = GyO_zU_r
+	dynasty = oz
+	religion = faith_oszeseg
+	culture = heszo
+
+	8135.1.1 = { # 3A 3622
+		birth = yes
+	}
+	8213.1.1 = { # 3A 3700
+		death = { death_reason = death_natural_causes }
+	}
+}

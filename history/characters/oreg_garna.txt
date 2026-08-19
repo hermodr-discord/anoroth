@@ -2,7 +2,7 @@
 aiognul1 = {
 	name = Sorn_Esha
 	dynasty = aiognul
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8123.1.1 = { # 3A 3610
@@ -17,7 +17,7 @@ aiognul1 = {
 domgul1 = {
 	name = Gorn_Surna
 	dynasty = domgul
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8113.1.1 = { # 3A 3600
@@ -32,7 +32,7 @@ domgul1 = {
 doskag1 = {
 	name = Olgun
 	dynasty = doskag
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8137.1.1 = { # 3A 3624
@@ -47,7 +47,7 @@ doskag1 = {
 fernul1 = {
 	name = Nurag
 	dynasty = fernul
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8114.1.1 = { # 3A 3601
@@ -62,7 +62,7 @@ fernul1 = {
 fessagol1 = {
 	name = Ilgaresh
 	dynasty = fessagol
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8115.1.1 = { # 3A 3602
@@ -77,7 +77,7 @@ fessagol1 = {
 fessaral1 = {
 	name = Bolg
 	dynasty = fessaral
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8104.1.1 = { # 3A 3591
@@ -92,7 +92,7 @@ fessaral1 = {
 hulgesh1 = {
 	name = Surul
 	dynasty = hulgesh
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8135.1.1 = { # 3A 3622
@@ -107,7 +107,7 @@ hulgesh1 = {
 ogmar1 = {
 	name = Curnagun
 	dynasty = ogmar
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8138.1.1 = { # 3A 3625
@@ -122,7 +122,7 @@ ogmar1 = {
 ognul1 = {
 	name = Dolg_Urgesh
 	dynasty = ognul
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8082.1.1 = { # 3A 3569
@@ -137,7 +137,7 @@ ognul1 = {
 yenog1 = {
 	name = Ulg
 	dynasty = yenog
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8098.1.1 = { # 3A 3585
@@ -152,7 +152,7 @@ yenog1 = {
 yorn1 = {
 	name = Bleg
 	dynasty = yorn
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8144.1.1 = { # 3A 3631
@@ -168,7 +168,7 @@ yugmal1 = {
 	name = Agorn
 	female = yes
 	dynasty = yugmal
-	religion = faith_oreg_garna
+	religion = faith_ilg_e_garna
 	culture = oreg_garna
 
 	8122.1.1 = { # 3A 3609

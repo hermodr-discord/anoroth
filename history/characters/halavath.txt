@@ -1,0 +1,89 @@
+﻿## House Kastavár
+kastavar1 = {
+	name = Atrakos
+	dynasty = kastavar
+	religion = faith_anorath
+	culture = halavath
+
+	8122.1.1 = { # 3A 3609
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Kastrazar
+kastrazar1 = {
+	name = Rhion
+	dynasty = kastrazar
+	religion = faith_anorath
+	culture = halavath
+
+	8144.1.1 = { # 3A 3631
+		birth = yes
+	}
+	8231.1.1 = { # 3A 3718
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Orlovath
+orlovath1 = {
+	name = Aphyrelos
+	dynasty = orlovath
+	religion = faith_anorath
+	culture = halavath
+
+	8109.1.1 = { # 3A 3596
+		birth = yes
+	}
+	8179.1.1 = { # 3A 3666
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Sarzon
+sarzon1 = {
+	name = Eosanon
+	dynasty = sarzon
+	religion = faith_anorath
+	culture = halavath
+
+	8135.1.1 = { # 3A 3622
+		birth = yes
+	}
+	8203.1.1 = { # 3A 3690
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Vaszan
+vaszan1 = {
+	name = Eryadros
+	dynasty = vaszan
+	religion = faith_anorath
+	culture = halavath
+
+	8130.1.1 = { # 3A 3617
+		birth = yes
+	}
+	8213.1.1 = { # 3A 3700
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Zserovár
+zserovar1 = {
+	name = Larichos
+	dynasty = zserovar
+	religion = faith_anorath
+	culture = halavath
+
+	8095.1.1 = { # 3A 3582
+		birth = yes
+	}
+	8172.1.1 = { # 3A 3659
+		death = { death_reason = death_natural_causes }
+	}
+}

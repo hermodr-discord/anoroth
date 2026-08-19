@@ -1,0 +1,44 @@
+﻿d_csukarev = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Duke Tauran I Vestyles | 3A 3653 - 3A 3686
+		holder = vestyles1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_viharhegy = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Tauran I Vestyles | 3A 3653 - 3A 3686
+		holder = vestyles1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_bekaszeg = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Duke Tauran I Vestyles | 3A 3653 - 3A 3686
+		holder = vestyles1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_soslak = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Duke Tauran I Vestyles | 3A 3653 - 3A 3686
+		holder = vestyles1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
+c_nadszeg = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Gyözúr Öz | 3A 3653 - 3A 3700
+		holder = oz1
+		government = tribal_government
+	}
+}

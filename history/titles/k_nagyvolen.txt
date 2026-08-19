@@ -1,0 +1,9 @@
+c_receret = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Eryadros Vaszan | 3A 3653 - 3A 3700
+		holder = vaszan1
+		liege = d_syration
+		government = feudal_government
+	}
+}

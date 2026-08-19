@@ -19,6 +19,11 @@ atyrin = { # Sixth Imperial Dynasty of Anóroth | Reigned 3A 3291 - 3A 3719
 	name = "dynn_Atyrin"
 	culture = "anorothic"
 }
+argassos = {
+	prefix = "dynnp_tou"
+	name = "dynn_Argassos"
+	culture = "anorothic"
+}
 argoneia = {
 	prefix = "dynnp_tou"
 	name = "dynn_Argoneia"
@@ -104,30 +109,52 @@ sotomenas = {
 	name = "dynn_Sotomenas"
 	culture = "anorothic"
 }
-
-## Bréniloric Dynasties
+## Brénilor Dynasties
 andronin = {
 	name = "dynn_Andronin"
-	culture = "breniloric"
+	culture = "brenilor"
+}
+aspheron = {
+	name = "dynn_Aspheron"
+	culture = "brenilor"
 }
 ephron = {
 	name = "dynn_Ephron"
-	culture = "breniloric"
+	culture = "brenilor"
 }
 eutyros = {
 	name = "dynn_Eutyros"
-	culture = "breniloric"
+	culture = "brenilor"
 }
 kopos = {
 	name = "dynn_Kopos"
-	culture = "breniloric"
+	culture = "brenilor"
+}
+melvaros = {
+	name = "dynn_Melvaros"
+	culture = "brenilor"
 }
 ophyreas = {
 	prefix = "dynnp_tou"
 	name = "dynn_Ophyreas"
-	culture = "breniloric"
+	culture = "brenilor"
 }
-
+orykatos = {
+	name = "dynn_Orykatos"
+	culture = "brenilor"
+}
+orzenas = {
+	name = "dynn_Orzenas"
+	culture = "brenilor"
+}
+symrazenos = {
+	name = "dynn_Symrazenos"
+	culture = "brenilor"
+}
+vestyles = {
+	name = "dynn_Vestyles"
+	culture = "brenilor"
+}
 ## Funérathic Dynasties
 argenor = {
 	name = "dynn_Argenor"
@@ -149,7 +176,31 @@ thermeneas = {
 	name = "dynn_Thermeneas"
 	culture = "funerathic"
 }
-
+## Halavath Dynasties
+kastavar = {
+	name = "dynn_Kastavar"
+	culture = "halavath"
+}
+kastrazar = {
+	name = "dynn_Kastrazar"
+	culture = "halavath"
+}
+orlovath = {
+	name = "dynn_Orlovath"
+	culture = "halavath"
+}
+sarzon = {
+	name = "dynn_Sarzon"
+	culture = "halavath"
+}
+vaszan = {
+	name = "dynn_Vaszan"
+	culture = "halavath"
+}
+zserovar = {
+	name = "dynn_Zserovar"
+	culture = "halavath"
+}
 ## Ourimetánath Dynasties
 karphelas = {
 	name = "dynn_Karphelas"
@@ -185,8 +236,81 @@ borsan = { # Clan Borsán, Clan of Kegyúr the Veilbreaker
 	name = "dynn_Borsan"
 	culture = "helyv"
 }
+aradat = {
+	name = "dynn_Aradat"
+	culture = "helyv"
+}
+gyozelmes = {
+	name = "dynn_Gyozelmes"
+	culture = "helyv"
+}
+hadvihar = {
+	name = "dynn_Hadvihar"
+	culture = "helyv"
+}
+medveseg = {
+	name = "dynn_Medveseg"
+	culture = "helyv"
+}
+solyom = {
+	name = "dynn_Solyom"
+	culture = "helyv"
+}
+turul = {
+	name = "dynn_Turul"
+	culture = "helyv"
+}
+zivatar = {
+	name = "dynn_Zivatar"
+	culture = "helyv"
+}
+zuhatag = {
+	name = "dynn_Zuhatag"
+	culture = "helyv"
+}
+## Heszo Dynasties
+oz = {
+	name = "dynn_Oz"
+	culture = "heszo"
+}
 
 # Larrunic Dynasties
+aitzun = {
+	name = "dynn_Aitzun"
+	culture = "larrun"
+}
+arrigor = {
+	name = "dynn_Arrigor"
+	culture = "larrun"
+}
+etxarte = {
+	name = "dynn_Etxarte"
+	culture = "larrun"
+}
+garaikoa = {
+	name = "dynn_Garaikoa"
+	culture = "larrun"
+}
+igartxandi = {
+	name = "dynn_Igartxandi"
+	culture = "larrun"
+}
+lekartxoa = {
+	name = "dynn_Lekartxoa"
+	culture = "larrun"
+}
+otsagieta = {
+	name = "dynn_Otsagieta"
+	culture = "larrun"
+}
+txurruka = {
+	name = "dynn_Txurruka"
+	culture = "larrun"
+}
+urkiondo = {
+	name = "dynn_Urkiondo"
+	culture = "larrun"
+}
 ## Kintir Dynasties
 aiartxandi = {
 	name = "dynn_Aiartxandi"

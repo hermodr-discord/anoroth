@@ -82,7 +82,7 @@ c_aila = {
 
 c_tiaran = {
 	8166.1.1 = {
-		holder = luveran_vassal_10
+		holder = shaddan1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -94,7 +94,7 @@ d_osan = { }
 
 c_keala = {
 	8166.1.1 = {
-		holder = luveran_vassal_1
+		holder = damiran1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -104,7 +104,7 @@ c_keala = {
 
 c_ilona = {
 	8166.1.1 = {
-		holder = luveran_vassal_2
+		holder = damiran2
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -116,7 +116,7 @@ d_venara = { }
 
 c_isotera = {
 	8166.1.1 = {
-		holder = luveran_vassal_3
+		holder = maziran1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -126,7 +126,7 @@ c_isotera = {
 
 c_arvei = {
 	8166.1.1 = {
-		holder = luveran_vassal_4
+		holder = kaveh2
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -136,7 +136,7 @@ c_arvei = {
 
 c_rina = {
 	8166.1.1 = {
-		holder = luveran_vassal_5
+		holder = eshavar1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -148,7 +148,7 @@ d_ganathen = { }
 
 c_rineala = {
 	8166.1.1 = {
-		holder = luveran_vassal_6
+		holder = ithar1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -158,7 +158,7 @@ c_rineala = {
 
 c_isar = {
 	8166.1.1 = {
-		holder = luveran_vassal_7
+		holder = harad1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -168,7 +168,7 @@ c_isar = {
 
 c_rian = {
 	8166.1.1 = {
-		holder = luveran_vassal_8
+		holder = nereth1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -178,7 +178,7 @@ c_rian = {
 
 c_venatha = {
 	8166.1.1 = {
-		holder = luveran_vassal_9
+		holder = naderan1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate

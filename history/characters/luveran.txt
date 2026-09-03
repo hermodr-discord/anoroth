@@ -1,4 +1,4 @@
-﻿# House Lovan (Rulers of the Luveran Confederation (3A 3631 - Regnant))
+﻿# Clan Lovan (Rulers of the Luveran Confederation (3A 3631 - Regnant))
 lovan1 = { # Ganas Lovan
 	name = Ganas
 	dynasty = lovan
@@ -98,7 +98,7 @@ lovan4 = { # Isa Lovan
 	}
 }
 
-# House Lysan (Rulers of the Luveran Confederation (3A 3551 - 3A 3595)
+# Clan Lysan (Rulers of the Luveran Confederation (3A 3551 - 3A 3595)
 lysan1 = { # Lys the Navigator
 	name = Lys
 	dynasty = lysan
@@ -128,10 +128,10 @@ lysan1 = { # Lys the Navigator
 	sexuality = heterosexual
 	disallow_random_traits = yes
 
-	8028.7.25 = { # 3A 3527
+	8021.7.25 = { # 3A 3519
 		birth = yes
 	}
-	8052.1.1 = { # 3A 3551, Creation of the Luveran Confederation
+	8064.5.22 = { # 3A 3551, Creation of the Luveran Confederation -- It was 8052.6.23?
 		give_nickname = nick_the_navigator
 	}
 	8096.3.12 = { # 3A 3587
@@ -162,7 +162,7 @@ lysan2 = { # Isin Lysan
 	}
 }
 
-# House Kaveh
+# Clan Kaveh
 kaveh1 = { # Nurad Kaveh
 	name = Nurad
 	dynasty = kaveh
@@ -177,7 +177,21 @@ kaveh1 = { # Nurad Kaveh
 	}
 }
 
-# House Nusa
+kaveh2 = { #Nasar Kaveh
+	name = Nasar
+	dynasty = kaveh
+	religion = faith_isanara
+	culture = luveran
+
+	8111.1.1 = { # 3A 3598
+		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+# Clan Nusa
 nusa1 = { # Javad Nusa
 	name = Javad
 	dynasty = nusa
@@ -210,9 +224,36 @@ nusa1 = { # Javad Nusa
 	}
 }
 
+# Clan Damiran - Second most powerful clan in the Archipelago
+damiran1 = { #Rostan Damiran, ruler of the western islands
+	name = Rostan
+	dynasty = damiran
+	religion = faith_isanara
+	culture = luveran
 
-#VASSALS
-luveran_vassal_1 = {
+	8111.1.1 = { # 3A 3598
+		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+damiran2 = { #Sarran Damiran, ruler of the eastern island
+	name = Sarran
+	dynasty = damiran
+	religion = faith_isanara
+	culture = luveran
+
+	8111.1.1 = { # 3A 3598
+		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+damiran3 = { #Javad Damiran, father to Rostan and Sarran
 	name = Javad
 	dynasty = damiran
 	religion = faith_isanara
@@ -226,22 +267,23 @@ luveran_vassal_1 = {
 	}
 }
 
-luveran_vassal_2 = {
-	name = Javad
-	dynasty = damiran
-	religion = faith_isanara
-	culture = luveran
+#damiran4 = {
+#	name = Alissa
+#	dynasty = damiran
+#	religion = faith_isanara
+#	culture = luveran
+#
+#	8111.1.1 = { # 3A 3598
+#		birth = yes
+#	}
+#	8181.1.1 = { # 3A 3668
+#		death = { death_reason = death_natural_causes }
+#	}
+#}
 
-	8111.1.1 = { # 3A 3598
-		birth = yes
-	}
-	8181.1.1 = { # 3A 3668
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-luveran_vassal_3 = {
-	name = Javad
+# Clan Maziran
+maziran1 = { #Abba Maziran
+	name = Abba
 	dynasty = maziran
 	religion = faith_isanara
 	culture = luveran
@@ -254,22 +296,9 @@ luveran_vassal_3 = {
 	}
 }
 
-luveran_vassal_4 = {
-	name = Javad
-	dynasty = kadem
-	religion = faith_isanara
-	culture = luveran
-
-	8111.1.1 = { # 3A 3598
-		birth = yes
-	}
-	8181.1.1 = { # 3A 3668
-		death = { death_reason = death_natural_causes }
-	}
-}
-
-luveran_vassal_5 = {
-	name = Javad
+# Clan Eshavar - Religious leaders in the confederation
+eshavar1 = { #Kasan Eshavar
+	name = Kasan
 	dynasty = eshavar
 	religion = faith_isanara
 	culture = luveran
@@ -282,9 +311,10 @@ luveran_vassal_5 = {
 	}
 }
 
-luveran_vassal_6 = {
-	name = Javad
-	dynasty = haradan
+# Clan Ithar - Regional leader in the Northern Islands
+ithar1 = { #Dimi Ithar
+	name = Dimi
+	dynasty = ithar
 	religion = faith_isanara
 	culture = luveran
 
@@ -296,9 +326,10 @@ luveran_vassal_6 = {
 	}
 }
 
-luveran_vassal_7 = {
-	name = Javad
-	dynasty = ravid
+# Clan Harad
+harad1 = { #Isin Harad
+	name = Isin
+	dynasty = harad
 	religion = faith_isanara
 	culture = luveran
 
@@ -310,7 +341,8 @@ luveran_vassal_7 = {
 	}
 }
 
-luveran_vassal_8 = {
+# Clan Nereth
+nereth1 = {
 	name = Javad
 	dynasty = nereth
 	religion = faith_isanara
@@ -324,9 +356,10 @@ luveran_vassal_8 = {
 	}
 }
 
-luveran_vassal_9 = {
-	name = Javad
-	dynasty = velam
+# Clan Naderan
+naderan1 = {
+	name = Bashir
+	dynasty = naderan
 	religion = faith_isanara
 	culture = luveran
 
@@ -338,8 +371,9 @@ luveran_vassal_9 = {
 	}
 }
 
-luveran_vassal_10 = {
-	name = Javad
+# Clan Shaddan
+shaddan1 = {
+	name = Erin
 	dynasty = shaddan
 	religion = faith_isanara
 	culture = luveran
@@ -352,16 +386,16 @@ luveran_vassal_10 = {
 	}
 }
 
-luveran_vassal_11 = {
-	name = Javad
-	dynasty = hadat
-	religion = faith_isanara
-	culture = luveran
-
-	8111.1.1 = { # 3A 3598
-		birth = yes
-	}
-	8181.1.1 = { # 3A 3668
-		death = { death_reason = death_natural_causes }
-	}
-}
+#luveran_vassal_11 = {
+#	name = Javad
+#	dynasty = hadat
+#	religion = faith_isanara
+#	culture = luveran
+#
+#	8111.1.1 = { # 3A 3598
+#		birth = yes
+#	}
+#	8181.1.1 = { # 3A 3668
+#		death = { death_reason = death_natural_causes }
+#	}
+#}

@@ -1,19 +1,61 @@
-﻿name_list_luveran = { # Generally Middle Eastern with a hint of schizophrenia, also some irish influences in some names
+﻿name_list_luveran = { # Generally Middle Eastern with a hint of schizophrenia, also some irish influences in a few names from Islanders
 
 	cadet_dynasty_names = {
+		"dynn_Amiresh"
+		"dynn_Ashkelim"
+		"dynn_Belamun"
+		"dynn_Bemira"
+		"dynn_Boruvan"
+		"dynn_Corivash"
+		"dynn_Dashkar"
+		"dynn_Farikesh"
+		"dynn_Farojan"
+		"dynn_Girhesh"
+		"dynn_Kaleshim"
+		"dynn_Kavir"
+		"dynn_Marqash"
+		"dynn_Nadresh"
+		"dynn_Nemravi"
+		"dynn_Neshtar"
+		"dynn_Razehan"
+		"dynn_Sarkuun"
+		"dynn_Sheraz"
+		"dynn_Shurmae"
 	}
 
 	dynasty_names = {
-
+		"dynn_Amiresh"
+		"dynn_Ashkelim"
+		"dynn_Belamun"
+		"dynn_Bemira"
+		"dynn_Boruvan"
+		"dynn_Corivash"
+		"dynn_Dashkar"
+		"dynn_Farikesh"
+		"dynn_Farojan"
+		"dynn_Girhesh"
+		"dynn_Kaleshim"
+		"dynn_Kavir"
+		"dynn_Marqash"
+		"dynn_Nadresh"
+		"dynn_Nemravi"
+		"dynn_Neshtar"
+		"dynn_Razehan"
+		"dynn_Sarkuun"
+		"dynn_Sheraz"
+		"dynn_Shurmae"
 	}
 
 	male_names = {
-		Ganas Tanat Zelin Vonti Urel Perne Eran Sarran Qeno Coren Ashem Virel Seten Ramen Navet Zeras Yone Veseo Taval Kasan Hal Itan Illan Javad
+		Abba Ashem Ashkan Bashir Baruk Belshan Bijael Boazir Caleth Cianar Corian Dabir Damir Dimi Eshar Eshavan Eran Erin Ezriel Farad Farrokh Ganas Gidan Illan Isin Ittael Jamshan Javad Kaelan Kalem 
+		Kasan Kaveth Khosrev Marnuk Nabon Nader Nashir Nasar Nebur Neraz Nurad Qarev Ramek Ravid Rostan Sargesh Sarian Sarran Shahid Sioran Sohrab Vasher Yone Zahir Zahkael
 	}
 	female_names = {
-		Petra Isa Valta Rinea Eari Aru Karthei Zhea Illena Tyan Drea Urea Rhea Vesa Sena Elsha Athei Lurei Leah Asha Alira Kalianei Syna Raisa 
-		Aara Tanei Aya Dezei Nessia Arin Arel Aria Ivia Eila Meret Rivanea Saru Lys Lyla
+		Amatel Amirel Anahet Alissa Atosha Avigel Aya Belet Bilara Deirsha Dinara Erin Farahel Faridel Golnara Hadessa Isa Ishtara Jamilet Kaelisha Layla Leahet Lyla Lys Mahina Miriael Mitraya Naomet Nadira 
+		Naqira Naqitra Nanaya Nedari Niamara Niamira Noalin Parisha Petra Rachiel Raisa Rivkah Sammura Semira Shirael Shirava Siminah Sorayen Syna Taliya Tamira Yasmene Yaeliv Zahret Zakuta Zilpara
 	}
+
+	dynasty_of_location_prefix = "dynnp_mn"
 
 	pat_grf_name_chance = 30
 	mat_grf_name_chance = 15
@@ -22,11 +64,4 @@
 	pat_grm_name_chance = 30
 	mat_grm_name_chance = 15
 	mother_name_chance = 10
-
 }
-
-Male
-
-Ganas Javad Nurad Isin Damir Bashir Eshan Farad Nasar Shahid Vasher Zahir Kaelan Sarian Corian Zahkael Ramek Qarev Kalem Eran Sarran Yone Kasan Illan Neraz Nashir Ashem Abba Dimi Nabon
-
-Petra Isa Aya Layla Lys Sheva Syna Belet Zakuta

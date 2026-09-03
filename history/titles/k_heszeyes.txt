@@ -1,0 +1,64 @@
+﻿### Duchy of Agyagvár
+d_agyagvar = {
+	4514.1.1 = { change_development_level = 6 }
+}
+c_varjuret = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Count Tüzán Áltolász | 3A 3653 - 3A 3683
+		holder = altolasz1
+		government = tribal_government
+	}
+}
+c_onhat = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Napúr Gyérmes | 3A 3653 - 3A 3668
+		holder = gyermes1
+		government = tribal_government
+	}
+}
+c_hiuzszeg = {
+	4514.1.1 = { change_development_level = 7 }
+
+	8166.1.1 = { # Count Hadán Kusgyönd | 3A 3653 - 3A 3704
+		holder = kusgyond1
+		government = tribal_government
+	}
+}
+### Duchy of Somvár
+d_somvar = {
+	4514.1.1 = { change_development_level = 6 }
+}
+c_kortehaza = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Gyözúr Öz | 3A 3653 - 3A 3700
+		holder = oz1
+		government = tribal_government
+	}
+}
+c_csertelke = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Count Gyözúr Öz | 3A 3653 - 3A 3700
+		holder = oz1
+		government = tribal_government
+	}
+}
+c_kovahaza = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8166.1.1 = { # Count Géza Tarvány | 3A 3653 - 3A 3689
+		holder = tarvany1
+		government = tribal_government
+	}
+}
+c_eleshat = {
+	4514.1.1 = { change_development_level = 8 }
+
+	8166.1.1 = { # Count Géza Tarvány | 3A 3653 - 3A 3689
+		holder = tarvany1
+		government = tribal_government
+	}
+}

@@ -227,7 +227,7 @@ e_anoroth = {
 	6597.1.1 = { # Calyreos Theron I Arcerin | 3A 2084 - 3A 2115
 		holder = arcerin21
 	}
-	6628.1.1 = { # Calyreos Nikaron III Arcerin | 3A 2115 - 3A 2148
+	6628.1.1 = { # Calyreos Nikaron IV Arcerin | 3A 2115 - 3A 2148
 		holder = arcerin22
 	}
 	6661.1.1 = { # Calyreos Lyrandos I Arcerin | 3A 2148 - 3A 2177
@@ -344,7 +344,7 @@ e_anoroth = {
 	7531.1.1 = { # Calyreos Aphyron II Argyrian | 3A 3018 - 3A 3073
 		holder = argyrian18
 	}
-	7586.1.1 = { # Calyreos Eryon I Argyrian | 3A 3073 - 3A 3087
+	7586.1.1 = { # Calyreos Eryon II Argyrian | 3A 3073 - 3A 3087
 		holder = argyrian19
 	}
 	7600.1.1 = { # Calyreos Nyros I Argyrian | 3A 3087 - 3A 3114
@@ -368,7 +368,7 @@ e_anoroth = {
 	7702.1.1 = { # Calyreos Zephyron I Argyrian | 3A 3189 - 3A 3191
 		holder = argyrian26
 	}
-	7704.1.1 = { # Calyreos Nikaron IV Argyrian | 3A 3191 - 3A 3202
+	7704.1.1 = { # Calyreos Nikaron V Argyrian | 3A 3191 - 3A 3202
 		holder = argyrian36
 	}
 	7715.1.1 = { # Calyreos Estaros I Argyrian | 3A 3202 - 3A 3209
@@ -646,7 +646,7 @@ k_anorcedia = {
 	6597.1.1 = { # Calyreos Theron I Arcerin | 3A 2084 - 3A 2115
 		holder = arcerin21
 	}
-	6628.1.1 = { # Calyreos Nikaron III Arcerin | 3A 2115 - 3A 2148
+	6628.1.1 = { # Calyreos Nikaron IV Arcerin | 3A 2115 - 3A 2148
 		holder = arcerin22
 	}
 	6661.1.1 = { # Calyreos Lyrandos I Arcerin | 3A 2148 - 3A 2177
@@ -763,7 +763,7 @@ k_anorcedia = {
 	7531.1.1 = { # Calyreos Aphyron II Argyrian | 3A 3018 - 3A 3073
 		holder = argyrian18
 	}
-	7586.1.1 = { # Calyreos Eryon I Argyrian | 3A 3073 - 3A 3087
+	7586.1.1 = { # Calyreos Eryon II Argyrian | 3A 3073 - 3A 3087
 		holder = argyrian19
 	}
 	7600.1.1 = { # Calyreos Nyros I Argyrian | 3A 3087 - 3A 3114
@@ -787,7 +787,7 @@ k_anorcedia = {
 	7702.1.1 = { # Calyreos Zephyron I Argyrian | 3A 3189 - 3A 3191
 		holder = argyrian26
 	}
-	7704.1.1 = { # Calyreos Nikaron IV Argyrian | 3A 3191 - 3A 3202
+	7704.1.1 = { # Calyreos Nikaron V Argyrian | 3A 3191 - 3A 3202
 		holder = argyrian36
 	}
 	7715.1.1 = { # Calyreos Estaros I Argyrian | 3A 3202 - 3A 3209
@@ -1066,7 +1066,7 @@ d_anorcedia = {
 	6597.1.1 = { # Calyreos Theron I Arcerin | 3A 2084 - 3A 2115
 		holder = arcerin21
 	}
-	6628.1.1 = { # Calyreos Nikaron III Arcerin | 3A 2115 - 3A 2148
+	6628.1.1 = { # Calyreos Nikaron IV Arcerin | 3A 2115 - 3A 2148
 		holder = arcerin22
 	}
 	6661.1.1 = { # Calyreos Lyrandos I Arcerin | 3A 2148 - 3A 2177
@@ -1183,7 +1183,7 @@ d_anorcedia = {
 	7531.1.1 = { # Calyreos Aphyron II Argyrian | 3A 3018 - 3A 3073
 		holder = argyrian18
 	}
-	7586.1.1 = { # Calyreos Eryon I Argyrian | 3A 3073 - 3A 3087
+	7586.1.1 = { # Calyreos Eryon II Argyrian | 3A 3073 - 3A 3087
 		holder = argyrian19
 	}
 	7600.1.1 = { # Calyreos Nyros I Argyrian | 3A 3087 - 3A 3114
@@ -1207,7 +1207,7 @@ d_anorcedia = {
 	7702.1.1 = { # Calyreos Zephyron I Argyrian | 3A 3189 - 3A 3191
 		holder = argyrian26
 	}
-	7704.1.1 = { # Calyreos Nikaron IV Argyrian | 3A 3191 - 3A 3202
+	7704.1.1 = { # Calyreos Nikaron V Argyrian | 3A 3191 - 3A 3202
 		holder = argyrian36
 	}
 	7715.1.1 = { # Calyreos Estaros I Argyrian | 3A 3202 - 3A 3209
@@ -1482,7 +1482,7 @@ c_anorcedia = {
 	6597.1.1 = { # Calyreos Theron I Arcerin | 3A 2084 - 3A 2115
 		holder = arcerin21
 	}
-	6628.1.1 = { # Calyreos Nikaron III Arcerin | 3A 2115 - 3A 2148
+	6628.1.1 = { # Calyreos Nikaron IV Arcerin | 3A 2115 - 3A 2148
 		holder = arcerin22
 	}
 	6661.1.1 = { # Calyreos Lyrandos I Arcerin | 3A 2148 - 3A 2177
@@ -1596,7 +1596,7 @@ c_anorcedia = {
 	7531.1.1 = { # Calyreos Aphyron II Argyrian | 3A 3018 - 3A 3073
 		holder = argyrian18
 	}
-	7586.1.1 = { # Calyreos Eryon I Argyrian | 3A 3073 - 3A 3087
+	7586.1.1 = { # Calyreos Eryon II Argyrian | 3A 3073 - 3A 3087
 		holder = argyrian19
 	}
 	7600.1.1 = { # Calyreos Nyros I Argyrian | 3A 3087 - 3A 3114
@@ -1620,7 +1620,7 @@ c_anorcedia = {
 	7702.1.1 = { # Calyreos Zephyron I Argyrian | 3A 3189 - 3A 3191
 		holder = argyrian26
 	}
-	7704.1.1 = { # Calyreos Nikaron IV Argyrian | 3A 3191 - 3A 3202
+	7704.1.1 = { # Calyreos Nikaron V Argyrian | 3A 3191 - 3A 3202
 		holder = argyrian36
 	}
 	7715.1.1 = { # Calyreos Estaros I Argyrian | 3A 3202 - 3A 3209

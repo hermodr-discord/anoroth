@@ -240,6 +240,14 @@ aradat = {
 	name = "dynn_Aradat"
 	culture = "helyv"
 }
+csamany = {
+	name = "dynn_Csamany"
+	culture = "helyv"
+}
+ezgeret = {
+	name = "dynn_Ezgeret"
+	culture = "helyv"
+}
 gyozelmes = {
 	name = "dynn_Gyozelmes"
 	culture = "helyv"
@@ -248,8 +256,16 @@ hadvihar = {
 	name = "dynn_Hadvihar"
 	culture = "helyv"
 }
+kurdany = {
+	name = "dynn_Kurdany"
+	culture = "helyv"
+}
 medveseg = {
 	name = "dynn_Medveseg"
+	culture = "helyv"
+}
+mocsar = {
+	name = "dynn_Mocsar"
 	culture = "helyv"
 }
 solyom = {
@@ -269,9 +285,71 @@ zuhatag = {
 	culture = "helyv"
 }
 ## Heszo Dynasties
+altolasz = {
+	name = "dynn_Altolasz"
+	culture = "heszo"
+}
+gyermes = {
+	name = "dynn_Gyermes"
+	culture = "heszo"
+}
+kusgyond = {
+	name = "dynn_Kusgyond"
+	culture = "heszo"
+}
 oz = {
 	name = "dynn_Oz"
 	culture = "heszo"
+}
+tarvany = {
+	name = "dynn_Tarvany"
+	culture = "heszo"
+}
+## Vogyd Dynasties
+bator = {
+	name = "dynn_Bator"
+	culture = "vogyd"
+}
+eros = {
+	name = "dynn_Eros"
+	culture = "vogyd"
+}
+gyerme = {
+	name = "dynn_Gyerme"
+	culture = "vogyd"
+}
+huvony = {
+	name = "dynn_Huvony"
+	culture = "vogyd"
+}
+kurmeses = {
+	name = "dynn_Kurmeses"
+	culture = "vogyd"
+}
+nyorgede = {
+	name = "dynn_Nyorgede"
+	culture = "vogyd"
+}
+ozsamak = {
+	name = "dynn_Ozsamak"
+	culture = "vogyd"
+}
+## Zsorag Dynasties
+izgomar = {
+	name = "dynn_Izgomar"
+	culture = "zsorag"
+}
+tarcs = {
+	name = "dynn_Tarcs"
+	culture = "zsorag"
+}
+vondaras = {
+	name = "dynn_Vondaras"
+	culture = "zsorag"
+}
+zsarnok = {
+	name = "dynn_Zsarnok"
+	culture = "zsorag"
 }
 
 # Larrunic Dynasties
@@ -446,6 +524,41 @@ yugmal = {
 	culture = "oreg_garna"
 }
 
+# Shidonem Dynasties
+## Qaratan Dynasties
+azzunim = {
+	name = "dynn_Azzunim"
+	culture = "qaratan"
+}
+barreder = {
+	name = "dynn_Barreder"
+	culture = "qaratan"
+}
+barzubar = {
+	name = "dynn_Barzubar"
+	culture = "qaratan"
+}
+ederot = {
+	name = "dynn_Ederot"
+	culture = "qaratan"
+}
+rabtarzun = {
+	name = "dynn_Rabtarzun"
+	culture = "qaratan"
+}
+ruqqanesh = {
+	name = "dynn_Ruqqanesh"
+	culture = "qaratan"
+}
+sarqanash = {
+	name = "dynn_Sarqanash"
+	culture = "qaratan"
+}
+sarumqar = {
+	name = "dynn_Sarumqar"
+	culture = "qaratan"
+}
+
 # Tharun Dynasties
 ## Brynor Dynasties
 hrisgnarr = {
@@ -467,4 +580,38 @@ vodr = {
 vollungr = {
 	name = "dynn_Vollungr"
 	culture = "brynor"
+}
+## Eyarir Dynasties
+gnostr = {
+	name = "dynn_Gnostr"
+	culture = "eyarir"
+}
+halgntarr = {
+	name = "dynn_Halgntarr"
+	culture = "eyarir"
+}
+irmanedr = {
+	name = "dynn_Irmanedr"
+	culture = "eyarir"
+}
+lorvangr = {
+	name = "dynn_Lorvangr"
+	culture = "eyarir"
+}
+rjovik = {
+	prefix = "dynnp_af"
+	name = "dynn_Rjovik"
+	culture = "eyarir"
+}
+skorvgarvung = {
+	name = "dynn_Skorvgarvung"
+	culture = "eyarir"
+}
+svarrulfr = {
+	name = "dynn_Svarrulfr"
+	culture = "eyarir"
+}
+vadntyrr = {
+	name = "dynn_Vadntyrr"
+	culture = "eyarir"
 }

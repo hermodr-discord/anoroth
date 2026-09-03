@@ -1,0 +1,104 @@
+﻿## Clan Bátor
+bator1 = {
+	name = Tas
+	dynasty = bator
+	religion = faith_oszeseg
+	culture = vogyd
+
+	8116.1.1 = { # 3A 3603
+		birth = yes
+	}
+	8184.1.1 = { # 3A 3671
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Erös
+eros1 = {
+	name = BE_gO_d
+	dynasty = eros
+	religion = faith_anorath
+	culture = vogyd
+
+	8137.1.1 = { # 3A 3624
+		birth = yes
+	}
+	8209.1.1 = { # 3A 3696
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Gyérme
+gyerme1 = {
+	name = HadU_r
+	dynasty = gyerme
+	religion = faith_anorath
+	culture = vogyd
+
+	8098.1.1 = { # 3A 3585
+		birth = yes
+	}
+	8175.1.1 = { # 3A 3662
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Hüvöny
+huvony1 = {
+	name = ZoltA_n
+	dynasty = huvony
+	religion = faith_anorath
+	culture = vogyd
+
+	8109.1.1 = { # 3A 3596
+		birth = yes
+	}
+	8183.1.1 = { # 3A 3670
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Kürmeses
+kurmeses1 = {
+	name = KardA_n
+	dynasty = kurmeses
+	religion = faith_anorath
+	culture = vogyd
+
+	8132.1.1 = { # 3A 3519
+		birth = yes
+	}
+	8208.1.1 = { # 3A 3695
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Nyörgede
+nyorgede1 = {
+	name = KO_gar
+	dynasty = nyorgede
+	religion = faith_anorath
+	culture = vogyd
+
+	8136.1.1 = { # 3A 3623
+		birth = yes
+	}
+	8206.1.1 = { # 3A 3693
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Ózsamak
+ozsamak1 = {
+	name = VaskO_
+	dynasty = ozsamak
+	religion = faith_oszeseg
+	culture = vogyd
+
+	8118.1.1 = { # 3A 3605
+		birth = yes
+	}
+	8189.1.1 = { # 3A 3676
+		death = { death_reason = death_natural_causes }
+	}
+}

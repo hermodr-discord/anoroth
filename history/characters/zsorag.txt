@@ -1,0 +1,59 @@
+﻿## Clan Ízgomar
+izgomar1 = {
+	name = MentsE_r
+	dynasty = izgomar
+	religion = faith_oszeseg
+	culture = heszo
+
+	8103.1.1 = { # 3A 3590
+		birth = yes
+	}
+	8175.1.1 = { # 3A 3662
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Tarcs
+tarcs1 = {
+	name = FE_nygar
+	dynasty = tarcs
+	religion = faith_oszeseg
+	culture = heszo
+
+	8135.1.1 = { # 3A 3622
+		birth = yes
+	}
+	8210.1.1 = { # 3A 3697
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Vondaras
+vondaras1 = {
+	name = O_sU_r
+	dynasty = vondaras
+	religion = faith_oszeseg
+	culture = heszo
+
+	8118.1.1 = { # 3A 3605
+		birth = yes
+	}
+	8195.1.1 = { # 3A 3682
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Zsarnók
+zsarnok1 = {
+	name = VasA_ny
+	dynasty = zsarnok
+	religion = faith_oszeseg
+	culture = heszo
+
+	8122.1.1 = { # 3A 3609
+		birth = yes
+	}
+	8193.1.1 = { # 3A 3680
+		death = { death_reason = death_natural_causes }
+	}
+}

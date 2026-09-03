@@ -1,14 +1,6 @@
-﻿d_csukarev = {
+﻿### Duchy of Csukarév
+d_csukarev = {
 	4514.1.1 = { change_development_level = 10 }
-
-	8166.1.1 = { # Duke Tauran I Vestyles | 3A 3653 - 3A 3686
-		holder = vestyles1
-		liege = e_anoroth
-		government = feudal_government
-	}
-}
-c_viharhegy = {
-	4514.1.1 = { change_development_level = 16 }
 
 	8166.1.1 = { # Duke Tauran I Vestyles | 3A 3653 - 3A 3686
 		holder = vestyles1
@@ -34,11 +26,64 @@ c_soslak = {
 		government = feudal_government
 	}
 }
+c_viharhegy = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Duke Tauran I Vestyles | 3A 3653 - 3A 3686
+		holder = vestyles1
+		liege = e_anoroth
+		government = feudal_government
+	}
+}
 c_nadszeg = {
 	4514.1.1 = { change_development_level = 11 }
 
 	8166.1.1 = { # Count Gyözúr Öz | 3A 3653 - 3A 3700
 		holder = oz1
+		government = tribal_government
+	}
+}
+### Duchy of Kócsagvár
+d_kocsagvar = {
+	4514.1.1 = { change_development_level = 6 }
+}
+c_kigyoszeg = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Mentsér Ízgomar | 3A 3653 - 3A 3662
+		holder = izgomar1
+		government = tribal_government
+	}
+}
+c_sargavolgye = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8166.1.1 = { # Count Mentsér Ízgomar | 3A 3653 - 3A 3662
+		holder = izgomar1
+		government = tribal_government
+	}
+}
+c_ilkony = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Count Fénygar Tarcs | 3A 3653 - 3A 3697
+		holder = tarcs1
+		government = tribal_government
+	}
+}
+c_szardony = {
+	4514.1.1 = { change_development_level = 8 }
+
+	8166.1.1 = { # Count Ösúr Vondaras | 3A 3653 - 3A 3682
+		holder = vondaras1
+		government = tribal_government
+	}
+}
+c_csereg = {
+	4514.1.1 = { change_development_level = 7 }
+
+	8166.1.1 = { # Count Vasány Zsarnók | 3A 3653 - 3A 3680
+		holder = zsarnok1
 		government = tribal_government
 	}
 }

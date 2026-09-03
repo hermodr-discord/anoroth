@@ -1,3 +1,116 @@
+k_nagyvolen = {
+	4514.1.1 = { change_development_level = 8 }
+
+	8166.1.1 = { # Karáy Bégöd I Erös | 3A 3653 - 3A 3696
+		holder = eros1
+		government = feudal_government
+	}
+}
+### Duchy of Ködvölgy
+d_kodvolgy = {
+	4514.1.1 = { change_development_level = 8 }
+
+	8166.1.1 = { # Karáy Bégöd I Erös | 3A 3653 - 3A 3696
+		holder = eros1
+		government = feudal_government
+	}
+}
+c_feherpart = {
+	4514.1.1 = { change_development_level = 27 }
+
+	8166.1.1 = { # Karáy Bégöd I Erös | 3A 3653 - 3A 3696
+		holder = eros1
+		government = feudal_government
+	}
+}
+c_halomhat = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Count Hadúr Gyérme | 3A 3653 - 3A 3662
+		holder = gyerme1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+c_aldaszeg = {
+	4514.1.1 = { change_development_level = 8 }
+
+	8166.1.1 = { # Duke Tas I Bátor | 3A 3653 - 3A 3671
+		holder = bator1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+c_dorvos = {
+	4514.1.1 = { change_development_level = 23 }
+
+	8166.1.1 = { # Karáy Bégöd I Erös | 3A 3653 - 3A 3696
+		holder = eros1
+		government = feudal_government
+	}
+}
+c_vadaszfok = {
+	4514.1.1 = { change_development_level = 18 }
+
+	8166.1.1 = { # Count Vaskö Ózsamak | 3A 3653 - 3A 3676
+		holder = ozsamak1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+### Duchy of Mocsárhát
+d_moscarhat = {
+	4514.1.1 = { change_development_level = 8 }
+}
+c_gyorhalom = {
+	4514.1.1 = { change_development_level = 20 }
+
+	8166.1.1 = { # Count Zoltán Hüvöny | 3A 3653 - 3A 3670
+		holder = huvony1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+c_marszeg = {
+	4514.1.1 = { change_development_level = 16 }
+
+	8166.1.1 = { # Count Kardán Kürmeses | 3A 3653 - 3A 3695
+		holder = kurmeses1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+c_tuszeg = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Count Kögar Nyörgede | 3A 3653 - 3A 3693
+		holder = nyorgede1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+### Duchy of Olómfészek
+d_olomfeszek = {
+	4514.1.1 = { change_development_level = 6 }
+}
+c_solyomliget = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Count Hadúr Gyérme | 3A 3653 - 3A 3662
+		holder = gyerme1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+c_rozsdalak = {
+	4514.1.1 = { change_development_level = 19 }
+
+	8166.1.1 = { # Count Zoltán Hüvöny | 3A 3653 - 3A 3670
+		holder = huvony1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
 c_receret = {
 	4514.1.1 = { change_development_level = 16 }
 

@@ -1,6 +1,6 @@
 ﻿
 k_oreg_garna = {
-	4514.1.1 = { change_development_level = 8 }
+	4514.1.1 = { change_development_level = 4 }
 
 	8166.1.1 = { # Governor Valos Orphanian | 3A 3653 - 3A 3655
 		holder = orphanian1
@@ -10,7 +10,7 @@ k_oreg_garna = {
 }
 ### Duchy of Suran
 d_suran = {
-	4514.1.1 = { change_development_level = 8 }
+	4514.1.1 = { change_development_level = 4 }
 
 	8166.1.1 = { # Governor Valos Orphanian | 3A 3653 - 3A 3655
 		holder = orphanian1
@@ -19,7 +19,7 @@ d_suran = {
 	}
 }
 c_ag_surna = {
-	4514.1.1 = { change_development_level = 13 }
+	4514.1.1 = { change_development_level = 11 }
 
 	8166.1.1 = { # Governor Valos Orphanian | 3A 3653 - 3A 3655
 		holder = orphanian1
@@ -28,7 +28,7 @@ c_ag_surna = {
 	}
 }
 c_slorag = {
-	4514.1.1 = { change_development_level = 11 }
+	4514.1.1 = { change_development_level = 9 }
 
 	8166.1.1 = { # Count Curnagun Ogmar | 3A 3653 - 3A 3694
 		holder = ogmar1
@@ -37,7 +37,7 @@ c_slorag = {
 	}
 }
 c_orna_siret = {
-	4514.1.1 = { change_development_level = 9 }
+	4514.1.1 = { change_development_level = 7 }
 
 	8166.1.1 = { # Count Nurag Fernul | 3A 3653 - 3A 3693
 		holder = fernul1
@@ -47,10 +47,10 @@ c_orna_siret = {
 }
 ### Duchy of Bagat
 d_bagat = {
-	4514.1.1 = { change_development_level = 8 }
+	4514.1.1 = { change_development_level = 4 }
 }
 c_yurnagul = {
-	4514.1.1 = { change_development_level = 9 }
+	4514.1.1 = { change_development_level = 6 }
 
 	8166.1.1 = { # Count Agorn Yugmal | 3A 3653 - 3A 3680
 		holder = yugmal1
@@ -59,7 +59,7 @@ c_yurnagul = {
 	}
 }
 c_elsha_goru = {
-	4514.1.1 = { change_development_level = 10 }
+	4514.1.1 = { change_development_level = 7 }
 
 	8166.1.1 = { # Count Surul Hulgesh | 3A 3653 - 3A 3708
 		holder = hulgesh1
@@ -68,7 +68,7 @@ c_elsha_goru = {
 	}
 }
 c_bragan = {
-	4514.1.1 = { change_development_level = 7 }
+	4514.1.1 = { change_development_level = 4 }
 
 	8166.1.1 = { # Count Bolg Fessaral | 3A 3653 - 3A 3668
 		holder = fessaral1
@@ -78,10 +78,10 @@ c_bragan = {
 }
 ### Duchy of Hagan
 d_hagan = {
-	4514.1.1 = { change_development_level = 8 }
+	4514.1.1 = { change_development_level = 4 }
 }
 c_oru_gareth = {
-	4514.1.1 = { change_development_level = 9 }
+	4514.1.1 = { change_development_level = 7 }
 
 	8166.1.1 = { # Count Bleg Yorn | 3A 3653 - 4A 1
 		holder = yorn1
@@ -90,7 +90,7 @@ c_oru_gareth = {
 	}
 }
 c_surnegul = {
-	4514.1.1 = { change_development_level = 10 }
+	4514.1.1 = { change_development_level = 8 }
 
 	8166.1.1 = { # Count Gorn-Surna Domgul | 3A 3653 - 3A 3671
 		holder = domgul1
@@ -99,7 +99,7 @@ c_surnegul = {
 	}
 }
 c_irulnath = {
-	4514.1.1 = { change_development_level = 11 }
+	4514.1.1 = { change_development_level = 9 }
 
 	8166.1.1 = { # Count Ulg Yenog | 3A 3653 - 3A 3658
 		holder = yenog1
@@ -109,10 +109,10 @@ c_irulnath = {
 }
 ### Duchy of Irul
 d_irul = {
-	4514.1.1 = { change_development_level = 8 }
+	4514.1.1 = { change_development_level = 4 }
 }
 c_irul = {
-	4514.1.1 = { change_development_level = 13 }
+	4514.1.1 = { change_development_level = 11 }
 
 	8166.1.1 = { # Count Dolg-Urgesh Ognul | 3A 3653 - 3A 3658
 		holder = ognul1
@@ -121,7 +121,7 @@ c_irul = {
 	}
 }
 c_ulg_rasan = {
-	4514.1.1 = { change_development_level = 11 }
+	4514.1.1 = { change_development_level = 8 }
 
 	8166.1.1 = { # Count Ilgaresh Fessagol | 3A 3653 - 3A 3673
 		holder = fessagol1
@@ -130,7 +130,7 @@ c_ulg_rasan = {
 	}
 }
 c_ulg_surnai = {
-	4514.1.1 = { change_development_level = 10 }
+	4514.1.1 = { change_development_level = 7 }
 
 	8166.1.1 = { # Count Olgun Doskag | 3A 3653 - 3A 3692
 		holder = doskag1
@@ -139,7 +139,7 @@ c_ulg_surnai = {
 	}
 }
 c_drelun = {
-	4514.1.1 = { change_development_level = 12 }
+	4514.1.1 = { change_development_level = 9 }
 
 	8166.1.1 = { # Count Sorn-Esha Aiognul | 3A 3653 - 3A 3683
 		holder = aiognul1

@@ -4267,7 +4267,7 @@ e_verodyska = { # Verodyska / Ophyreion
         }
         d_balisunnland = { # Bålisunnland
             color = { 119 143 80 }
-            capital = c_county_219
+            capital = c_helgisunn
 
             c_helgisunn = { # Helgisunn
                 color = { 119 143 80 }
@@ -6559,7 +6559,26 @@ e_oromseger = { # Orömseger / Galtharran
     }
 }
 
-#RELIGIOUS HEADS | All here just for brevity, comment out ones that are unused
+# TITULAR TITLES
+k_harumar_argam = {
+    color = { 255 211 15 }
+    definite_form = yes
+    landless = yes
+
+    capital = c_qal_saraal
+
+    de_jure_drift_disabled = yes
+}
+k_harumar_qarat = {
+    color = { 177 152 32 }
+    definite_form = yes
+    landless = yes
+
+    capital = c_qal_bedad
+
+    de_jure_drift_disabled = yes
+}
+
 k_eclipsed_realm = {
 	color = { 30 30 70 }
 	definite_form = yes

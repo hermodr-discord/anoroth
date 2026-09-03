@@ -1,69 +1,115 @@
 ﻿name_list_shidonem = {
 
 	cadet_dynasty_names = {
-		"dynn_Abbarid"
-		"dynn_Adonibaal"
-		"dynn_Ahirom"
-		"dynn_Baalhannid"
-		"dynn_Barca"
-		"dynn_Bodona"
-		"dynn_Bostara"
-		"dynn_Chelbesid"
-		"dynn_Eshbaalid"
-		"dynn_Eugorid"
-		"dynn_Hannid"
-		"dynn_Hiramid"
-		"dynn_Mago"
-		"dynn_Mattanid"
-		"dynn_Metallid"
-		"dynn_Milkiramid"
-		"dynn_Philosirid"
-		"dynn_Gisgo"
-		"dynn_Gerbalid"
-		"dynn_Hammid"
-		"dynn_Eugarid"
-		"dynn_Mashhid"
-		"dynn_Ummashid"
+		"dynn_Adurim"
+		"dynn_Adurot"
+		"dynn_Anaqay"
+		"dynn_Anaqim"
+		"dynn_Aqmarim"
+		"dynn_Baqatim"
+		"dynn_Baqatot"
+		"dynn_Baradur"
+		"dynn_Baranaq"
+		"dynn_Bardagal"
+		"dynn_Barhidal"
+		"dynn_Barhuram"
+		"dynn_Barqanash"
+		"dynn_Barruqqan"
+		"dynn_Barumqar"
+		"dynn_Bimarim"
+		"dynn_Dagalay"
+		"dynn_Dagalim"
+		"dynn_Ebbashim"
+		"dynn_Haqqunim"
+		"dynn_Harumay"
+		"dynn_Harumim"
+		"dynn_Hidalim"
+		"dynn_Hidalot"
+		"dynn_Iaaqrim"
+		"dynn_Kemerot"
+		"dynn_Kirunim"
+		"dynn_Marunim"
+		"dynn_Obbarim"
+		"dynn_Ottalim"
+		"dynn_Qanashath"
+		"dynn_Qanashay"
+		"dynn_Qanashim"
+		"dynn_Rabharum"
+		"dynn_Rabqanash"
+		"dynn_Rabumqar"
+		"dynn_Ruqqanim"
+		"dynn_Sabbaqot"
+		"dynn_Umqaray"
+		{ "dynnp_nem" "dynn_Azqanet" }
+		{ "dynnp_nem" "dynn_Habraal" }
+		{ "dynnp_nem" "dynn_Nazqanet" }
+		{ "dynnp_nem" "dynn_Tirquna" }
+		{ "dynnp_nem" "dynn_Uttaran" }
 	}
 
 	dynasty_names = {
-		"dynn_Abbarid"
-		"dynn_Adonibaal"
-		"dynn_Ahirom"
-		"dynn_Baalhannid"
-		"dynn_Barca"
-		"dynn_Bodona"
-		"dynn_Bostara"
-		"dynn_Chelbesid"
-		"dynn_Eshbaalid"
-		"dynn_Eugorid"
-		"dynn_Hannid"
-		"dynn_Hiramid"
-		"dynn_Mago"
-		"dynn_Mattanid"
-		"dynn_Metallid"
-		"dynn_Milkiramid"
-		"dynn_Philosirid"
-		"dynn_Gisgo"
-		"dynn_Gerbalid"
-		"dynn_Hammid"
-		"dynn_Eugarid"
-		"dynn_Mashhid"
-		"dynn_Ummashid"
+		"dynn_Adurim"
+		"dynn_Adurot"
+		"dynn_Anaqay"
+		"dynn_Anaqim"
+		"dynn_Aqmarim"
+		"dynn_Baqatim"
+		"dynn_Baqatot"
+		"dynn_Baradur"
+		"dynn_Baranaq"
+		"dynn_Bardagal"
+		"dynn_Barhidal"
+		"dynn_Barhuram"
+		"dynn_Barqanash"
+		"dynn_Barruqqan"
+		"dynn_Barumqar"
+		"dynn_Bimarim"
+		"dynn_Dagalay"
+		"dynn_Dagalim"
+		"dynn_Ebbashim"
+		"dynn_Haqqunim"
+		"dynn_Harumay"
+		"dynn_Harumim"
+		"dynn_Hidalim"
+		"dynn_Hidalot"
+		"dynn_Iaaqrim"
+		"dynn_Kemerot"
+		"dynn_Kirunim"
+		"dynn_Marunim"
+		"dynn_Obbarim"
+		"dynn_Ottalim"
+		"dynn_Qanashath"
+		"dynn_Qanashay"
+		"dynn_Qanashim"
+		"dynn_Rabharum"
+		"dynn_Rabqanash"
+		"dynn_Rabumqar"
+		"dynn_Ruqqanim"
+		"dynn_Sabbaqot"
+		"dynn_Umqaray"
+		{ "dynnp_nem" "dynn_Azqanet" }
+		{ "dynnp_nem" "dynn_Nazqanet" }
+		{ "dynnp_nem" "dynn_Saraal" }
+		{ "dynnp_nem" "dynn_Shadat" }
+		{ "dynnp_nem" "dynn_Uttaran" }
 	}
 
 	male_names = {
-		Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodo Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
-		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
-		Paltibaal Philosir Boodes Bomical Gisgo Malchus Abdhamon Abibaal Abirami Ahumm Eshmounhilles Eshmouniaton Itthobaal
-		Ummashtart Melqartshama Batnoam Urumilki Yehomilk Yadamilk Baaliaton Barekbaal Gerbaal Gerimilki Khiletzbaal Tabnit Yutpan Zimrida
-		Danel Kanmi Maharbaal Milkpilles Melqartpilles Milkyaton Massinissa Hiempsal Juba
+		Adonibaal Adurar Adurash Adurashon Ahiron Ahiron_BartoqA_r Anaqanu Anaqar Anaqenu Anaqesh Anqash Anqash_BartoqA_r Aqmaron Aqmash Azzaresh Azzunar Baal Baqatar Baqaton Baqqash Barmetiran BartoqA_r Bostar Dagalash DagaltoqA_r Dagalyaram Ebbashar Eddarim Ederash Ederon EderoqA_r Girzanu Hamilcar Haqqunar Harumash Harumon Harumtelun HarumtoqA_r Hemmaqar Hidalar Hidalon Immeshar Iqqarash Iqqarash_ToqA_ranu Kamanor Kemerash Kirunash Marunanu Marunash Mattan Mattan_BartoqA_r Metirash Metiresh Motarash Nirabesh Obbarash Ottalon Ozolar Ozolon Qanashanu Qanashar Qanashon Qannesh Rabmetiran RabtoqA_r Ruqqanmotar Ruqqash Sabbaqar Sabbaqon Sabbesh Sennatar Sennathidal Shezaranaq Shezarharum Shezarmidran Tamqilan ToqA_ranu ToqA_rash ToqA_resh Umqaranu Umqarenu Umqarlarmun Umqarmetiran Umqash Utlanar Yanqash YaramtoqA_r
 	}
 	female_names = {
-		Abdosir Arishat Astarte Batnoam Dido Shayna Sophonisba Tamar Adiya Tabua Yapa Ytab Suhaima Huldu Mashah Gamila Asherah Izavel Iezabel Elissa Muttunbaal
+		Adura Adura_ToqA_rit Adurit Anaqa Anaqit Aqmara Aqmarit Arishat Asherah Asherah_ToqA_rit Azzala Baqata Bimara Bimarit Dagala Dagalit Dazzura Ebbasha Eddarit Edera Eskalit Girzanit Haqquna Haqqunit Harrith Haruma Hidala Hidalit Immesha Iqqara Iqqarit Kamana Kemerit Maruna Menzara Metirisha Nesaranit NesartoqA_r Obbarit Qanasha Qanashit Ruqqana Ruqqanmotara Sabbaqa ToqA_ranit ToqA_risha ToqA_rit Taqqara Umqara Ushara Ushara_ToqA_rit Zeqala Zeqalit
 	}
 	
-	dynasty_of_location_prefix = "dynnp_of"
+	dynasty_of_location_prefix = "dynnp_nem"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 35
+	mat_grf_name_chance = 20
+	father_name_chance = 5
 	
-	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 35
+	mother_name_chance = 5
 }

@@ -1,0 +1,136 @@
+﻿l_english:
+ #### Generic inserts
+ ### Constants
+
+ ## Era Dates
+ ERA_FIRST_END: "'(int32)2136'"
+ ERA_SECOND_END: "'(int32)4513'"
+ ERA_THIRD_END: "'(int32)8232'"
+
+ ### In-Game
+ ## DATE Replacements
+ # ERA 
+ ERA_SEL_IG: "[Select_CString(And(GreaterThan_int32('(int32)$YEAR|q$', FixedPointToInt(EmptyScope.ScriptValue('era_4_year'))),EqualTo_int32('(int32)1', FixedPointToInt(EmptyScope.ScriptValue('fourth_age_sauron_defeated')))), '4A',Select_CString( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)4513'), '3A', Select_CString( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)2136'), '2A', '1A' ) ) )]"
+ ERA_SEL_IG_FRONTEND_BOOKMARK: "[Select_CString(GreaterThan_int32( '(int32)$YEAR|q$', '(int32)8232'), '4A',Select_CString( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)4513'), '3A', Select_CString( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)2136'), '2A', '1A' ) ) )]"
+ # YEAR
+ YEAR_SEL_IG: "[Select_int32(And(GreaterThan_int32('(int32)$YEAR|q$', FixedPointToInt(EmptyScope.ScriptValue('era_4_year'))),EqualTo_int32('(int32)1', FixedPointToInt(EmptyScope.ScriptValue('fourth_age_sauron_defeated')))), Subtract_int32( '(int32)$YEAR|q$', FixedPointToInt(EmptyScope.ScriptValue('era_4_year')) ),Select_int32( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)4513'), Subtract_int32( '(int32)$YEAR|q$', '(int32)4513' ) , Select_int32( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)2136'), Subtract_int32( '(int32)$YEAR|q$', '(int32)2136' ) , Max_int32( '(int32)$YEAR|q$', '(int32)1' ) ) ) )]"
+ YEAR_SEL_IG_FRONTEND_BOOKMARK: "[Select_int32(GreaterThan_int32( '(int32)$YEAR|q$', '(int32)8232'), Subtract_int32( '(int32)$YEAR|q$', '(int32)8232' ),Select_int32( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)4513'), Subtract_int32( '(int32)$YEAR|q$', '(int32)4513' ) , Select_int32( GreaterThan_int32( '(int32)$YEAR|q$', '(int32)2136'), Subtract_int32( '(int32)$YEAR|q$', '(int32)2136' ) , Max_int32( '(int32)$YEAR|q$', '(int32)1' ) ) ) )]"
+
+ ERA_YEAR_SEL_IG_COMBINED: "$ERA_SEL_IG$ $YEAR_SEL_IG$"
+ ERA_YEAR_SEL_IG_FRONTEND_BOOKMARK_COMBINED: "$ERA_SEL_IG_FRONTEND_BOOKMARK$ $YEAR_SEL_IG_FRONTEND_BOOKMARK$"
+
+ ### Culture Window
+ ## DATE Replacements
+ # ERA
+ ERA_SEL_CULTURE: "[Select_CString(GreaterThan_int32(DATE.GetYear, '(int32)8232'), '4A', Select_CString(GreaterThan_int32(DATE.GetYear, '(int32)4513'), '3A', Select_CString(GreaterThan_int32(DATE.GetYear, '(int32)2136'), '2A', '1A' )))]"
+ # YEAR
+ YEAR_SEL_CULTURE: "[Select_int32(GreaterThanOrEqualTo_int32(DATE.GetYear, '(int32)8232' ), Subtract_int32(DATE.GetYear, '(int32)8232' ), Select_int32(GreaterThanOrEqualTo_int32(DATE.GetYear, '(int32)4513' ), Subtract_int32(DATE.GetYear, '(int32)4513' ), Select_int32(GreaterThan_int32( DATE.GetYear, '(int32)2136' ), Subtract_int32( DATE.GetYear, '(int32)2136' ), DATE.GetYear )))]"
+
+ ERA_YEAR_SEL_CULTURE_COMBINED: "$ERA_SEL_CULTURE$ $YEAR_SEL_CULTURE$"
+
+ ## ERA JOINED/LEFT Replacements
+ # ERA
+ ERA_SEL_JOINED: "[Select_CString(GreaterThan_int32('(int32)$JOINED|q$', '(int32)8232'), '4A', Select_CString(GreaterThan_int32('(int32)$JOINED|q$', '(int32)4513'), '3A', Select_CString(GreaterThan_int32('(int32)$JOINED|q$', '(int32)2136'), '2A', '1A')))]"
+ ERA_SEL_LEFT: "[Select_CString(GreaterThan_int32('(int32)$LEFT|q$', '(int32)8232'), '4A', Select_CString(GreaterThan_int32('(int32)$LEFT|q$', '(int32)4513'), '3A', Select_CString(GreaterThan_int32('(int32)$LEFT|q$', '(int32)2136'), '2A', '1A')))]"
+ # YEAR
+ YEAR_SEL_JOINED: "[Select_int32(GreaterThanOrEqualTo_int32('(int32)$JOINED|q$', '(int32)8232'), Subtract_int32('(int32)$JOINED|q$', '(int32)8232'), Select_int32(GreaterThanOrEqualTo_int32('(int32)$JOINED|q$', '(int32)4513'), Subtract_int32('(int32)$JOINED|q$', '(int32)4513'), Select_int32(GreaterThan_int32('(int32)$JOINED|q$', '(int32)2136'), Subtract_int32('(int32)$JOINED|q$', '(int32)2136'),'(int32)$JOINED|q$' )))]"
+ YEAR_SEL_LEFT: "[Select_int32(GreaterThanOrEqualTo_int32('(int32)$LEFT|q$', '(int32)8232'), Subtract_int32('(int32)$LEFT|q$', '(int32)8232'), Select_int32(GreaterThanOrEqualTo_int32('(int32)$LEFT|q$', '(int32)4513'), Subtract_int32('(int32)$LEFT|q$', '(int32)4513'), Select_int32(GreaterThan_int32('(int32)$LEFT|q$', '(int32)2136'), Subtract_int32('(int32)$LEFT|q$', '(int32)2136'),'(int32)$LEFT|q$' )))]"
+
+ ERA_YEAR_SEL_JOINED_COMBINED: "$ERA_SEL_JOINED$ $YEAR_SEL_JOINED$"
+ ERA_YEAR_SEL_LEFT_COMBINED: "$ERA_SEL_LEFT$ $YEAR_SEL_LEFT$"
+
+ ### Dynasty Founding Date
+ ## DATE Replacements
+ # ERA
+ ERA_SEL_DYNFOUND: "[Select_CString(GreaterThan_int32( DynastyHouse.GetFoundYear, '(int32)8232'), '4A',Select_CString( GreaterThan_int32( DynastyHouse.GetFoundYear, '(int32)4513'), '3A', Select_CString( GreaterThan_int32( DynastyHouse.GetFoundYear, '(int32)2136'), '2A', '1A' ) ) )]"
+ # YEAR
+ YEAR_SEL_DYNFOUND: "[Select_int32(GreaterThan_int32( DynastyHouse.GetFoundYear, '(int32)8232'), Subtract_int32( DynastyHouse.GetFoundYear, '(int32)8232' ),Select_int32( GreaterThan_int32( DynastyHouse.GetFoundYear, '(int32)4513'), Subtract_int32( DynastyHouse.GetFoundYear, '(int32)4513' ) , Select_int32( GreaterThan_int32( DynastyHouse.GetFoundYear, '(int32)2136'), Subtract_int32( DynastyHouse.GetFoundYear, '(int32)2136' ) , DynastyHouse.GetFoundYear ) ) )]"
+
+ ERA_YEAR_SEL_DYNFOUND_COMBINED: "$ERA_SEL_DYNFOUND$ $YEAR_SEL_DYNFOUND$"
+
+ ### Ruler Designer Birth Date
+ ## DATE Replacements
+ # ERA 
+ ERA_SEL_RULDESBIRTH: "[Select_CString(GreaterThan_int32( RulerDesignerWindow.GetBirthYear, '(int32)8232'), '4A',Select_CString( GreaterThan_int32( RulerDesignerWindow.GetBirthYear, '(int32)4513'), '3A', Select_CString( GreaterThan_int32( RulerDesignerWindow.GetBirthYear, '(int32)2136'), '2A', '1A' ) ) )]"
+ # YEAR
+ YEAR_SEL_RULDESBIRTH: "[Select_int32( GreaterThan_int32( RulerDesignerWindow.GetBirthYear, '(int32)8232'), Subtract_int32( RulerDesignerWindow.GetBirthYear, '(int32)8232' ), Select_int32( GreaterThan_int32( RulerDesignerWindow.GetBirthYear, '(int32)4513'), Subtract_int32( RulerDesignerWindow.GetBirthYear, '(int32)4513' ) , Select_int32( GreaterThan_int32( RulerDesignerWindow.GetBirthYear, '(int32)2136'), Subtract_int32( RulerDesignerWindow.GetBirthYear, '(int32)2136' ) , RulerDesignerWindow.GetBirthYear ) ) )]"
+
+ ERA_YEAR_SEL_RULDESBIRTH_COMBINED: "$ERA_SEL_RULDESBIRTH$ $YEAR_SEL_RULDESBIRTH$"
+
+ ### Main Menu
+ ## SaveGameItem
+ # ERA 
+ ERA_SEL_SGI: "[Select_CString( GreaterThan_int32(GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)8232'),'4A ',Select_CString( GreaterThan_int32(GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)4513'),'3A ',Select_CString( GreaterThan_int32(GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)2136'),'2A ','1A ') ) )]"
+ # YEAR
+ YEAR_SEL_SGI: "[Select_int32( GreaterThan_int32(GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)8232'), Subtract_int32( GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)8232' ) ,Select_int32( GreaterThan_int32(GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)4513'), Subtract_int32( GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)4513' ),Select_int32( GreaterThan_int32(GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)2136'), Subtract_int32( GameSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)2136' ), GameSetup.GetSelectedBookmark.GetDate.GetYear ) ) )]"
+
+ ERA_YEAR_SEL_SGI_COMBINED: "$ERA_SEL_SGI$ $YEAR_SEL_SGI$"
+ 
+ ## BookmarkSelectRuler
+ # ERA
+ ERA_SEL_SR: "$ERA_SEL_SGI$"
+ # YEAR
+ YEAR_SEL_SR: "$YEAR_SEL_SGI$"
+ 
+ ERA_YEAR_SR_COMBINED: "$ERA_YEAR_SEL_SGI_COMBINED$"
+
+ ## BookmarkSelectedDate
+ # ERA
+ ERA_SEL_BSD: "[Select_CString( GreaterThan_int32(GameSetup.GetSelectedDate.GetYear, '(int32)8232'),'4A ',Select_CString( GreaterThan_int32(GameSetup.GetSelectedDate.GetYear, '(int32)4513'),'3A ',Select_CString( GreaterThan_int32(GameSetup.GetSelectedDate.GetYear, '(int32)2136'),'2A ','1A ') ) )]"
+ # YEAR
+ YEAR_SEL_BSD: "[Select_int32( GreaterThan_int32(GameSetup.GetSelectedDate.GetYear, '(int32)8232'), Subtract_int32( GameSetup.GetSelectedDate.GetYear, '(int32)8232' ) ,Select_int32( GreaterThan_int32(GameSetup.GetSelectedDate.GetYear, '(int32)4513'), Subtract_int32( GameSetup.GetSelectedDate.GetYear, '(int32)4513' ),Select_int32( GreaterThan_int32(GameSetup.GetSelectedDate.GetYear, '(int32)2136'), Subtract_int32( GameSetup.GetSelectedDate.GetYear, '(int32)2136' ), GameSetup.GetSelectedDate.GetYear ) ) )]"
+
+ ERA_YEAR_SEL_BSD_COMBINED: "$ERA_SEL_BSD$ $YEAR_SEL_BSD$"
+ 
+ ## BookmarkItemDate
+ # ERA
+ ERA_SEL_BID: "[Select_CString( GreaterThan_int32(BookmarkItem.GetDate.GetYear, '(int32)8232'),'4A ',Select_CString( GreaterThan_int32(BookmarkItem.GetDate.GetYear, '(int32)4513'),'3A ',Select_CString( GreaterThan_int32(BookmarkItem.GetDate.GetYear, '(int32)2136'),'2A ','1A ') ) )]"
+ # YEAR
+ YEAR_SEL_BID: "[Select_int32( GreaterThan_int32(BookmarkItem.GetDate.GetYear, '(int32)8232'), Subtract_int32( BookmarkItem.GetDate.GetYear, '(int32)8232' ) ,Select_int32( GreaterThan_int32(BookmarkItem.GetDate.GetYear, '(int32)4513'), Subtract_int32(BookmarkItem.GetDate.GetYear, '(int32)4513' ),Select_int32( GreaterThan_int32(BookmarkItem.GetDate.GetYear, '(int32)2136'), Subtract_int32( BookmarkItem.GetDate.GetYear, '(int32)2136' ), BookmarkItem.GetDate.GetYear ) ) )]"
+
+ ERA_YEAR_SEL_BID_COMBINED: "$ERA_SEL_BID$ $YEAR_SEL_BID$"
+
+ ## MP_Game_Setup_Date
+ # ERA
+ ERA_SEL_MPGSD: "[Select_CString( GreaterThan_int32(MpBookmarkItem.GetDate.GetYear, '(int32)8232'),'4A',Select_CString( GreaterThan_int32(MpBookmarkItem.GetDate.GetYear, '(int32)4513'),'3A',Select_CString( GreaterThan_int32(MpBookmarkItem.GetDate.GetYear, '(int32)2136'),'2A','1A') ) )]"
+ # YEAR
+ YEAR_SEL_MPGSD: "[Select_int32( GreaterThan_int32(MpBookmarkItem.GetDate.GetYear, '(int32)8232'), Subtract_int32( MpBookmarkItem.GetDate.GetYear, '(int32)8232' ) ,Select_int32( GreaterThan_int32(MpBookmarkItem.GetDate.GetYear, '(int32)4513'), Subtract_int32(MpBookmarkItem.GetDate.GetYear, '(int32)4513' ),Select_int32( GreaterThan_int32(MpBookmarkItem.GetDate.GetYear, '(int32)2136'), Subtract_int32( MpBookmarkItem.GetDate.GetYear, '(int32)2136' ), MpBookmarkItem.GetDate.GetYear ) ) )]"
+
+ ERA_YEAR_SEL_MPGSD_COMBINED: "$ERA_SEL_MPGSD$ $YEAR_SEL_MPGSD$"
+ 
+ ## MP_Game_Setup_Bookmark_Date
+ # ERA
+ ERA_SEL_MPGSBD: "[Select_CString( GreaterThan_int32(GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)8232'),'4A ',Select_CString( GreaterThan_int32(GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)4513'),'3A ',Select_CString( GreaterThan_int32(GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)2136'),'2A ','1A ') ) )]"
+ # YEAR
+ YEAR_SEL_MPGSBD: "[Select_int32( GreaterThan_int32(GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)8232'), Subtract_int32( GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)8232' ) ,Select_int32( GreaterThan_int32(GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)4513'), Subtract_int32(GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)4513' ),Select_int32( GreaterThan_int32(GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)2136'), Subtract_int32( GameMpSetup.GetSelectedBookmark.GetDate.GetYear, '(int32)2136' ), GameMpSetup.GetSelectedBookmark.GetDate.GetYear ) ) )]"
+
+ ERA_YEAR_SEL_MPGSBD_COMBINED: "$ERA_SEL_MPGSBD$ $YEAR_SEL_MPGSBD$"
+
+ ### DATE_STRING replacements
+ GAME_DATE_STRING: "$DAY|O$ $MONTH$, $ERA_SEL_IG$ $YEAR_SEL_IG$"
+ GAME_DATE_STRING_SHORT: "$DAY|O$ $MONTH_SHORT$, $ERA_SEL_IG$ $YEAR_SEL_IG$"
+ GAME_DATE_STRING_SHORT_NO_YEAR: "$DAY|O$ $MONTH$"
+ GAME_DATE_STRING_LONG: "$DAY|O$ of $MONTH$, $ERA_SEL_IG$ $YEAR_SEL_IG$"
+ GAME_DATE_STRING_ERA_CE: ""
+ GAME_DATE_STRING_ERA_BCE: ""
+ HOUSE_VIEW_FOUNDED: "Founded in $ERA_SEL_DYNFOUND$ $YEAR_SEL_DYNFOUND$ by [DynastyHouse.GetFounder.GetName]"
+ HOUSE_LIST_FOUNDATION: "Founded in $ERA_SEL_DYNFOUND$ $YEAR_SEL_DYNFOUND$"
+ RULER_DESIGNER_BIRTH_YEAR: "Born: $ERA_SEL_RULDESBIRTH$ $YEAR_SEL_RULDESBIRTH$"
+ BOOKMARK_DATE_STRING: "$DAY|O$ $MONTH$, $ERA_SEL_IG_FRONTEND_BOOKMARK$ $YEAR_SEL_IG_FRONTEND_BOOKMARK$"
+ 
+ ### Text replacements in main menu
+ FRONTEND_CONTINUE_TT: "#T Continue From Save Game\n#!"[SaveGameItem.GetName]"\n[SaveGameItem.GetPlayerName|V]\n[SaveGameItem.GetTitleName|VU]\n[SaveGameItem.GetDate.GetStringShortNoYear|V], $ERA_SEL_SGI$ $YEAR_SEL_SGI$\n[Select_CString(SaveGameItem.IsCloudSave, 'Cloud Save', '' )]"
+ LOAD_SAVE_ITEM_DATE: "Date: [SaveGameItem.GetDate.GetStringShortNoYear], $ERA_SEL_SGI$ $YEAR_SEL_SGI$"
+ PICK_ANY_CHARACTER: "Play as any Ruler in $ERA_SEL_SR$$YEAR_SEL_SR$"
+ 
+ ### Replacements in GUI files 
+ ## gui/frontend_bookmarks.gui
+ # Default: [GameSetup.GetSelectedDate.GetStringLong]
+ frontend_bookmarks_date_replace: "[GameSetup.GetSelectedDate.GetStringShortNoYear], $ERA_SEL_BSD$ $YEAR_SEL_SGI$" 
+ # Default: [BookmarkItem.GetYear]
+ frontend_bookmarks_bmI_date_replace: "$ERA_SEL_BID$ $YEAR_SEL_BID$"
+ ## gui/frontend_mp_game_setup.gui
+ # Default: [MpBookmarkItem.GetDate.GetStringLong]
+ frontend_mp_game_setup_date_replace: "[MpBookmarkItem.GetDate.GetStringShortNoYear], $ERA_SEL_MPGSD$ $YEAR_SEL_MPGSD$"
+ # Default: [GameMpSetup.GetSelectedBookmark.GetDate.GetString]
+ frontend_mp_game_setup_bookmark_date_replace: "[GameMpSetup.GetSelectedBookmark.GetDate.GetStringShortNoYear], $ERA_SEL_MPGSBD$ $YEAR_SEL_MPGSBD$"

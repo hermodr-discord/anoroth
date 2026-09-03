@@ -1,0 +1,119 @@
+﻿## Clan Azzunim
+azzunim1 = {
+	name = Haqqunar
+	dynasty = azzunim
+	religion = faith_toqarut
+	culture = qaratan
+
+	8098.1.1 = { # 3A 3585
+		birth = yes
+	}
+	8170.1.1 = { # 3A 3657
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Barreder
+barreder1 = {
+	name = Marunanu
+	dynasty = barreder
+	religion = faith_toqarut
+	culture = qaratan
+
+	8144.1.1 = { # 3A 3631
+		birth = yes
+	}
+	8219.1.1 = { # 3A 3706
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Barzubar
+barzubar1 = {
+	name = Adurash
+	dynasty = barzubar
+	religion = faith_toqarut
+	culture = qaratan
+
+	8113.1.1 = { # 3A 3600
+		birth = yes
+	}
+	8183.1.1 = { # 3A 3670
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Ederot
+ederot1 = {
+	name = Anaqar
+	dynasty = ederot
+	religion = faith_toqarut
+	culture = qaratan
+
+	8136.1.1 = { # 3A 3623
+		birth = yes
+	}
+	8208.1.1 = { # 3A 3695
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Rabtarzun
+rabtarzun1 = {
+	name = DagaltoqA_r
+	dynasty = rabtarzun
+	religion = faith_toqarut
+	culture = qaratan
+
+	8121.1.1 = { # 3A 3608
+		birth = yes
+	}
+	8191.1.1 = { # 3A 3678
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Ruqqanesh
+ruqqanesh1 = {
+	name = Shezaranaq
+	dynasty = ruqqanesh
+	religion = faith_toqarut
+	culture = qaratan
+
+	8116.1.1 = { # 3A 3603
+		birth = yes
+	}
+	8186.1.1 = { # 3A 3673
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Sarqanash
+sarqanash1 = {
+	name = Mattan
+	dynasty = sarqanash
+	religion = faith_toqarut
+	culture = qaratan
+
+	8133.1.1 = { # 3A 3620
+		birth = yes
+	}
+	8203.1.1 = { # 3A 3690
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Sarumqar
+sarumqar1 = {
+	name = Iqqarash_ToqA_ranu
+	dynasty = sarumqar
+	religion = faith_toqarut
+	culture = qaratan
+
+	8132.1.1 = { # 3A 3619
+		birth = yes
+	}
+	8215.1.1 = { # 3A 3702
+		death = { death_reason = death_natural_causes }
+	}
+}

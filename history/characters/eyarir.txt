@@ -1,0 +1,119 @@
+﻿## House Gnöstr
+gnostr1 = { 
+	name = EinT_olgr
+	dynasty = gnostr
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8106.1.1 = { # 3A 3593
+		birth = yes
+	}
+	8231.1.1 = { # 3A 3664
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Halgnþarr
+halgntarr1 = { 
+	name = Draugnir
+	dynasty = halgntarr
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8121.1.1 = { # 3A 3608
+		birth = yes
+	}
+	8195.1.1 = { # 3A 3682
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Irmaneðr
+irmanedr1 = { 
+	name = EingrI_mr
+	dynasty = irmanedr
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8140.1.1 = { # 3A 3627
+		birth = yes
+	}
+	8219.1.1 = { # 3A 3706
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Lörvangr
+lorvangr1 = { 
+	name = GnA_rrU_n
+	dynasty = lorvangr
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8131.1.1 = { # 3A 3618
+		birth = yes
+	}
+	8201.1.1 = { # 3A 3688
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House af Rjovik
+rjovik1 = { 
+	name = KvA_nvI_gD_r
+	dynasty = rjovik
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8134.1.1 = { # 3A 3621
+		birth = yes
+	}
+	8197.1.1 = { # 3A 3684
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Skörvgarvung
+skorvgarvung1 = { 
+	name = Y_mvaldr
+	dynasty = skorvgarvung
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8147.1.1 = { # 3A 3610
+		birth = yes
+	}
+	8193.1.1 = { # 3A 3680
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Svarrúlfr
+svarrulfr1 = {
+	name = Ingavr
+	dynasty = svarrulfr
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8099.1.1 = { # 3A 3586
+		birth = yes
+	}
+	8169.1.1 = { # 3A 3656
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## House Vaðntyrr
+vadntyrr1 = { 
+	name = HrO_lfr
+	dynasty = vadntyrr
+	religion = faith_ronarvir
+	culture = eyarir
+
+	8114.1.1 = { # 3A 3601
+		birth = yes
+	}
+	8184.1.1 = { # 3A 3671
+		death = { death_reason = death_natural_causes }
+	}
+}

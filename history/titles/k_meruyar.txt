@@ -1,0 +1,505 @@
+﻿### Duchy of Hageland
+d_hageland = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Duke Einþolgr Gnöstr | 3A 3653 - 3A 3664
+		holder = gnostr1
+		government = tribal_government
+	}
+}
+c_tharor = {
+	4514.1.1 = { change_development_level = 17 }
+
+	8166.1.1 = { # Duke Einþolgr Gnöstr | 3A 3653 - 3A 3664
+		holder = gnostr1
+		government = tribal_government
+	}
+}
+c_theivr = {
+	4514.1.1 = { change_development_level = 14 }
+
+	8166.1.1 = { # Duke Einþolgr Gnöstr | 3A 3653 - 3A 3664
+		holder = gnostr1
+		government = tribal_government
+	}
+}
+c_konning = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Draugnir Halgnþarr | 3A 3653 - 3A 3682
+		holder = halgntarr1
+		liege = d_hageland
+		government = tribal_government
+	}
+}
+c_rjovik = {
+	4514.1.1 = { change_development_level = 15 }
+
+	8166.1.1 = { # Count Kvánvígðr af Rjovik | 3A 3653 - 3A 3684
+		holder = rjovik1
+		liege = d_hageland
+		government = tribal_government
+	}
+}
+c_midgar = {
+	4514.1.1 = { change_development_level = 13 }
+}
+### Duchy of Ljundland
+d_ljundland = {
+	4514.1.1 = { change_development_level = 8 }
+}
+c_ljund = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Eingrímr Irmaneðr | 3A 3653 - 3A 3706
+		holder = irmanedr1
+		government = tribal_government
+	}
+}
+c_venstre = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Gnárrún Lörvangr | 3A 3653 - 3A 3688
+		holder = lorvangr1
+		government = tribal_government
+	}
+}
+c_sejvik = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Ýmvaldr Skörvgarvung | 3A 3653 - 3A 3680
+		holder = skorvgarvung1
+		government = tribal_government
+	}
+}
+c_vidarr = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Count Ýmvaldr Skörvgarvung | 3A 3653 - 3A 3680
+		holder = skorvgarvung1
+		government = tribal_government
+	}
+}
+c_kalfarl = {
+	4514.1.1 = { change_development_level = 12 }
+
+	8166.1.1 = { # Count Ýmvaldr Skörvgarvung | 3A 3653 - 3A 3680
+		holder = skorvgarvung1
+		government = tribal_government
+	}
+}
+### Duchy of Bålisunnland
+d_balisunnland = {
+	4514.1.1 = { change_development_level = 4 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Hazzur Haqqunar Azzunim | 3A 3653 - 3A 3655
+		holder = azzunim1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_helgisunn = {
+	4514.1.1 = { change_development_level = 9 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Hazzur Haqqunar Azzunim | 3A 3653 - 3A 3655
+		holder = azzunim1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_eidarr = {
+	4514.1.1 = { change_development_level = 11 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Hazzur Haqqunar Azzunim | 3A 3653 - 3A 3655
+		holder = azzunim1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_harnur = {
+	4514.1.1 = { change_development_level = 7 }
+
+	8166.1.1 = { # Count Hrólfr Vaðntyrr | 3A 3653 - 3A 3671
+		holder = vadntyrr1
+		liege = d_balisunnland
+		government = tribal_government
+	}
+}
+c_barla = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8166.1.1 = { # Count Ingavr Svarrúlfr | 3A 3653 - 3A 3656
+		holder = svarrulfr1
+		liege = d_balisunnland
+		government = tribal_government
+	}
+}
+### Duchy of Sharatayn
+d_sharatayn = {
+	4514.1.1 = { change_development_level = 8 }
+}
+c_saras = {
+	4514.1.1 = { change_development_level = 14 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zaqqin Marunanu Barreder | 3A 3653 - 3A 3655
+		holder = barreder1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_sher = {
+	4514.1.1 = { change_development_level = 12 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zaqqin Marunanu Barreder | 3A 3653 - 3A 3655
+		holder = barreder1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_merd_gebal = {
+	4514.1.1 = { change_development_level = 13 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zaqqin Anaqar Ederot | 3A 3653 - 3A 3695
+		holder = ederot1
+		liege = k_harumar_qarat
+	}
+}
+c_qal_sarban = {
+	4514.1.1 = { change_development_level = 16 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zaqqin Mattan Sarqanash | 3A 3653 - 3A 3690
+		holder = sarqanash1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_qarash = {
+	4514.1.1 = { change_development_level = 9 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zaqqin Dagaltoqār Rabtarzun | 3A 3653 - 3A 3678
+		holder = rabtarzun1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_qal_bedad = {
+	4514.1.1 = { change_development_level = 12 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Azzar Iqqarash Toqāranu Sarumqar | 3A 3653 - 3A 3702
+		holder = sarumqar1
+	}
+}
+### Duchy of Egresht
+d_egresht = {
+	4514.1.1 = { change_development_level = 8 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Hazzur Shezaranaq Ruqqanesh | 3A 3653 - 3A 3673
+		holder = ruqqanesh1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_qal_hedayt = {
+	4514.1.1 = { change_development_level = 15 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Hazzur Shezaranaq Ruqqanesh | 3A 3653 - 3A 3673
+		holder = ruqqanesh1
+		tributary_of = {
+			suzerain = k_harumar_qarat
+			contract_group = tributary_settled
+		}
+	}
+}
+c_shadat = {
+	4514.1.1 = { change_development_level = 10 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zaqqin Adurash Barzubar | 3A 3653 - 3A 3670
+		holder = barzubar1
+		liege = d_egresht
+	}
+}
+c_dama = {
+	4514.1.1 = { change_development_level = 12 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zaqqin Anaqar Ederot | 3A 3653 - 3A 3695
+		holder = ederot1
+		liege = k_harumar_qarat
+	}
+}
+
+
+
+### Temporary Location
+k_harumar_qarat = {
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8165.1.1 = { # Azzar Iqqarash Toqāranu Sarumqar | 3A 3652 - 3A 3702
+		holder = sarumqar1
+	}
+}

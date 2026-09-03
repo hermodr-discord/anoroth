@@ -48,6 +48,36 @@ aradat1 = {
 	}
 }
 
+## Clan Csamány
+csamany1 = {
+	name = KO_nyI_l
+	dynasty = csamany
+	religion = faith_oszeseg
+	culture = helyv
+
+	8145.1.1 = { # 3A 3632
+		birth = yes
+	}
+	8219.1.1 = { # 3A 3706
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Ézgeret
+ezgeret1 = {
+	name = Kardos
+	dynasty = ezgeret
+	religion = faith_oszeseg
+	culture = helyv
+
+	8110.1.1 = { # 3A 3597
+		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
+	}
+}
+
 ## Clan Gyözelmes
 gyozelmes1 = {
 	name = Avar
@@ -78,6 +108,21 @@ hadvihar1 = {
 	}
 }
 
+## Clan Kurdány
+kurdany1 = {
+	name = VE_rend
+	dynasty = kurdany
+	religion = faith_oszeseg
+	culture = helyv
+
+	8101.1.1 = { # 3A 3588
+		birth = yes
+	}
+	8174.1.1 = { # 3A 3661
+		death = { death_reason = death_natural_causes }
+	}
+}
+
 ## Clan Medveség
 medveseg1 = {
 	name = EszE_ly
@@ -89,6 +134,21 @@ medveseg1 = {
 		birth = yes
 	}
 	8218.1.1 = { # 3A 3705
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Mocsár
+mocsar1 = {
+	name = EszE_ly
+	dynasty = mocsar
+	religion = faith_oszeseg
+	culture = helyv
+
+	8147.1.1 = { # 3A 3634
+		birth = yes
+	}
+	8225.1.1 = { # 3A 3712
 		death = { death_reason = death_natural_causes }
 	}
 }
@@ -151,4 +211,4 @@ zuhatag1 = {
 	8185.1.1 = { # 3A 3672
 		death = { death_reason = death_natural_causes }
 	}
-}
+} 

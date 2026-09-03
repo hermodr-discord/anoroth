@@ -1,11 +1,37 @@
-﻿c_cserteto = {
-	4514.1.1 = { change_development_level = 12 }
+﻿### Duchy of Darurét
+d_daruret = {
+	4514.1.1 = { change_development_level = 8 }
+}
+c_hoszeg = {
+	4514.1.1 = { change_development_level = 10 }
 
-	8166.1.1 = { # Count Etxegor Otsagieta | 3A 3653 - 3A 3688
-		holder = otsagieta1
-		liege = d_ulvorna
+	8166.1.1 = { # Count Örs Zivatar | 3A 3653 - 3A 3667
+		holder = zivatar1
+		liege = d_belvatz
 		government = feudal_government
 	}
+}
+c_melyto = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Count Kardán Turul | 3A 3653 - 3A 3696
+		holder = turul1
+		liege = d_morannos
+		government = feudal_government
+	}
+}
+c_daruvar = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Kardán Turul | 3A 3653 - 3A 3696
+		holder = turul1
+		liege = d_morannos
+		government = feudal_government
+	}
+}
+### Duchy of Farkashát
+d_farkashat = {
+	4514.1.1 = { change_development_level = 8 }
 }
 c_holloberek = {
 	4514.1.1 = { change_development_level = 11 }
@@ -34,30 +60,85 @@ c_vashat = {
 		government = feudal_government
 	}
 }
-c_hoszeg = {
-	4514.1.1 = { change_development_level = 10 }
+c_cserteto = {
+	4514.1.1 = { change_development_level = 12 }
 
-	8166.1.1 = { # Count Örs Zivatar | 3A 3653 - 3A 3667
-		holder = zivatar1
-		liege = d_belvatz
+	8166.1.1 = { # Count Etxegor Otsagieta | 3A 3653 - 3A 3688
+		holder = otsagieta1
+		liege = d_ulvorna
 		government = feudal_government
 	}
 }
-c_melyto = {
+### Duchy of Ménhegy
+d_menhegy = {
+	4514.1.1 = { change_development_level = 6 }
+}
+c_nyulberek = {
+	4514.1.1 = { change_development_level = 10 }
+
+	8166.1.1 = { # Count Vérend Kurdány | 3A 3653 - 3A 3661
+		holder = kurdany1
+		government = tribal_government
+	}
+}
+c_agyaghat = {
+	4514.1.1 = { change_development_level = 11 }
+
+	8166.1.1 = { # Count Kardos Ézgeret | 3A 3653 - 3A 3668
+		holder = ezgeret1
+		government = tribal_government
+	}
+}
+c_somhaza = {
+	4514.1.1 = { change_development_level = 13 }
+
+	8166.1.1 = { # Count Könyíl Csamány | 3A 3653 - 3A 3706
+		holder = csamany1
+		government = tribal_government
+	}
+}
+c_malszeg = {
 	4514.1.1 = { change_development_level = 9 }
 
-	8166.1.1 = { # Count Kardán Turul | 3A 3653 - 3A 3696
-		holder = turul1
-		liege = d_morannos
+	8166.1.1 = { # Count Vérend Kurdány | 3A 3653 - 3A 3661
+		holder = kurdany1
+		government = tribal_government
+	}
+}
+### Duchy of Bányavár
+d_banyavar = {
+	4514.1.1 = { change_development_level = 6 }
+
+	8166.1.1 = { # Duke Tas I Bátor | 3A 3653 - 3A 3671
+		holder = bator1
+		liege = k_nagyvolen
 		government = feudal_government
 	}
 }
-c_daruvar = {
-	4514.1.1 = { change_development_level = 10 }
+c_erpatak = {
+	4514.1.1 = { change_development_level = 6 }
 
-	8166.1.1 = { # Count Kardán Turul | 3A 3653 - 3A 3696
-		holder = turul1
-		liege = d_morannos
+	8166.1.1 = { # Duke Tas I Bátor | 3A 3653 - 3A 3671
+		holder = bator1
+		liege = k_nagyvolen
+		government = feudal_government
+	}
+}
+c_onszeg = {
+	4514.1.1 = { change_development_level = 7 }
+
+	8166.1.1 = { # Count Véres Mocsár | 3A 3653 - 3A 3659
+		holder = mocsar1
+		liege = d_banyavar
+		government = tribal_government
+	}
+}
+c_szurdokszeg = {
+	4514.1.1 = { change_development_level = 9 }
+
+	8166.1.1 = { # Duke Tas I Bátor | 3A 3653 - 3A 3671
+		holder = bator1
+		liege = k_nagyvolen
 		government = feudal_government
 	}
 }

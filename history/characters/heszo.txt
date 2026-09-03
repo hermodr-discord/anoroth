@@ -1,4 +1,49 @@
-﻿## Clan Öz
+﻿## Clan Áltolász
+altolasz1 = {
+	name = TU_zA_n
+	dynasty = altolasz
+	religion = faith_oszeseg
+	culture = heszo
+
+	8122.1.1 = { # 3A 3609
+		birth = yes
+	}
+	8196.1.1 = { # 3A 3683
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Gyérmes
+gyermes1 = {
+	name = NapU_r
+	dynasty = gyermes
+	religion = faith_oszeseg
+	culture = heszo
+
+	8108.1.1 = { # 3A 3595
+		birth = yes
+	}
+	8181.1.1 = { # 3A 3668
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Kusgyönd
+kusgyond1 = {
+	name = HadA_n
+	dynasty = kusgyond
+	religion = faith_oszeseg
+	culture = heszo
+
+	8141.1.1 = { # 3A 3628
+		birth = yes
+	}
+	8217.1.1 = { # 3A 3704
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Öz
 oz1 = {
 	name = GyO_zU_r
 	dynasty = oz
@@ -9,6 +54,21 @@ oz1 = {
 		birth = yes
 	}
 	8213.1.1 = { # 3A 3700
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+## Clan Tarvány
+tarvany1 = {
+	name = GE_za
+	dynasty = tarvany
+	religion = faith_oszeseg
+	culture = heszo
+
+	8128.1.1 = { # 3A 3615
+		birth = yes
+	}
+	8202.1.1 = { # 3A 3689
 		death = { death_reason = death_natural_causes }
 	}
 }

@@ -5572,190 +5572,190 @@ e_eburomarc = { # Eburomarc / Agalreman
                     province = 979
                     color = { 35 131 137 }
                 }
-                b_vorean = { # Vorean
+                b_soshan = { # Soshan
                     province = 980
                     color = { 35 144 152 }
                 }
-                b_kartes = { # Kartes
+                b_qartesh = { # Qartesh
                     province = 986
                     color = { 41 171 180 }
                 }
             }
-            c_aila = { # Aila
+            c_alezya = { # Alezya
                 color = { 23 167 176 }
 
-                b_aila = { # Aila
+                b_alezya = { # Aila
                     province = 976
                     color = { 23 167 176 }
                 }
-                b_zeva = { # Zeva
+                b_zayra = { # Zayra
                     province = 978
                     color = { 33 139 147 }
                 }
-                b_isathen = { # Isathen
+                b_iskahan = { # Iskahan
                     province = 988
                     color = { 42 150 157 }
                 }
             }
-            c_tiaran = { # Tiaran
+            c_tiyana = { # Tiyana
                 color = { 32 164 173 }
 
-                b_tiaran = { # Tiaran
+                b_tiyana = { # Tiyana
                     province = 977
                     color = { 32 164 173 }
                 }
-                b_ganeal = { # Ganeal
+                b_tabas = { # Tabas
                     province = 975
                     color = { 12 147 156 }
                 }
             }
         }
-        d_ganathen = { # Ganathen
+        d_qanathar = { # Qanathar
             color = { 50 129 119 }
-            capital = c_rineala
+            capital = c_kathra
 
-            c_rineala = { # Rineala
+            c_kathra = { # Kathra
                 color = { 50 129 119 }
 
-                b_rineala = { # Rineala
+                b_kathra = { # Kathra
                     province = 997
                     color = { 50 129 119 }
                 }
-                b_osafira = { # Osafira
+                b_usfara = { # Usfara
                     province = 985
                     color = { 41 137 125 }
                 }
-                b_aisenta = { # Aisenta
+                b_aysanta = { # Aysanta
                     province = 989
                     color = { 44 131 137 }
                 }
-                b_ceolavi = { # Ceolavi
+                b_qalavi = { # Qalavi
                     province = 994
                     color = { 46 142 130 }
                 }
             }
-            c_isar = { # Isar
+            c_isqa = { # Isqa
                 color = { 51 154 141 }
 
-                b_isar = { # Isar
+                b_isqa = { # Isqa
                     province = 1002
                     color = { 51 154 141 }
                 }
-                b_lyana = { # Lyana
+                b_liyana = { # Liyana
                     province = 993
                     color = { 45 148 155 }
                 }
-                b_isanea = { # Isanea
+                b_ashkar = { # Ashkar
                     province = 998
                     color = { 50 137 126 }
                 }
             }
-            c_rian = { # Rian
+            c_riyat = { # Riyat
                 color = { 39 156 164 }
 
-                b_rian = { # Rian
+                b_riyat = { # Riyat
                     province = 984
                     color = { 39 156 164 }
                 }
-                b_vona = { # Vona
+                b_vira = { # Vira
                     province = 987
                     color = { 42 128 134 }
                 }
-                b_arutel = { # Arutel
+                b_telvah = { # Telvah
                     province = 992
                     color = { 44 142 149 }
                 }
             }
-            c_venatha = { # Venatha
+            c_janiz = { # Janiz
                 color = { 39 118 123 }
 
-                b_venatha = { # Venatha
+                b_janiz = { # Janiz
                     province = 983
                     color = { 39 118 123 }
                 }
-                b_alen = { # Alen
+                b_anah = { # Anah
                     province = 1000
                     color = { 50 151 158 }
                 }
             }
         }
-        d_osan = { # Osan
+        d_uzraya = { # Uzraya
             color = { 51 146 137 }
-            capital = c_keala
+            capital = c_qayala
 
-            c_keala = { # Keala
+            c_qayala = { # Qayala
                 color = { 51 146 137 }
 
-                b_keala = { # Keala
+                b_qayala = { # Qayala
                     province = 1001
                     color = { 51 146 137 }
                 }
-                b_lianta = { # Lianta
+                b_liyaran = { # Liyaran
                     province = 1003
                     color = { 51 159 134 }
                 }
-                b_isara = { # Isara
+                b_yasara = { # Yasara
                     province = 1009
                     color = { 62 152 136 }
                 }
             }
-            c_ilona = { # Ilona
+            c_harsi = { # Harsi
                 color = { 53 166 140 }
 
-                b_ilona = { # Ilona
+                b_harsi = { # Harsi
                     province = 1005
                     color = { 53 166 140 }
                 }
-                b_taren = { # Taren
+                b_tayran = { # Tayran
                     province = 999
                     color = { 50 150 137 }
                 }
             }
         }
-        d_venara = { # Venara
+        d_vezhara = { # Vezhara
             color = { 56 165 139 }
-            capital = c_isotera
+            capital = c_bayad
 
-            c_isotera = { # Isotera
+            c_bayad = { # Bayad
                 color = { 56 165 139 }
 
-                b_isotera = { # Isotera
+                b_bayad = { # Bayad
                     province = 1006
                     color = { 56 165 139 }
                 }
-                b_tesava = { # Tesava
+                b_tazva = { # Tazva
                     province = 990
                     color = { 44 133 125 }
                 }
-                b_essai = { # Essai
+                b_isaiya = { # Isaiya
                     province = 996
                     color = { 48 168 157 }
                 }
             }
-            c_arvei = { # Arvei
+            c_layanta = { # Layanta
                 color = { 53 166 136 }
 
-                b_arvei = { # Arvei
+                b_layanta = { # Layanta
                     province = 1004
                     color = { 53 166 136 }
                 }
-                b_vosel = { # Vosel
+                b_tharah = { # Tharah
                     province = 1008
                     color = { 61 155 146 }
                 }
             }
-            c_rina = { # Rina
+            c_rinaz = { # Rinaz
                 color = { 44 139 130 }
 
-                b_rina = { # Rina
+                b_rinaz = { # Rinaz
                     province = 991
                     color = { 44 139 130 }
                 }
-                b_lyera = { # Lyera
+                b_hadi = { # Hadi
                     province = 982
                     color = { 37 151 103 }
                 }
-                b_teana = { # Teana
+                b_akrad = { # Akrad
                     province = 1007
                     color = { 57 145 123 }
                 }

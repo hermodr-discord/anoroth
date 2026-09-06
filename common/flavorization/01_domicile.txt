@@ -1,20 +1,16 @@
-﻿
-domicile_adventurer = {
+﻿domicile_adventurer = {
 	type = domicile
 	domicile_type = camp
-	priority = 26
+	priority = 40
 	governments = { landless_adventurer_government }
-
 	flavourization_rules = {
 		top_liege = no
 	}
 }
-
 domicile_estate = {
 	type = domicile
 	domicile_type = estate
-	priority = 26
-	
+	priority = 40
 	flavourization_rules = {
 		top_liege = no
 	}

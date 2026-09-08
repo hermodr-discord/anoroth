@@ -2066,6 +2066,11 @@
  b_rinaz:0 "Rinaz"
  b_hadi:0 "Hadi"
  b_akrad:0 "Akrad"
+
+ k_harumar_argam:0 "Harumar Argam"
+ k_harumar_argam_adj:0 "Argaman"
+ k_harumar_qarat:0 "Harumar Qarat"
+ k_harumar_qarat_adj:0 "Qaratan"
  
  k_eclipsed_realm_article:0 "the "
  k_eclipsed_realm:0 "Eclipsed Realm"

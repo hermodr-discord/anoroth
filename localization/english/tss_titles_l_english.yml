@@ -2006,66 +2006,66 @@
  b_lysan_castle:0 "Lysan Castle"
  b_lysan:0 "Lysan"
  b_aran:0 "Aran"
- b_vorean:0 "Vorean"
- b_kartes:0 "Kartes"
- #### County of Aila
- c_aila:0 "Aila"
- b_aila:0 "Aila"
- b_zeva:0 "Zeva"
- b_isathen:0 "Isathen"
- #### County of Tiaran
- c_tiaran:0 "Tiaran"
- b_tiaran:0 "Tiaran"
- b_ganeal:0 "Ganeal"
- ### Duchy of Ganathen
- #### County of Rineala
- d_ganathen:0 "Ganathen"
- c_rineala:0 "Rineala"
- b_rineala:0 "Rineala"
- b_osafira:0 "Osafira"
- b_aisenta:0 "Aisenta"
- b_ceolavi:0 "Ceolavi"
- #### County of Isar
- c_isar:0 "Isar"
- b_isar:0 "Isar"
- b_lyana:0 "Lyana"
- b_isanea:0 "Isanea"
- #### County of Rian
- c_rian:0 "Rian"
- b_rian:0 "Rian"
- b_vona:0 "Vona"
- b_arutel:0 "Arutel"
- #### County of Venatha
- c_venatha:0 "Venatha"
- b_venatha:0 "Venatha"
- b_alen:0 "Alen"
- ### Duchy of Osan
- #### County of Keala
- d_osan:0 "Osan"
- c_keala:0 "Keala"
- b_keala:0 "Keala"
- b_lianta:0 "Lianta"
- b_isara:0 "Isara"
- #### County of Ilona
- c_ilona:0 "Ilona"
- b_ilona:0 "Ilona"
- b_taren:0 "Taren"
- ### Duchy of Venara
- #### County of Isotera
- d_venara:0 "Venara"
- c_isotera:0 "Isotera"
- b_isotera:0 "Isotera"
- b_tesava:0 "Tesava"
- b_essai:0 "Essai"
- #### County of Arvei
- c_arvei:0 "Arvei"
- b_arvei:0 "Arvei"
- b_vosel:0 "Vosel"
- #### County of Rina
- c_rina:0 "Rina"
- b_rina:0 "Rina"
- b_lyera:0 "Lyera"
- b_teana:0 "Teana"
+ b_soshan:0 "Soshan"
+ b_qartesh:0 "Qartesh"
+ #### County of Alezya - Aila
+ c_alezya:0 "Alezya"
+ b_alezya:0 "Alezya"
+ b_zayra:0 "Zayra"
+ b_iskahan:0 "Iskahan"
+ #### County of Tiyana - Tiaran
+ c_tiyana:0 "Tiyana"
+ b_tiyana:0 "Tiyana"
+ b_tabas:0 "Tabas"
+ ### Duchy of Qanathar - Ganathen
+ #### County of Kathra - Rineala
+ d_qanathar:0 "Qanathar"
+ c_kathra:0 "Kathra"
+ b_kathra:0 "Kathra"
+ b_usfara:0 "Usfara"
+ b_aysanta:0 "Aysanta"
+ b_qalavi:0 "Qalavi"
+ #### County of Isqa - Isar
+ c_isqa:0 "Isqa"
+ b_isqa:0 "Isqa"
+ b_liyana:0 "Liyana"
+ b_ashkar:0 "Ashkar"
+ #### County of Riyat - Rian
+ c_riyat:0 "Riyat"
+ b_riyat:0 "Riyat"
+ b_vira:0 "Vira"
+ b_telvah:0 "Telvah"
+ #### County of Janiz - Venatha
+ c_janiz:0 "Janiz"
+ b_janiz:0 "Janiz"
+ b_anah:0 "Anah"
+ ### Duchy of Uzraya - Osan
+ #### County of Qayala - Keala
+ d_uzraya:0 "Uzraya"
+ c_qayala:0 "Qayala"
+ b_qayala:0 "Qayala"
+ b_liyaran:0 "Liyaran"
+ b_yasara:0 "Yasara"
+ #### County of Harsi - Ilona
+ c_harsi:0 "Harsi"
+ b_harsi:0 "Harsi"
+ b_tayran:0 "Tayran"
+ ### Duchy of Vezhara - Venara
+ #### County of Bayad - Isotera 
+ d_vezhara:0 "Vezhara"
+ c_bayad:0 "Bayad"
+ b_bayad:0 "Bayad"
+ b_tazva:0 "Tazva"
+ b_isaiya:0 "Isaiya"
+ #### County of Layanta - Arvei
+ c_layanta:0 "Layanta"
+ b_layanta:0 "Layanta"
+ b_tharah:0 "Tharah"
+ #### County of Rinaz - Rina
+ c_rinaz:0 "Rinaz"
+ b_rinaz:0 "Rinaz"
+ b_hadi:0 "Hadi"
+ b_akrad:0 "Akrad"
 
  k_harumar_argam:0 "Harumar Argam"
  k_harumar_argam_adj:0 "Argaman"

@@ -47,8 +47,8 @@ d_lysendra = {
 
 c_lysan = {
 
-	8064.5.22 = { change_development_level = 6 }
-	8166.1.1 = { change_development_level = 12 }
+	#8064.5.22 = { change_development_level = 6 }
+	4514.1.1 = { change_development_level = 16 }
 
 	8064.5.22 = {
 		holder = lysan1
@@ -70,8 +70,9 @@ c_lysan = {
 	}
 }
 
-c_aila = {
+c_alezya = {
 
+	4514.1.1 = { change_development_level = 10 }
 	8143.6.2 = {
 		holder = lovan1
 	}
@@ -80,9 +81,11 @@ c_aila = {
 	}
 }
 
-c_tiaran = {
+c_tiyana = {
+
+	4514.1.1 = { change_development_level = 8 }
 	8166.1.1 = {
-		holder = luveran_vassal_10
+		holder = shaddan1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -90,11 +93,12 @@ c_tiaran = {
 	}
 }
 
-d_osan = { }
+d_uzraya = { }
 
-c_keala = {
+c_qayala = {
+	4514.1.1 = { change_development_level = 9 }
 	8166.1.1 = {
-		holder = luveran_vassal_1
+		holder = damiran1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -102,9 +106,10 @@ c_keala = {
 	}
 }
 
-c_ilona = {
+c_harsi = {
+	4514.1.1 = { change_development_level = 10 }
 	8166.1.1 = {
-		holder = luveran_vassal_2
+		holder = damiran2
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -112,11 +117,12 @@ c_ilona = {
 	}
 }
 
-d_venara = { }
+d_vezhara = { }
 
-c_isotera = {
+c_bayad = {
+	4514.1.1 = { change_development_level = 7 }
 	8166.1.1 = {
-		holder = luveran_vassal_3
+		holder = maziran1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -124,9 +130,11 @@ c_isotera = {
 	}
 }
 
-c_arvei = {
+c_layanta = {
+
+	4514.1.1 = { change_development_level = 9 }
 	8166.1.1 = {
-		holder = luveran_vassal_4
+		holder = kaveh2
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -134,9 +142,10 @@ c_arvei = {
 	}
 }
 
-c_rina = {
+c_rinaz = {
+	4514.1.1 = { change_development_level = 10 }
 	8166.1.1 = {
-		holder = luveran_vassal_5
+		holder = eshavar1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -144,11 +153,12 @@ c_rina = {
 	}
 }
 
-d_ganathen = { }
+d_qanathar = { }
 
-c_rineala = {
+c_kathra = {
+	4514.1.1 = { change_development_level = 12 }
 	8166.1.1 = {
-		holder = luveran_vassal_6
+		holder = ithar1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -156,9 +166,10 @@ c_rineala = {
 	}
 }
 
-c_isar = {
+c_isqa = {
+	4514.1.1 = { change_development_level = 6 }
 	8166.1.1 = {
-		holder = luveran_vassal_7
+		holder = harad1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -166,9 +177,10 @@ c_isar = {
 	}
 }
 
-c_rian = {
+c_riyat = {
+	4514.1.1 = { change_development_level = 5 }
 	8166.1.1 = {
-		holder = luveran_vassal_8
+		holder = nereth1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate
@@ -176,9 +188,10 @@ c_rian = {
 	}
 }
 
-c_venatha = {
+c_janiz = {
+	4514.1.1 = { change_development_level = 8 }
 	8166.1.1 = {
-		holder = luveran_vassal_9
+		holder = naderan1
 		tributary_of = {
 			suzerain = k_luveran
 			contract_group = tributary_luveran_confederate

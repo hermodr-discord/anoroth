@@ -21,7 +21,7 @@ tributary_luveran_confederate = {
 #	}
 
 	tributary_can_break_free = {
-		if = {
+		if = { # Throws errors until the flag is actually used/made I think, I'll fix it when we get there - Ramos
 			limit = { tss_luveran_confederation_collapse = yes }
 			always = yes
 		}
@@ -31,7 +31,6 @@ tributary_luveran_confederate = {
 	contracts = {
 		default_tributary_taxes
 		default_tributary_levies
-		default_tributary_prestige
 		suzerain_war_participation_guarantee
 		tributary_war_participation_obligation
 	}

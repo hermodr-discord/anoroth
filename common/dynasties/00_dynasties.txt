@@ -432,7 +432,7 @@ damiran = { # Clan Damiran - Loyal and major clan, named after Damir - A man who
 	name = "dynn_Damiran"
 	culture = "luveran"
 }
-maziran = { # Clan Maziran, named after a town in the old homeland.
+maziran = { # Clan Maziran, named after a town in the old homeland. Minor clan in the east.
 	name = "dynn_Maziran"
 	culture = "luveran"
 }
@@ -440,7 +440,7 @@ kaveh = { # Clan Kaveh = Major clan in the east, former ruling clan
 	name = "dynn_Kaveh"
 	culture = "luveran"
 }
-eshavar = { # Clan Eshavar - Minor clan in the west.
+eshavar = { # Clan Eshavar - Religious leaders in the east.
 	name = "dynn_Eshavar"
 	culture = "luveran"
 }
@@ -448,16 +448,16 @@ harad = { # Clan Harad - Minor clan in the west.
 	name = "dynn_Harad"
 	culture = "luveran"
 }
-velam = { # Clan Velam - Minor clan in the west
-	name = "dynn_Velam"
+naderan = { # Clan Naderan - Minor clan in the west
+	name = "dynn_Naderan"
 	culture = "luveran"
 }
-nereth = { # Clan Nereth - Minor clan in the east.
+nereth = { # Clan Nereth - Minor clan in the west.
 	name = "dynn_Nereth"
 	culture = "luveran"
 }
-ravid = { # Clan Ravid - Minor clan in the east.
-	name = "dynn_Ravid"
+ithar = { # Clan Ithar - Major clan in the west.
+	name = "dynn_Ithar"
 	culture = "luveran"
 }
 nusa = { # Clan Nusa - Clan of the Javad the Tyrant. Destroyed.

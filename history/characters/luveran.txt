@@ -1,4 +1,4 @@
-﻿# Clan Lovan (Rulers of the Luveran Confederation (3A 3631 - Regnant))
+﻿# Clan Lovan (Rulers of the Luveran Confederation (3A 3631 - Regnant)
 lovan1 = { # Ganas Lovan
 	name = Ganas
 	dynasty = lovan
@@ -29,7 +29,7 @@ lovan1 = { # Ganas Lovan
 		birth = yes
 	}
 	8174.9.20 = { # 3A 3661
-		death = { death_reason = death_natural_causes }
+		death = { death_reason = death_depressed }
 	}
 }
 lovan2 = { # Kasan Lovan
@@ -61,7 +61,7 @@ lovan2 = { # Kasan Lovan
 	8135.10.4 = { # 3A 3622
 		birth = yes
 	}
-	8163.8.18 = { # 3A 3650, Battle of PLACENAMEHERE
+	8163.8.18 = { # 3A 3650, Battle of Swainmarc
 		death = { death_reason = death_battle }
 	}
 }
@@ -73,10 +73,13 @@ lovan3 = { # Javad Lovan
 
 	father = lovan1
 
+	trait = brave
+	trait = vengeful
+
 	8141.10.4 = { # 3A 3628
 		birth = yes
 	}
-	8163.8.18 = { # 3A 3650, Battle of PLACENAMEHERE
+	8163.8.18 = { # 3A 3650, Battle of Swainmarc
 		death = { death_reason = death_battle }
 	}
 }
@@ -90,6 +93,12 @@ lovan4 = { # Isa Lovan
 
 	father = lovan1
 
+	trait = compassionate
+	trait = just
+	trait = shy
+	trait = pensive
+	trait = shrewd
+
 	8152.10.4 = { # 3A 3639
 		birth = yes
 	}
@@ -98,7 +107,7 @@ lovan4 = { # Isa Lovan
 	}
 }
 
-# Clan Lysan (Rulers of the Luveran Confederation (3A 3551 - 3A 3595)
+# Clan Lysan (Rulers of the Luveran Confederation (3A 3551 - 3A 3595) - Clan of Lys the Navigator, notable in politics but not ruling anymore.
 lysan1 = { # Lys the Navigator
 	name = Lys
 	dynasty = lysan
@@ -131,7 +140,7 @@ lysan1 = { # Lys the Navigator
 	8021.7.25 = { # 3A 3519
 		birth = yes
 	}
-	8064.5.22 = { # 3A 3551, Creation of the Luveran Confederation -- It was 8052.6.23?
+	8064.5.22 = { # 3A 3551, Creation of the Luveran Confederation -- It was 8052.6.23? I wonder what I was trying to do.
 		give_nickname = nick_the_navigator
 	}
 	8096.3.12 = { # 3A 3587
@@ -162,7 +171,7 @@ lysan2 = { # Isin Lysan
 	}
 }
 
-# Clan Kaveh
+# Clan Kaveh - Notable clan in the east, hasnt done much since Nurad
 kaveh1 = { # Nurad Kaveh
 	name = Nurad
 	dynasty = kaveh
@@ -183,15 +192,15 @@ kaveh2 = { #Nasar Kaveh
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8129.12.3 = { # 3A 3616
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8201.5.25 = { # 3A 3688
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-# Clan Nusa
+# Clan Nusa - disgraced and destroyed clan of Javad the Tyrant
 nusa1 = { # Javad Nusa
 	name = Javad
 	dynasty = nusa
@@ -225,61 +234,68 @@ nusa1 = { # Javad Nusa
 }
 
 # Clan Damiran - Second most powerful clan in the Archipelago
-damiran1 = { #Rostan Damiran, ruler of the western islands
+damiran1 = { #Rostan Damiran - Ruler of the western islands
 	name = Rostan
 	dynasty = damiran
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	father = damiran3
+
+	8128.6.22 = { # 3A 3615
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8199.9.9 = { # 3A 3686
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-damiran2 = { #Sarran Damiran, ruler of the eastern island
+damiran2 = { #Sarran Damiran - Ruler of the eastern island
 	name = Sarran
 	dynasty = damiran
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	father = damiran3
+
+	8138.4.17 = { # 3A 3625
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8207.7.12 = { # 3A 3694
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-damiran3 = { #Javad Damiran, father to Rostan and Sarran
+damiran3 = { #Javad Damiran - Father to Rostan, Alissa, and Sarran
 	name = Javad
 	dynasty = damiran
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8093.1.1 = { # 3A 3580
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8161.1.1 = { # 3A 3648
 		death = { death_reason = death_natural_causes }
 	}
 }
 
-#damiran4 = {
-#	name = Alissa
-#	dynasty = damiran
-#	religion = faith_isanara
-#	culture = luveran
-#
-#	8111.1.1 = { # 3A 3598
-#		birth = yes
-#	}
-#	8181.1.1 = { # 3A 3668
-#		death = { death_reason = death_natural_causes }
-#	}
-#}
+damiran4 = { #Alissa Damiran
+	name = Alissa
+	dynasty = damiran
+	religion = faith_isanara
+	culture = luveran
+	female = yes
+
+	father = damiran3
+
+	8133.9.5 = { # 3A 3620
+		birth = yes
+	}
+	8211.1.30 = { # 3A 3698
+		death = { death_reason = death_natural_causes }
+	}
+}
 
 # Clan Maziran
 maziran1 = { #Abba Maziran
@@ -288,10 +304,59 @@ maziran1 = { #Abba Maziran
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8103.2.8 = { # 3A 3590
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8184.10.19 = { # 3A 3671
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+maziran2 = { #Isin Maziran
+	name = Isin
+	dynasty = maziran
+	religion = faith_isanara
+	culture = luveran
+
+	father = maziran1
+
+	8125.7.30 = { # 3A 3612
+		birth = yes
+	}
+	8198.3.14 = { # 3A 3685
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+maziran3 = { #Nader Maziran
+	name = Isin
+	dynasty = maziran
+	religion = faith_isanara
+	culture = luveran
+
+	father = maziran1
+
+	8151.5.6 = { # 3A 3628
+		birth = yes
+	}
+	8225.12.1 = { # 3A 3712
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+maziran4 = { #Ishtara Maziran
+	name = Ishtara
+	dynasty = maziran
+	religion = faith_isanara
+	culture = luveran
+	female = yes
+
+	father = maziran1
+
+	8158.9.21 = { # 3A 3645
+		birth = yes
+	}
+	8234.4.3 = { # 3A 3721
 		death = { death_reason = death_natural_causes }
 	}
 }
@@ -303,10 +368,26 @@ eshavar1 = { #Kasan Eshavar
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8117.1.27 = { # 3A 3604
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8188.8.15 = { # 3A 3675
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+eshavar2 = { #Ezriel Eshavar
+	name = Ezriel
+	dynasty = eshavar
+	religion = faith_isanara
+	culture = luveran
+
+	father = eshavar1
+
+	8143.11.11 = { # 3A 3630
+		birth = yes
+	}
+	8218.6.28 = { # 3A 3705
 		death = { death_reason = death_natural_causes }
 	}
 }
@@ -318,10 +399,10 @@ ithar1 = { #Dimi Ithar
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8131.4.9 = { # 3A 3618
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8203.10.2 = { # 3A 3690
 		death = { death_reason = death_natural_causes }
 	}
 }
@@ -333,10 +414,10 @@ harad1 = { #Isin Harad
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8144.3.18 = { # 3A 3631
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8218.7.26 = { # 3A 3705
 		death = { death_reason = death_natural_causes }
 	}
 }
@@ -348,10 +429,27 @@ nereth1 = {
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8119.8.4 = { # 3A 3606
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8189.2.11 = { # 3A 3676
+		death = { death_reason = death_natural_causes }
+	}
+}
+
+nereth2 = { #
+	name = Layla
+	dynasty = nereth
+	religion = faith_isanara
+	culture = luveran
+	female = yes
+
+	father = nereth1
+
+	8143.12.30 = { # 3A 3630
+		birth = yes
+	}
+	8220.5.17 = { # 3A 3707
 		death = { death_reason = death_natural_causes }
 	}
 }
@@ -363,10 +461,10 @@ naderan1 = {
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8145.5.25 = { # 3A 3632
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8218.9.8 = { # 3A 3705
 		death = { death_reason = death_natural_causes }
 	}
 }
@@ -378,10 +476,10 @@ shaddan1 = {
 	religion = faith_isanara
 	culture = luveran
 
-	8111.1.1 = { # 3A 3598
+	8128.10.13 = { # 3A 3615
 		birth = yes
 	}
-	8181.1.1 = { # 3A 3668
+	8199.1.4 = { # 3A 3686
 		death = { death_reason = death_natural_causes }
 	}
 }

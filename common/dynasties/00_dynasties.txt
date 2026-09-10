@@ -525,6 +525,39 @@ yugmal = {
 }
 
 # Shidonem Dynasties
+## Argaman Dynasties
+anaqil = {
+	name = "dynn_Anaqil"
+	culture = "qaratan"
+}
+baqib = {
+	name = "dynn_Baqib"
+	culture = "qaratan"
+}
+hemmaqim = {
+	name = "dynn_Hemmaqim"
+	culture = "qaratan"
+}
+kedruqqan = {
+	name = "dynn_Kedruqqan"
+	culture = "qaratan"
+}
+midranim = {
+	name = "dynn_Midranim"
+	culture = "qaratan"
+}
+nagaturan = {
+	name = "dynn_Nagaturan"
+	culture = "qaratan"
+}
+rabqanash = {
+	name = "dynn_Rabqanash"
+	culture = "qaratan"
+}
+umqaruz = {
+	name = "dynn_Umqaruz"
+	culture = "qaratan"
+}
 ## Qaratan Dynasties
 azzunim = {
 	name = "dynn_Azzunim"

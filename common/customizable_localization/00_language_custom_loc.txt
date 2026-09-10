@@ -1,0 +1,43 @@
+﻿#Key to pick out liturgical language of the faith of a province or character - if one exists
+#Uses "Archaic-[spoken language]" as fallback
+
+GetFaithSacredLanguage = {
+	type = all
+	
+	text = {
+		trigger = {
+			OR = {
+				religion = religion:anoric_religion
+			}
+		}
+		localization_key = language_anorothic_name # Anórothic
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		fallback = yes
+		localization_key = fallback_liturgical_province_language #Archaic-X - based on culture instead of Faith.
+	}
+}
+
+
+GetFaithSacredLanguageCharacter = {
+	type = character
+	
+	text = {
+		trigger = {
+			OR = {
+				religion = religion:anoric_religion
+			}
+		}
+		localization_key = language_anorothic_name # Anórothic
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		fallback = yes
+		localization_key = fallback_liturgical_character_language #Archaic-X - based on culture instead of Faith.
+	}
+}

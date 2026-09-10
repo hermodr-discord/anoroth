@@ -1,0 +1,10 @@
+﻿l_english:
+ # Relatives of Title Holders
+ ## Mother of Title Holder
+ queen_mother:0 "Queen Mother"
+ empress_mother:0 "Empress Mother"
+ ## Children of Title Holder
+ prince:0 "Prince"
+ princess:0 "Princess"
+ prince_empire:0 "Prince"
+ princess_empire:0 "Princess"

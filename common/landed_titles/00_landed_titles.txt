@@ -4678,7 +4678,7 @@ e_verodyska = { # Verodyska / Ophyreion
         }
         d_avanal = { # Avanal
             color = { 23 135 131 }
-            capital = c_county_239
+            capital = c_tiron
 
             c_tiron = { # Tiron
                 color = { 23 135 131 }
@@ -5551,7 +5551,7 @@ e_eburomarc = { # Eburomarc / Agalreman
 	k_luveran = { # Luveran
         color = { 47 177 186 }
         capital = c_lysan
-	definite_form = yes
+	    definite_form = yes
 
         d_lysendra = { # Lysendra
             color = { 47 177 186 }

@@ -452,7 +452,6 @@
  dynn_Qanashay:0 "Qanashay"
  dynn_Qanashim:0 "Qanashim"
  dynn_Rabharum:0 "Rabharum"
- dynn_Rabqanash:0 "Rabqanash"
  dynn_Rabtarzun:0 "Rabtarzun"
  dynn_Rabumqar:0 "Rabumqar"
  dynn_Ruqqanesh:0 "Ruqqanesh"
@@ -463,6 +462,15 @@
  dynn_Tirquna:0 "Tirquna"
  dynn_Umqaray:0 "Umqaray"
  dynn_Uttaran:0 "Uttaran"
+ ### Argaman Dynasties
+ dynn_Anaqil:0 "Anaqīl"
+ dynn_Baqib:0 "Baqib"
+ dynn_Hemmaqim:0 "Hemmaqim"
+ dynn_Kedruqqan:0 "Kedruqqan"
+ dynn_Midranim:0 "Midranim"
+ dynn_Nagaturan:0 "Nagaturān"
+ dynn_Rabqanash:0 "Rabqanash"
+ dynn_Umqaruz:0 "Umqaruz"
  
  ## Tharun Dynasties
  ### Tharun Dynasties

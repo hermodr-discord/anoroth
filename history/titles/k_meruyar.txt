@@ -361,7 +361,7 @@ c_qal_bedad = {
 			}
 		}
 	}
-	8166.1.1 = { # Azzar Iqqarash Toqāranu Sarumqar | 3A 3653 - 3A 3702
+	8166.1.1 = { # Azzār Iqqarash Toqāranu Sarumqar | 3A 3653 - 3A 3702
 		holder = sarumqar1
 	}
 }
@@ -499,7 +499,7 @@ k_harumar_qarat = {
 			}
 		}
 	}
-	8165.1.1 = { # Azzar Iqqarash Toqāranu Sarumqar | 3A 3652 - 3A 3702
+	8165.1.1 = { # Azzār Iqqarash Toqāranu Sarumqar | 3A 3652 - 3A 3702
 		holder = sarumqar1
 	}
 }

@@ -1,0 +1,344 @@
+﻿### Duchy of Shidal
+d_shidal = {
+	4514.1.1 = { change_development_level = 12 }
+}
+c_qal_saraal = {
+	4514.1.1 = { change_development_level = 18 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8165.1.1 = { # Azzār Qannesh Baqib | 3A 3652 - 3A 3688
+		holder = baqib1
+	}
+}
+c_shamaat = {
+	4514.1.1 = { change_development_level = 16 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8165.1.1 = { # Azzār Qannesh Baqib | 3A 3652 - 3A 3688
+		holder = baqib1
+	}
+}
+c_hadram = {
+	4514.1.1 = { change_development_level = 15 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Anaqanu Midranim | 3A 3653 - 3A 3700
+		holder = midranim1
+		tributary_of = {
+			suzerain = k_harumar_argam
+			contract_group = tributary_settled
+		}
+	}
+}
+### Duchy of Qalamatayn
+d_qalamatayn = {
+	4514.1.1 = { change_development_level = 12 }
+}
+c_qal_shalan = {
+	4514.1.1 = { change_development_level = 19 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Ahiron Bartoqār Nagaturān | 3A 3653 - 3A 3662
+		holder = nagaturan1
+		tributary_of = {
+			suzerain = k_harumar_argam
+			contract_group = tributary_settled
+		}
+	}
+}
+c_hamesh = {
+	4514.1.1 = { change_development_level = 17 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Ebbashar Anaqīl | 3A 3653 - 3A 3669
+		holder = anaqil1
+		liege = k_harumar_argam
+	}
+}
+c_saluth = {
+	4514.1.1 = { change_development_level = 14 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Yaramtoqār Rabqanash | 3A 3653 - 3A 3657
+		holder = rabqanash1
+		tributary_of = {
+			suzerain = k_harumar_argam
+			contract_group = tributary_settled
+		}
+	}
+}
+c_shid_hadam = {
+	4514.1.1 = { change_development_level = 15 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Yaramtoqār Rabqanash | 3A 3653 - 3A 3657
+		holder = rabqanash1
+		tributary_of = {
+			suzerain = k_harumar_argam
+			contract_group = tributary_settled
+		}
+	}
+}
+### Duchy of Avanal
+d_avanal = {
+	4514.1.1 = { change_development_level = 12 }
+}
+c_tiron = {
+	4514.1.1 = { change_development_level = 16 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Anaqanu Midranim | 3A 3653 - 3A 3700
+		holder = midranim1
+		tributary_of = {
+			suzerain = k_harumar_argam
+			contract_group = tributary_settled
+		}
+	}
+}
+c_hanno = {
+	4514.1.1 = { change_development_level = 15 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Bostar Kedruqqan | 3A 3653 - 3A 3675
+		holder = kedruqqan1
+		liege = k_harumar_argam
+	}
+}
+c_orbal = {
+	4514.1.1 = { change_development_level = 13 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Girzanu Umqaruz | 3A 3653 - 3A 3686
+		holder = umqaruz1
+		tributary_of = {
+			suzerain = k_harumar_argam
+			contract_group = tributary_settled
+		}
+	}
+}
+c_qal_sebtad = {
+	4514.1.1 = { change_development_level = 16 }
+
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			appointment_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8166.1.1 = { # Zāqqin Umqarmetiran Hemmaqim | 3A 3653 - 3A 3699
+		holder = hemmaqim1
+		tributary_of = {
+			suzerain = k_harumar_argam
+			contract_group = tributary_settled
+		}
+	}
+}
+
+
+
+### Temporary Location
+k_harumar_argam = {
+	4514.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	8165.1.1 = { # Azzār Qannesh Baqib | 3A 3652 - 3A 3688
+		holder = baqib1
+	}
+}

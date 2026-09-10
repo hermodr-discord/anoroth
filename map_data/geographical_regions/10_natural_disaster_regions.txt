@@ -2,43 +2,63 @@
 
 global_flood_region = {
 	regions = {
-		### ANOROTH
-		river_1_region river_2_region river_3_region river_4_region river_5_region river_6_region river_7_region
+		### ANÓROTHIC SUBCONTINENT
+		dobrava_river_region dubronna_river_region paehelas_river_region urrezabal_river_region vogyd_river_region wyrdswalu_river_region zatysh_river_region
 	}
 }
-### ANOROTH
-river_1_region = { # Unnamed
+### ANÓROTHIC SUBCONTINENT
+dobrava_river_region = { # Dobrava River
 	counties = {
-		c_county_194 c_county_195 c_county_200 c_county_203 c_county_204 c_county_205 c_county_206 c_county_207
+		c_sobryn c_vradybehy c_voyansky c_vytevo c_lahensk c_zherkovo
 	}
 }
-river_2_region = { # Unnamed
+dubronna_river_region = { # Dubronna River
 	counties = {
-		c_county_165 c_county_166 c_county_169 c_county_172 c_county_174 c_county_175
+		c_arvamagos c_beornric c_hohden c_swainmarc c_ecgodunum c_catumagos
 	}
 }
-river_3_region = { # Unnamed
+paehelas_river_region = { # Paehelas River
 	counties = {
-		c_county_247 c_county_248 c_county_249 c_county_255 c_county_256 c_county_267
+		c_mesaia c_kelsareia c_anachi c_irul c_ipanon c_syranion c_viharhegy
 	}
 }
-river_4_region = { # Unnamed
+urrezabal_river_region = { # Urrezabal River
 	counties = {
-		c_kallioros c_county_246 c_county_257 c_county_259 c_county_280 c_county_281 c_county_282
+		c_larreia c_askarain c_arzabal c_morzain c_eskuren c_dorzuven c_veltrana
 	}
 }
-river_5_region = { # Unnamed
+vogyd_river_region = { # Vogyd River
 	counties = {
-		c_county_67 c_county_68 c_county_70 c_county_113 c_county_122 c_county_123 c_county_309
+		c_feherpart c_halomhat c_dorvos c_vadaszfok c_gyorhalom c_marszeg c_tuszeg c_solyomliget c_rozsdalak
 	}
 }
-river_6_region = { # Unnamed
+wyrdswalu_river_region = { # Wyrdswalu River
 	counties = {
-		c_county_149 c_county_150 c_county_151 c_county_152 c_county_159 c_county_160 c_county_161
+		c_kallioros c_aldercroft c_daromoor c_segomaros c_ashwolde c_thrimsceat c_dunmoral
 	}
 }
-river_7_region = { # Unnamed
+zatysh_river_region = { # Zatysh River
 	counties = {
-		c_county_296 c_county_298 c_county_299 c_county_300 c_county_301 c_county_302 c_county_303 c_county_304 c_county_305
+		c_zatyshyhrad c_rada c_karhod c_lynov c_don c_limov c_predonovy c_muromov
+	}
+}
+
+# Seismic Regions
+# Currently only for the Sundering of Anórcedia
+anorcedia_earthquake_region = {
+	duchies = {
+		d_anorcedia d_lameia d_korthanor d_lytheron
+	}
+	counties = {
+		# Artoneia
+		c_syphoreion c_thesalios c_valassos c_olyrea c_kasoria
+		# Ourávelas
+		c_argon c_selys c_aphanis
+		# Thanóvaren
+		c_thanovyra c_darion
+		# Ourátan
+		c_incanathar c_karandros c_myraphasyon c_arthaneis c_ancovarath c_cethaphasyon
+		# Zatysna
+		c_sredyn
 	}
 }
